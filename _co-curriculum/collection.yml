@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Clubs & Societies/Literary Society.md
       - Clubs & Societies/Cabin Club.md
       - Clubs & Societies/Design and Entrepreneurship Club.md
       - Clubs & Societies/Grow Inc.md
