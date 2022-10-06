@@ -8,3 +8,33 @@ third_nav_title: Clubs & Societies
 
 Design and Entrepreneurship Club
 ================================
+
+**Teacher-in-Charge:**
+
+Mrs Cindy Chan
+
+Educational Workshop Instructor:
+
+Mr Azman Suarti
+
+  
+
+**Leaders:**
+
+Chairman - Foo Xinyun Valerie
+
+Vice Chairman - Thu Ta Oo
+
+  
+
+**Training Session:**
+
+Wednesday 2:30 p.m. to 5 p.m.
+
+  
+
+Design & Entrepreneurship Club is committed to provide students with industry exposure and opportunities to apply design thinking. This encourages them to be innovative and creative in making designs come alive in meeting the needs of users. Our students will be able to develop relevant skills, hands-on experiences, exposure to the real world of business through experiential learning modules, blending learning workshops and competitions platforms. 
+
+  
+
+Students are introduced to role models, mentors and experts when attending innovation hackathons. Senior members are given opportunities to lead and mentor junior members to develop their leadership skills. Our students are natural designers equipped with entrepreneurial mindsets. In 2021, they participated in the Prudential Young Trailblazers competition and attained the ‘Best Innovation Award’.
