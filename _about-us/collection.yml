@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our School/School Song.md
       - Our School/.keep
       - Our Staff.md
       - School Management Committee.md
