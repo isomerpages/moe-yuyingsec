@@ -85,3 +85,24 @@ Visible thinking routines and protocols are weaved into the teaching of the unit
 **Harnessing Technology**
 
 The EL department uses ICT as a tool for teaching, taking into consideration the pedagogical affordance, social affordances and most importantly, the technological affordances. Hence, ICT is a vehicle which enhances teaching and learning to support the achievement of objectives. Through the understanding of affordances, teachers are able to skilfully select the relevant ICT tool to facilitate learning and develop digital literacy in our students at the same time.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-4r87{border-color:#ffffff;font-style:italic;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-4r87">“The educator’s part in the enterprise of education is to furnish the environment which stimulates responses and directs the learner’s course.”</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-4r87">~ John Dewey</td>
+  </tr>
+</tbody>
+</table>
