@@ -104,3 +104,55 @@ Rules & Regulations
 6.6.  Female students are allowed to wear only one pair (one on each side) of plain and simple ear studs in the ear lobes. Male students are not allowed to put on ear sticks or any ear accessories.
 
 6.7.  Students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item, which can be used or intended to be used to cause harm to others.
+
+#### **7\. HANDPHONES**
+
+7.1.  Handphones are to be kept out of sight during curriculum hours.
+
+7.2.  Students are allowed to use their handphones only:
+
+\- when teachers give instructions as part of teaching and learning
+
+\- after curriculum time
+
+
+#### **8\. CANTEEN ETIQUETTE**
+
+8.1.  Students are expected to queue up when buying food.
+
+8.2.  Students are expected to display good table manners and return used crockery and cutlery to the receptacles provided.
+
+8.3.  Students are to behave in an appropriate manner and display etiquette.
+
+
+#### **9\. CODE OF CONDUCT**
+
+9.1.  Students are expected to display the school values of Integrity, Respect, Resilience and Responsibility at all times.
+
+9.2.  Students are expected to show respect to all staff of Yuying Secondary School and members of the public.
+
+9.3.  Students are expected to show care for school and public property.
+
+9.4.  Students are expected to conduct themselves in an honourable manner that upholds integrity and dignity.
+
+
+#### **EXPECTATIONS**
+
+Students are expected to exercise integrity and take responsibility for their actions. We will take measures to counsel and educate students when they misbehave or offend. In conjunction with this approach, they will face consequences if they do not abide by the school rules. Consequences include detention, confiscation, caning, suspension, involvement of police / external agencies or any other necessary actions. Caning / Suspension may be administered to repeat offenders or offences that compromise the safety of self and / or others. The school reserves the right to take necessary actions in the best interest of the students, staff, school community and society.
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-2ba9{background-color:#FFF;color:#313942;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-2ba9">The Discipline Committee reserves the right to decide on and carry out follow-up actions it deems appropriate, for breach of the Code of Conduct. The Committee also reserves the right to review the Code of Conduct and make amendments where necessary.</td>
+  </tr>
+</thead>
+</table>
