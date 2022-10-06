@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - Partners/Parent Support Group.md
       - Partners/Alumni.md
       - Partners/.keep
