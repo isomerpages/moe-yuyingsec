@@ -40,3 +40,8 @@ The vision of the PSG is for parents to put their love and concern for their chi
 PSG aims to create opportunities for closer interaction between parents, principals and teachers and develop a greater understanding and commitment to the mission, vision and direction of the school.
 
 加强家长，校长以及教师之间有效的沟通桥梁。让家长进一步了解校方在教育方面的政策，使命与愿景。
+
+### PSG Organisation Chart
+----------------------
+
+![](/images/PSG1.jpeg)
