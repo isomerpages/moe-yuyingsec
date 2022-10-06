@@ -67,3 +67,5 @@ Enrichment
 *   Computer Aided Design for design communication.
 *   Design & Entrepreneurship Club - Innovation and Enterprise programmes, Mentoring with Entrepreneurs and Social Entrepreneurship Projects.
 *   Advanced Elective Modules (AEM) on Creative Product Design by Nanyang Polytechnic for Secondary 3 Express and Normal Academic students.
+
+![](/images/Craft.gif)
