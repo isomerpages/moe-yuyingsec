@@ -34,3 +34,6 @@ Rules & Regulations
   
 
 > 1.5.  Students must attend compulsory school functions and compulsory activities outside school hours unless with a valid reason.
+
+
+#### **2\. FLAG RAISING CEREMONY (FRC) / ASSEMBLY / RECESS ASSEMBLY**
