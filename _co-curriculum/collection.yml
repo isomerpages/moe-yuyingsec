@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Physical Sports/Basketball (Boys).md
       - Physical Sports/Sepak Takraw (Boys).md
       - Physical Sports/Volleyball (Girls).md
       - Physical Sports/Wushu (Mixed).md
