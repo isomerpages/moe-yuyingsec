@@ -69,3 +69,13 @@ Enrichment
 *   Advanced Elective Modules (AEM) on Creative Product Design by Nanyang Polytechnic for Secondary 3 Express and Normal Academic students.
 
 ![](/images/Craft.gif)
+
+### ART Unit
+--------
+
+Enrichment
+
+*   Learning journeys to Art museum/ events to expand their knowledge and creativity through perceiving, communicating and appreciating.
+*   Advanced Elective Modules (AEM) on Arts Appreciation/ 3D modelling and animation/ Ideas for Design by Temasek Polytechnic for Secondary 3 Express and Normal Academic students.
+*   Art Club – Art Immersion Projects.
+*   Art Club – Studio Enrichment Experience.
