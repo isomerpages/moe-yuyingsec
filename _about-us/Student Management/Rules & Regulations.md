@@ -49,3 +49,15 @@ Rules & Regulations
 4.1.1.  Students are to wear the prescribed school uniform and modification to the uniform is not allowed.
 
 4.1.2.  Students must wear the full school uniform during official school events or examinations when required. The uniform should always be clean and neat.
+
+4.2.  Students are allowed to wear the Alternative Attire, class t-shirts or CCA t-shirts only on Fridays that do not fall on the day of an examination or a school event.
+
+4.3.  Students must ensure that the name tag sewn on the shirt / blouse is positioned below the school badge.
+
+4.4.  Female students must maintain their skirt at knee length.
+
+4.5.  Students are to ensure that the hem of the pants / shorts / skirt is neatly sewn and not folded.
+
+4.6.  Students must ensure that their school shoes are white-based and white-laced or velcro.
+
+4.7.  White socks must be worn at all times and must be visible.
