@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Physical Sports/.keep
       - Uniformed Groups/Boys' Brigade.md
       - Uniformed Groups/Girls' Brigade.md
       - Uniformed Groups/St John Brigade Singapore.md
