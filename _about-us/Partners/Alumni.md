@@ -7,3 +7,4 @@ third_nav_title: Partners
 Alumni
 ======
 
+![](/images/Alumni.png)
