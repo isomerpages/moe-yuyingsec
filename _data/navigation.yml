@@ -2,6 +2,8 @@ logo: /images/Yuyinglogo.png
 links:
   - title: About Us
     collection: about-us
+  - title: Curriculum
+    collection: curriculum
   - title: Contact Us
     url: /contact-us/
   - title: Example Page
