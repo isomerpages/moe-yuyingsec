@@ -45,3 +45,8 @@ PSG aims to create opportunities for closer interaction between parents, princip
 ----------------------
 
 ![](/images/PSG1.jpeg)
+
+### Activities of the PSG
+---------------------
+
+Some of the PSG activities include quarterly meetings and dialogue sessions with the school leaders, parenting talks under the FamilyMatters @Yuying, annual gathering, outings and participation in school events.
