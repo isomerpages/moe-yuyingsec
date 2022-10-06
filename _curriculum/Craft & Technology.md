@@ -61,7 +61,7 @@ As such, the empathy-based curriculum is designed to engage the students with re
 ### Design & Technology
 -------------------
 
-Enrichment
+**Enrichment**
 
 *   Design Innovation workshop and learning journeys to deepen design education.
 *   Computer Aided Design for design communication.
@@ -73,9 +73,21 @@ Enrichment
 ### ART Unit
 --------
 
-Enrichment
+**Enrichment**
 
 *   Learning journeys to Art museum/ events to expand their knowledge and creativity through perceiving, communicating and appreciating.
 *   Advanced Elective Modules (AEM) on Arts Appreciation/ 3D modelling and animation/ Ideas for Design by Temasek Polytechnic for Secondary 3 Express and Normal Academic students.
 *   Art Club – Art Immersion Projects.
 *   Art Club – Studio Enrichment Experience.
+
+![](/images/Tech.gif)
+
+### Nutrition & Food Science
+------------------------
+
+**Enrichment**
+
+*   Experience growing of crops as ingredients in their own dishes for Secondary Two students.
+*   Gamification as learning experience for Lower Secondary students.
+*   Annual Sandwich Making competition to promote healthy living.
+*   Annual Ice-cream Making competition to promote creativity.
