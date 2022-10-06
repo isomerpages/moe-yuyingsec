@@ -98,3 +98,9 @@ Learning Journeys are integral to the holistic development of students. We belie
 Integrated Learning Journeys are planned to provide experiential learning that deepens the students’ understanding. Some of the learning journeys we have brought students for includes local learning journeys to the Hindhede Nature Park where Geography students carry out fieldwork activities, Former Ford Factory where our History students extend their Historical understanding of the war and the Universal Studio Singapore, to deepen our EBS students’ understanding of the tourism industry.
 
 <figure><img src="/images/LJ.png" style="width:100%"><figcaption> Photographs of our Sec 1 Learning Journey to the Hindhede Nature Park</figcaption></figure>
+
+To develop our students’ cultural intelligence, we have also brought many students for overseas learning journeys before (with the exception of the Covid-19 periods). Our students would get to interact with students from other countries such as Japan, Perth, Cambodia and Hong Kong. These trips are carefully planned to include what they have learnt in the classrooms and to develop their global awareness and cross-cultural skills, as well as deepen their commitment and rootedness to Singapore.
+
+<figure><img src="/images/LJ1.png" style="width:75%"><figcaption> Cultural Immersion Trip to Osaka</figcaption></figure> 
+
+<figure><img src="/images/LJ2.png" style="width:75%"><figcaption> Combined Hum-Sci cum Cultural Exchange Trip to Perth</figcaption></figure>
