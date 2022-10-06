@@ -35,3 +35,10 @@ Rules & Regulations
 2.2.  Students who are Singapore citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with the right fist placed over the heart.
 
 2.3.  Students are to assemble for recess assembly five minutes before the second bell of recess.
+
+#### **3\. CONDUCT DURING LESSONS**
+
+3.1.  Students must remain in class during change of periods and are only allowed to leave the classroom with permission given by the teacher AND with an Exit Pass. The Exit Pass must be clearly displayed.
+
+3.2.  Students are to leave the classroom during recess and should not be loitering along the corridors.
+
