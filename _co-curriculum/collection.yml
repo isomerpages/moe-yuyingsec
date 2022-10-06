@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Uniformed Groups/National Police Cadet Corps.md
       - Uniformed Groups/.keep
       - Visual & Performing Arts/Chinese Dance.md
       - Visual & Performing Arts/Guzheng Ensemble.md
