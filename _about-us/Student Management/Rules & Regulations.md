@@ -64,3 +64,43 @@ Rules & Regulations
 
 
 #### **5\. HAIRSTYLE (GENERAL)**
+
+5.1.  Students must have hair of natural colour and are not allowed to tint, highlight or dye their hair.
+
+5.1.1.  Students who have dyed their hair with a colour which is different from its natural one, will be required to dye their hair back to its natural colour. Students will be required to dye their hair to its natural colour once the dye fades.
+
+5.2.  Students must spot neat, smart, decent and presentable hairstyles.
+
+### **School Rules**
+
+#### **MALE STUDENTS**
+
+5.3.  Male students must be clean shaven and neat in appearance.
+
+5.4.  Male students must ensure that their hair does not touch the eyebrows, collar and ears. (Students who do not conform to the code of conduct with regards to hairstyle may be asked to cut their hair immediately.)
+
+#### **FEMALE STUDENTS**
+
+5.5.  Students with long hair that touches the collar must ensure that their hair is tied up neatly.
+
+5.6.  Students must make use of black or dark coloured hair bands or black hair clips to pin up their hair and ensure that the fringe does not touch the eyebrows.
+
+5.7.  Female students must ensure that their hair length does not go beyond the lower back as it might compromise their safety.
+
+#### **6\. GENERAL APPEARANCE AND ACCESSORIES**
+
+6.1.  Students must keep their fingernails short, clean and unvarnished.
+
+6.2.  Students are prohibited to put on any form of make-up including the drawing of eyebrows, eye linings and eyelash extensions.
+
+6.3.  Students are prohibited to wear jewellery, fashion accessories and religious adornments.
+
+6.4.  Students are prohibited to wear coloured / tinted contact lenses or other forms of cosmetic lenses.
+
+6.5.  Students are prohibited to have any form of body-piercing or body art. All prohibited accessories may be confiscated and parents may be called in.
+
+6.5.1.  Students with tattoos will be required to remove them. Students with tattoos will face suspension until proof of appointment to remove tattoos is provided. Students with tattoos will be given a timeframe to progressively remove their tattoos.
+
+6.6.  Female students are allowed to wear only one pair (one on each side) of plain and simple ear studs in the ear lobes. Male students are not allowed to put on ear sticks or any ear accessories.
+
+6.7.  Students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item, which can be used or intended to be used to cause harm to others.
