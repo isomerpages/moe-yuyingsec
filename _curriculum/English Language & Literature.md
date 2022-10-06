@@ -38,17 +38,17 @@ Given the diverse profile of our students, a principled blend of teaching method
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-4r87{border-color:#ffffff;font-style:italic;text-align:center;vertical-align:top}
+.tg .tg-ipos{background-color:#ffffff;border-color:#ffffff;font-style:italic;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-4r87">“By giving our students practice in talking with others, we give them frames for thinking on their own.”</th>
+    <th class="tg-ipos">“By giving our students practice in talking with others, we give them frames for thinking on their own.”</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-4r87">-Lev S. Vygotsky</td>
+    <td class="tg-ipos">~Lev S. Vygotsky</td>
   </tr>
 </tbody>
 </table>
@@ -106,3 +106,11 @@ The EL department uses ICT as a tool for teaching, taking into consideration the
   </tr>
 </tbody>
 </table>
+
+**Differentiated Instruction**
+
+Aligned to the 21CC curriculum, differentiated curriculum and instruction practices are more than individualisation. The EL department views the art of differentiation as meeting students’ learning needs. With a greater repertoire of resources, teachers seek to meet the diverse needs of the 21st Century classroom. Utilising smaller class sizes, flexible grouping and tiered assignments and activities allow teachers to respond to different learning needs. With the roll-out of Subject-Based Banding, the department is able to nurture students’ strengths in the subject. 
+
+**Project-Based Learning**
+
+The Project-Based Learning (PBL) approach allows students to experience the interconnectedness of the curriculum and how issues in life are complex and layered. While the thematic approach will be ongoing, Term 1 for the academic year will be focused on PBL where students will be exposed to issues at a greater depth and breadth. PBL will create the platform for students to pursue topics that engage them personally, explore projects through inquiry, and develop awareness and enduring curiosity about issues in a Volatile, Uncertain, Complex and Ambiguous (VUCA) world.
