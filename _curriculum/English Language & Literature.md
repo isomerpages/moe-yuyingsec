@@ -48,7 +48,7 @@ Given the diverse profile of our students, a principled blend of teaching method
 </thead>
 <tbody>
   <tr>
-    <td class="tg-4r87">~Lev S. Vygotsky</td>
+    <td class="tg-4r87">-Lev S. Vygotsky</td>
   </tr>
 </tbody>
 </table>
