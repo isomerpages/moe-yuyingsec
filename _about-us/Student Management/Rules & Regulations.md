@@ -31,3 +31,7 @@ Rules & Regulations
 #### **2\. FLAG RAISING CEREMONY (FRC) / ASSEMBLY / RECESS ASSEMBLY**
 
 2.1.  Students must assemble at the assembly venue during FRC, assembly and recess assembly according to class and index numbers, quickly and in an orderly manner.
+
+2.2.  Students who are Singapore citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with the right fist placed over the heart.
+
+2.3.  Students are to assemble for recess assembly five minutes before the second bell of recess.
