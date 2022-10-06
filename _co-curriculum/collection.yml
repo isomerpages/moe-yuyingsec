@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Visual & Performing Arts/24 Season Drums.md
       - Visual & Performing Arts/.keep
       - Clubs & Societies/Photography Club.md
       - Clubs & Societies/Media Society.md
