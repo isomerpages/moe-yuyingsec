@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Visual & Performing Arts/Concert Band.md
       - Visual & Performing Arts/Malay Dance.md
       - Visual & Performing Arts/24 Season Drums.md
       - Visual & Performing Arts/.keep
