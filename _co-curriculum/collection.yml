@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Clubs & Societies/Photography Club.md
       - Clubs & Societies/Media Society.md
       - Clubs & Societies/Literary Society.md
       - Clubs & Societies/Cabin Club.md
