@@ -17,3 +17,8 @@ Fostering Innovation through Design Thinking
 2.  Students are exposed to application of critical and inventive thinking through authentic experiences
 3.  Students apply Design Thinking principles to solve problems
 4.  Students understand innovation and entrepreneurship as value creation
+
+### Partnership with Relevant Industries
+------------------------------------
+
+* Food and Beverage, Product Design, Social Enterprise
