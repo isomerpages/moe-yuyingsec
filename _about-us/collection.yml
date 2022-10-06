@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Staff.md
       - School Management Committee.md
       - Student Management/Rules & Regulations.md
       - Student Management/.keep
