@@ -2,5 +2,6 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Clubs & Societies/Design and Entrepreneurship Club.md
       - Clubs & Societies/Grow Inc.md
       - Clubs & Societies/.keep
