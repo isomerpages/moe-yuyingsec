@@ -42,3 +42,10 @@ Rules & Regulations
 
 3.2.  Students are to leave the classroom during recess and should not be loitering along the corridors.
 
+#### **4\. SCHOOL UNIFORM**
+
+4.1.  Students are expected to adhere to the standards pertaining to the school uniform stipulated in the Guidelines for School Uniform.
+
+4.1.1.  Students are to wear the prescribed school uniform and modification to the uniform is not allowed.
+
+4.1.2.  Students must wear the full school uniform during official school events or examinations when required. The uniform should always be clean and neat.
