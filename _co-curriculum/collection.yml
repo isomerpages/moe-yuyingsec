@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Uniformed Groups/Boys' Brigade.md
       - Uniformed Groups/Girls' Brigade.md
       - Uniformed Groups/St John Brigade Singapore.md
       - Uniformed Groups/National Cadet Corps.md
