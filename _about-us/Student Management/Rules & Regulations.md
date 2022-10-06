@@ -61,3 +61,6 @@ Rules & Regulations
 4.6.  Students must ensure that their school shoes are white-based and white-laced or velcro.
 
 4.7.  White socks must be worn at all times and must be visible.
+
+
+#### **5\. HAIRSTYLE (GENERAL)**
