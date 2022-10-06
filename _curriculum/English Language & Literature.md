@@ -60,3 +60,28 @@ The 3-year Whole School Approach to Effective Communication (WSA-EC) journey has
 **Thinking Routines & Protocols**
 
 Visible thinking routines and protocols are weaved into the teaching of the units in class. There is a deliberate focus on developing thinking skills from the time they enter our school. With the understanding that skilful critical thinking has to be taught explicitly and modelled, teachers employ the use of thinking routines to empower students to question and deepen their learning. Beyond possessing in-depth knowledge, we develop our students’ capacity to generate and create new ideas.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-4r87{border-color:#ffffff;font-style:italic;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-4r87">“Technology is just a tool. In terms of getting the kids working together and motivating them, the teacher is most important.”</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-4r87">– Bill Gates</td>
+  </tr>
+</tbody>
+</table>
+
+**Harnessing Technology**
+
+The EL department uses ICT as a tool for teaching, taking into consideration the pedagogical affordance, social affordances and most importantly, the technological affordances. Hence, ICT is a vehicle which enhances teaching and learning to support the achievement of objectives. Through the understanding of affordances, teachers are able to skilfully select the relevant ICT tool to facilitate learning and develop digital literacy in our students at the same time.
