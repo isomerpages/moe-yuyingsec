@@ -79,3 +79,6 @@ Students connect design innovation with entrepreneurship. They learn from local 
 
 
 <figure><img src="/images/ALP2.png" style="width:100%"><figcaption> Empathy map for target user</figcaption></figure>
+
+
+<figure><img src="/images/ALP3.png" style="width:100%"><figcaption> Enjoying healthy snack as an inspiration of existing product</figcaption></figure>
