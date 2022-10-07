@@ -91,3 +91,8 @@ Students connect design innovation with entrepreneurship. They learn from local 
 
 
 <figure><img src="/images/ALP5.png" style="width:100%"><figcaption> Group discussion</figcaption></figure>
+
+
+
+<figure><img src="/images/ALP7.png" style="width:100%"><figcaption> Group discussion</figcaption></figure>
+
