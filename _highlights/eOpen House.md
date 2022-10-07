@@ -22,3 +22,10 @@ e-Open House
 ### Frequently Asked Questions
 --------------------------
 
+##### **General Information**
+
+**What time will school start and end for my child?**
+
+Students have to report to school by 7.30am every day.
+
+Dismissal timing will range between 12.30 to 2.30pm according to the students’ timetables. Due to safe distancing measures, dismissal timing for all levels will be staggered.
