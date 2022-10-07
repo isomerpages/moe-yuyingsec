@@ -54,3 +54,11 @@ The students give back to the society by organising a school-wide donation drive
 Each year, selected VIA ambassadors and CCA or Student Leaders showing extraordinary passion and ‘Spirit to Serve’ continue to hone their skills in community leadership. They apply their social entrepreneurship skills to raise funds for a social cause of their choice.
 
 ![](/images/LLP5.jpeg)
+
+#### TIER 3 LLP in Yuying
+
+##### Overseas Service Learning
+
+Selected students who display a strong interest in developing their service learning skills will be given the opportunity to embark on an overseas service learning project.
+
+![](/images/LLP6.jpeg)
