@@ -141,3 +141,8 @@ _Learn a new skill to teach elderly_ video not uploaded on YouTube
 
 
 **Sec 2 Food Design Challenge**
+
+
+
+<figure><img src="/images/FDC1.png" style="width:100%"><figcaption> Creating their own unique product</figcaption></figure>
+
