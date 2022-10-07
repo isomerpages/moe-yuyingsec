@@ -38,3 +38,9 @@ Integrated into their Project Work (PW), students apply the use of design thinki
 Using their Issues Investigation knowledge acquired from their Social Studies lessons, the students identify causes in the community that are important to them. They contribute to the community by acting on, raising awareness or advocating the cause of their choice. Some of these social causes include the elderly, the homeless and migrant workers.
 
 ![](/images/LLP3.jpeg)
+
+#### Secondary 4 and 5
+
+##### LLP Focus: Community Partnership
+
+The students give back to the society by organising a school-wide donation drive for a welfare organisation of their choice. This community partnership creates opportunities for students to consider active volunteerism beyond their secondary school education.
