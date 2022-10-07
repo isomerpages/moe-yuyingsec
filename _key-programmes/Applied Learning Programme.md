@@ -23,7 +23,7 @@ Fostering Innovation through Design Thinking
 
 * Food and Beverage, Product Design, Social Enterprise
 
-add a gif here 
+![](/images/FB.gif)
 
 ### ALP Framework
 -------------
@@ -149,4 +149,3 @@ _Learn a new skill to teach elderly_ video not uploaded on YouTube
 
 
 <figure><img src="/images/FDC2.png" style="width:100%"><figcaption> Healthy granola cookie!</figcaption></figure>
-
