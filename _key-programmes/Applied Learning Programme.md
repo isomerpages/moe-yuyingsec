@@ -126,3 +126,8 @@ _Learn a new skill to teach elderly_ video not uploaded on YouTube
 
 
 **Grow-Inc Club**
+
+
+
+<figure><img src="/images/GIC1.png" style="width:100%"><figcaption> Virtual presentation</figcaption></figure>
+
