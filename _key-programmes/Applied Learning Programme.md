@@ -104,3 +104,8 @@ _Learn a new skill to teach elderly_ video not uploaded on YouTube
 
 <figure><img src="/images/ALP8.png" style="width:100%"><figcaption> Learning design thinking in depth</figcaption></figure>
 
+
+
+
+<figure><img src="/images/ALP9.png" style="width:100%"><figcaption> Presenting of their ideas</figcaption></figure>
+
