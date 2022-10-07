@@ -43,3 +43,5 @@ You may view the map at: (permalink)
 * **What is the learning environment like in Yuying Secondary School?**
 
 Our school emphasises a culture of care, learning and collaboration amongst teachers and students.
+
+##### **Academic matters**
