@@ -16,3 +16,5 @@ e-Open House
 
 ### Key Programmes
 --------------
+
+![](/images/OpenHouse.jpeg)
