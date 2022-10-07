@@ -44,3 +44,5 @@ Using their Issues Investigation knowledge acquired from their Social Studies le
 ##### LLP Focus: Community Partnership
 
 The students give back to the society by organising a school-wide donation drive for a welfare organisation of their choice. This community partnership creates opportunities for students to consider active volunteerism beyond their secondary school education.
+
+![](/images/LLP4.png)
