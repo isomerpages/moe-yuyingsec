@@ -119,3 +119,8 @@ _Learn a new skill to teach elderly_ video not uploaded on YouTube
 --------------------------------------------------
 
 **Design and Entrepreneurship Club**
+
+
+
+<figure><img src="/images/DEC.png" style="width:100%"><figcaption> Empathy exercise</figcaption></figure>
+
