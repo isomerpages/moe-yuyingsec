@@ -25,5 +25,20 @@ Fostering Innovation through Design Thinking
 
 add a gif here 
 
-ALP Framework
+### ALP Framework
 -------------
+
+
+
+<img src="/images/ALP.jpeg" style="width:300px;height:300px;margin-left:15px;" align = "left">
+
+**1.    Discovery - Ideate and discover possibilities**
+
+**2.    Application – Apply Design Thinking to meet real needs and solve problems**
+
+**3.    Innovate– Innovate and embark on innovation projects**
+
+**4.    Dream – Learn from local entrepreneurs who pursue their dreams and to define their own dream to improve people’s lives**
+
+
+**Mission**: To develop innovative individuals with skills and attitude to impact the society positively.
