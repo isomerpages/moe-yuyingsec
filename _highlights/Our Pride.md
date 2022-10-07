@@ -82,3 +82,19 @@ In 2018, **Danyal Shah Bin Ashren Shah** caught the attention of the school by
 The whole school wishes him the best in his academic and sporting endeavours.
 
 ##### **Yuying Enterprising Changemakers in Action!**
+
+Top Prize (Secondary Category) in NEA's G!nnovation Challenge 
+
+  
+
+7 students from Grow-Inc Club, a part of the ALP programme in Yuying Secondary School, participated in NEA's G!nnovation Challenge. In this competition, students identified a problem and provided innovative solutions. Our students chose to tackle an issue related to Climate Action, which focuses on Resource Conservation in the area of Food Waste Reduction. 
+
+  
+
+Our students demonstrated resilience and grit in the entire challenge and collaborated effectively in the entire problem-solving process. As part of the solution, our students garnered the support of the school community to reduce food waste and in the process, increased awareness of resource conservation in our school. In a short period of time, they collected and analyzed data, summarized key findings and presented to the entire school population. 
+
+  
+
+Yuying Secondary was awarded the Top Prize in the Secondary School Category in this G!nnovation Challenge 2018.
+
+![](/images/Pride1.jpeg)
