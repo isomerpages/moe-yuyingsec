@@ -113,3 +113,9 @@ _Learn a new skill to teach elderly_ video not uploaded on YouTube
 
 
 <figure><img src="/images/ALP10.png" style="width:100%"><figcaption> Discussion and recording of key points</figcaption></figure>
+
+
+### Tier 2 Programmes (for selected group of students)
+--------------------------------------------------
+
+**Design and Entrepreneurship Club**
