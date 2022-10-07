@@ -54,3 +54,5 @@ The **2022** DSA Exercise gives Primary 6 students the opportunity to seek adm
 </table>
 
 The selection criteria and process for the talent areas will be updated by early-Jun. For more information on DSA-Sec, please refer to the MOE website at [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
+
+**Concert Band**
