@@ -131,3 +131,7 @@ _Learn a new skill to teach elderly_ video not uploaded on YouTube
 
 <figure><img src="/images/GIC1.png" style="width:100%"><figcaption> Virtual presentation</figcaption></figure>
 
+
+
+<figure><img src="/images/GIC2.png" style="width:100%"><figcaption> Presenting to panel of judges</figcaption></figure>
+
