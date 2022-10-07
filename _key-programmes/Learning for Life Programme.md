@@ -28,3 +28,5 @@ Secondary 1 students develop their understanding of environmental issues as part
 ##### LLP Focus: Elderly
 
 Integrated into their Project Work (PW), students apply the use of design thinking on the planning and execution of VIA project in tribute to the elderly community. They make use of design thinking skills to understand the needs of the elderly in our society and how they can address these needs. Some of our partner organisations are the Lions Befrienders, Thye Hua Kwan SAC and St Luke's Eldercare.
+
+![](/images/LLP2.png)
