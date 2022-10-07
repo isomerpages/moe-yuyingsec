@@ -22,3 +22,9 @@ YUYING C.A.R.E.S provides cohort-wide leadership training and values-in-action o
 Secondary 1 students develop their understanding of environmental issues as part of their Geography Investigation curriculum and deepen their knowledge through learning journeys. They are given the opportunity to apply their learning by undertaking environmental advocacy projects and sharing the message of 3R (Reduce, Reuse & Recycle) with the community.
 
 ![](/images/LLP1.png)
+
+#### Secondary 2
+
+##### LLP Focus: Elderly
+
+Integrated into their Project Work (PW), students apply the use of design thinking on the planning and execution of VIA project in tribute to the elderly community. They make use of design thinking skills to understand the needs of the elderly in our society and how they can address these needs. Some of our partner organisations are the Lions Befrienders, Thye Hua Kwan SAC and St Luke's Eldercare.
