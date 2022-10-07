@@ -25,3 +25,8 @@ _Nanyang Academy of Fine Arts_
 ![](/images/Best1.png)
 
 ![](/images/Best2.png)
+
+### Realising my Dream One Step at a Time
+-------------------------------------
+
+_Defying the odds to succeed and fulfil my passion to serve others_
