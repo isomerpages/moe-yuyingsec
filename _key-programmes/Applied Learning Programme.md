@@ -109,3 +109,8 @@ _Learn a new skill to teach elderly_ video not uploaded on YouTube
 
 <figure><img src="/images/ALP9.png" style="width:100%"><figcaption> Presenting of their ideas</figcaption></figure>
 
+
+
+
+<figure><img src="/images/XX.png" style="width:75%"><figcaption> pic caption here</figcaption></figure>
+
