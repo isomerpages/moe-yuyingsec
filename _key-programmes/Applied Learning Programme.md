@@ -100,8 +100,7 @@ _Learn a new skill to teach elderly_ video not uploaded on YouTube
 
 **Sec 3**: Innovation and Entreprise Design Challenge; Brainstorm ideas to resolve real-life I&E challenges
 
-**
 
-<figure><img src="/images/XX.png" style="width:75%"><figcaption> pic caption here</figcaption></figure>
 
-**
+<figure><img src="/images/ALP8.png" style="width:100%"><figcaption> Learning design thinking in depth</figcaption></figure>
+
