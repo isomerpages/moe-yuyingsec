@@ -82,3 +82,6 @@ Students connect design innovation with entrepreneurship. They learn from local 
 
 
 <figure><img src="/images/ALP3.png" style="width:100%"><figcaption> Enjoying healthy snack as an inspiration of existing product</figcaption></figure>
+
+
+<figure><img src="/images/ALP4.png" style="width:100%"><figcaption> Group learning</figcaption></figure>
