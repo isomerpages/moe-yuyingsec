@@ -36,3 +36,5 @@ Integrated into their Project Work (PW), students apply the use of design thinki
 ##### LLP Focus: Social Causes
 
 Using their Issues Investigation knowledge acquired from their Social Studies lessons, the students identify causes in the community that are important to them. They contribute to the community by acting on, raising awareness or advocating the cause of their choice. Some of these social causes include the elderly, the homeless and migrant workers.
+
+![](/images/LLP3.jpeg)
