@@ -61,3 +61,5 @@ Students will be able to take subjects at a higher level based on their strength
 ##### **CCA matters**
 
 **What are the CCAs offered in your school?**
+
+**Physical Sports**
