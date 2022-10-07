@@ -45,3 +45,20 @@ You may view the map at: (permalink)
 Our school emphasises a culture of care, learning and collaboration amongst teachers and students.
 
 ##### **Academic matters**
+
+* **What subjects would my child take in Secondary 1?**
+
+Please refer to MOE’s website for subjects offered to Secondary 1 students: [https://moe.gov.sg/secondary/courses/](https://moe.gov.sg/secondary/courses/)
+
+* **What are the subjects offered at the Upper Secondary level?** 
+
+The subjects offered at the Upper Secondary level will be based on the needs and interests of the cohort.
+
+* **Will my child be given the opportunity to take a subject at a higher level if he is strong in it?**
+
+Students will be able to take subjects at a higher level based on their strengths.
+
+##### **CCA matters**
+
+**What are the CCAs offered in your school?**
+
