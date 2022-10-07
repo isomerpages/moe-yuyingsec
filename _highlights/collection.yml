@@ -2,4 +2,5 @@ collections:
   highlights:
     output: true
     order:
+      - Our Pride.md
       - SYF Achievements 2021.md
