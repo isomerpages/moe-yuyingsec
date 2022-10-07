@@ -65,3 +65,20 @@ I would like to extend my sincere thanks to everyone at Yuying Secondary School 
 #### ABOUT THE AWARD
 
 The President’s Award represents the epitome of the Primers’ training in The Boys’ Brigade in Singapore. The highest award in the BB Programme, The President’s Award is presented to Primers who have successfully completed the demanding requirements in leadership and service in the community, as well as in the BB as adventure activity leaders or event managers.
+
+![](/images/BG2.png)
+
+### A Convergence of Passion and Talent
+-----------------------------------
+
+Yuying Secondary School has many students to be proud of. But every once in a while, a student stands out from the rest, a shining beacon of talent and ability. 
+
+  
+
+In 2018, **Danyal Shah Bin Ashren Shah** caught the attention of the school by being awarded the ASEAN School Games Best Sports Boy for Individual Sport as well as the Singapore Schools Sports Council Colours Award 2018 for Sepak Takraw. As if that was not enough of an achievement, he was also appointed as the Singapore Schools Team Captain (Sepak Takraw) in the ASEAN School Games 2018. He has represented Singapore not merely once but twice in the ASEAN School Games. Danyal has not only served in a leadership role, but he has also mentored newly appointed captains in his capacity as an advisor in the 2017 Sepak Takraw CCA Executive Committee. We applaud Danyal for his achievements and his service to others. 
+
+  
+
+The whole school wishes him the best in his academic and sporting endeavours.
+
+##### **Yuying Enterprising Changemakers in Action!**
