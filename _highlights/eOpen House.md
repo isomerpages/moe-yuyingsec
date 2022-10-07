@@ -18,3 +18,6 @@ e-Open House
 --------------
 
 ![](/images/OpenHouse.jpeg)
+
+### Frequently Asked Questions
+--------------------------
