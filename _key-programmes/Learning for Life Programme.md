@@ -46,3 +46,9 @@ Using their Issues Investigation knowledge acquired from their Social Studies le
 The students give back to the society by organising a school-wide donation drive for a welfare organisation of their choice. This community partnership creates opportunities for students to consider active volunteerism beyond their secondary school education.
 
 ![](/images/LLP4.png)
+
+#### TIER 2 LLP in Yuying
+
+##### Social Entrepreneurs in Action
+
+Each year, selected VIA ambassadors and CCA or Student Leaders showing extraordinary passion and ‘Spirit to Serve’ continue to hone their skills in community leadership. They apply their social entrepreneurship skills to raise funds for a social cause of their choice.
