@@ -1,5 +1,4 @@
 collections:
   highlights:
     output: true
-    order:
-      - Arts Education Committee.md
+    order: []
