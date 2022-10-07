@@ -52,3 +52,5 @@ The students give back to the society by organising a school-wide donation drive
 ##### Social Entrepreneurs in Action
 
 Each year, selected VIA ambassadors and CCA or Student Leaders showing extraordinary passion and ‘Spirit to Serve’ continue to hone their skills in community leadership. They apply their social entrepreneurship skills to raise funds for a social cause of their choice.
+
+![](/images/LLP5.jpeg)
