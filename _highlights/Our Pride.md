@@ -61,3 +61,7 @@ I would like to extend my sincere thanks to everyone at Yuying Secondary School 
 **Tan Jing Kiat Elijah** 
 
 **4E3 2017**
+
+#### ABOUT THE AWARD
+
+The President’s Award represents the epitome of the Primers’ training in The Boys’ Brigade in Singapore. The highest award in the BB Programme, The President’s Award is presented to Primers who have successfully completed the demanding requirements in leadership and service in the community, as well as in the BB as adventure activity leaders or event managers.
