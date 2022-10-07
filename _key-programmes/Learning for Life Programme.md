@@ -20,3 +20,5 @@ YUYING C.A.R.E.S provides cohort-wide leadership training and values-in-action o
 ##### LLP Focus: Environment
 
 Secondary 1 students develop their understanding of environmental issues as part of their Geography Investigation curriculum and deepen their knowledge through learning journeys. They are given the opportunity to apply their learning by undertaking environmental advocacy projects and sharing the message of 3R (Reduce, Reuse & Recycle) with the community.
+
+![](/images/LLP1.png)
