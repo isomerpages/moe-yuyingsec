@@ -17,3 +17,47 @@ With their resilience and the support from various stakeholders, our students, t
   
 
 Congratulations to our Performing Artists for your amazing achievement!
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-2ba9{background-color:#FFF;color:#313942;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-bzww{background-color:#FFF;color:#313942;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-2ba9">Performing Arts Group</th>
+    <th class="tg-2ba9">SYF Achievement</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-bzww"><span style="font-weight:400;color:#313942">Guitar Ensemble</span></td>
+    <td class="tg-bzww"><span style="font-weight:400;color:#313942">Certificate of Accomplishment</span></td>
+  </tr>
+  <tr>
+    <td class="tg-bzww"><span style="font-weight:400;color:#313942">Guzheng Ensemble</span></td>
+    <td class="tg-bzww"><span style="font-weight:400;color:#313942">Certificate of Distinction</span></td>
+  </tr>
+  <tr>
+    <td class="tg-bzww"><span style="font-weight:400;color:#313942">Concert Band (Percussion)</span></td>
+    <td class="tg-bzww"><span style="font-weight:400;color:#313942">Certificate of Distinction</span></td>
+  </tr>
+  <tr>
+    <td class="tg-bzww"><span style="font-weight:400;color:#313942">Concert Band (Flexible Team)</span></td>
+    <td class="tg-bzww"><span style="font-weight:400;color:#313942">Certificate of Distinction</span></td>
+  </tr>
+  <tr>
+    <td class="tg-bzww"><span style="font-weight:400;color:#313942">Malay Dance</span></td>
+    <td class="tg-bzww"><span style="font-weight:400;color:#313942">Certificate of Distinction</span></td>
+  </tr>
+  <tr>
+    <td class="tg-bzww"><span style="font-weight:400;color:#313942">Chinese Dance </span></td>
+    <td class="tg-bzww"><span style="font-weight:400;color:#313942">Certificate of Distinction</span></td>
+  </tr>
+</tbody>
+</table>
