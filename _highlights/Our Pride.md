@@ -43,3 +43,21 @@ Having experienced the BB program first-hand, I can vouch that the CCA provides 
   
 
 Upon graduation, I have expanded my service to Brigade-level activities and is part of the organising committee for the Primers’ Orientation, taking on the role as the chairman. My role entails working with Primers from the different Polytechnic Companies and working with them to come up with activities for the participating Primers, with the aim of increasing networking and sharing of best practices among them. On top of that, I was part of the drama production committee for Life Community Services Society where I put up a performance for children during Christmas while mentoring other actors in the performance.
+
+![](/images/BG1.png)
+
+The award is an affirmation of my dedication to serve others and a testament that with the right support and determination, I can overcome any challenges. Receiving the award does not mark the end of my service to the younger generation as I will continue to serve alongside with them. I hope to instil confidence in them and inspire them to reach for their dreams so that they too, can overcome their challenges in life. 
+
+  
+
+I will continue to seize every opportunity to serve the youth of today. This path of mentorship is tough but the harvest is fulfilling. I firmly believe that if we mentor the future generation well, Singapore will continue to prosper.
+
+  
+
+I would like to extend my sincere thanks to everyone at Yuying Secondary School for their unwavering trust and support in me.  I hope that my journey so far has shown how anyone can succeed despite the odds. 
+
+  
+
+**Tan Jing Kiat Elijah** 
+
+**4E3 2017**
