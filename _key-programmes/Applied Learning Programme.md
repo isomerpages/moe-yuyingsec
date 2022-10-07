@@ -85,3 +85,5 @@ Students connect design innovation with entrepreneurship. They learn from local 
 
 
 <figure><img src="/images/ALP4.png" style="width:100%"><figcaption> Group learning</figcaption></figure>
+
+**Sec 2**: PW-ViA; exploring product/service for the elderly (in collaboration with school’s LLP programme)
