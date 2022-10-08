@@ -12,3 +12,5 @@ Timetable June 2022
 ##### **Secondary 1**
 
 [1A.pdf](/files/1A.pdf)
+
+[1C.pdf](/files/1C.pdf)
