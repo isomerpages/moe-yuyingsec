@@ -38,3 +38,18 @@ Note: Retail outlet at Bras Basah Complex has ceased operation.
 **For Home delivery:**
 
 Make an online purchase @  [https://shop.shanghai-uniforms.com/product-category/yuying-secondary-school/](https://shop.shanghai-uniforms.com/product-category/yuying-secondary-school/) with $10 delivery charge and you will be required to create an online account
+
+### School Booklist / Stationery List
+---------------------------------
+
+**For Online Textbook sales:** 
+
+Online sale url: [https://cascoedusupply.com.sg/login](https://cascoedusupply.com.sg/login)(Login: YYSS, Password: 4251)  
+
+  
+
+Delivery to home (with $13 delivery charge) or collection with an appointment at the school bookshop.
+
+  
+
+Please refer to the attached textbook list for more info or enquire at 62859442
