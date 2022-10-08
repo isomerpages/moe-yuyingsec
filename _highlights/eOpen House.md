@@ -88,3 +88,5 @@ Students will be able to take subjects at a higher level based on their strength
 [St John's Brigade (Mixed)](/co-curriculum/Uniformed-Groups/St-John-Brigade-Singapore/)
 
 * **Visual and Performing Arts**
+
+[Chinese Dance (Girls)](/co-curriculum/Visual-and-Performing-Arts/Chinese-Dance/)
