@@ -119,3 +119,6 @@ Students will be able to take subjects at a higher level based on their strength
 \* CCAs not offered to Secondary 1 students
 
 For more information, please refer to:
+
+
+##### **Other queries**
