@@ -73,3 +73,7 @@ Students will be able to take subjects at a higher level based on their strength
 [Volleyball (Girls)](/co-curriculum/Physical-Sports/Volleyball-Girls/)
 
 [Wushu (Mixed)](/co-curriculum/Physical-Sports/Wushu-Mixed/)
+
+
+* **Uniformed Groups**
+
