@@ -73,3 +73,5 @@ We are delighted that the students have learnt a lot through this wonderful oppo
 
 
 Congratulations to all the students involved!
+
+![](/images/Sciencee.jpeg)
