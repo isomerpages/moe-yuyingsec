@@ -2,6 +2,7 @@ collections:
   highlights:
     output: true
     order:
+      - Highlights/Staff Professional Development.md
       - Highlights/Guitar Ensemble VIA Project.md
       - Highlights/PW VIA 2022.md
       - Highlights/National Science Olympiads.md
