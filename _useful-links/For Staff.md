@@ -39,7 +39,7 @@ For Staff
 
   
 
- [MOE Intranet Home Site](https://intranet.moe.gov.sg/Pages/Home.aspx)  
+[MOE Intranet Home Site](https://intranet.moe.gov.sg/Pages/Home.aspx)  
 
   
 
