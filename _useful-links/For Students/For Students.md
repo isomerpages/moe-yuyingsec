@@ -8,3 +8,5 @@ third_nav_title: For Students
 
 For Students
 ============
+
+[Timetable June 2022](/useful-links/For-Students/Timetable-June-2022/)
