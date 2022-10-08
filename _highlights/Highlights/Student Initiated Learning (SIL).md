@@ -18,3 +18,5 @@ At YYSS, students who share similar interests pursue their interests together. F
   
 
 From coding, crocheting, cooking, playing a music instrument or learning a new language, you name it, we have it!
+
+![](/images/SIL.png)
