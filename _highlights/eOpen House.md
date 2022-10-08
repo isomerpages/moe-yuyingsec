@@ -111,3 +111,5 @@ Students will be able to take subjects at a higher level based on their strength
 [*Design and Entrepreneurship (Mixed)](/co-curriculum/Clubs-and-Societies/Design-and-Entrepreneurship-Club/)
 
 [*Media Society (Mixed)](/co-curriculum/Clubs-and-Societies/Media-Society/)
+
+[*Project Cabin](/co-curriculum/Clubs-and-Societies/Cabin-Club/)
