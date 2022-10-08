@@ -204,3 +204,9 @@ There are three modes of payment:
 *   GIRO – Apply via school
 *   SAM – ([SAM Kiosks](https://www.mysam.sg/public/pcontent.jsp?s=kiosk-locations), [SAM Web/Mobile](https://www.mysam.sg/index.jsp))
 *   Cash/ Cheque (payable to Yuying Secondary School)
+
+
+### Financial Assistance
+--------------------
+
+MOE-FAS 2022 application is now open. Eligible applicant may download
