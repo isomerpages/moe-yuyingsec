@@ -17,3 +17,5 @@ The PW-VIA (Project Work - Values-in-Action) final presentation was concluded on
   
 
 The PW-VIA is a platform where students come together, learning and working in teams. They apply Design Thinking skills through empathizing and understanding the needs of the elderly. After which, they propose and enact suitable activities to meet the needs of the target group.
+
+![](/images/PW-VIA.jpeg)
