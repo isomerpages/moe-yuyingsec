@@ -68,3 +68,5 @@ Please refer to the attached textbook list for more info or enquire at 62859442
 [2022 Sec 1 Stationery List.pdf](/files/2022%20Sec%201%20Stationery%20List.pdf)
 
 ##### **Sec 2**
+
+[2022 Sec 2 G3 Express Booklist.pdf](/files/2022%20Sec%202%20G3%20Express%20Booklist.pdf)
