@@ -14,3 +14,5 @@ Timetable June 2022
 [1A.pdf](/files/1A.pdf)
 
 [1C.pdf](/files/1C.pdf)
+
+[1E.pdf](/files/1E.pdf)
