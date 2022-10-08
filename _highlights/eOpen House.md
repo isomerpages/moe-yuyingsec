@@ -98,3 +98,5 @@ Students will be able to take subjects at a higher level based on their strength
 [Concert Band (Mixed)](/co-curriculum/Visual-and-Performing-Arts/Concert-Band/)
 
 [Malay Dance (Mixed)](/co-curriculum/Visual-and-Performing-Arts/Malay-Dance/)
+
+[24 Season Drums](/co-curriculum/Visual-and-Performing-Arts/24-Season-Drums/)
