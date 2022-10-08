@@ -195,3 +195,12 @@ School Fees & Financial Assistance
   </tr>
 </tbody>
 </table>
+
+
+**NOTE:** 
+
+There are three modes of payment:
+
+*   GIRO – Apply via school
+*   SAM – ([SAM Kiosks](https://www.mysam.sg/public/pcontent.jsp?s=kiosk-locations), [SAM Web/Mobile](https://www.mysam.sg/index.jsp))
+*   Cash/ Cheque (payable to Yuying Secondary School)
