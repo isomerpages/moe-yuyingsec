@@ -122,3 +122,6 @@ For more information, please refer to:
 
 
 ##### **Other queries**
+
+##### If you have further queries, please email us at [yuying\_ss@moe.edu.sg](mailto:yuying_ss@moe.edu.sg). Do remember to leave your name and contact number so that we may respond to you.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
