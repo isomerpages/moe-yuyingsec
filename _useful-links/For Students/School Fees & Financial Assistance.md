@@ -210,3 +210,6 @@ There are three modes of payment:
 --------------------
 
 MOE-FAS 2022 application is now open. Eligible applicant may download [the form here](/files/MOE%20FAS%20Application%20Form%20Sep%2021.pdf) or get the hard copy from the General Office. Please return the form with the necessary attached documents to General Office.
+
+
+Please refer to this attachment for the step-by-step guide on how to redeem FAS Transitlink Evouchers.
