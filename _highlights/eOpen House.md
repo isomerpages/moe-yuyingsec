@@ -82,3 +82,5 @@ Students will be able to take subjects at a higher level based on their strength
 [Girls' Brigade](/co-curriculum/Uniformed-Groups/Girls-Brigade/)
 
 [National Cadet Corps (Boys)](/co-curriculum/Uniformed-Groups/National-Cadet-Corps/)
+
+[National Police Cadet Corps](/co-curriculum/Uniformed-Groups/National-Police-Cadet-Corps/)
