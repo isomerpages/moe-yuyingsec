@@ -11,10 +11,10 @@ sections:
       subtitle: Hero subtitle
       background: /images/hero-banner.png
       button: Contact Us
-      url: /contact-us/
+      url: /about-us/Contact-Us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: Highlights
+          description: ""
           url: https://google.com
         - title: Highlight B
           description: Important highlight B is equally important
