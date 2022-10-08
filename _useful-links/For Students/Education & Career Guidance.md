@@ -8,3 +8,13 @@ third_nav_title: For Students
 
 Education & Career Guidance
 ===========================
+
+[My Skills Future](https://yuyingsec.moe.edu.sg/useful-links/for-students/education-n-career-guidance/my-skills-future)
+
+  
+
+[Post-Secondary Education](https://yuyingsec.moe.edu.sg/useful-links/for-students/education-n-career-guidance/post-secondary-education)
+
+  
+
+[Joint Admissions Exercise](https://yuyingsec.moe.edu.sg/useful-links/for-students/education-n-career-guidance/joint-admissions-exercise)
