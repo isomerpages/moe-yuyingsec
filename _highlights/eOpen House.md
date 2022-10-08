@@ -62,7 +62,7 @@ Students will be able to take subjects at a higher level based on their strength
 
 **What are the CCAs offered in your school?**
 
-**Physical Sports**
+* **Physical Sports**
 
 [Badminton (Boys)](/co-curriculum/Physical-Sports/Badminton-Boys/)
 
