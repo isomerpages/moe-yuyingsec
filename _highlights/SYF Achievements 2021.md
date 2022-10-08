@@ -61,3 +61,5 @@ Congratulations to our Performing Artists for your amazing achievement!
   </tr>
 </tbody>
 </table>
+
+![](/images/SYF.gif)
