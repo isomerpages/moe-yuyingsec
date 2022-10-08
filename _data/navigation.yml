@@ -8,9 +8,9 @@ links:
     collection: co-curriculum
   - title: Key Programmes
     collection: key-programmes
+  - title: Highlights
+    collection: highlights
+  - title: Useful Links
+    collection: useful-links
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
