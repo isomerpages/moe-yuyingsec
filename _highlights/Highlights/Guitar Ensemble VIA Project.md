@@ -29,3 +29,5 @@ We all had fun being a part of this VIA activity. We see VIA programmes as a way
   
 
 What a memorable and fun experience it was!
+
+![](/images/Guitar%20VIA.jpeg)
