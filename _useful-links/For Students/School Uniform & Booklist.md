@@ -70,3 +70,5 @@ Please refer to the attached textbook list for more info or enquire at 62859442
 ##### **Sec 2**
 
 [2022 Sec 2 G3 Express Booklist.pdf](/files/2022%20Sec%202%20G3%20Express%20Booklist.pdf)
+
+[2022 Sec 2 G2 NA Booklist.pdf](/files/2022%20Sec%202%20G2%20NA%20Booklist.pdf)
