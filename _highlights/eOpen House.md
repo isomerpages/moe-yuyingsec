@@ -107,3 +107,5 @@ Students will be able to take subjects at a higher level based on their strength
 [*Photography](/co-curriculum/Clubs-and-Societies/Photography-Club/)
 
 [*Literary Society (Mixed)](/co-curriculum/Clubs-and-Societies/Literary-Society/)
+
+[*Design and Entrepreneurship (Mixed)](/co-curriculum/Clubs-and-Societies/Design-and-Entrepreneurship-Club/)
