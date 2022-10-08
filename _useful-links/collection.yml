@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - For Students/For Students.md
       - For Students/Timetable June 2022.md
       - For Students/School Uniform & Booklist.md
       - For Students/School Fees & Financial Assistance.md
