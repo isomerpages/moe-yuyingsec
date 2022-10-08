@@ -12,8 +12,6 @@ School Fees & Financial Assistance
 ### School fees
 -----------
 
-School fees are collected to defray part of the cost of education. The current fee rates are given below:
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
