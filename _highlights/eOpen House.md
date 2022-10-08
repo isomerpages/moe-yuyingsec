@@ -113,3 +113,9 @@ Students will be able to take subjects at a higher level based on their strength
 [*Media Society (Mixed)](/co-curriculum/Clubs-and-Societies/Media-Society/)
 
 [*Project Cabin](/co-curriculum/Clubs-and-Societies/Cabin-Club/)
+
+[*Grow-Inc](/co-curriculum/Clubs-and-Societies/Grow-Inc/)
+
+\* CCAs not offered to Secondary 1 students
+
+For more information, please refer to:
