@@ -94,3 +94,5 @@ Students will be able to take subjects at a higher level based on their strength
 [Guzheng Ensemble](/co-curriculum/Visual-and-Performing-Arts/Guzheng-Ensemble/)
 
 [Guitar Ensemble](/co-curriculum/Visual-and-Performing-Arts/Guitar-Ensemble/)
+
+[Concert Band (Mixed)](/co-curriculum/Visual-and-Performing-Arts/Concert-Band/)
