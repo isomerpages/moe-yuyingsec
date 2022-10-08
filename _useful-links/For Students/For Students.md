@@ -14,3 +14,5 @@ For Students
 [School Uniform & Booklist](/useful-links/For-Students/School-Uniform-and-Booklist/)
 
 [School Fees & Financial Assistance](/useful-links/For-Students/School-Fees-and-Financial-Assistance/)
+
+[Promotion Criteria](/useful-links/For-Students/Promotion-Criteria/)
