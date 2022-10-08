@@ -86,3 +86,5 @@ Students will be able to take subjects at a higher level based on their strength
 [National Police Cadet Corps](/co-curriculum/Uniformed-Groups/National-Police-Cadet-Corps/)
 
 [St John's Brigade (Mixed)](/co-curriculum/Uniformed-Groups/St-John-Brigade-Singapore/)
+
+* **Visual and Performing Arts**
