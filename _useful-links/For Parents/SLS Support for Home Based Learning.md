@@ -22,3 +22,5 @@ During school operating hours, students should contact the **School-based Helpl
 **School-based Helpline: 6282 7968**
 
 **Mondays - Fridays: 8:00 am - 4:00 pm**
+
+For other matters, students can email the SLS Helpdesk at helpdesk@sls.ufinity.com. When emailing the SLS Helpdesk, they should include their full name, name of school and form class.
