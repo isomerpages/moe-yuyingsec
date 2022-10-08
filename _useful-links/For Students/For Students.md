@@ -10,3 +10,5 @@ For Students
 ============
 
 [Timetable June 2022](/useful-links/For-Students/Timetable-June-2022/)
+
+[School Uniform & Booklist](/useful-links/For-Students/School-Uniform-and-Booklist/)
