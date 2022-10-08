@@ -77,3 +77,4 @@ Students will be able to take subjects at a higher level based on their strength
 
 * **Uniformed Groups**
 
+[Boys' Brigade](/co-curriculum/Uniformed-Groups/Boys-Brigade/)
