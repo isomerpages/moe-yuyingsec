@@ -101,6 +101,6 @@ Students will be able to take subjects at a higher level based on their strength
 
 [24 Season Drums](/co-curriculum/Visual-and-Performing-Arts/24-Season-Drums/)
 
-[\*Photography](https://yuyingsec.moe.edu.sg/cca/clubs-and-societies/photography-club)
 
 * **Clubs and Societies**
+
