@@ -71,3 +71,5 @@ Students will be able to take subjects at a higher level based on their strength
 [Sepak Takraw (Boys)](/co-curriculum/Physical-Sports/Sepak-Takraw-Boys/)
 
 [Volleyball (Girls)](/co-curriculum/Physical-Sports/Volleyball-Girls/)
+
+[Wushu (Mixed)](/co-curriculum/Physical-Sports/Wushu-Mixed/)
