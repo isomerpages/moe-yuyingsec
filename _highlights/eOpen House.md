@@ -67,3 +67,5 @@ Students will be able to take subjects at a higher level based on their strength
 [Badminton (Boys)](/co-curriculum/Physical-Sports/Badminton-Boys/)
 
 [Basketball (Boys)](/co-curriculum/Physical-Sports/Basketball-Boys/)
+
+[Sepak Takraw (Boys)](/co-curriculum/Physical-Sports/Sepak-Takraw-Boys/)
