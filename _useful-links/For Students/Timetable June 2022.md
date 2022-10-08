@@ -42,3 +42,5 @@ Timetable June 2022
 [2L.pdf](/files/2L.pdf)
 
 [2R.pdf](/files/2R.pdf)
+
+[2S.pdf](/files/2S.pdf)
