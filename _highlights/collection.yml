@@ -2,6 +2,7 @@ collections:
   highlights:
     output: true
     order:
+      - Highlights/Student Initiated Learning (SIL).md
       - Highlights/.keep
       - eOpen House.md
       - Direct School Admission (DSA) 2022.md
