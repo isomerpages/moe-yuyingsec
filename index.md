@@ -24,5 +24,3 @@ sections:
       image: /images/OPENHOUSE.jpeg
       alt: Image alt text
 ---
-
-
