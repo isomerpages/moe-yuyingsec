@@ -17,4 +17,10 @@ sections:
         - title: Announcements
           description: ""
           url: /Announcements/
+  - infopic:
+      title: Open House 2022
+      subtitle: "YUYING SECONDARY SCHOOL "
+      description: A happy place where you can thrive and strive!
+      image: /images/OPENHOUSE.jpeg
+      alt: Image alt text
 ---
