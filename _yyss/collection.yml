@@ -1,4 +1,5 @@
 collections:
   yyss:
     output: true
-    order: []
+    order:
+      - e Open House.md
