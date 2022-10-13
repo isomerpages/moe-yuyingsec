@@ -16,5 +16,5 @@ sections:
           url: /highlights/Highlights/Total-Defence-Day/
         - title: Announcements
           description: ""
-          url: https://gmail.com
+          url: /Announcements/
 ---
