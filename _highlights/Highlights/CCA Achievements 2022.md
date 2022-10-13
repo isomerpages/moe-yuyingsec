@@ -32,3 +32,11 @@ The past two years have been a difficult one for the CCA with incoming students 
 To Serve with Pride and Dedication!
 
 ![](/images/CCA2.png)
+
+**NPCC**
+
+  
+
+It is with great pleasure to announce that Yuying NPCC has achieved Gold in the Unit Overall Proficiency Award (UOPA) for the year 2021. The UOPA is an annual assessment which can only be achieved due to the active participation of the cadets, achievement in various competitions, cadets' promotion and awards, as well as the guidance and effort of our teachers and alumni.
+
+![](/images/CCA3.png)
