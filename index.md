@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: Highlights
           description: ""
-          url: https://google.com
+          url: /highlights/Highlights/Total-Defence-Day/
         - title: Announcements
           description: ""
           url: https://gmail.com
