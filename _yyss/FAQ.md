@@ -3,7 +3,7 @@ title: FAQ
 permalink: /yyss/FAQ/
 description: ""
 ---
-![](/images/Highlights.jpg)
+![](/images/AboutUs.jpg)
 
 FAQ
 ===
