@@ -52,3 +52,5 @@ At the end of the year, the school gathered to celebrate the learning and growth
 
 In line with the Learn for Life movement, the staff took up some challenges during our annual Staff Retreat! For the educators, it was a learning experience, trying to navigate through the virtual escape room while communicating with the rest of the team members over zoom. Our EAS tried their hands at something new, where they learnt embroidery over a virtual zoom workshop.
 
+
+
