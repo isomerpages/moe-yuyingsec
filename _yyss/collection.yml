@@ -2,5 +2,6 @@ collections:
   yyss:
     output: true
     order:
+      - FAQ.md
       - Student Personal Learning Device Support.md
       - eOpen House.md
