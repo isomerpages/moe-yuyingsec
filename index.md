@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hero-banner.png
+      background: /images/homepage.gif
       button: Contact Us
       url: /about-us/Contact-Us/
       key_highlights:
@@ -15,7 +15,7 @@ sections:
           description: ""
           url: https://google.com
         - title: Announcements
-          description: Important highlight B is equally important
+          description: ""
           url: https://gmail.com
   - infobar:
       title: Infobar title
