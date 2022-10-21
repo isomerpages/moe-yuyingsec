@@ -23,3 +23,5 @@ Curriculum
 ### [Physical Education](/curriculum/Physical-Education/)
 
 ### [Music Curriculum](/curriculum/Music-Curriculum/)
+
+### [Character & Citizenship Education](/curriculum/Character-and-Citizenship-Education/)
