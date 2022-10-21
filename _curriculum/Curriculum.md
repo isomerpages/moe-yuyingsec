@@ -20,3 +20,4 @@ Curriculum
 
 [Craft & Technology](/curriculum/Craft-and-Technology/)
 
+[Physical Education](/curriculum/Physical-Education/)
