@@ -17,3 +17,6 @@ Curriculum
 ### [Science](/curriculum/Science/)
 
 [Humanities](/curriculum/Humanities/)
+
+[Craft & Technology](/curriculum/Craft-and-Technology/)
+
