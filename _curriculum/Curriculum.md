@@ -15,3 +15,5 @@ Curriculum
 ### [Mathematics](/curriculum/Mathematics/)
 
 ### [Science](/curriculum/Science/)
+
+[Humanities](/curriculum/Humanities/)
