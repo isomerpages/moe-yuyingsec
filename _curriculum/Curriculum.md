@@ -13,3 +13,5 @@ Curriculum
 ### [Mother Tongue Languages](/curriculum/Mother-Tongue-Languages/)
 
 ### [Mathematics](/curriculum/Mathematics/)
+
+### [Science](/curriculum/Science/)
