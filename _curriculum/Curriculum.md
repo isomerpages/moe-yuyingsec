@@ -16,8 +16,10 @@ Curriculum
 
 ### [Science](/curriculum/Science/)
 
-[Humanities](/curriculum/Humanities/)
+### [Humanities](/curriculum/Humanities/)
 
-[Craft & Technology](/curriculum/Craft-and-Technology/)
+### [Craft & Technology](/curriculum/Craft-and-Technology/)
 
-[Physical Education](/curriculum/Physical-Education/)
+### [Physical Education](/curriculum/Physical-Education/)
+
+### [Music Curriculum](/curriculum/Music-Curriculum/)
