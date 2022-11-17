@@ -9,7 +9,7 @@ third_nav_title: Uniformed Groups
 Girls' Brigade
 ==============
 
-**Teachers-in-charge:**
+<b> Teachers-in-charge: </b>
 
 Ms. Hannah Tan (OIC)
 
@@ -19,7 +19,7 @@ Miss Melanie Sim
 
 Miss Ershen Kaur
 
-**Leaders:**
+<b> Leaders: </b>
 
 President - Ang Yee Ting Adrina
 
@@ -27,7 +27,7 @@ Vice-President - Ng Tian Xuan Keena
 
   
 
-**Training Schedule:** 
+<b> Training Schedule: </b>
 
 Saturday: 0900 - 1300
 
