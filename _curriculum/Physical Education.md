@@ -119,3 +119,5 @@ The department also takes pride in offering Exercise and Sports Science (ESS) as
 ### Key Events
 
 * #####    **112 Km Challenge**
+
+![](/images/PE2.png)
