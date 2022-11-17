@@ -102,7 +102,7 @@ Learning Journeys are integral to the holistic development of students. We belie
 
   
 
-Integrated Learning Journeys are planned to provide experiential learning that deepens the students’ understanding. Some of the learning journeys we have brought students for includes local learning journeys to the Hindhede Nature Park where Geography students carry out fieldwork activities, Former Ford Factory where our History students extend their Historical understanding of the war and the Universal Studio Singapore, to deepen our EBS students’ understanding of the tourism industry.
+Integrated Learning Journeys are planned to provide experiential learning that deepens the students’ understanding. Some of the learning journeys we have brought students for includes local learning journeys to the Hindhede Nature Park and historical districts such as Kampong Glam and tourist attractions like Orchard Road, where Geography students carry out fieldwork activities, Former Ford Factory where our History students extend their Historical understanding of the war and the Universal Studio Singapore, to deepen our EBS students’ understanding of the tourism industry.
 
 <figure><img src="/images/LJ.png" style="width:100%"><figcaption> Photographs of our Sec 1 Learning Journey to the Hindhede Nature Park</figcaption></figure>
 
