@@ -13,13 +13,13 @@ Here at Yuying, our Learning for Life Programme (LLP), YUYING C.A.R.E.S (Collabo
 ### Growing Through Varied Experiences
 
 
-YUYING C.A.R.E.S provides cohort-wide leadership training and values-in-action opportunities for the Secondary One through Three students through the EPIC process. 
+YUYING C.A.R.E.S provides cohort-wide leadership training and values-in-action opportunities for the Secondary One through Three students through the EPIC process.
 
 #### Secondary 1
 
 ##### LLP Focus: Environment
 
-Secondary 1 students develop their understanding of environmental issues as part of their Geography Investigation curriculum and deepen their knowledge through learning journeys. They are given the opportunity to apply their learning by undertaking environmental advocacy projects and sharing the message of 3R (Reduce, Reuse & Recycle) with the community.
+Secondary 1 students develop their understanding of environmental issues as part of their Geography Investigation curriculum and deepen their knowledge through learning journeys. They are given the opportunity to apply their learning by undertaking environmental advocacy projects and sharing the message of 3R (Reduce, Reuse & Recycle) with the community with their classmates.
 
 ![](/images/LLP1.png)
 
