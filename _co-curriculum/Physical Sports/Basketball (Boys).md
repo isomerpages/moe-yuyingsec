@@ -9,7 +9,7 @@ third_nav_title: Physical Sports
 Basketball (Boys)
 =================
 
-**Teachers-in-charge:**
+<b> Teachers-in-charge: </b>
 
 Mr Chia Kah Kheng
 
@@ -19,19 +19,19 @@ Miss Wee Li Hui
 
 Mrs Jennifer Wong
 
-**Leaders:**
+<b> Leaders: </b>
 
 Captain: Fiyaz Ahmad Khan
 
 Vice Captain: Reyes Yeo Zhibin
 
-**Training Schedule:** 
+<b> Training Schedule: </b>
 
 Monday: 1440 - 1710
 
 Wednesday: 1440 - 1640
 
-**Achievement:**
+<b> Achievement: </b>
 
 2022 - National School Games (South Zone) : 2nd Round (B Boys)  
 
