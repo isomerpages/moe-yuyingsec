@@ -21,9 +21,9 @@ CS04 Ms Yee Sze Jia (Advisor)
 
 **Leaders:**
 
-OIC - CPL Crystabel Ooi
+OIC - CPL Andrea Joy Leong Renhui
 
-Head of Training - CPL Beh Sui You
+AIC - CPL Tessa Lee Xin Hui
 
 St. John Brigade Singapore exists because of its Vision and Motto “For the Faith” and “For the Service of Mankind”. Members are trained in Basic First Aid (BFA) and Cardiopulmonary Resuscitation (CPR). Equipped with professional knowledge and life-saving skills, cadets will practice and gain first-hand experiences when they carry out public duties. Cadets will also receive holistic training in the area of event planning, leadership, responsibility and teamwork. Cadets can gain experiences and badges in four main areas: welfare and services, outdoor activities, and craft and hobbies.
 
