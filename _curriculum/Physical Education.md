@@ -31,3 +31,5 @@ PE Department
 
 
 <figure><img src="/images/PE.png" style="width:95%"><figcaption> Photo from left: Mr Tan Boon Kann, Mr Don Zhang, Ms Sim Yin Hui, Mr Lawrence Lim, Ms Melissa Leow, Ms Jennifer Soh, Mdm Amy Wong and Mr Iskhandar</figcaption></figure>
+
+The department embraces a blended approach to equip pupils with the knowledge, life-skills and learning experience. This is to equip students with the 21CCs to be able to adapt competently and show resilience in a Volatile, Uncertain, Complex, Ambiguous (V.U.C.A.) environment.
