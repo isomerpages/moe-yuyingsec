@@ -125,3 +125,5 @@ The department also takes pride in offering Exercise and Sports Science (ESS) as
 To commemorate the school’s 112th anniversary, in tandem with cultivating a culture of exercising regularly together, the department introduced the 112 km Resilience Challenge. The students within each class collectively worked together to achieve the collective goal of 1120 km using a running app, with awards distributed to the top 3 classes from each level with the longest distances. For students who were able to clock 112 km individually, they were awarded with a “Resilience Challenge 112 km” shirt!
 
 * #####    **Yuying Olympic - Paralympic Fortnight (YO-PF)**
+
+![](/images/PE3.jpeg)
