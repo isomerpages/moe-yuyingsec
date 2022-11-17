@@ -8,7 +8,6 @@ description: ""
 Science
 =======
 
-![](/images/Science.jpeg)
 
 #### Mission
 
