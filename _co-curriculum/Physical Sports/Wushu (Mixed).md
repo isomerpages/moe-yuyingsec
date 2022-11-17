@@ -9,7 +9,7 @@ third_nav_title: Physical Sports
 Wushu (Mixed)
 =============
 
-**Teachers-in-charge:**
+<b> Teachers-in-charge: </b>
 
 Ms Wang Hsiao Yu
 
@@ -21,13 +21,13 @@ Ms Kiw Hui Xin
 
   
 
-**Leaders:**
+<b> Leaders: </b>
 
 Chairman: Low Zi Rong
 
 Vice Chairman: Tan Shi En
 
-**Training Schedule:** 
+<b> Training Schedule: </b>
 
 Tuesday: 1445 - 1745
 
