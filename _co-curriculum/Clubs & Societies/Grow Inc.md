@@ -9,7 +9,7 @@ third_nav_title: Clubs & Societies
 Grow-Inc
 ========
 
-**Teachers-in-charge:**
+<b> Teachers-in-charge: </b>
 
 Ms Candice Yong 
 
@@ -17,13 +17,13 @@ Mr Low Zhiyong
 
   
 
-**Leaders**
+<b> Leaders </b>
 
 Chairman - Clarissa Ng Wen Xuan 
 
 Vice Chairman - Aqilah Qu’aysya Binte Mohammed Hermi
 
-**Training Session:**
+<b> Training Session: </b>
 
 Thursday 3 p.m. to 5 p.m.
 
