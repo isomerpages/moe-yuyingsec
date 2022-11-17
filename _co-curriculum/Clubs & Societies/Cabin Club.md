@@ -9,7 +9,7 @@ third_nav_title: Clubs & Societies
 Cabin Club
 ==========
 
-**Teachers-in-charge** 
+<b> Teachers-in-charge </b> 
 
 Mdm Lathamagesh
 
@@ -17,7 +17,7 @@ Ms Yee Sze Jia 
 
   
 
-**Leaders**
+<b> Leaders </b> 
 
 Chairman : Rey Teo Hao En 
 
@@ -25,7 +25,7 @@ Vice Chairman : Mohamed Arshad Bin Mohamed Khaled 
 
   
 
-**CCA Day:**
+<b> CCA Day: </b> 
 
 Wednesday 3pm to 5pm 
 
