@@ -9,7 +9,7 @@ third_nav_title: Clubs & Societies
 Literary Society
 ================
 
-**Teachers-in-Charge:**
+<b> Teachers-in-Charge: </b>
 
 Ms Hope Sng
 
@@ -17,15 +17,15 @@ Miss Therese Pereira
 
   
 
-**Leaders:**
+<b> Leaders: </b>
 
-Chairperson - Ong Shi Lin
+Chairperson - Nurtik Alfrina 
 
-Vice-Chairperson - Nishun Ingnam
+Vice-Chairperson - Cai Xinyu
 
   
 
-**Training Sessions:** 
+<b> Training Sessions: </b>
 
 Monday: 1530 - 1630
 
