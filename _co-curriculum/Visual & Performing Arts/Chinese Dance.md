@@ -9,7 +9,7 @@ third_nav_title: Visual & Performing Arts
 Chinese Dance
 =============
 
-**Teachers-in-charge:**
+<b> Teachers-in-charge: </b>
 
 Mdm Gao Xia (OIC)
 
@@ -17,7 +17,7 @@ Mdm Zhou Hui
 
   
 
-**Dance Instructors:**
+<b> Dance Instructors: </b>
 
 Ms Li Ruimin
 
@@ -25,15 +25,15 @@ Ms Elizabeth Chan
 
   
 
-**Leaders:**
+<b> Leaders: </b>
 
-Chairpersons – Vionna Lee Wen Xin, Lia Mah Weng Hee
+Chairperson – Alethea Koung 
 
-Vice-Chairpersons – Tiffany Gan Jia Hui, Chloe Lee Peiyi
+Vice-Chairperson – Jesseca Hui Yu Qing 
 
   
 
-**Training Schedule:** 
+<b> Training Schedule: </b>
 
 Tuesday: 1530 - 1730
 
@@ -41,4 +41,12 @@ Friday: 1400 - 1700
 
   
 
-Despite the COVID-19 pandemic, online training sessions still continued to ensure that members were actively engaged. The Singapore Youth Festival (SYF) 2021 was the highlight of the year for us. Our dancers received extensive training from their dance instructors to polish up their dance moves. With the Safe Management Measures (SMM) in place, SYF 2021 proved to be more difficult than previous years. The dancers' dedication and passion were evident in their hard work and effort. The dancers brought honour to the school by earning a Certificate of Distinction for SYF 2021.
+In Yuying Chinese Dance (YYCD), dance members will learn more about the beauty of Chinese dance and movement. Dancers will develop their skills and techniques through basic exercises such as warming up postures, breathing exercises, and learn to better integrate themselves in the dance group and present themselves confidently on stage during performances. This CCA fosters dancers’ passion in Chinese culture, a love of rhythmic and melodic expression, teamwork, and the values of caring and respecting one another.
+
+  
+
+By the end of their secondary school journey, dancers will possess the relevant skills and performance experiences. For instance, they will have opportunities to perform during the Secondary 1 Orientation concert, Lunar New Year celebrations, Speech Day and Open House. Apart from that, dancers will also participate in the biennial Singapore Youth Festival competitions, and other external events and competitions.
+
+  
+
+YYCD has a good track record over the years in the Singapore Youth Festival (SYF) Arts Presentation. The dancers' dedication and passion were evident as they brought honour to the school by earning Certificates of Distinction for SYF in both 2019 & 2021.
