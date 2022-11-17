@@ -37,3 +37,5 @@ After having learnt an instrument in Secondary One, students advancing to Second
 At the end of the two years, we believe that students will be nurtured into more confident, resilient and creative individuals who will be able to inspire others with their talents in the future.
 
 ![](/images/Musicc5.jpeg)
+
+![](/images/Musicc6.jpeg)
