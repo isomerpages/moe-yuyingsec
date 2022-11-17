@@ -43,7 +43,7 @@ Yuying NPCC Unit strives to realise the Corps' Mission and Vision by providing a
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-t4v0{border-color:#000000;color:#313942;font-size:16px;text-align:center;vertical-align:top}
+.tg .tg-4z30{border-color:#ffffff;color:#313942;font-size:16px;text-align:center;vertical-align:top}
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 602px">
 <colgroup>
@@ -52,14 +52,14 @@ Yuying NPCC Unit strives to realise the Corps' Mission and Vision by providing a
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-t4v0">2020</th>
-    <th class="tg-t4v0">2021</th>
+    <th class="tg-4z30">2020</th>
+    <th class="tg-4z30">2021</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-t4v0">Unit Overall Proficiency Award - Silver </td>
-    <td class="tg-t4v0">Unit Overall Proficiency Award - Gold </td>
+    <td class="tg-4z30">Unit Overall Proficiency Award - Silver </td>
+    <td class="tg-4z30">Unit Overall Proficiency Award - Gold </td>
   </tr>
 </tbody>
 </table>
