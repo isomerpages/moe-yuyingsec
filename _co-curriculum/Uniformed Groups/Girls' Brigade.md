@@ -21,9 +21,9 @@ Miss Ershen Kaur
 
 **Leaders:**
 
-President - Tan Sin Hui Sara
+President - Ang Yee Ting Adrina
 
-Vice-President - Ang Hwee Voon Andrea
+Vice-President - Ng Tian Xuan Keena
 
   
 
@@ -37,4 +37,4 @@ The Girls’ Brigade's mission is to develop each girl and officer to her fulles
 
   
 
-The Girls' Brigade 70th Company has provided our girls with valuable experiences and meaningful interactions. This has developed a sense of pride and belonging in our girls towards the CCA, and has led to graduated seniors coming back to help out with activities planned by the company. Through passion and hard work, the 70th Company has achieved good results thus far, achieving the Company Gold Award consecutively for the past 12 years since 2009.
+The Girls' Brigade 70th Company has provided our girls with valuable experiences and meaningful interactions. This has developed a sense of pride and belonging in our girls towards the CCA, and has led to graduated seniors coming back to help out with activities planned by the company. Through passion and hard work, the 70th Company has achieved good results thus far, achieving the Company Gold Award consecutively for the past 13 years since 2009.
