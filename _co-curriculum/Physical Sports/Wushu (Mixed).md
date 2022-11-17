@@ -23,17 +23,15 @@ Ms Kiw Hui Xin
 
 **Leaders:**
 
-Chairman: Tan Yee Sun Astin 
+Chairman: Low Zi Rong
 
-Vice Chairman: Ho Tzeng Ee, Kylia
-
-  
+Vice Chairman: Tan Shi En
 
 **Training Schedule:** 
 
-Tuesday: 1500 - 1800
+Tuesday: 1445 - 1745
 
-Thursday: 1500 - 1800
+Thursday: 1445 - 1745
 
   
 
