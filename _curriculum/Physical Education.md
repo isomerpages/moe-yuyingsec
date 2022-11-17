@@ -94,3 +94,28 @@ The department embraces a blended approach to equip pupils with the knowledge, l
   </tr>
 </tbody>
 </table>
+
+
+### Structured Sports eXposure (SSX)  
+
+
+The following sports are organised to promote an active and healthy lifestyle for all levels in the school.
+
+Secondary 1 - Netball and Volleyball
+
+Secondary 2 - Pickleball and Basketball
+
+Secondary 3 - Badminton and Futsal
+
+Secondary 4 - Floorball and Softball
+
+Secondary 5 - Tag Rugby and Scoop Ball
+
+All levels - Physical Health and Fitness (PHF) and Outdoor Education (OE)
+
+The department also takes pride in offering Exercise and Sports Science (ESS) as a GCE ‘O’ Level Subject. Exercise and Sports Science (ESS) is an interdisciplinary subject where students are grounded in the sub-disciplines of sports science with an understanding of sociology in relation to sports. Through the study of ESS,  students will develop disciplinary thinking and practices of the subject and thus interdisciplinary understanding.
+
+
+### Key Events
+
+* #####    **112 Km Challenge**
