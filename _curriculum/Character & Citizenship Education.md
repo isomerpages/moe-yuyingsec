@@ -32,11 +32,25 @@ Lifelong Learners
 
 ![](/images/CCE3.png)
 
-#### Our Developmental Programmes
+### Our Developmental Programmes
 
 Developing the Head, Heart and Hand
 
 ![](/images/CCE4.jpeg)
+
+### Our Key ECG Programmes:
+
+#### Our Key ECG Programmes:
+
+*   Careers Day for Sec 4 & 5
+*   EAE Application and Interview Skills Workshop  
+    
+*   Sec 3 NA & 2NT ITE Attachment Programmes  
+    
+*   Elective Modules for Sec 2 & 3 NA & NT
+*   Learning programmes with IHLs and Industries
+
+![](/images/CCE.jpeg)
 
 #### PRAISE Awards
 
@@ -45,11 +59,11 @@ Developing the Head, Heart and Hand
 **PRAISE stands for** **P**ositive **R**einforcement & **A**ffirmation for the d**I**splay of Desired **S**tudent Outcom**E**s
 
 
-**Objective:** To recognise and affirm students who are consistently demonstrating the school’s four Desired Student Outcomes in their daily lives.
+<u><b> Objective: </b></u> To recognise and affirm students who are consistently demonstrating the school’s four Desired Student Outcomes in their daily lives.
 
   
 
-**4 Types of Awards**
+<u><b> 4 Types of Awards</b></u>
 
 1.  Lifelong Learner
 2.  Compassionate Leader
