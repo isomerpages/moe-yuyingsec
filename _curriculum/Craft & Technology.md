@@ -81,9 +81,9 @@ As such, the empathy-based curriculum is designed to engage the students with re
 ![](/images/Tech.gif)
 
 ### Nutrition & Food Science
-------------------------
 
-**Enrichment**
+
+##### **Enrichment**
 
 *   Experience growing of crops as ingredients in their own dishes for Secondary Two students.
 *   Gamification as learning experience for Lower Secondary students.
