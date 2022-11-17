@@ -141,3 +141,6 @@ YO-PF week was a key event that was conducted to build awareness of Paralympic s
 * #####    **Tiktoks in PE**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kBIAHAQ87QU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+Tired of the mundane approaches to assessment? Do you know how to create Tik Tok videos? That’s great! For formative assessment, students used the Tik Tok platform to demonstrate their knowledge and understanding of their learnt sport. Students enjoyed the process of brainstorming ideas with one another, filming and editing content through a novel and creative approach to demonstrate their learning.
