@@ -29,5 +29,3 @@ Gleaning from lessons learnt during the Covid-19 Home-based Learning and Circuit
 40% - Coursework: Planning and enactment of developmental training log
 
 20% - Practical assessment of one individual/ dual and one team physical activity
-
-![](/images/ESS.gif)
