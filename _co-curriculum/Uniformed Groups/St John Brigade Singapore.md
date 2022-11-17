@@ -9,7 +9,7 @@ third_nav_title: Uniformed Groups
 St. John Brigade Singapore
 ==========================
 
-**Teachers-in-charge:**
+<b> Teachers-in-charge: </b>
 
 CS05 Mr Arul Vadivelan (OIC)
 
@@ -19,7 +19,7 @@ Mdm Tan Soon Lee 
 
 CS04 Ms Yee Sze Jia (Advisor)
 
-**Leaders:**
+<b> Leaders: </b>
 
 OIC - CPL Andrea Joy Leong Renhui
 
@@ -29,6 +29,6 @@ St. John Brigade Singapore exists because of its Vision and Motto “For the Fai
 
   
 
-**Training Sessions** 
+<b> Training Sessions </b>
 
 Our weekly training sessions are held on Friday afternoons from 2.30PM to 5.30PM. On many occasions, our cadets are also sent out for educational and enrichment activities planned by St. John Singapore HQ.
