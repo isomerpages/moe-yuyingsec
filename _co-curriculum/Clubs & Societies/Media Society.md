@@ -9,7 +9,7 @@ third_nav_title: Clubs & Societies
 Media Society
 =============
 
-**Teachers-in-charge:**
+<b> Teachers-in-charge: </b>
 
 Mdm Tan Lin
 
@@ -17,15 +17,15 @@ Mr Leong Kah Hoong
 
   
 
-**Leaders:**
+<b> Leaders: </b>
 
-Chairperson - Aven Goh Shao Hong 
+Chairperson - Lim Si Ting 
 
-Vice-Chairperson - Caleb Ong Kai Qi
+Vice-Chairperson - Mavis Lau
 
   
 
-**Training Session:**
+<b> Training Session: </b>
 
 Tuesday 3 p.m. to 5 p.m.
 
