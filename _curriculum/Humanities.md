@@ -68,23 +68,30 @@ The study of Humanities utilises the use of inquiry. This approach encourages qu
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-r6qm{background-color:#FFF;color:#313942;text-align:center;vertical-align:top}
+.tg .tg-aicz{color:#313942;text-align:center;vertical-align:top}
+.tg .tg-z3cj{color:#313942;text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-r6qm"><span style="font-weight:400;color:#313942">Year</span></th>
-    <th class="tg-r6qm"><span style="font-weight:400;color:#313942">Achievements</span></th>
-    <th class="tg-r6qm"><span style="font-weight:400;color:#313942">Awardee’s Information</span></th>
-    <th class="tg-r6qm"><span style="font-weight:400;color:#313942">Details</span></th>
+    <th class="tg-aicz"><span style="font-weight:400;color:#313942">Year</span></th>
+    <th class="tg-aicz"><span style="font-weight:400;color:#313942">Achievements</span></th>
+    <th class="tg-aicz"><span style="font-weight:400;color:#313942">Awardee’s Information</span></th>
+    <th class="tg-aicz"><span style="font-weight:400;color:#313942">Details</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-r6qm"><br><span style="font-weight:400;color:#313942">2021</span></td>
-    <td class="tg-r6qm"><br><span style="font-weight:400;color:#313942">Advance Elective Module @ Temasek Polytechnic - Digital Tools for Accounting &amp; Investment </span></td>
-    <td class="tg-r6qm"><br>25 Sec 3 students<br></td>
-    <td class="tg-r6qm"><span style="font-weight:400;color:#313942">22 Passes with commendations</span><br><br><span style="font-weight:400;color:#313942">3 Passes</span></td>
+    <td class="tg-aicz"><span style="font-weight:400;color:#313942">2021</span></td>
+    <td class="tg-aicz"><span style="font-weight:400;color:#313942">Advance Elective Module @ Temasek Polytechnic - Digital Tools for Accounting &amp; Investment </span></td>
+    <td class="tg-aicz"><span style="font-weight:400;color:#313942">25 Sec 3 students</span></td>
+    <td class="tg-aicz"><span style="font-weight:400;color:#313942">22 Passes with commendations</span><br><span style="font-weight:400;color:#313942">3 Passes</span></td>
+  </tr>
+  <tr>
+    <td class="tg-z3cj"> 2022</td>
+    <td class="tg-z3cj">NUS Geography Challenge </td>
+    <td class="tg-z3cj"> A team of Secondary 3 students</td>
+    <td class="tg-z3cj"> Certificate of Commendation</td>
   </tr>
 </tbody>
 </table>
