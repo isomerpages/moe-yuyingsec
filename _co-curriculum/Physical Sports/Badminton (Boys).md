@@ -9,7 +9,7 @@ third_nav_title: Physical Sports
 Badminton (Boys)
 ================
 
-**Teachers-in-charge:**
+<b> Teachers-in-charge: </b>
 
 Mdm Amy Wong 
 
@@ -19,7 +19,7 @@ Ms Amelia Goh
 
   
 
-**Leaders:** 
+<b> Leaders: </b> 
 
 Captain Manoj Ghale 
 
@@ -27,7 +27,7 @@ Vice Captain Lock Sheng Yong 
 
   
 
-**Training Schedule:** 
+<b> Training Schedule: </b> 
 
 Monday: 1530 - 1730
 
