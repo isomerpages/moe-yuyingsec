@@ -9,7 +9,7 @@ third_nav_title: Uniformed Groups
 Boys' Brigade
 =============
 
-**Teachers-in-charge:**
+<b> Teachers-in-charge: </b>
 
 Mr Darren Kung (Sec 1 Coordinator)
 
@@ -19,7 +19,7 @@ Mr Kelvin Goh (Sec 3 Coordinator)
 
 Mr Ong Teck Yew (Sec 4/5 Coordinator)
 
-**Leaders:**
+<b> Leaders: </b>
 
 Company Sergeant Major - CPL Ainsley Ngern Yi Han
 
@@ -27,18 +27,18 @@ Assistant Company Sergeant Major - PTE Neo En Ning
 
   
 
-**Training Schedule:** 
+<b> Training Schedule: </b>
 
 Saturday: 0900 - 1300
 
   
 
-**Recent Achievements:** 
+<b> Recent Achievements: </b>
 
 *   BB AdventuRe:Ignite (BB Blaze) 2022: Gold Award
 *   BB Character Quest 2021: Gold Award
 
-**Recent Contributions to the Community:** 
+<b> Recent Contributions to the Community: </b>
 
 *   BB CARES 2022: collaboration with Bethesda Care Services to clean up homes of elderly beneficiaries
 *   Participated in mixed contingent at Paya Lebar-Kovan Community Centre 
