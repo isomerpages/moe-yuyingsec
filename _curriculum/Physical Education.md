@@ -127,3 +127,13 @@ To commemorate the school’s 112th anniversary, in tandem with cultivating a cu
 * #####    **Yuying Olympic - Paralympic Fortnight (YO-PF)**
 
 ![](/images/PE3.jpeg)
+
+Secondary 1 - Sit-down volleyball
+
+Secondary 2 - Seated Petanque
+
+Secondary 3 - Goalball
+
+Secondary 4 and 5 - Blind Cricket
+
+YO-PF week was a key event that was conducted to build awareness of Paralympic sports and values among our students. Paralympic week was also conducted to try to change the way young people view disabilities and promote their participation in these sports. To culminate our Yuying Olympic Paralympic Fortnight (YOPF), we invited Miss Joan Hung, a national goalball athlete, to share more about her experiences as an athlete with visual impairment and how she challenged herself to overcome life’s obstacles.
