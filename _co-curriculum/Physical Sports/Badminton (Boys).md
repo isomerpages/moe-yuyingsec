@@ -21,9 +21,9 @@ Ms Amelia Goh
 
 **Leaders:** 
 
-Captain Ang Zhen Yu Jayden 
+Captain Manoj Ghale 
 
-Vice Captain Toh Chen Hao 
+Vice Captain Lock Sheng Yong 
 
   
 
