@@ -28,3 +28,6 @@ PE Department
   
 
 ### Our Mission
+
+
+<figure><img src="/images/PE.png" style="width:95%"><figcaption> Photo from left: Mr Tan Boon Kann, Mr Don Zhang, Ms Sim Yin Hui, Mr Lawrence Lim, Ms Melissa Leow, Ms Jennifer Soh, Mdm Amy Wong and Mr Iskhandar</figcaption></figure>
