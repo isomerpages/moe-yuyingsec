@@ -54,3 +54,5 @@ They will be exposed to the discipline and rigour of a soldier such as learning 
 Many of the Cadets have the opportunity to hone their leadership skills through their time in secondary school, rising up the ranks and graduating as Staff Sergeants, with many moving on to become Cadet Officers at their respective tertiary institutions.
 
 ![](/images/NCC1.jpeg)
+
+![](/images/NCC2.jpeg)
