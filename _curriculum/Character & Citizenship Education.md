@@ -38,7 +38,6 @@ Developing the Head, Heart and Hand
 
 ![](/images/CCE4.jpeg)
 
-### Our Key ECG Programmes:
 
 #### Our Key ECG Programmes:
 
