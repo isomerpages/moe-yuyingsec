@@ -9,7 +9,7 @@ third_nav_title: Clubs & Societies
 Photography Club
 ================
 
-**Teachers-in-charge:**
+<b> Teachers-in-charge: </b>
 
 Mr Danny Louis
 
@@ -17,22 +17,26 @@ Miss Soo Pei Chia
 
   
 
-**Leaders:**
+<b> Leaders: </b>
 
-Chairperson – Janelle Lim
+Chairperson – Syaheera Binte Wahab
 
-Vice-Chairperson – Charissa Octavia Asmoro
+Vice-Chairperson  – Tan Kai Xin
 
-  
+	                                  – Dannis Tan Wei Jie
 
-**Training Session:**
+
+
+
+
+
+
+
+
+<b> Training Session: </b>
 
 Tuesday 2:30 p.m. to 4.30 p.m.
 
   
 
-In Yuying Photography Club, our members are nurtured to develop keen observation skills of their environment and space, using their imagination and creativity to paint a narrative and using photography as an artistic medium to communicate their ideas. They are taught basic camera handling techniques and post-production skills to further enhance their photos. Members get opportunities to go on learning journeys to different parts of Singapore to hone the photography skills they have learnt. They also take part in photography competitions to gain exposure and build on their confidence.
-
-  
-
-For 2021, strict SMM measures were put in place to ensure that the members were able to carry on their training safely, be it face-to-face or virtually.
+In Yuying Photography Club, our members are nurtured to develop keen observation skills of their environment and space, using their imagination and creativity to paint a narrative and using photography as an artistic medium to communicate their ideas. They are taught basic camera handling techniques and post-production skills to further enhance their photos. Members get opportunities to go on learning journeys to different parts of Singapore to hone the photography skills they have learnt. They also take part in photography competitions, such as Our Schools,  Our Stories 2022, to gain exposure and build on their confidence.
