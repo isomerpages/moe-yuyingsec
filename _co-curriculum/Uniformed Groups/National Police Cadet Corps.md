@@ -9,7 +9,7 @@ third_nav_title: Uniformed Groups
 National Police Cadet Corps
 ===========================
 
-**Teachers-in-charge:**
+<b> Teachers-in-charge: </b>
 
 Mrs Tan Ruiqi (OC)
 
@@ -21,7 +21,7 @@ Ms Stephenie Choy
 
 Mr Ahmadsallehin Zulkiflee   
 
-**Leaders:**
+<b> Leaders:</b>
 
 Chairperson - SSG Elysia The Wei Lin
 
@@ -29,7 +29,7 @@ Vice-Chairperson - SSG Muhammad Nor Haziq bin Samsudin
 
   
 
-**Training Schedule:** 
+<b> Training Schedule: </b> 
 
 Friday: 1430 - 1745
 
