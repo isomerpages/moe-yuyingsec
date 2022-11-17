@@ -147,12 +147,15 @@ Students are expected to exercise integrity and take responsibility for their a
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-2ba9{background-color:#FFF;color:#313942;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-vox4{font-size:16px;font-weight:bold;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 946px">
+<colgroup>
+<col style="width: 946px">
+</colgroup>
 <thead>
   <tr>
-    <td class="tg-2ba9">The Discipline Committee reserves the right to decide on and carry out follow-up actions it deems appropriate, for breach of the Code of Conduct. The Committee also reserves the right to review the Code of Conduct and make amendments where necessary.</td>
+    <td class="tg-vox4">The Discipline Committee reserves the right to decide on and carry out follow-up actions it deems appropriate, for breach of the Code of Conduct. The Committee also reserves the right to review the Code of Conduct and make amendments where necessary.</td>
   </tr>
 </thead>
 </table>
