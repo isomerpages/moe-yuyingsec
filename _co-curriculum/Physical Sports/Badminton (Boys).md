@@ -49,9 +49,3 @@ The ‘B’ and ‘C’ divisions train together and this fosters team spirit in
 
 We are proud of our members who are passionate and want to develop their skills in the sport and we will continue to work towards helping them grow into better sportsmen, and more importantly - more responsible, disciplined and resilient people.
 
-![](/images/Badminton1.png)
-
-![](/images/Badminton2.png)
-
-![](/images/Badminton3.png)
-
