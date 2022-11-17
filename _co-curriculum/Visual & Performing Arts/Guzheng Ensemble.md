@@ -9,27 +9,25 @@ third_nav_title: Visual & Performing Arts
 Guzheng Ensemble
 ================
 
-**Teachers-in-charge:**
+<b> Teachers-in-charge: </b>
 
 Mdm De Chunyan
 
 Mrs Jaslyn Lim
 
-Mrs Jennifer Wong
-
 Ms Low Yuet Wan
 
   
 
-**Leaders:**
+<b> Leaders: </b>
 
-Chairperson: Lee Yi Way, James
+Chairperson: Lock Yi June Cheryl
 
-Vice-chairpersons: Chang Tai Ying and Lock Yi June Cheryl
+Vice-chairpersons: Jaden Goh Ee Teng and Jonathan Liew Ka Rong
 
   
 
-**Training Sessions:**
+<b> Training Sessions: </b>
 
 Monday 3:00 p.m. to 5.30 p.m.
 
