@@ -149,9 +149,9 @@ Students are expected to exercise integrity and take responsibility for their a
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-vox4{font-size:16px;font-weight:bold;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 759px">
+<table class="tg" style="undefined;table-layout: fixed; width: 726px">
 <colgroup>
-<col style="width: 759px">
+<col style="width: 726px">
 </colgroup>
 <thead>
   <tr>
