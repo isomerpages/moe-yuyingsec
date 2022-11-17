@@ -148,3 +148,13 @@ Tired of the mundane approaches to assessment? Do you know how to create Tik Tok
 * #####    **Interclass Games (ICG)**
 
 ![](/images/PE4.jpeg)
+
+There are various sports that all Yuying students participate in their secondary education journey, some of which are net-barrier (eg. pickleball and badminton), territorial-invasion (eg. futsal and frisbee) and striking-fielding sports (e.g. softball).
+
+
+* #####    **Highlights from Outdoor Education Lessons**
+
+![](/images/PE6.jpeg)
+
+
+There is so much more to PE lessons than sports and exercise! PE lessons are also used as platforms for students to be well-equipped with the skills and knowledge for outdoor learning. The series of outdoor education lessons forge greater relationships among peers while working together in varied activities. It also allows peers to interact with one another in a natural environment to develop appreciation of their surroundings and relationships. Students are presented with the task of setting up a shelter by constructing a basha together with their peers and cooking outdoors using the necessary equipment.
