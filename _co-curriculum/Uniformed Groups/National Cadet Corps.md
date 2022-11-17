@@ -9,7 +9,7 @@ third_nav_title: Uniformed Groups
 National Cadet Corps
 ====================
 
-**Teachers-in-charge:**
+<b> Teachers-in-charge: </b>
 
 Mr Rajesh William (CO)
 
@@ -19,7 +19,7 @@ Mr Tan Yurn Long
 
 Mr Low Zhiyong
 
-**Leaders:**
+<b> Leaders: </b>
 
 Unit Sergeant Major -  Lim Xu Kai, Shawn
 
@@ -27,19 +27,19 @@ Assistant Sergeant Major -  Stanley Tan Wei Jia 
 
   
 
-**Training Schedule:** 
+<b> Training Schedule: </b> 
 
 Friday: 1415 - 1800
 
   
 
-**Achievements:**
+<b> Achievements: </b>
 
 *   2020 Distinction for Unit Recognition
 *   2021 Cancelled 
 *   2022 Distinction for Unit Recognition
 
-**Contributions to the community:**
+<b> Contributions to the community: </b>
 
 *   Participated in combined UG contingent at Paya Lebar-Kovan Community Centre 
 *   National Day Observance Ceremony 2022
