@@ -8,11 +8,11 @@ description: ""
 Principal's Message
 ===================
 
-In tandem with ‘**MOE Learners for Life**’ approach in helping our students grow into Confident Singaporeans who will help to build a Competitive Singapore and a Cohesive Society, how does this approach of **Learning for Life** look like in Yuying Secondary School?
+In tandem with '<b> MOE Learners for Life </b>’ approach in helping our students grow into Confident Singaporeans who will help to build a Competitive Singapore and a Cohesive Society, how does this approach of <b> Learning for Life </b> look like in Yuying Secondary School?
 
   
 
-**Taking Ownership of Our Learning**
+<b> Taking Ownership of Our Learning </b>
 
   
 
@@ -28,7 +28,7 @@ Our students also dedicate time and space to pursue their interests outside the 
 
   
 
-**Having Multiple Pathways to Success**
+<b> Having Multiple Pathways to Success </b>
 
   
 
@@ -52,7 +52,7 @@ We see students actively helping each other out in the learning process, and it 
 
   
 
-**Becoming a Generation of Overcomers**
+<b> Becoming a Generation of Overcomers </b>
 
   
 
