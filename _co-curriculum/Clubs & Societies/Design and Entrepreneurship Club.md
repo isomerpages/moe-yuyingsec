@@ -9,7 +9,7 @@ third_nav_title: Clubs & Societies
 Design and Entrepreneurship Club
 ================================
 
-**Teacher-in-Charge:**
+<b> Teacher-in-Charge: </b>
 
 Mrs Cindy Chan
 
@@ -19,15 +19,15 @@ Mr Azman Suarti
 
   
 
-**Leaders:**
+<b> Leaders: </b>
 
-Chairman - Foo Xinyun Valerie
+Chairman - Tee Qing En
 
-Vice Chairman - Thu Ta Oo
+Vice Chairman - Kong Yun Xuan Elina
 
   
 
-**Training Session:**
+<b> Training Session: </b>
 
 Wednesday 2:30 p.m. to 5 p.m.
 
