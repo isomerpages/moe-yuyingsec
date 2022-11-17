@@ -9,7 +9,7 @@ third_nav_title: Visual & Performing Arts
 Malay Dance
 ===========
 
-**Teachers-in-charge:**
+<b> Teachers-in-charge: </b>
 
 Miss Zuraidah Bte Daud (OIC)
 
@@ -17,19 +17,17 @@ Mdm Suriyana Bte Jum’ani
 
   
 
-**Leaders:**
+<b> Leaders: </b>
 
-Chairperson – Juhanis Binte Juhari 
+Chairperson – Nurul Iman Binte Mohamad Hernani  
 
-Vice-chairperson – Sripriya Marri 
+Vice-chairperson – Ayu Walitiya Binte Walid 
 
-  
+<b> Training Schedule: </b>
 
-**Training Schedule:** 
+Wednesday 3.30pm - 6.00pm
 
-Wednesday: 1530 - 1800
-
-Thursday: 1530 - 1730
+Thursday 3.30pm - 5.30pm
 
   
 
