@@ -17,7 +17,6 @@ Parent Support Group
 [Parents-in-Education (PIE) Website by MOE](https://www.schoolbag.edu.sg/)
 
 ### Yuying Parent Support Group
----------------------------
 
 Yuying PSG was formed in July 2003 to engage parents in the process of educating our students.
 
