@@ -9,7 +9,7 @@ third_nav_title: Physical Sports
 Sepak Takraw (Boys)
 ===================
 
-**Teachers-in-charge:**
+<b> Teachers-in-charge: </b>
 
 Mdm Absa Ummal Binte MD Ali 
 
@@ -19,29 +19,30 @@ Mr. Syed Abubakar Alsree
 
   
 
-**Leaders:**
+<b> Leaders: </b>
 
-**B Boys Captain:** 
+<b> B Boys Captain: </b>
 
 Muhammad Danish Bin Nurfirdaus
 
-B Boys Vice Captain: 
+<b> B Boys Vice Captain: </b> 
 
 Muhammad Mazlan Khan Surattee Bin Roslan
 
   
 
-**C Boys Captain:** 
+<b> C Boys Captain: </b>
 
-Muzaffar Aniq Ilham Bin Mansor
+Muzaffar Aniq Ilham Bin Mansor   
+  
 
-C Boys Vice Captain: 
+<b> C Boys Vice Captain: </b>
 
 Nabil Haidar Bin Norizan
 
   
 
-**Training Schedule:** 
+<b> Training Schedule: </b>
 
 Tuesday: 1530 - 1730
 
@@ -61,4 +62,4 @@ Even after they complete their studies in Yuying Secondary School, our students 
 
   
 
-Especially in the past two years, the boys have demonstrated great resilience. While we took the utmost care to provide a safe, secure and positive learning environment for them, it has been a challenging period of time. Yet, when all physical sessions had to be adapted to online platforms such as Zoom, SLS and Google Forms, our athletes persevered in their learning and self-improvement. They continued to learn, grow and thrive to the best of their abilities, reflecting the core values, resilience, respect and responsibility.
+Especially in the past two years, the boys have demonstrated great resilience. While we took the utmost care to provide a safe, secure and positive learning environment for them, it has been a challenging period of time. Yet, when all physical sessions had to be adapted to online platforms such as Zoom, SLS and Google Forms, our athletes persevered in their learning and self-improvement. They continued to learn, grow and thrive to the best of their abilities, reflecting the core values, resilience, respect and responsibility. This year, all the Secondary 2 boys were selected to represent the school in the ‘C’ Boys Sepak Takraw National School Games. It was a great exposure for the boys especially for those who played the sport for the first time at a competitive level.
