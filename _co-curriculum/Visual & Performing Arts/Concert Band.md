@@ -9,7 +9,7 @@ third_nav_title: Visual & Performing Arts
 Concert Band
 ============
 
-**Teachers-in-charge:**
+<b> Teachers-in-charge: </b>
 
 Ms Ng Yun Xuan (OIC)
 
@@ -23,24 +23,27 @@ Mr Ang Eng Hong
 
   
 
-**Leaders:**
+<b> Leaders: </b>
 
-Drum Major – MUHAMMAD AQIIL NAZHMII BIN ADAM
+Drum Major – Muhammad Mufid Mirza Bin Noor Edham 
 
-Band Major - NG WAN ROU REANNE
+Band Major – Sherrin Wong Ka Shin
 
-  
+<b> Training Schedule: </b> 
 
-**Training Schedule:** 
+Thursday 3.30pm - 6.00pm
 
-Thursday: 1530 - 1800
+Friday 2.30pm - 6.00pm
 
-Friday: 1430 - 1800
+<b> “One Band! One Sound!” </b>
 
-  
-
-Despite having our planned CCA activities disrupted due to the ongoing pandemic, Yuying Concert Band (YYCB) has emerged stronger than ever by overcoming all the challenges that came our way as one united band. Our members continued to engage in the learning of music through the various online platforms where they displayed extraordinary levels of commitment and resilience as they quickly adapted to the new challenging way of learning music and playing their instrument online. We also once again conducted an e-investiture via ZOOM with live streaming for invited family members and friends. We made it a point to acknowledge the efforts put in by our members as we promoted them to their next rank in the CCA and share the joy with their families.   
+This is the energetic cheer you will often hear from Yuying Concert Band (YYCB) which is made up of about 100 passionate students, 5 dedicated teachers and 2 band directors.
 
   
 
-In 2021, we managed to obtain Certificate of Distinction in the Singapore Youth Festival (SYF) Arts Presentation for both our Flexi Band, as well as, Percussion Ensemble. In addition, we were also invited to perform the 2021 NDP Song (The Road Ahead) in a virtual collaboration with SAF band. Although we only had a short runway and very limited time to prepare for the above, our band members displayed tremendous resilience and perseverance during all our training sessions. We are really proud of them!
+In Yuying Concert Band, our members are provided with the opportunity to showcase their musical talents through public performances. Programmes such as combined schools year-end concerts, mentorship and music exchanges will be specially organised together with our sister school bands (Yishun Primary Concert Band, Pasir Ris Secondary Concert Band and Bukit Panjang Government High School Concert Band) for our band members. Our members also get the opportunity to hone their musical skills by attending music workshops conducted by professional Band Conductors which will be organised annually. 
+
+  
+
+In our effort to nurture the members as responsible future leaders, we conduct Leadership Camp to instill discipline, teamwork and values in them, as well as to empower the members with the skills and resilience to adapt to challenges.
+YYCB has a good track record over the years in Singapore Youth Festival (SYF) Arts Presentation and was invited to participate in several events by the Ministry of Education (MOE) Arts Education Branch (AEB) and other external agencies. In 2022, we were extremely honoured to be one of the four schools invited to perform in the National Day Parade 2022: Parade and Ceremony - Military Tattoo.
