@@ -8,30 +8,30 @@ description: ""
 Student Leadership
 ==================
 
-![](/images/Student%20Leader.jpeg)
+![](/images/SL.jpeg)
 
-### Vision:
+##### Vision:
 
 Every Student a Leader 
 
   
 
-### Mission:
+##### Mission:
 
 To Nurture Leadership Potential in Every Student 
 
   
 
-### Approach:
+##### Approach:
 
 To provide leadership opportunities for every student. To impart leadership skills through providing training at all levels. To leverage on students’ leadership skills through collaborating with external organizations in training and events. To inspire leadership excellence with recognition schemes.
 
-## Leadership Trainings
---------------------
+### Leadership Trainings
 
-Every Yuying student will be equipped with basic leadership skills. This is through the modules covered in CCE programmes for all levels. Students are then able to apply the values, skills and knowledge learnt by taking up leadership roles at class level, CCAs or school level. Student leaders will receive specific training for their roles. They are then given opportunities to apply the skills they have learnt through the activities / camps / events that they will have to organize. 
 
-**Class Level – Class Executive Committee:**
+Every Yuying student will be equipped with basic leadership skills. This is through the modules covered in CCE programmes for all levels. Students are then able to apply the values, skills and knowledge learnt by taking up leadership roles at class level, CCAs or school level. Student leaders will receive specific training for their roles. They are then given opportunities to apply the skills they have learnt through the activities / camps / events that they will have to organize.
+
+<b>Class Level – Class Executive Committee: (EXCO)</b>
 
 *   Chairman
 *   Vice-Chairman
@@ -43,35 +43,52 @@ Every Yuying student will be equipped with basic leadership skills. This is thro
 *   Classroom Manager (IT)
 *   Classroom Manager (Security)
 
-**CCA Level:**
+<b>CCA Level:</b>
 
 *   CCA leaders
-*   CCA Executive Committee
+*   CCA Executive Committee (EXCO)
 
-**School Level:**
+<b>School Level:</b>
 
 *   Ad-hoc leaders; Performing Arts Ambassadors
 *   Prefects
-*   Prefects Executive Committee
+*   Prefects Executive Committee  (EXCO)
 
-**What we do:**
+<b>What we do:</b>
 
-*   Planning, execution and facilitation of major school events such as Secondary One Orientation (YOOP), Student Leadership Investiture, Annual Prefects’ Camp, Prefects Leadership Trainings and Teachers’ Day Celebration;  
-      
-    
-*   Partnership with Mathematics Department in executing Inter-School Sudoku Competition and CCE committee for the Values-In-Action projects;   
-      
+*   Planning, execution and facilitation of major school events such as Secondary One Orientation (YOOP), Student Leadership Investiture, Annual Prefects’ Camp, Prefects Recruitment, Prefects Leadership Trainings and Teachers’ Day Celebration;  
     
 *   Partnership with external agencies for leadership trainings;  
-      
     
 *   In-house trainings for Class Executive Committee and Class Chairmen;  
-      
     
 *   Facilitating focus group discussions with students and school leaders
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C_ldV-d8v24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<b>Teachers in-charge:</b>
 
+Miss Nur Izzati Zainudin
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BKNpXvqHFI8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Mr Ang Eng Hong
+
+Miss Lee Wan Rong
+
+Mr Iskhandar Bin Abdul Talib
+
+  
+
+<b>Current Prefect EXCOs:</b>
+
+Eryn Lim Yu (Head Prefect)
+
+Yao Wen Ting (Head Prefect - Admin)
+
+Nur Nayli Hazwani Binte Hatnen (Secretary)
+
+Ng Le Yang (Head of Logistics)
+
+Tan Jin Huay (Head of Training)
+
+Debbie Ang Zi Yi (Head of Operations)
+
+Muhammed Fazrul Elifyan Bin Mohamed Azril  (Vice-Head of Operations)
