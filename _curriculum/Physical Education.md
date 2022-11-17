@@ -44,10 +44,10 @@ The department embraces a blended approach to equip pupils with the knowledge, l
 .tg .tg-bn4c{background-color:#c0c0c0;font-size:16px;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 502px">
+<table class="tg" style="undefined;table-layout: fixed; width: 602px">
 <colgroup>
-<col style="width: 251px">
-<col style="width: 251px">
+<col style="width: 301px">
+<col style="width: 301px">
 </colgroup>
 <thead>
   <tr>
