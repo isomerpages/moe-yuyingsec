@@ -50,3 +50,5 @@ By the end of their secondary school journey, dancers will possess the relevant 
   
 
 YYCD has a good track record over the years in the Singapore Youth Festival (SYF) Arts Presentation. The dancers' dedication and passion were evident as they brought honour to the school by earning Certificates of Distinction for SYF in both 2019 & 2021.
+
+![](/images/CD.jpeg)
