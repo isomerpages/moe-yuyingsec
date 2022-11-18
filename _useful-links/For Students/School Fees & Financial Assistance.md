@@ -105,9 +105,9 @@ School fees are collected to defray part of the cost of education. The current f
 </thead>
 <tbody>
   <tr>
-    <td class="tg-nz19" rowspan="2"><span style="color:#282828;background-color:transparent">Nationality</span></td>
+    <td class="tg-nz19" rowspan="2"><br><span style="color:#282828;background-color:transparent">Nationality</span></td>
     <td class="tg-nz19"><span style="color:#282828;background-color:transparent">Monthly</span></td>
-    <td class="tg-nz19" rowspan="2"><span style="color:#282828;background-color:transparent">*Monthly Miscellaneous Fee</span></td>
+    <td class="tg-nz19" rowspan="2"><br><span style="color:#282828;background-color:transparent">*Monthly Miscellaneous Fee</span></td>
     <td class="tg-nz19"><span style="color:#282828;background-color:transparent">Monthly</span></td>
   </tr>
   <tr>
