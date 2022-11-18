@@ -70,6 +70,36 @@ School Uniform & Booklist
 </tbody>
 </table>
 
+### School Uniform
+
+<b>Shanghai School Uniforms</b>
+
+Supplier of School Uniforms and PE Attire
+
+<b>Tel</b>: 6747 8037 (Retail@Ubi)
+
+<b>Tel</b>: 6352 2741 (Office)  
+  
+
+Retail@Ubi address: 63 Ubi Ave 1, #04-09, Singapore 408937
+
+  
+
+<b>Business Hours:</b>
+
+Mon - Sat from 10 a.m. to 6 p.m. (Lunch break from 1 p.m. to 2 p.m.)
+
+Closed on Sun & Public Holidays
+
+Note: Retail outlet at Bras Basah Complex has ceased operation.
+
+  
+
+<b>For Home delivery:</b>
+
+Make an online purchase @  [https://shop.shanghai-uniforms.com/product-category/yuying-secondary-school/](https://shop.shanghai-uniforms.com/product-category/yuying-secondary-school/) with $10 delivery charge and you will be required to create an online account
+
+
 ### School Booklist / Stationery List
 
 
