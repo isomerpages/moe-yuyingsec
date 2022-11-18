@@ -4,11 +4,10 @@ permalink: /useful-links/For-Parents/Parenting-Tips/
 description: ""
 third_nav_title: For Parents
 ---
-
 ![](/images/Useful%20Links.jpg)
 
-Managing Your Child's Emotions
-==============================
+Parenting Tips
+==============
 
 ![](/images/Managing%20Your%20Child's%20Emotions.jpeg)
 
