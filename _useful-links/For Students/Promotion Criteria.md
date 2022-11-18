@@ -17,11 +17,11 @@ Promotion Criteria
 .tg .tg-lb0h{color:#313942;text-align:left;vertical-align:top}
 .tg .tg-lle6{color:#313942;font-weight:bold;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 858px">
+<table class="tg" style="undefined;table-layout: fixed; width: 793px">
 <colgroup>
-<col style="width: 141px">
-<col style="width: 136px">
-<col style="width: 581px">
+<col style="width: 121px">
+<col style="width: 121px">
+<col style="width: 551px">
 </colgroup>
 <thead>
   <tr>
