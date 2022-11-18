@@ -141,6 +141,8 @@ Note: No pdfs for Sec 1
 
 [2023 Sec 3 NA G2 Booklist.pdf](/files/2023%20Sec%203%20NA%20G2%20Booklist.pdf)
 
+[2023 Sec 3 NT G1 Booklist.pdf](/files/2023%20Sec%203%20NT%20G1%20Booklist.pdf)
+
 
 ##### **Sec 4**
 
