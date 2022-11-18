@@ -34,6 +34,42 @@ School Uniform & Booklist
 
 <u><b>Physical Sales in School Schedule (By Appointment only)</u></b>
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-6vy7{color:#313942;font-size:16px;text-align:center;text-decoration:underline;vertical-align:top}
+.tg .tg-9h17{color:#313942;font-size:16px;text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 843px">
+<colgroup>
+<col style="width: 281px">
+<col style="width: 281px">
+<col style="width: 281px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-9h17">Period (Weekdays only)</th>
+    <th class="tg-9h17">Physical Sales in School</th>
+    <th class="tg-9h17">Appointment Mode</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-9h17">15 Nov to 2 Dec 2022<br><br>19 Dec to 23 Dec 2022<br><br>(9am to 3pm)</td>
+    <td class="tg-6vy7"><br>Textbooks only</td>
+    <td class="tg-9h17"><br>Bookshop at 62859442</td>
+  </tr>
+  <tr>
+    <td class="tg-9h17"><br>5 Dec to 16 Dec 2022<br><br>(9am to 3pm)</td>
+    <td class="tg-9h17"><br><br>Textbooks and Uniforms</td>
+    <td class="tg-9h17">Parents Gateway (PG) by <br><br>1 Dec 2022 or General Office at 62827968<br></td>
+  </tr>
+</tbody>
+</table>
+
 ### School Booklist / Stationery List
 
 
