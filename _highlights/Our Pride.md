@@ -9,16 +9,16 @@ Our Pride
 =========
 
 ### Alumni Achievement 2021
------------------------
+
 
 _Temasek Polytechnic_  
   
-**Alumni Achievement – Temasek Polytechnic**
+<b>Alumni Achievement – Temasek Polytechnic</b>
 
 ![](/images/Pride.png)
 
 ### Best Graduates 2021
--------------------
+
 
 _Nanyang Academy of Fine Arts_
 
@@ -27,7 +27,6 @@ _Nanyang Academy of Fine Arts_
 ![](/images/Best2.png)
 
 ### Realising my Dream One Step at a Time
--------------------------------------
 
 _Defying the odds to succeed and fulfil my passion to serve others_
 
@@ -58,9 +57,9 @@ I would like to extend my sincere thanks to everyone at Yuying Secondary School 
 
   
 
-**Tan Jing Kiat Elijah** 
+<b>Tan Jing Kiat Elijah 
 
-**4E3 2017**
+4E3 2017</b>
 
 #### ABOUT THE AWARD
 
@@ -69,13 +68,13 @@ The President’s Award represents the epitome of the Primers’ training in The
 ![](/images/BG2.png)
 
 ### A Convergence of Passion and Talent
------------------------------------
+
 
 Yuying Secondary School has many students to be proud of. But every once in a while, a student stands out from the rest, a shining beacon of talent and ability. 
 
   
 
-In 2018, **Danyal Shah Bin Ashren Shah** caught the attention of the school by being awarded the ASEAN School Games Best Sports Boy for Individual Sport as well as the Singapore Schools Sports Council Colours Award 2018 for Sepak Takraw. As if that was not enough of an achievement, he was also appointed as the Singapore Schools Team Captain (Sepak Takraw) in the ASEAN School Games 2018. He has represented Singapore not merely once but twice in the ASEAN School Games. Danyal has not only served in a leadership role, but he has also mentored newly appointed captains in his capacity as an advisor in the 2017 Sepak Takraw CCA Executive Committee. We applaud Danyal for his achievements and his service to others. 
+In 2018, <b>Danyal Shah Bin Ashren Shah</b> caught the attention of the school by being awarded the ASEAN School Games Best Sports Boy for Individual Sport as well as the Singapore Schools Sports Council Colours Award 2018 for Sepak Takraw. As if that was not enough of an achievement, he was also appointed as the Singapore Schools Team Captain (Sepak Takraw) in the ASEAN School Games 2018. He has represented Singapore not merely once but twice in the ASEAN School Games. Danyal has not only served in a leadership role, but he has also mentored newly appointed captains in his capacity as an advisor in the 2017 Sepak Takraw CCA Executive Committee. We applaud Danyal for his achievements and his service to others. 
 
   
 
