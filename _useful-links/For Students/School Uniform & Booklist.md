@@ -125,6 +125,7 @@ Note: No pdfs for Sec 1
 
 ##### **Sec 2**
 
+[2023 Sec 2 Express G3 Booklist.pdf](/files/2023%20Sec%202%20Express%20G3%20Booklist.pdf)
 
 
 ##### **Sec 3**
