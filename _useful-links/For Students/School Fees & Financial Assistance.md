@@ -10,7 +10,7 @@ School Fees & Financial Assistance
 ==================================
 
 ### School fees
------------
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
