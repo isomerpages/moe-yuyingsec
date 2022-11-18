@@ -3,25 +3,24 @@ title: eOpen House
 permalink: /yyss/e-Open-House/
 description: ""
 ---
-
 ![](/images/AboutUs.jpg)
 
 e-Open House
 ============
 
 ### The Yuying Experience
----------------------
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GXVRZIA37LA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### Key Programmes
---------------
+
 
 ![](/images/OpenHouse.jpeg)
 
 ### Frequently Asked Questions
---------------------------
+
 
 ##### **General Information**
 
@@ -119,7 +118,7 @@ Students will be able to take subjects at a higher level based on their strength
 
 \* CCAs not offered to Secondary 1 students
 
-For more information, please refer to:
+For more information, please refer to: 
 
 
 ##### **Other queries**
