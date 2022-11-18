@@ -32,6 +32,8 @@ School Uniform & Booklist
 </tbody>
 </table>
 
+<u><b>Physical Sales in School Schedule (By Appointment only)</u></b>
+
 ### School Booklist / Stationery List
 
 
