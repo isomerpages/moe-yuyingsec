@@ -10,7 +10,7 @@ Guitar Ensemble VIA Project
 ===========================
 
 ### VIA Project
------------
+
 
 On April 11 2022, the Guitar Ensemble carried out our CCA VIA project where we put in time and effort into creating a goodie bag and recorded some performances for students at the Sheng Hong Student Care Center, just opposite our school. For weeks before that, we were planning with our sections on what items we should get for the children that will be beneficial and useful for them. We made sure to set a budget and got everyone’s help to contribute.
 
