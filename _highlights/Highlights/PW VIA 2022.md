@@ -10,7 +10,7 @@ PW-VIA 2022
 ===========
 
 ### Final Presentation
-------------------
+
 
 The PW-VIA (Project Work - Values-in-Action) final presentation was concluded on 25th May 2022. It was a culmination of the hard work and effort of our Sec 2 students for the past 5 months. Representatives from each Sec 2 class shared their classes’ journey in engaging the elderly, and reflected on the process of working together.
 
