@@ -52,3 +52,6 @@ Promotion Criteria
   </tr>
 </tbody>
 </table>
+
+
+For more information on the post-secondary pathways, please refer to [Post-Secondary.](https://www.moe.gov.sg/education/post-secondary)
