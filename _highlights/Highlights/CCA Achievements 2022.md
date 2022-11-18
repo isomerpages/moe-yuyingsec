@@ -9,7 +9,7 @@ third_nav_title: Highlights
 CCA Achievements 2022
 =====================
 
-**Girl’s Brigade**
+<b>Girl’s Brigade</b>
 
   
 
@@ -21,7 +21,7 @@ Yuying Secondary School's Girls' Brigade, 70th Company, has received yet another
 
 ![](/images/CCA1.png)
 
-**NCC**
+<b>NCC</b>
 
   
 
@@ -33,7 +33,7 @@ To Serve with Pride and Dedication!
 
 ![](/images/CCA2.png)
 
-**NPCC**
+<b>NPCC</b>
 
   
 
