@@ -9,9 +9,9 @@ third_nav_title: For Parents
 SLS Support for Home-Based Learning
 ===================================
 
-**SLS Support**
+<b>SLS Support</b>
 
-**School Operating Hours**
+<b>School Operating Hours</b>
 
   
 
