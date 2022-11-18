@@ -148,3 +148,17 @@ School fees are collected to defray part of the cost of education. The current f
 </table>
 
 \*Miscellaneous fees consist of two components – standard miscellaneous fees and 2nd-tier miscellaneous fees.
+
+<b>NOTE:</b>
+
+There are three modes of payment:
+
+*   GIRO – Apply via school
+*   SAM – ([SAM Kiosks](https://www.mysam.sg/public/pcontent.jsp?s=kiosk-locations), [SAM Web/Mobile](https://www.mysam.sg/index.jsp))
+*   Cash/ Cheque (payable to Yuying Secondary School) at General Office - available only on Mondays and Wednesdays (10am to 3pm)
+
+
+### Financial Assistance
+
+
+MOE-FAS 2023 application is now open. You can apply [**online**](https://go.gov.sg/moe-efas). Alternatively, you can download the  or collect a copy at your child’s school. Submit the completed form directly to the school.
