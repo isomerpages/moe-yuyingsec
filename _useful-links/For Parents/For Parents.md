@@ -9,7 +9,7 @@ third_nav_title: For Parents
 For Parents
 ===========
 
-[Managing Your Child's Emotions](/useful-links/For-Parents/Managing-Your-Childs-Emotions/)
+
 
 [DSA 2022](/highlights/Direct-School-Admission-DSA-2022/)
 
