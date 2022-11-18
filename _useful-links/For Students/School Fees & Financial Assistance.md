@@ -146,3 +146,5 @@ School fees are collected to defray part of the cost of education. The current f
   </tr>
 </tbody>
 </table>
+
+\*Miscellaneous fees consist of two components – standard miscellaneous fees and 2nd-tier miscellaneous fees.
