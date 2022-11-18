@@ -16,6 +16,8 @@ National Digital Literacy Programme
 
 <u>Below is the video for parents on NDLP or DOWNLOAD the briefing (PDF)</u>
 
+Note: Page not found for above
+
 Note: NDLP video not uploaded via Youtube
 
 [**Parent's handbook I for the Personal Learning Device**](https://yuyingsec.moe.edu.sg/useful-links/for-parents/goog_865377985)
@@ -26,4 +28,4 @@ Note: NDLP video not uploaded via Youtube
 
 [**Parent DMa Option B documentation**](https://yuyingsec.moe.edu.sg/useful-links/for-parents/goog_865377985)
 
-[(For Chrome Device) How to check if the DMA has been uninstalled from PLD (for graduating students)](/files/NDLP.pdf)
+[(For Chrome Device) How to check if the DMA has been uninstalled from PLD (for graduating students)](/files/For%20Chrome%20Device%20How%20to%20Check%20if%20the%20DMA%20has%20been%20Uninstalled%20from%20the%20PLD.pdf)
