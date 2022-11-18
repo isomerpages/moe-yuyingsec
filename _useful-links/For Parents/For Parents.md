@@ -11,7 +11,7 @@ For Parents
 
 
 
-[DSA 2022](/highlights/Direct-School-Admission-DSA-2022/)
+
 
 [National Digital Literacy Programme (NDLP)](/useful-links/For-Parents/National-Digital-Literacy-Programme/)
 
