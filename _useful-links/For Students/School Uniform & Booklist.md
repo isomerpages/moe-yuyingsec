@@ -43,11 +43,11 @@ School Uniform & Booklist
 .tg .tg-6vy7{color:#313942;font-size:16px;text-align:center;text-decoration:underline;vertical-align:top}
 .tg .tg-9h17{color:#313942;font-size:16px;text-align:center;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 843px">
+<table class="tg" style="undefined;table-layout: fixed; width: 753px">
 <colgroup>
-<col style="width: 281px">
-<col style="width: 281px">
-<col style="width: 281px">
+<col style="width: 251px">
+<col style="width: 251px">
+<col style="width: 251px">
 </colgroup>
 <thead>
   <tr>
