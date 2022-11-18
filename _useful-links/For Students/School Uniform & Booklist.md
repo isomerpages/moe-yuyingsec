@@ -150,6 +150,8 @@ Note: No pdfs for Sec 1
 
 [2023 Sec 4 Express G3 Booklist.pdf](/files/2023%20Sec%204%20Express%20G3%20Booklist.pdf)
 
+[2023 Sec 4 NA G2 Booklist.pdf](/files/2023%20Sec%204%20NA%20G2%20Booklist.pdf)
+
 
 
 <b>CASCO Educational Supply Pte Ltd</b>
