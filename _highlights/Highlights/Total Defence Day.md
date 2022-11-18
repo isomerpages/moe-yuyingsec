@@ -10,7 +10,6 @@ Total Defence Day
 =================
 
 ### Yuying Commemorates Total Defence Day 2022
-------------------------------------------
 
 ![](/images/TDD.jpeg)
 
