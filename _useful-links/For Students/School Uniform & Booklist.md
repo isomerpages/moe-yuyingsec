@@ -16,18 +16,18 @@ School Uniform & Booklist
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-lb0h{color:#313942;text-align:left;vertical-align:top}
-.tg .tg-rwgs{border-color:inherit;color:#313942;text-align:left;vertical-align:top}
+.tg .tg-lndf{color:#313942;font-size:16px;text-align:left;vertical-align:top}
+.tg .tg-7pn6{border-color:inherit;color:#313942;font-size:16px;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-rwgs"><span style="font-weight:bold;text-decoration:underline">For Textbook sales (until 18 Dec 2022):</span><br><br>Vendor: Casco Educational Supply Pte Ltd<br><br>Online sale url: <a href="https://cascoedusupply.com.sg/login" target="_blank" rel="noopener noreferrer">https://cascoedusupply.com.sg/login</a> (Login: YYSS, Password: 4251)<br><br>Delivery to home (with $13 delivery charge) or collection with appointment at school bookshop via online (15 Nov to 2 Dec 2022 and 19 Dec to 23 Dec 2022, 9am to 3pm)<br><br>Please refer to the attached textbook list for more info or enquire at 62859442<br></th>
+    <th class="tg-7pn6"><span style="font-weight:bold;text-decoration:underline">For Textbook sales (until 18 Dec 2022):</span><br><br>Vendor: Casco Educational Supply Pte Ltd<br><br>Online sale url: <a href="https://cascoedusupply.com.sg/login" target="_blank" rel="noopener noreferrer">https://cascoedusupply.com.sg/login</a> (Login: YYSS, Password: 4251)<br><br>Delivery to home (with $13 delivery charge) or collection with appointment at school bookshop via online (15 Nov to 2 Dec 2022 and 19 Dec to 23 Dec 2022, 9am to 3pm)<br><br>Please refer to the attached textbook list for more info or enquire at 62859442<br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-lb0h"><span style="font-weight:bold;text-decoration:underline">For Uniform sales:</span><br><br><span style="color:black">Vendor:</span> <span style="text-decoration:underline">Shanghai School Uniforms</span><br><br><span style="color:black">Online sale url:</span> <a href="https://shop.shanghai-uniforms.com/product-category/yuying-secondary-school/" target="_blank" rel="noopener noreferrer">https://shop.shanghai-uniforms.com/product-category/yuying-secondary-school/</a><span style="color:black"> with $10 delivery charge and you will be required to create an online account</span><br><br><span style="color:black">Retail@Ubi address: 63 Ubi Ave 1, #04-09, Singapore 408937</span><br><br><span style="color:black">(Strictly by appointment booking online)</span><br><br><span style="color:black">Tel: 6747 8037 (Retail@Ubi)</span><br><br><span style="color:black">Tel: 6352 2741 (Office)</span><br><br><span style="color:black">Business Hours:</span><br><br><span style="color:black">Mon - Sat from 10 a.m. to 6 p.m. (Lunch break from 1 p.m. to 2 p.m.)</span><br><br><span style="color:black">Closed on Sun &amp; Public Holidays</span><br></td>
+    <td class="tg-lndf"><span style="font-weight:bold;text-decoration:underline">For Uniform sales:</span><br><br><span style="color:black">Vendor:</span> <span style="text-decoration:underline">Shanghai School Uniforms</span><br><br><span style="color:black">Online sale url:</span> <a href="https://shop.shanghai-uniforms.com/product-category/yuying-secondary-school/" target="_blank" rel="noopener noreferrer">https://shop.shanghai-uniforms.com/product-category/yuying-secondary-school/</a><span style="color:black"> with $10 delivery charge and you will be required to create an online account</span><br><br><span style="color:black">Retail@Ubi address: 63 Ubi Ave 1, #04-09, Singapore 408937</span><br><br><span style="color:black">(Strictly by appointment booking online)</span><br><br><span style="color:black">Tel: 6747 8037 (Retail@Ubi)</span><br><br><span style="color:black">Tel: 6352 2741 (Office)</span><br><br><span style="color:black">Business Hours:</span><br><br><span style="color:black">Mon - Sat from 10 a.m. to 6 p.m. (Lunch break from 1 p.m. to 2 p.m.)</span><br><br><span style="color:black">Closed on Sun &amp; Public Holidays</span><br></td>
   </tr>
 </tbody>
 </table>
