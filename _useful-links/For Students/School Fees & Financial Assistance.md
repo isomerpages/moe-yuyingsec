@@ -20,9 +20,9 @@ School fees are collected to defray part of the cost of education. The current f
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-s8wm{background-color:#EFF9EF;color:#282828;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-1pwd{background-color:#e1fbe0;color:#282828;text-align:center;vertical-align:top}
+.tg .tg-yhis{background-color:#e1fbe0;color:#282828;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-nz19{color:#282828;text-align:center;vertical-align:top}
-.tg .tg-s1hh{background-color:#EFF9EF;color:#282828;text-align:center;vertical-align:top}
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 724px">
 <colgroup>
@@ -33,7 +33,7 @@ School fees are collected to defray part of the cost of education. The current f
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-s8wm" colspan="4"><span style="font-weight:700;color:#282828;background-color:transparent">2022</span></th>
+    <th class="tg-yhis" colspan="4"><span style="font-weight:700;color:#282828">2022</span></th>
   </tr>
 </thead>
 <tbody>
@@ -48,10 +48,10 @@ School fees are collected to defray part of the cost of education. The current f
     <td class="tg-nz19"><span style="color:#282828;background-color:transparent">Total Fee</span></td>
   </tr>
   <tr>
-    <td class="tg-s1hh"><span style="color:#282828;background-color:transparent">Singapore Citizen (SC)</span></td>
-    <td class="tg-s1hh"><span style="color:#282828;background-color:transparent">$5</span></td>
-    <td class="tg-s1hh"><span style="color:#282828;background-color:transparent">$20</span></td>
-    <td class="tg-s1hh"><span style="color:#282828;background-color:transparent">$25</span></td>
+    <td class="tg-1pwd"><span style="color:#282828">Singapore Citizen (SC)</span></td>
+    <td class="tg-1pwd"><span style="color:#282828">$5</span></td>
+    <td class="tg-1pwd"><span style="color:#282828">$20</span></td>
+    <td class="tg-1pwd"><span style="color:#282828">$25</span></td>
   </tr>
   <tr>
     <td class="tg-nz19"><span style="color:#282828;background-color:transparent">Singapore Permanent Resident (PR)</span></td>
@@ -60,13 +60,13 @@ School fees are collected to defray part of the cost of education. The current f
     <td class="tg-nz19"><span style="color:#282828;background-color:transparent">$460</span></td>
   </tr>
   <tr>
-    <td class="tg-s1hh"><span style="color:#282828;background-color:transparent">International Student</span></td>
-    <td class="tg-s1hh" rowspan="2"><br><span style="color:#282828;background-color:transparent">$840</span></td>
-    <td class="tg-s1hh" rowspan="2"><br><span style="color:#282828;background-color:transparent">$20</span></td>
-    <td class="tg-s1hh" rowspan="2"><br><span style="color:#282828;background-color:transparent">$860</span></td>
+    <td class="tg-1pwd"><span style="color:#282828">International Student</span></td>
+    <td class="tg-1pwd" rowspan="2"><br><span style="color:#282828">$840</span></td>
+    <td class="tg-1pwd" rowspan="2"><br><span style="color:#282828">$20</span></td>
+    <td class="tg-1pwd" rowspan="2"><br><span style="color:#282828">$860</span></td>
   </tr>
   <tr>
-    <td class="tg-s1hh"><span style="color:#282828;background-color:transparent">(ASEAN)</span></td>
+    <td class="tg-1pwd"><span style="color:#282828">(ASEAN)</span></td>
   </tr>
   <tr>
     <td class="tg-nz19"><span style="color:#282828;background-color:transparent">International Student</span></td>
