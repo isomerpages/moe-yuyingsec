@@ -121,6 +121,7 @@ Please refer to the attached textbook list for more info or enquire at 62859442
 
 ##### **Sec 1**
 
+Note: No pdfs for Sec 1
 
 ##### **Sec 2**
 
