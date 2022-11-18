@@ -163,4 +163,8 @@ There are three modes of payment:
 
 MOE-FAS 2023 application is now open. You can apply [**online**](https://go.gov.sg/moe-efas). Alternatively, you can download the [**MOE FAS application form**](/files/MOE-FAS-Application-Form-Sep2022.pdf) or collect a copy at your child’s school. Submit the completed form directly to the school.
 
-Please refer to this attachment for the step-by-step guide on how to redeem FAS Transitlink Evouchers.
+Please refer to this attachment for the step-by-step guide on how to redeem FAS Transitlink Evouchers. 
+
+[TransitLink\_Evoucher\_Redemption\_Process.pdf](http://transitlink_evoucher_redemption_process.pdf/) (Note: pdf not found)
+
+You may refer here to the MOE FAS website for more information.
