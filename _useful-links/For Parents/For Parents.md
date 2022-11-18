@@ -10,8 +10,7 @@ For Parents
 ===========
 
 
-
-
+[Parenting Tips](/useful-links/For-Parents/Parenting-Tips/)
 
 [National Digital Literacy Programme (NDLP)](/useful-links/For-Parents/National-Digital-Literacy-Programme/)
 
