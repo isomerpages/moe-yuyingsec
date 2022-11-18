@@ -10,7 +10,7 @@ Girls' Brigade's 12th Company Gold Award
 ========================================
 
 ### Girls' Brigade's 12th Company Gold Award for 13 Consecutive Years
------------------------------------------------------------------
+
 
 ![](/images/GIrls1.png)
 
