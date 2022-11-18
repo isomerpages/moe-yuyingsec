@@ -103,7 +103,7 @@ Make an online purchase @  [https://shop.shanghai-uniforms.com/product-categor
 ### School Booklist / Stationery List
 
 
-**For Online Textbook sales:** 
+<b>For Online Textbook sales:</b> 
 
 Online sale url: [https://cascoedusupply.com.sg/login](https://cascoedusupply.com.sg/login)(Login: YYSS, Password: 4251)  
 
@@ -115,8 +115,9 @@ Delivery to home (with $13 delivery charge) or collection with an appointment at
 
 Please refer to the attached textbook list for more info or enquire at 62859442
 
+<b>Textbooks and Stationery</b>
 
-#### **Textbooks and Stationery**
+
 
 ##### **Sec 1**
 
