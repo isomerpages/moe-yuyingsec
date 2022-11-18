@@ -13,3 +13,69 @@ School Fees & Financial Assistance
 
 
 School fees are collected to defray part of the cost of education. The current fee rates are given below:
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-s8wm{background-color:#EFF9EF;color:#282828;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-nz19{color:#282828;text-align:center;vertical-align:top}
+.tg .tg-s1hh{background-color:#EFF9EF;color:#282828;text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 724px">
+<colgroup>
+<col style="width: 261px">
+<col style="width: 116px">
+<col style="width: 231px">
+<col style="width: 116px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-s8wm" colspan="4"><span style="font-weight:700;color:#282828;background-color:transparent">2022</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-nz19" rowspan="2"><br>Nationality<br></td>
+    <td class="tg-nz19"><span style="color:#282828;background-color:transparent">Monthly</span></td>
+    <td class="tg-nz19" rowspan="2"><br><span style="color:#282828;background-color:transparent">*Monthly Miscellaneous Fee</span></td>
+    <td class="tg-nz19"><span style="color:#282828;background-color:transparent">Monthly</span></td>
+  </tr>
+  <tr>
+    <td class="tg-nz19"><span style="color:#282828;background-color:transparent">School Fee</span></td>
+    <td class="tg-nz19"><span style="color:#282828;background-color:transparent">Total Fee</span></td>
+  </tr>
+  <tr>
+    <td class="tg-s1hh"><span style="color:#282828;background-color:transparent">Singapore Citizen (SC)</span></td>
+    <td class="tg-s1hh"><span style="color:#282828;background-color:transparent">$5</span></td>
+    <td class="tg-s1hh"><span style="color:#282828;background-color:transparent">$20</span></td>
+    <td class="tg-s1hh"><span style="color:#282828;background-color:transparent">$25</span></td>
+  </tr>
+  <tr>
+    <td class="tg-nz19"><span style="color:#282828;background-color:transparent">Singapore Permanent Resident (PR)</span></td>
+    <td class="tg-nz19"><span style="color:#282828;background-color:transparent">$440</span></td>
+    <td class="tg-nz19"><span style="color:#282828;background-color:transparent">$20</span></td>
+    <td class="tg-nz19"><span style="color:#282828;background-color:transparent">$460</span></td>
+  </tr>
+  <tr>
+    <td class="tg-s1hh"><span style="color:#282828;background-color:transparent">International Student</span></td>
+    <td class="tg-s1hh" rowspan="2"><br><span style="color:#282828;background-color:transparent">$840</span></td>
+    <td class="tg-s1hh" rowspan="2"><br><span style="color:#282828;background-color:transparent">$20</span></td>
+    <td class="tg-s1hh" rowspan="2"><br><span style="color:#282828;background-color:transparent">$860</span></td>
+  </tr>
+  <tr>
+    <td class="tg-s1hh"><span style="color:#282828;background-color:transparent">(ASEAN)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-nz19"><span style="color:#282828;background-color:transparent">International Student</span></td>
+    <td class="tg-nz19" rowspan="2"><br><span style="color:#282828;background-color:transparent">$1,600</span></td>
+    <td class="tg-nz19" rowspan="2"><br><span style="color:#282828;background-color:transparent">$20</span></td>
+    <td class="tg-nz19" rowspan="2"><span style="color:#282828;background-color:transparent">$1,620</span></td>
+  </tr>
+  <tr>
+    <td class="tg-nz19"><span style="color:#282828;background-color:transparent">(Non-ASEAN)</span></td>
+  </tr>
+</tbody>
+</table>
