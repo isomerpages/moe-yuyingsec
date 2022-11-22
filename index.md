@@ -14,9 +14,6 @@ sections:
         - title: Highlights
           description: ""
           url: /highlights/Highlights/Total-Defence-Day/
-        - title: Announcements
-          description: ""
-          url: /Announcements/
   - infopic:
       title: Open House 2022
       subtitle: "YUYING SECONDARY SCHOOL "
