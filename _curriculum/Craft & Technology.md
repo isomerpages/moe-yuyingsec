@@ -68,7 +68,6 @@ As such, the empathy-based curriculum is designed to engage the students with re
 *   Design & Entrepreneurship Club - Innovation and Enterprise programmes, Mentoring with Entrepreneurs and Social Entrepreneurship Projects.
 *   Advanced Elective Modules (AEM) on Product Design and Development by Singapore Polytechnic for Secondary 3 Express and Normal Academic students.
 
-![](/images/Craft.gif)
 
 ### ART Unit
 
