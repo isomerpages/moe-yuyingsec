@@ -78,7 +78,7 @@ As such, the empathy-based curriculum is designed to engage the students with re
 *   Learning journeys to Art museum/ events to expand their knowledge and creativity through perceiving, communicating and appreciating.
 *   Advanced Elective Modules (AEM) on Art for Aspiring Designers by Temasek Polytechnic for Secondary 3 Express and Normal Academic students.
 
-
+![](/images/Craft2.gif)
 
 ### Nutrition & Food Science
 
