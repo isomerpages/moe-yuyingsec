@@ -88,5 +88,5 @@ As such, the empathy-based curriculum is designed to engage the students with re
 *   Experience growing of crops as ingredients in their own dishes for Secondary Two students.
 *   Gamification as learning experience for Lower Secondary students.
 *   Annual Sandwich Making competition to promote healthy living.
-*   Annual Ice-cream Making competition to promote creativity.
 
+![](/images/Craft3.gif)
