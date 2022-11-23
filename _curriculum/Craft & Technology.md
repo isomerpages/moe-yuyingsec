@@ -90,4 +90,3 @@ As such, the empathy-based curriculum is designed to engage the students with re
 *   Annual Sandwich Making competition to promote healthy living.
 *   Annual Ice-cream Making competition to promote creativity.
 
-![](/images/Food.gif)
