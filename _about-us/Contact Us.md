@@ -20,6 +20,4 @@ Fax: (65) 6287 1607
 Bus Services: 53, 53M, 62, 62A, 113, 113A, 115
 
 \*\* Nearest MRT Station : Kovan
-
-
-Note: map should be ported over into google map
+![School map](/images/Yuying-map.jpeg)
