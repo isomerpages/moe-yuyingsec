@@ -22,10 +22,9 @@ Fostering Innovation through Design Thinking
 
 * Food and Beverage, Product Design, Social Enterprise
 
-![](/images/FB.gif)
+
 
 ### ALP Framework
--------------
 
 
 
