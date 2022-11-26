@@ -17,7 +17,7 @@ SLS Support for Home-Based Learning
 
 [SLS login.pdf](/files/SLS%20login.pdf)
 
-During school operating hours, students should contact the <u><b>School-based Helpline</b> for SLS queries including all SLS access matters such as password reset and unlocking of accounts, as well as queries about lesson assignments.
+During school operating hours, students should contact the <b>School-based Helpline</b> for SLS queries including all SLS access matters such as password reset and unlocking of accounts, as well as queries about lesson assignments.
 
   
 
@@ -33,7 +33,7 @@ For other matters, students can email the SLS Helpdesk at helpdesk@sls.ufinity.c
 
 <b>Non-School Operating Hours</b>
 
-Students can only contact the <u><b>SLS Helpdesk</b> outside the school operating hours.
+Students can only contact the <b>SLS Helpdesk</b> outside the school operating hours.
 
   
 SLS Helpdesk: 6702 6513
