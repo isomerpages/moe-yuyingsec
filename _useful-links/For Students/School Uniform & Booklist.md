@@ -32,7 +32,7 @@ School Uniform & Booklist
 </tbody>
 </table>
 
-<u><b>Physical Sales in School Schedule (By Appointment only)</u></b>
+<u><b>Physical Sales in School Schedule (By Appointment only)</b>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
