@@ -57,9 +57,9 @@ I would like to extend my sincere thanks to everyone at Yuying Secondary School 
 
   
 
-<b>Tan Jing Kiat Elijah 
+<b>Tan Jing Kiat Elijah</b> 
 
-4E3 2017</b>
+<b>4E3 2017</b>
 
 #### ABOUT THE AWARD
 
