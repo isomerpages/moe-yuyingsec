@@ -8,7 +8,7 @@ third_nav_title: For Students
 
 School Uniform & Booklist
 =========================
-<u><b>Online Sales Details</u></b>
+<u><b>Online Sales Details</b>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
