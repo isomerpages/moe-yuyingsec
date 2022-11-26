@@ -21,11 +21,9 @@ Miss Soo Pei Chia
 
 Chairperson – Syaheera Binte Wahab
 
-Vice-Chairperson  – Tan Kai Xin
+Vice-Chairperson  – Tan Kai Xin & Dannis Tan Wei Jie
 
-	                                  – Dannis Tan Wei Jie
-
-
+ 
 
 
 
