@@ -19,4 +19,10 @@ sections:
       button: Button Text
       image: /images/CCA1.png
       alt: Image alt text
+  - infopic:
+      title: Unit Overall Proficiency Award (UOPA) 2021
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
