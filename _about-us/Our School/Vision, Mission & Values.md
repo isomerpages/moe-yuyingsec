@@ -6,8 +6,8 @@ third_nav_title: Our School
 ---
 ![](/images/AboutUs.jpg)
 
-
-#  Vision, Mission & Values
+Vision, Mission & Values
+===========
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
