@@ -8,7 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/homepage.gif
-      button: Contact Us
       url: /about-us/Contact-Us/
       key_highlights:
         - title: Highlights
