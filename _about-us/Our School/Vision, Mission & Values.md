@@ -6,8 +6,11 @@ third_nav_title: Our School
 ---
 ![](/images/AboutUs.jpg)
 
+<p align="center">
 
-Vision, Mission & Values
+# Vision, Mission & Values
+
+</p>
 ========================
 
 <style type="text/css">
