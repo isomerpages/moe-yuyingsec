@@ -8,7 +8,7 @@ third_nav_title: Our School
 
 <p align="center">
 
-# Vision, Mission & Values
+#  Vision, Mission & Values
 
 </p>
 
