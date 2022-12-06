@@ -11,6 +11,12 @@ sections:
       url: /about-us/Contact-Us/
       key_highlights:
         - title: Highlights
-          description: ""
+          description: test
           url: /highlights/Highlights/Total-Defence-Day/
+  - infopic:
+      title: Girls' Brigade's 12th Company Gold Award
+      description: Infopic description
+      button: Button Text
+      image: /images/CCA1.png
+      alt: Image alt text
 ---
