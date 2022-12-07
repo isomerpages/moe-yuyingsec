@@ -21,9 +21,10 @@ sections:
       alt: Girls Brigade
       url: highlights/Highlights/Girls-Brigades-12th-Company-Gold-Award/
   - infopic:
-      title: Unit Overall Proficiency Award (UOPA) 2021
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
+      title: Total Defence Day
+      description: Yuying Commemorates Total Defence Day 2022
+      button: READ MORE
+      alt: Total Defence Day
+      image: /images/TDD.jpeg
+      url: highlights/Highlights/Total-Defence-Day/
 ---
