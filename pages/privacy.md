@@ -4,21 +4,11 @@ permalink: /privacy/
 ---
 ### **Government Agency Privacy Statement**
 
-Privacy Statement
-=================
 
-**Government Agency Privacy Statement**[](https://guide.isomer.gov.sg/terms-and-privacy/privacy-statement#government-agency-privacy-statement)
-
-
+**Government Agency Privacy Statement**
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-This Government Agency Privacy Statement (“**Privacy Statement**”) must be read in conjunction with the Terms of Use that accompany the applicable service you are requesting from us (the “**Service**”).
-
-​
-
-### 
-
-General[](https://guide.isomer.gov.sg/terms-and-privacy/privacy-statement#general)
+#### General[](https://guide.isomer.gov.sg/terms-and-privacy/privacy-statement#general)
 
 1. This is a Government agency digital service.
     
@@ -32,7 +22,6 @@ General[](https://guide.isomer.gov.sg/terms-and-privacy/privacy-statement#genera
     
     *   2.3 The Service may utilise cookies to facilitate authentication and/or login to the Service. If such cookies are rejected, you might not be able to use the Service.
         
-    
 
 3. Please see the Annex for any additional terms or information.
    
@@ -63,7 +52,6 @@ General[](https://guide.isomer.gov.sg/terms-and-privacy/privacy-statement#genera
         
     
     *   5.1.6. to enable us to contact you or communicate with you on any matters relating to your access or use of the Service, including but not limited to the purposes set out above, via email, push notifications or such other forms of communication that we may introduce from time to time depending on the functionality of the Service and/or your device.
-        
     
 
 *   5.2. We may share necessary data with other Public Sector Entities, and third party service providers in connection with the Service, so as to provide the Service to you in the most efficient and effective way unless such sharing is prohibited by law.
