@@ -9,10 +9,6 @@ sections:
   - hero:
       background: /images/Homepage1.gif
       url: /about-us/Contact-Us/
-      key_highlights:
-        - title: ""
-          description: ""
-          url: ""
   - infopic:
       title: Girls' Brigade's 12th Company Gold Award
       description: Girls' Brigade's 12th Company Gold Award for 13 Consecutive Years
