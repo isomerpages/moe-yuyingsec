@@ -6,7 +6,7 @@ third_nav_title: For Students
 ---
 ![](/images/Useful%20Links.jpg)
 
-Timetable June 2022
+Timetable Jan 2023
 ===================
 
 ##### **Secondary 1**
