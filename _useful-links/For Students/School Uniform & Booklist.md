@@ -135,28 +135,28 @@ Please refer to the attached textbook list for more info or enquire at 62859442
 
 [2023 Sec 2 NT G1 Booklist](/files/2023%20Sec%202%20NT%20G1%20Booklist%20copy.pdf)
 
-[2023 Sec 2 Stationery List.pdf](/files/2023%20Sec%202%20Stationery%20List.pdf)
+[2023 Sec 2 Stationery List](/files/2023%20Sec%202%20Stationery%20List.pdf)
 
 ##### **Sec 3**
 
-[2023 Sec 3 Express G3 Booklist.pdf](/files/2023%20Sec%203%20Express%20G3%20Booklist.pdf)
+[2023 Sec 3 Express G3 Booklist](/files/2023%20Sec%203%20Express%20G3%20Booklist.pdf)
 
-[2023 Sec 3 NA G2 Booklist.pdf](/files/2023%20Sec%203%20NA%20G2%20Booklist.pdf)
+[2023 Sec 3 NA G2 Booklist](/files/2023%20Sec%203%20NA%20G2%20Booklist.pdf)
 
-[2023 Sec 3 NT G1 Booklist.pdf](/files/2023%20Sec%203%20NT%20G1%20Booklist.pdf)
+[2023 Sec 3 NT G1 Booklist](/files/2023%20Sec%203%20NT%20G1%20Booklist.pdf)
 
-[2023 Sec 3 Stationery List.pdf  ](/files/2023%20Sec%203%20Stationery%20List.pdf)
+[2023 Sec 3 Stationery List  ](/files/2023%20Sec%203%20Stationery%20List.pdf)
 
 
 ##### **Sec 4**
 
-[2023 Sec 4 Express G3 Booklist.pdf](/files/2023%20Sec%204%20Express%20G3%20Booklist.pdf)
+[2023 Sec 4 Express G3 Booklist](/files/2023%20Sec%204%20Express%20G3%20Booklist.pdf)
 
-[2023 Sec 4 NA G2 Booklist.pdf](/files/2023%20Sec%204%20NA%20G2%20Booklist.pdf)
+[2023 Sec 4 NA G2 Booklist](/files/2023%20Sec%204%20NA%20G2%20Booklist.pdf)
 
-[2023 Sec 4 NT G1 Booklist.pdf](/files/2023%20Sec%204%20NT%20G1%20Booklist.pdf)
+[2023 Sec 4 NT G1 Booklist](/files/2023%20Sec%204%20NT%20G1%20Booklist.pdf)
 
-[2023 Sec 4 Stationery List.pdf](/files/2023%20Sec%204%20Stationery%20List.pdf)
+[2023 Sec 4 Stationery List](/files/2023%20Sec%204%20Stationery%20List.pdf)
 
 
 
