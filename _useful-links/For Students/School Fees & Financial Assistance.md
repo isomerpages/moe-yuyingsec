@@ -165,6 +165,6 @@ MOE-FAS 2023 application is now open. You can apply [**online**](https://go.gov
 
 Please refer to this attachment for the step-by-step guide on how to redeem FAS Transitlink Evouchers. 
 
-[TransitLink\_Evoucher\_Redemption\_Process.pdf](http://transitlink_evoucher_redemption_process.pdf/) (Note: pdf not found)
+[TransitLink\_Evoucher\_Redemption\_Process.pdf](https://www.moe.gov.sg/-/media/images/news/press/meal_subsidies_redemption_guide.pdf?la=en&hash=5D7DADF07A43E4DBBF2FF0AAF231B7EADBECDD94)
 
 You may refer here to the MOE FAS website for more information.
