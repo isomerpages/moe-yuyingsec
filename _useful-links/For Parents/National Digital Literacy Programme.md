@@ -13,7 +13,7 @@ National Digital Literacy Programme
 
 The National Digital Literacy Programme (NDLP) for our schools and Institutes of Higher Learning to help students strengthen their digital literacy was launched at the MOE’s Committee of Supply Debate in March 2020. One of the components of the NDLP is the introduction of the Personalised Digital Learning Programme (PDLP) for all secondary school students, whereby every secondary school student will own a school-prescribed Personal Learning Device (PLD) by end-2021.
 
-[**Parent's handbook I for the Personal Learning Device**](https://yuyingsec.moe.edu.sg/useful-links/for-parents/goog_865377985)
+[**Parent's handbook I for the Personal Learning Device**](/files/Form%20Teacher%20Email%20June%202022.pdf)
 
 [**Parent's handbook II for the Personal Learning Device**](https://yuyingsec.moe.edu.sg/useful-links/for-parents/goog_865377985)
 
