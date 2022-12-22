@@ -15,7 +15,7 @@ The National Digital Literacy Programme (NDLP) for our schools and Institutes of
 	
 [**Parent's handbook I for the Personal Learning Device**](/files/Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD.pdf)
 
-[**Parent's handbook II for the Personal Learning Device**](https://yuyingsec.moe.edu.sg/useful-links/for-parents/goog_865377985)
+[**Parent's handbook II for the Personal Learning Device**](/files/Parent%20Handbook%20II%20on%20Learning%20with%20a%20PLD.pdf)
 
 [**Parent DMA Opion A documentation**](https://yuyingsec.moe.edu.sg/useful-links/for-parents/goog_865377985)
 
