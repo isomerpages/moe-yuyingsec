@@ -121,15 +121,19 @@ Please refer to the attached textbook list for more info or enquire at 62859442
 
 ##### **Sec 1**
 
-[2023 Sec 1 Express G3 Booklist.pdf](/files/2023%20Sec%202%20Express%20G3%20Booklist.pdf)
+[2023 Sec 1 Express G3 Booklist](/files/2023%20Sec%202%20Express%20G3%20Booklist.pdf)
+
+[2023 Sec 1 NA G2 Booklist](/files/2023%20Sec%202%20NT%20G2%20Booklist.pdf)
+
+[2023 Sec 1 NT G1 Booklist](/files/2023%20Sec%202%20NT%20G1%20Booklist%20copy.pdf)
 
 ##### **Sec 2**
 
-[2023 Sec 2 Express G3 Booklist.pdf](/files/2023%20Sec%202%20Express%20G3%20Booklist.pdf)
+[2023 Sec 2 Express G3 Booklist](/files/2023%20Sec%202%20Express%20G3%20Booklist.pdf)
 
-[2023 Sec 2 NA G2](/files/2023%20Sec%202%20NT%20G2%20Booklist.pdf)
+[2023 Sec 2 NA G2 Booklist](/files/2023%20Sec%202%20NT%20G2%20Booklist.pdf)
 
-[2023 Sec 2 NT G1 Booklist.pdf](/files/2023%20Sec%202%20NT%20G1%20Booklist%20copy.pdf)
+[2023 Sec 2 NT G1 Booklist](/files/2023%20Sec%202%20NT%20G1%20Booklist%20copy.pdf)
 
 [2023 Sec 2 Stationery List.pdf](/files/2023%20Sec%202%20Stationery%20List.pdf)
 
