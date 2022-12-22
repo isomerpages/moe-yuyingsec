@@ -17,8 +17,8 @@ The National Digital Literacy Programme (NDLP) for our schools and Institutes of
 
 [**Parent's handbook II for the Personal Learning Device**](/files/Parent%20Handbook%20II%20on%20Learning%20with%20a%20PLD.pdf)
 
-[**Parent DMA Opion A documentation**](https://yuyingsec.moe.edu.sg/useful-links/for-parents/goog_865377985)
+[**Parent DMA Opion A documentation**](/files/DMA%20Parent%20Guide%20v2%20-%20Option%20A%20Chrome%20OS.pdf)
 
-[**Parent DMa Option B documentation**](https://yuyingsec.moe.edu.sg/useful-links/for-parents/goog_865377985)
+[**Parent DMa Option B documentation**](/files/Parent%20Handbook%20II%20on%20Learning%20with%20a%20PLD.pdf)
 
-[**(For Chrome Device) How to check if the DMA has been uninstalled from PLD (for graduating students)**](/files/For%20Chrome%20Device%20How%20to%20Check%20if%20the%20DMA%20has%20been%20Uninstalled%20from%20the%20PLD.pdf)
+[**(For Chrome Device) How to check if the DMA has been uninstalled from PLD (for graduating students)**](/files/DMA%20Parent%20Guide%20v2%20-%20Option%20B%20Chrome%20OS.pdf)
