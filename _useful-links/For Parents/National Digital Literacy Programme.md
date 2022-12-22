@@ -19,6 +19,6 @@ The National Digital Literacy Programme (NDLP) for our schools and Institutes of
 
 [**Parent DMA Opion A documentation**](/files/PDLP/DMA%20Parent%20Guide%20v2%20-%20Option%20A%20Chrome%20OS.pdf)
 
-[**Parent DMa Option B documentation**](/files/PDLP/Parent%20Handbook%20II%20on%20Learning%20with%20a%20PLD.pdf)
+[**Parent DMa Option B documentation**](/files/PDLP/DMA%20Parent%20Guide%20v2%20-%20Option%20B%20Chrome%20OS.pdf)
 
 [**(For Chrome Device) How to check if the DMA has been uninstalled from PLD (for graduating students)**](/files/DMA%20Parent%20Guide%20v2%20-%20Option%20B%20Chrome%20OS.pdf)
