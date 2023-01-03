@@ -7,7 +7,6 @@ description: ""
 
 Principal's Message
 ===================
-**
 
 **Yuying@113: Soaring Higher Together**
 
@@ -34,5 +33,3 @@ As Team Yuying embarks on reimagining education and furthering efforts on levera
 ![Principal](/images/Mr%20Chong%20JS.jpg)
 Mr Chong Jack Sheng
 Principal
-
-**
