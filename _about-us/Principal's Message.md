@@ -30,6 +30,6 @@ As Team Yuying embarks on reimagining education and furthering efforts on levera
 **
 
 ***Soaring Higher Together***
-![Principal](/images/Mr%20Chong%20JS.jpg)
+<img src="/images/Mr%20Chong%20JS.jpg" style="width:55%">
 Mr Chong Jack Sheng
 Principal
