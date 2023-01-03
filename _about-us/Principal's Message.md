@@ -26,10 +26,10 @@ Our school motto, ‘**Together, Achieve Personal Excellence**’, will continue
 Yuying students will continue to enjoy an innovative and engaging curriculum anchored on our school values of **Integrity, Resilience, Respect and Responsibility**. Our school’s signature Applied Learning Programme (Fostering Innovation through Design Thinking) and Learning for Life Programme (Yuying C.A.R.E.S), coupled with the exciting line up of CCA and student development experiences, aim to equip every child with 21st century competencies and instil the love for learning in them. Through a caring and supportive school environment, Yuying students will also learn social-emotional skills and the right citizenship dispositions to navigate life’s challenges. 
 
 
-As Team Yuying embarks on reimagining education and furthering efforts on leveraging affordances of digital technology to enhance teaching and learning, we are keenly aware that we cannot walk this journey alone. We need strong support to **uplift every Yuying student to enable every child to be a Lifelong Learner, Compassionate Leader, Enterprising Changemaker and Responsible Citizen**. I humbly invite all our valued parents and stakeholders to partner us as we write the next chapter of Yuying Secondary School.
+As Team Yuying embarks on reimagining education and furthering efforts on leveraging affordances of digital technology to enhance teaching and learning, we are keenly aware that we cannot walk this journey alone. We need strong support to **![Principal - Mr Chong]()**. I humbly invite all our valued parents and stakeholders to partner us as we write the next chapter of Yuying Secondary School.
 
 ***Soaring Higher Together***
-![](/images/Mr%20Chong_1_endorsed1.jpg)
+![Principal - Mr Chong]()
 Mr Chong Jack Sheng
 Principal
 
