@@ -7,46 +7,30 @@ description: ""
 
 Principal's Message
 ===================
+**
 
-In tandem with '<b> MOE Learners for Life </b>’ approach in helping our students grow into Confident Singaporeans who will help to build a Competitive Singapore and a Cohesive Society, how does this approach of <b> Learning for Life </b> look like in Yuying Secondary School?
+**Yuying@113: Soaring Higher Together**
 
-<b> Taking Ownership of Our Learning </b>
 
-Yuying Secondary School believes in giving students more agency in their learning.  Since 2021, as part of the National Digital Literacy Programme, we have procured personal learning devices for every student in the school in order to enhance students’ learning experience through ICT. Our teachers and students are confident in harnessing digital platforms for teaching and learning. 
+This year, we celebrate Yuying Secondary School’s 113th anniversary. Over the past decades, Yuying Secondary School has stayed true to the core of its mission. Students who have walked through the gates of the school would attest to having been positively impacted, and having their lives transformed and potential unleashed. Under the leadership of Mr Lo Chee Lin from 2016 to 2022, the school had continued to provide quality school experiences to meet the learning needs of every Yuying student. Our heartfelt gratitude goes to Mr Lo and we wish him all the very best in his retirement. 
 
-  
 
-Regular Home-based Learning (HBL) days and Student-initiated Learning (SIL) have also been implemented across all levels. HBL days allow students to take ownership of their learning, and to learn at their own pace. Without the restrictions of a school timetable, students learn to develop self-management skills as they embark on virtual lessons, and complete revision at their own pace. 
-
-Our students also dedicate time and space to pursue their interests outside the curriculum via SIL. They pick up an activity or skill of their choice, and find ways to develop these interests. The Yuying teachers have also role modelled Learning for Life by sharing their own experiences in picking up a new skill at their own time. Students learn when they see their teachers’ process of learning – they witness how their teachers learn and grow from mistakes and become more skillful through practice. These are ways in which our school endeavours to develop in our students a passion for learning, and encourage them to learn for life. 
+I am deeply honoured to be entrusted with the stewardship of Yuying Secondary School. As the 18th Principal (since records started in 1946), I stand on the shoulders of giants – the many Principals who have laboured with love and taken the school to where it is today. I endeavour to build on their good work, further strengthen the Yuying spirit and let the love of Yuying spread throughout the Yuying community. 
 
   
 
-<b> Having Multiple Pathways to Success </b>
+Our school motto, ‘**Together, Achieve Personal Excellence**’, will continue to be the key tenet of education in Yuying Secondary School. We will continue to embrace every child and strive to nurture every Yuying student to be ‘**Wholesome Individuals with a Global Mindset, Passion to Learn and Spirit to Serve**’ – a leader with a strong sense of purpose and motivation to better the lives of others. 
 
   
 
-Yuying Secondary School has been a Full SBB (FSBB) pilot school since 2020. This year, we are on our second year of offering FSBB to all Lower Secondary students. Lower Secondary students taking different courses come together in mixed form classes. 
-
-  
-
-The common curricular subjects include Art, Character and Citizenship Education, Design and Technology, Food and Consumer Education, Music and Physical Education. The general subjects are English Language, Mathematics, Mother Tongue Languages, the Sciences and Humanities, which are offered at levels according to students’ readiness and pace of learning. 
-
-There is therefore greater subject-level flexibility. Those who are strong in a subject may take it at a more demanding level, while those who are not may offer it at a less demanding level. Students may also continue to take subjects at a higher level in Upper Secondary.
-
-Feedback from the roll-out of FSBB has been heartening. Students who are able to take subjects at a more demanding level are highly motivated by their own progress. They begin to recognise their personal strengths, and to be aware that their strengths may differ from others. 
-
-  
-
-We see students actively helping each other out in the learning process, and it has created a cohesive and positive learning culture in our classrooms. In a rapidly changing and fragmented world, we hope that Yuying students will develop the character and inter-personal skills to work with each other, to learn to see from each other’s perspectives, and to find ways to achieve common goals based on our shared identity as Singaporeans.
-
-  
-<b> Becoming a Generation of Overcomers </b>
+Yuying students will continue to enjoy an innovative and engaging curriculum anchored on our school values of **Integrity, Resilience, Respect and Responsibility**. Our school’s signature Applied Learning Programme (Fostering Innovation through Design Thinking) and Learning for Life Programme (Yuying C.A.R.E.S), coupled with the exciting line up of CCA and student development experiences, aim to equip every child with 21st century competencies and instil the love for learning in them. Through a caring and supportive school environment, Yuying students will also learn social-emotional skills and the right citizenship dispositions to navigate life’s challenges. 
 
 
-The Covid-19 virus is no longer an insidious danger to be feared, but an endemic we can now live with.  And as we move into a new phase of living with this endemic, may we remember that we have come a long way in overcoming a challenging period as a school.  We should be proud of our resilience and adaptability, and continue to face all that the future brings as a united Yuying family.
+As Team Yuying embarks on reimagining education and furthering efforts on leveraging affordances of digital technology to enhance teaching and learning, we are keenly aware that we cannot walk this journey alone. We need strong support to **uplift every Yuying student to enable every child to be a Lifelong Learner, Compassionate Leader, Enterprising Changemaker and Responsible Citizen**. I humbly invite all our valued parents and stakeholders to partner us as we write the next chapter of Yuying Secondary School.
 
-
-Mr Lo Chee Lin
+***Soaring Higher Together***
+![](/images/Mr%20Chong_1_endorsed1.jpg)
+Mr Chong Jack Sheng
 Principal
-April 2022
+
+**
