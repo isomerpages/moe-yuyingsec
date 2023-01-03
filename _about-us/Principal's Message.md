@@ -29,7 +29,7 @@ Yuying students will continue to enjoy an innovative and engaging curriculum anc
 As Team Yuying embarks on reimagining education and furthering efforts on leveraging affordances of digital technology to enhance teaching and learning, we are keenly aware that we cannot walk this journey alone. We need strong support to **![Principal - Mr Chong]()**. I humbly invite all our valued parents and stakeholders to partner us as we write the next chapter of Yuying Secondary School.
 
 ***Soaring Higher Together***
-![Principal - Mr Chong]()
+
 Mr Chong Jack Sheng
 Principal
 
