@@ -15,14 +15,9 @@ Humanities
 #### Vision
 
 Critical and Compassionate learners in the 21 Century Competencies 
-
-  
-
 #### Mission
 
 To cultivate an appreciation of the Humanities in the students; and instil in them a strong civic consciousness through varied teaching approaches in Humanities Education. 
-
-  
 
 #### Teaching and Learning Model/Approach/Pedagogy
 
