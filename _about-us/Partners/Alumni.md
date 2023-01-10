@@ -70,14 +70,15 @@ Alumni
     <td class="tg-r6qm"><span style="font-weight:400;color:#313942">时间: 7.30pm - 10.30pm</span><br><span style="font-weight:400;color:#313942">费用: 会员$4， 非会员 $5， 听歌$2.</span><br><br><span style="font-weight:400;color:#313942">时间: 7.30pm - 10.30pm</span><br><span style="font-weight:400;color:#313942">费用: $80</span></td>
   </tr>
   <tr>
-    <td class="tg-bzww"><span style="font-weight:400;color:#313942">(七) 羽球班:</span><br><span style="font-weight:400;color:#313942">       每逢星期二， 四</span><br><span style="font-weight:400;color:#313942">       每逢星期日</span><br><span style="font-weight:400;color:#313942"> </span><br><span style="font-weight:400;color:#313942">       费用: 每月$25 (4次)</span></td>
+    <td class="tg-bzww"><span style="font-weight:400;color:#313942">(七) 羽球班:</span><br><span style="font-weight:400;color:#313942">       每逢星期二， 四</span><br><span style="font-weight:400;color:#313942">       每逢星期日</span><br><span style="font-weight:400;color:#313942"> </span><br><span style="font-weight:400;color:#313942">       费用: 每月$25 (4次)
+			</span></td>
     <td class="tg-vrgi">时间: 8.00pm - 10.00pm<br>        3.00pm - 6.00pm</td>
   </tr>
 </tbody>
 </table>
 
 
-
+*
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
