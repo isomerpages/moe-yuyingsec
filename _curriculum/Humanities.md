@@ -54,16 +54,6 @@ The study of Humanities utilises the use of inquiry. This approach encourages qu
 </tbody>
 </table>
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
-
 
 #### Achievements
 ------------
