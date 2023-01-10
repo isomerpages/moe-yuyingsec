@@ -59,6 +59,29 @@ The study of Humanities utilises the use of inquiry. This approach encourages qu
 </tbody>
 </table>
 
+<table align="left" border="2" cellpadding="1" cellspacing="1" style="width:1032px">
+	<tbody>
+		<tr>
+			<td style="text-align:center; width:231px"><strong>Programme Name</strong></td>
+			<td style="text-align:center; width:786px"><strong>Details</strong></td>
+		</tr>
+		<tr>
+			<td style="width:231px"><span style="color:#313942">Lower Secondary Geographical and Historical Investigation Projects</span></td>
+			<td style="width:786px">
+			<p>The study of Geography and History in Yuying involves the exploration process of learning through inquiry. This inquiry journey will allow students to embark on a learning experience that encourages questioning, investigation and critical thinking about issues affecting the environment, people&rsquo;s lives, past and present. It comprises four aspects of sparking curiosity, gathering data, exercising reasoning, and reflective thinking. Some of the issues our Lower Secondary students have looked into includes environmental conservation and waste management, National Service, housing challenges, past and present.<br />
+			<br />
+			During the Covid-19 disruptions, the Geography and History Unit made changes to the investigative projects and continue to have students carry out the investigation projects in an authentic manner that taps on the online affordances. This has also greatly strengthened the digital literacy among students.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:231px"><span style="color:#313942">Sec 3 SS cum VIA Project</span></td>
+			<td style="width:786px"><span style="color:#313942">Secondary 3 students project provides students with the opportunity to examine a societal issue critically. While embarking on their group&rsquo;s Issue Investigation, they will be </span><span style="background-color:initial">practising and strengthening a wide range of lifelong skills and responding constructively to a societal issue as informed, concerned and participative citizens. They will also propose solutions to address gaps in the society and execute these ideas as part of their Values-In-Action (VIA) project.</span></td>
+		</tr>
+	</tbody>
+</table>
+
+
+
 #### Achievements
 ------------
 
