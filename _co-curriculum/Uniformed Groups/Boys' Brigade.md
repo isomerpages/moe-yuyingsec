@@ -50,6 +50,6 @@ As part of an international uniformed youth group which is the oldest in continu
 
 ![](/images/BB.jpeg)
 
-![](/images/BB2.jpeg)
+<figure><img src="/images/BB2.jpeg" style="width:105%"><figcaption> Kayaking activity during BB AdventuRe:Ignite (BB Blaze) competition</figcaption></figure> 
 
 ![](/images/BB3.jpeg)
