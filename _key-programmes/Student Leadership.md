@@ -3,8 +3,6 @@ title: Student Leadership
 permalink: /key-programmes/Student-Leadership/
 description: ""
 ---
-![](/images/KeyProgrammes.jpg)
-
 Student Leadership
 ==================
 
