@@ -3,8 +3,6 @@ title: Arts Education Committee
 permalink: /key-programmes/Arts-Education-Committee/
 description: ""
 ---
-![](/images/KeyProgrammes.jpg)
-
 Arts Education Committee
 ========================
 
