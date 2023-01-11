@@ -92,7 +92,8 @@ Students connect design innovation with entrepreneurship. They learn from local 
 
 <figure><img src="/images/ALP7.png" style="width:100%"><figcaption> Group discussion</figcaption></figure>
 
-_Learn a new skill to teach elderly_ video not uploaded on YouTube 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/teiur6qjB3M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Learn a new skill to teach elderly
 
 <b> Sec 3</b>: Innovation and Entreprise Design Challenge; Brainstorm ideas to resolve real-life I&E challenges
 
