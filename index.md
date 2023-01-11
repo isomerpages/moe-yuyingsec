@@ -4,7 +4,7 @@ title: "Yuying Secondary School "
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: test notification
+notification: test notification (www.sg)
 sections:
   - hero:
       background: /images/Homepage1.gif
