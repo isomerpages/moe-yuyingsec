@@ -25,7 +25,7 @@ Our Staff
 <thead>
   <tr>
     <th class="tg-clhh"><span style="font-weight:700;color:#222">Principal</span></th>
-    <th class="tg-clhh"><span style="font-weight:700">Mr Lo Chee Lin  </span></th>
+    <th class="tg-clhh"><span style="font-weight:700">Mr Chong Jack Sheng </span></th>
   </tr>
 </thead>
 <tbody>
