@@ -2,17 +2,17 @@ collections:
   about-us:
     output: true
     order:
-      - Contact Us.md
       - Principal's Message.md
+      - Our School/.keep
       - Our School/Vision, Mission & Values.md
       - Our School/Our History.md
       - Our School/School Crest & Motto.md
       - Our School/School Song.md
-      - Our School/.keep
       - Our Staff.md
       - School Management Committee.md
-      - Student Management/Rules & Regulations.md
       - Student Management/.keep
+      - Student Management/Rules & Regulations.md
+      - Partners/.keep
       - Partners/Parent Support Group.md
       - Partners/Alumni.md
-      - Partners/.keep
+      - Contact Us.md
