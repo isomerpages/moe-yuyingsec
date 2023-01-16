@@ -68,4 +68,4 @@ Please note that the list of documents above is not exhaustive. Other documents 
   
 
 For more details on the GPA Plan, please refer to:
-[GROUP PERSONAL ACCIDENT INSURANCE FOR STUDENTS]()
+[GROUP PERSONAL ACCIDENT INSURANCE FOR STUDENTS](/files/PDLP/Product%20Fact%20Sheet%20Year%202023.pdf)
