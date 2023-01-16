@@ -3,10 +3,10 @@ title: Arts Education Committee
 permalink: /key-programmes/Arts-Education-Committee/
 description: ""
 ---
-Arts Education Committee
+Arts Education
 ========================
 
-The Arts Education Committee is dedicated to creating new knowledge, skills and milestones for students through the Arts. Its objective is primarily to engage students and deepen their appreciation for the Arts. 
+The Arts Education is dedicated to creating new knowledge, skills and milestones for students through the Arts. Its objective is primarily to engage students and deepen their appreciation for the Arts. 
 
 Through arts-related programmes and activities in school and the community, the school is able to engage the students on several levels. Firstly, all students are exposed to various contemporary genres during school assembly programmes. Each level is also engaged in a specific art form, in collaboration with other departments such as IP or SDT departments. This can be in the form of workshops or outdoor learning journeys. The school also aims to develop them to showcase their talents and aptitude by providing platforms to engage students who wish to hone their skills more. Lastly, those who have a strong aptitude and passion for music can also be nurtured through the Visual and Performing Arts CCAs where they can learn musicality, instruments and appreciation for the arts. 
 
