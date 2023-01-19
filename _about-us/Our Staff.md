@@ -7,10 +7,9 @@ description: ""
 
 Our Staff
 =========
-
 ### **School Executive Committee**
 
-| \*\*Designation\*\*                                               | \*\*Name\*\*                 |
+| **Designation**                                              | **Name**               |
 | ------------------------------------------------------------- | ------------------------ |
 | Principal                                                     | Mr Chong Jack Sheng      |
 | Vice-Principal                                                | Mrs Tham Hwee Peng       |
