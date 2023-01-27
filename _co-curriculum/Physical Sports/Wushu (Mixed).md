@@ -39,7 +39,7 @@ Wushu is a popular term that is synonymous with Chinese martial arts. Yuying Wus
 
   
 
-Yuying Wushu has proudly and faithfully maintained its 1st to 3rd placing for both individual and group events since 2008. With sheer passion and determination, our athletes have done the school proud not only in national and international competitions, but also at various celebrations and events in our school, such as Speech Day and the Chinese New Year concert. They have also been invited to perform in external events held in other schools, and the Chingay processions in February. 
+With sheer passion and determination, our athletes have done the school proud not only in national and international competitions, but also at various celebrations and events in our school, such as Speech Day and the Chinese New Year concert. They have also been invited to perform in external events held in other schools, and the Chingay processions in February. 
 
   
 
