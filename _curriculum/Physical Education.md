@@ -135,7 +135,7 @@ YO-PF week seeks to build awareness and instil values of the various paralympic 
 <iframe width="600" height="355" src="https://www.youtube.com/embed/kBIAHAQ87QU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-Tired of the mundane approaches to assessment? Do you know how to create Tik Tok videos? That’s great! For formative assessment, students used the Tik Tok platform to demonstrate their knowledge and understanding of their learnt sport. Students enjoyed the process of brainstorming ideas with one another, filming and editing content through a novel and creative approach to demonstrate their learning.
+Students use the Tik Tok platform to demonstrate their knowledge and understanding of the sport that they have learnt during PE lessons. It is a meaningful process where students brainstorm ideas together, film and edit content through a novel and creative approach to demonstrate their learning.
 
 * #####    **Interclass Games (ICG)**
 
