@@ -3,8 +3,6 @@ title: eOpen House
 permalink: /yyss/e-Open-House/
 description: ""
 ---
-![](/images/AboutUs.jpg)
-
 e-Open House
 ============
 
