@@ -37,4 +37,4 @@ Design & Entrepreneurship Club is committed to provide students with industry ex
 
   
 
-Students are introduced to role models, mentors and experts when attending innovation hackathons. Senior members are given opportunities to lead and mentor junior members to develop their leadership skills. Our students are natural designers equipped with entrepreneurial mindsets. In 2021, they participated in the Prudential Young Trailblazers competition and attained the ‘Best Innovation Award’.
+Students are introduced to role models, mentors and experts when attending innovation hackathons. Senior members are given opportunities to lead and mentor junior members to develop their leadership skills. Our students are natural designers equipped with entrepreneurial mindsets.
