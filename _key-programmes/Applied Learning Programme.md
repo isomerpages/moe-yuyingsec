@@ -25,7 +25,6 @@ Fostering Innovation through Design Thinking
 ### ALP Framework
 
 
-
 <img src="/images/ALP.jpeg" style="width:300px;height:300px;margin-left:15px;" align = "left">
 
 **1.    Discovery - Ideate and discover possibilities**
@@ -41,13 +40,11 @@ Fostering Innovation through Design Thinking
 
 #### Stages of Development
 
-  
 
 <b> Stage 1: Ideate </b>
 
 Students learn about concepts such as product design and value creation. They apply brainstorming and ideation techniques to innovate.
 
-  
 
 <b> Stage 2: Apply Design Thinking </b>
 
