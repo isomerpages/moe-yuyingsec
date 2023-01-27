@@ -4,8 +4,6 @@ permalink: /about-us/Our-School/Vision-Mission-and-Values/
 description: ""
 third_nav_title: Our School
 ---
-![](/images/AboutUs.jpg)
-
 Vision, Mission & Values
 ===========
 
