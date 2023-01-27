@@ -11,8 +11,6 @@ Volleyball (Girls)
 
 <b> Teachers-in-charge: </b>
 
-Ms Cheryl Chia
-
 Ms Nor Jehan Raseede
 
 Ms Nur Syahirah Mohamed Salim
