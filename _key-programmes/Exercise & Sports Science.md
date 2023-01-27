@@ -6,9 +6,7 @@ description: ""
 Exercise & Sports Science
 =========================
 
-![](/images/Exercise.jpeg)
-
-Exercise & Sports Science (“ESS”) is an interdisciplinary applied subject where students are taught to perform and participate in various sports. They will also be exposed in-depth to disciplines of Biomechanics, Physiology, Sociology, Psychology and Motor Learning & Development. 
+Exercise & Sports Science (ESS) is an interdisciplinary applied subject where students are taught to perform and participate in various sports. They will also be exposed in-depth to disciplines of Biomechanics, Physiology, Sociology, Psychology and Motor Learning & Development. 
 
   
 
@@ -16,9 +14,7 @@ ESS provides a plethora of opportunities for students to develop 21st Century Co
 
   
 
-Gleaning from lessons learnt during the Covid-19 Home-based Learning and Circuit Breaker, ESS at Yuying Secondary School has since taken on a Blended Learning approach in engaging our students using Google Classroom. This ranges from the delivery of E-notes, learning packages and alternative assessment for more self-directed learning opportunities.
 
-  
 
 #### Assessment Mode:
 
