@@ -3,8 +3,6 @@ title: Our Staff
 permalink: /about-us/Our-Staff/
 description: ""
 ---
-![](/images/AboutUs.jpg)
-
 Our Staff
 =========
 ### **School Executive Committee**
