@@ -47,8 +47,4 @@ In Yuying Chinese Dance (YYCD), dance members will learn more about the beauty o
 
 By the end of their secondary school journey, dancers will possess the relevant skills and performance experiences. For instance, they will have opportunities to perform during the Secondary 1 Orientation concert, Lunar New Year celebrations, Speech Day and Open House. Apart from that, dancers will also participate in the biennial Singapore Youth Festival competitions, and other external events and competitions.
 
-  
-
-YYCD has a good track record over the years in the Singapore Youth Festival (SYF) Arts Presentation. The dancers' dedication and passion were evident as they brought honour to the school by earning Certificates of Distinction for SYF in both 2019 & 2021.
-
 ![](/images/CD.jpeg)
