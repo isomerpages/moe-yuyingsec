@@ -3,8 +3,6 @@ title: Music Curriculum
 permalink: /curriculum/Music-Curriculum/
 description: ""
 ---
-![](/images/Curriculum.jpg)
-
 Music Curriculum
 ================
 <figure><img src="/images/Musicc1.jpeg" style="width:75%"><figcaption> Secondary One students learning basic ukulele chords</figcaption></figure> 
