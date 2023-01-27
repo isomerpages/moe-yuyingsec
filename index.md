@@ -9,4 +9,5 @@ sections:
   - hero:
       background: /images/Home/Landing page1.jpg
       url: /about-us/Contact-Us/
+      title: SOARING HIGHER TOGETHER
 ---
