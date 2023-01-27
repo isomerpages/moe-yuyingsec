@@ -6,8 +6,6 @@ description: ""
 Student Leadership
 ==================
 
-![](/images/SL.jpeg)
-
 ##### Vision:
 
 Every Student a Leader 
