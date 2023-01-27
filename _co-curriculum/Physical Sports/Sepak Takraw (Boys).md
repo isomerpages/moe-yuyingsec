@@ -59,7 +59,3 @@ Each year, we welcome students regardless of their level of experience in the sp
   
 
 Even after they complete their studies in Yuying Secondary School, our students will continue to develop their skills in the game, both competitively and in recreation. 
-
-  
-
-Especially in the past two years, the boys have demonstrated great resilience. While we took the utmost care to provide a safe, secure and positive learning environment for them, it has been a challenging period of time. Yet, when all physical sessions had to be adapted to online platforms such as Zoom, SLS and Google Forms, our athletes persevered in their learning and self-improvement. They continued to learn, grow and thrive to the best of their abilities, reflecting the core values, resilience, respect and responsibility. This year, all the Secondary 2 boys were selected to represent the school in the ‘C’ Boys Sepak Takraw National School Games. It was a great exposure for the boys especially for those who played the sport for the first time at a competitive level.
