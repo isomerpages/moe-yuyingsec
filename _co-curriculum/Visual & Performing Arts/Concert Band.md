@@ -46,4 +46,4 @@ In Yuying Concert Band, our members are provided with the opportunity to showcas
   
 
 In our effort to nurture the members as responsible future leaders, we conduct Leadership Camp to instill discipline, teamwork and values in them, as well as to empower the members with the skills and resilience to adapt to challenges.
-YYCB has a good track record over the years in Singapore Youth Festival (SYF) Arts Presentation and was invited to participate in several events by the Ministry of Education (MOE) Arts Education Branch (AEB) and other external agencies. In 2022, we were extremely honoured to be one of the four schools invited to perform in the National Day Parade 2022: Parade and Ceremony - Military Tattoo.
+YYCB has a good track record over the years in Singapore Youth Festival (SYF) Arts Presentation and was invited to participate in several events by the Ministry of Education (MOE) Arts Education Branch (AEB) and other external agencies.
