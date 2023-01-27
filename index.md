@@ -7,6 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage1.gif
+      background: /images/Home/Landing page1.jpg
       url: /about-us/Contact-Us/
 ---
