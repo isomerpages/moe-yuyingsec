@@ -3,7 +3,6 @@ title: Character & Citizenship Education
 permalink: /curriculum/Character-and-Citizenship-Education/
 description: ""
 ---
-![](/images/Curriculum.jpg)
 
 Character & Citizenship Education
 =================================
@@ -42,6 +41,7 @@ Developing the Head, Heart and Hand
 #### Our Key ECG Programmes:
 
 *   Careers Day for Sec 4 & 5
+
 *   EAE Application and Interview Skills Workshop  
     
 *   Sec 3 NA & 2NT ITE Attachment Programmes  
