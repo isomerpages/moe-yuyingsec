@@ -4,8 +4,6 @@ permalink: /highlights/Highlights/CCA-Achievements-2022/
 description: ""
 third_nav_title: Highlights
 ---
-![](/images/Highlights.jpg)
-
 CCA Achievements 2022
 =====================
 
