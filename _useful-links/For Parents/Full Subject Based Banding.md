@@ -4,8 +4,6 @@ permalink: /useful-links/For-Parents/Full-Subject-Based-Banding/
 description: ""
 third_nav_title: For Parents
 ---
-![](/images/Useful%20Links.jpg)
-
 Full Subject-Based Banding
 ==========================
 
