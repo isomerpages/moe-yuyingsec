@@ -4,8 +4,6 @@ permalink: /co-curriculum/Physical-Sports/Sepak-Takraw-Boys/
 description: ""
 third_nav_title: Physical Sports
 ---
-![](/images/CCA.jpg)
-
 Sepak Takraw (Boys)
 ===================
 
@@ -58,4 +56,4 @@ Each year, we welcome students regardless of their level of experience in the sp
 
   
 
-Even after they complete their studies in Yuying Secondary School, our students will continue to develop their skills in the game, both competitively and in recreation. 
+Even after they complete their studies in Yuying Secondary School, our students will continue to develop their skills in the game, both competitively and in recreation.
