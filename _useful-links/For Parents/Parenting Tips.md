@@ -4,8 +4,6 @@ permalink: /useful-links/For-Parents/Parenting-Tips/
 description: ""
 third_nav_title: For Parents
 ---
-![](/images/Useful%20Links.jpg)
-
 Parenting Tips
 ==============
 
