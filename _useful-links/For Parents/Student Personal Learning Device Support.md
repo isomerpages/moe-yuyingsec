@@ -4,9 +4,6 @@ permalink: /yyss/Student-Personal-Learning-Device-Support/
 description: ""
 third_nav_title: For Parents
 ---
-
-![](/images/AboutUs.jpg)
-
 Student Personal Learning Device Support
 ========================================
 
