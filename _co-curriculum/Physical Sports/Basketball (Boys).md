@@ -4,8 +4,6 @@ permalink: /co-curriculum/Physical-Sports/Basketball-Boys/
 description: ""
 third_nav_title: Physical Sports
 ---
-![](/images/CCA.jpg)
-
 Basketball (Boys)
 =================
 
