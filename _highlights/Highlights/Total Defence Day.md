@@ -4,8 +4,6 @@ permalink: /highlights/Highlights/Total-Defence-Day/
 description: ""
 third_nav_title: Highlights
 ---
-![](/images/Highlights.jpg)
-
 Total Defence Day
 =================
 
