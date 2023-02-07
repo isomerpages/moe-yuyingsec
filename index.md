@@ -11,5 +11,5 @@ sections:
       title: SOARING HIGHER TOGETHER
       subtitle: To nurture wholesome individuals with global mindset, passion to learn
         and spirit to serve <br> Together, Achieve Personal Excellence
-      background: /images/Home/Landing page 5.jpg
+      background: /images/Home/Landing page 6.jpg
 ---
