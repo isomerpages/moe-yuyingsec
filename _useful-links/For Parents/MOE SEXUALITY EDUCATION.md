@@ -80,4 +80,5 @@ segments – a mass talk segment and a classroom-based programme.
 pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and
 upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to
 make wise, informed and sensible decisions.
-At DEF Secondary School, the eTeens programme will be implemented as follows in 2023:
+
+At Yuying Secondary School, the eTeens programme will be implemented as follows in 2023:
