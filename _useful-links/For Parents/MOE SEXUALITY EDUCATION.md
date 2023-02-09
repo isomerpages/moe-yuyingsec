@@ -88,3 +88,5 @@ At Yuying Secondary School, the eTeens programme will be implemented as follows 
 12) 	Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form is also downloadable here (please upload parents opt-out form found in [Annex B](/files/Annex%20B.pdf).  The completed form is to be submitted to their children’s form teachers by 28/02/2023.
 
 13) 	Parents can contact the school (yuying_ss@moe.edu.sg or call 62827968) for discussion or to seek clarification about the school’s Sexuality Education programme.
+
+[2023 Info on SEd for schools](/files/2023%20Info%20on%20SEd%20for%20schs%20website%20(Secondary%20Schools).pdf)
