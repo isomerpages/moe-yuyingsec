@@ -47,3 +47,7 @@ Sexuality Education Lessons:
 At Yuying Secondary School, the following Sexuality Education lessons will be taught in 2023:
 
 ![](/images/sec1.jpg)
+![](/images/sec2.jpg)
+![](/images/sec3.jpg)
+![](/images/sec4.jpg)
+![](/images/sec5.jpg)
