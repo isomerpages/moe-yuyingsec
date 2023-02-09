@@ -62,8 +62,8 @@ At Yuying Secondary School, the following Sexuality Education lessons will be ta
 **2023 Sexuality Education Lessons in CCE 2021**
 **Secondary 4**
 ![](/images/sec4.jpg)
-**2023 Sexuality Education Lessons in CCE 2021**
 
+**2023 Sexuality Education Lessons in CCE 2021**
 **Secondary 5**
 ![](/images/sec5.jpg)
 
