@@ -73,16 +73,14 @@ At Yuying Secondary School, the following Sexuality Education lessons will be ta
 Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two
 segments – a mass talk segment and a classroom-based programme.
 
-9. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer
-pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and
-upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to
-make wise, informed and sensible decisions.
+9. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.
 
 At Yuying Secondary School, the eTeens programme will be implemented as follows in 2023:
 ![](/images/eteen.jpg)
 
 
-Information for Parents
+**Information for Parents**
+
 10. Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers. 
 
 11.	Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form is downloadable here (please upload parents opt-out form found in  [Annex A](/files/Annex%20A.pdf). The completed form is to be submitted to thier children’s form teachers by 28/02/2023. 
