@@ -42,7 +42,7 @@ School Management Committee
   padding:0in 5.4pt 0in 5.4pt;height:15.75pt" valign="bottom" nowrap="" width="149"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
   color:black">Vice-Chairperson</span></p></td></tr><tr style="mso-yfti-irow:4;height:15.75pt"><td style="width:209.0pt;border:solid windowtext 1.0pt;
   border-top:none;padding:0in 5.4pt 0in 5.4pt;height:15.75pt" valign="top" nowrap="" width="279"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:black"><a href="mailto:hosog137@yahoo.com.sg"><span style="color:black;
+  color:black"><span style="color:black;
   text-decoration:none;text-underline:none">MR TAN CHONG BOON</span></a></span></p></td><td style="width:94.0pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt;height:15.75pt" valign="top" nowrap="" width="125"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Microsoft YaHei&quot;,sans-serif;
