@@ -264,4 +264,4 @@ School Management Committee
 
 **[Latest School Financial Summary](https://www.moe.gov.sg/about-us/organisation-structure/fpd/financial-summary)**
 
-[Non Financial Information.pdf](/files/Non%20Financial%20Information.pdf)
+**[Non Financial Information](/files/Non%20Financial%20Information%202023%20-%202025.pdf)**
