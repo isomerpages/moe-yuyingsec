@@ -4,7 +4,7 @@ permalink: /co-curriculum/Uniformed-Groups/National-Cadet-Corps/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-![](/images/CCA.jpg)
+![CCA](/images/CCA/Collage-uni.jpg)
 
 National Cadet Corps
 ====================
