@@ -4,6 +4,8 @@ permalink: /co-curriculum/Clubs-and-Societies/Photography-Club/
 description: ""
 third_nav_title: Clubs & Societies
 ---
+![](/images/CCA/Collage-club.jpg)
+
 Photography Club
 ================
 
