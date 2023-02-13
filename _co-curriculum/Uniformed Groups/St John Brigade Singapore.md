@@ -4,7 +4,7 @@ permalink: /co-curriculum/Uniformed-Groups/St-John-Brigade-Singapore/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-![](/images/CCA.jpg)
+![CCA](/images/CCA/Collage-uni.jpg)
 
 St. John Brigade Singapore
 ==========================
