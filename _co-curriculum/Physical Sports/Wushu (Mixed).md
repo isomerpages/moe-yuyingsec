@@ -4,6 +4,8 @@ permalink: /co-curriculum/Physical-Sports/Wushu-Mixed/
 description: ""
 third_nav_title: Physical Sports
 ---
+![cca-sport](/images/CCA/Collage-sport.jpg)
+
 Wushu (Mixed)
 =============
 
