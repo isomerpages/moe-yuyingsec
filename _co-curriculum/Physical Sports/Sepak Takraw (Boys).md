@@ -4,6 +4,8 @@ permalink: /co-curriculum/Physical-Sports/Sepak-Takraw-Boys/
 description: ""
 third_nav_title: Physical Sports
 ---
+![cca-sport](/images/CCA/Collage-sport.jpg)
+
 Sepak Takraw (Boys)
 ===================
 
