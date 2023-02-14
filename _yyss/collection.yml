@@ -1,0 +1,7 @@
+collections:
+  yyss:
+    output: true
+    order:
+      - Search Results.md
+      - Privacy Policy.md
+      - FAQ.md
