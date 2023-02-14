@@ -38,11 +38,6 @@ PSG aims to create opportunities for closer interaction between parents, princip
 
 加强家长，校长以及教师之间有效的沟通桥梁。让家长进一步了解校方在教育方面的政策，使命与愿景。
 
-### PSG Organisation Chart
-
-
-![](/images/PSG1.jpeg)
-
 ### Activities of the PSG
 
 
