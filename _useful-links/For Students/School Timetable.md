@@ -9,6 +9,13 @@ Timetable Jan 2023
 
 ##### **Secondary 1**
 
+
+| [1A](/files/Timetable%202023/1A.pdf) | [1C](/files/Timetable%202023/1C.pdf) | [1E](/files/Timetable%202023/1E.pdf) |
+| -------- | -------- | -------- |
+| [1F](/files/Timetable%202023/1F.pdf)    | [1G](/files/Timetable%202023/1G.pdf)     | [1R](/files/Timetable%202023/1R.pdf)   |
+| [1U](/files/Timetable%202023/1U.pdf)     |     |      |
+
+
 [1A](/files/Timetable%202023/1A.pdf)
 [1A.pdf](/files/1A.pdf)
 
