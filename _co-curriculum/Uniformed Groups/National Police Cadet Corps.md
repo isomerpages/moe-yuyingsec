@@ -17,8 +17,6 @@ Mr Iskhandar bin Abdul Talib (DyOC)
 
 Ms Jasmine Lee
 
-Ms Stephenie Choy
-
 Mr Ahmadsallehin Zulkiflee   
 
 <b> Leaders:</b>
