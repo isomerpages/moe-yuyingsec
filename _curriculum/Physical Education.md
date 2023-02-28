@@ -59,12 +59,12 @@ The department embraces a blended approach to equip pupils with the knowledge, l
     <td class="tg-0lax">HOD PE &amp; CCA</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Mr. Don Zhang</td>
-    <td class="tg-0lax">SH PE</td>
-  </tr>
-  <tr>
     <td class="tg-0lax">Mdm. Amy Wong</td>
     <td class="tg-0lax">SH CCE</td>
+  </tr>
+	 <tr>
+    <td class="tg-0lax">Mr Lee Hock Joo</td>
+    <td class="tg-0lax">ST (PE)</td>
   </tr>
   <tr>
     <td class="tg-0lax">Ms. Jennifer Soh</td>
