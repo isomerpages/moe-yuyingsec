@@ -13,6 +13,8 @@ Guzheng Ensemble
 
 Mdm De Chunyan
 
+Ms Ng Yun Xuan 
+
 Ms Low Yuet Wan
 
   
@@ -27,9 +29,9 @@ Vice-chairpersons: Jaden Goh Ee Teng and Jonathan Liew Ka Rong
 
 <b> Training Sessions: </b>
 
-Monday 3:00 p.m. to 5.30 p.m.
+Monday 1530 to 1730 
 
-Friday 2:00 p.m. to 5.00 p.m.
+Friday 1400 to 1700
 
   
 
