@@ -11,7 +11,9 @@ Girls' Brigade
 
 <b> Teachers-in-charge: </b>
 
-Mdm Esther Tay (2IC)
+Ms Hannah Tan
+
+Mdm Esther Tay 
 
 Miss Melanie Sim
 
