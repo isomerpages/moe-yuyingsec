@@ -15,8 +15,6 @@ Ms Wang Hsiao Yu
 
 Ms Candice Yong 
 
-Ms Clara Gan 
-
 Ms Kiw Hui Xin
 
   
@@ -29,9 +27,9 @@ Vice Chairman: Tan Shi En
 
 <b> Training Schedule: </b>
 
-Tuesday: 1445 - 1745
+Tuesday: 1430 - 1745
 
-Thursday: 1445 - 1745
+Thursday: 1430 - 1745
 
   
 
