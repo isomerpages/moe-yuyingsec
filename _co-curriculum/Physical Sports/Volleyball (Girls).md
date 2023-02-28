@@ -11,9 +11,11 @@ Volleyball (Girls)
 
 <b> Teachers-in-charge: </b>
 
-Ms Nor Jehan Raseede
+Ms Melissa Leow
 
-Ms Nur Syahirah Mohamed Salim
+Mdm Nisha Bte Omar Khan
+
+Ms Nabilah Syahirah
 
 Ms Lea Wong
 
