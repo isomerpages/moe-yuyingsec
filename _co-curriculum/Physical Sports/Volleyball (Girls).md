@@ -31,9 +31,9 @@ Vice Captain: Lee Tian Sin
 
 <b> Training Schedule: </b>
 
-Wednesday: 1530 - 1730
+Tuesday: 1500 - 1715
 
-Friday: 1430 - 1730
+Friday: 1415 - 1715
 
   
 
