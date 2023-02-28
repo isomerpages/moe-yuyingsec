@@ -29,7 +29,7 @@ Assistant Sergeant Major -  Stanley Tan Wei Jia 
 
 <b> Training Schedule: </b> 
 
-Friday: 1415 - 1800
+Friday: 1430 - 1745
 
 In the NCC, our cadets learn to become inspiring leaders and committed citizens through fun, adventurous and military related activities. The NCC aims to complement the academic education of our boys by providing them with the relevant practical training to enhance their mental and physical capabilities. As they move through their secondary school life, cadets learn to take on challenges which will help them in their personal growth as student leaders.
 

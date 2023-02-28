@@ -28,7 +28,8 @@ PE Department
 ### Our Mission
 
 
-<figure><img src="/images/PE.png" style="width:95%"><figcaption> Photo from left: Mr Tan Boon Kann, Mr Don Zhang, Ms Sim Yin Hui, Mr Lawrence Lim, Ms Melissa Leow, Ms Jennifer Soh, Mdm Amy Wong and Mr Iskhandar</figcaption></figure>
+<figure><img src="/images/PE.png" style="width:95%"><figcaption> Photo from left: Mr Tan Boon Kann, Mr Don Zhang, Ms Sim Yin Hui, Mr Lawrence Lim, Ms Melissa Leow, Ms Jennifer Soh, Mdm Amy Wong and Mr Iskhandar  *Not in Photo: Mr Lee Hock Joo"</figcaption></figure>
+
 
 The department embraces a blended approach to equip pupils with the knowledge, life-skills and learning experience. This is to equip students with the 21CCs to be able to adapt competently and show resilience in a Volatile, Uncertain, Complex, Ambiguous (V.U.C.A.) environment.
 
@@ -59,12 +60,12 @@ The department embraces a blended approach to equip pupils with the knowledge, l
     <td class="tg-0lax">HOD PE &amp; CCA</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Mr. Don Zhang</td>
-    <td class="tg-0lax">SH PE</td>
-  </tr>
-  <tr>
     <td class="tg-0lax">Mdm. Amy Wong</td>
     <td class="tg-0lax">SH CCE</td>
+  </tr>
+	 <tr>
+    <td class="tg-0lax">Mr Lee Hock Joo</td>
+    <td class="tg-0lax">ST (PE)</td>
   </tr>
   <tr>
     <td class="tg-0lax">Ms. Jennifer Soh</td>

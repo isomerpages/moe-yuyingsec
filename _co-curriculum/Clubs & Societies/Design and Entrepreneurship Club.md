@@ -13,7 +13,9 @@ Design and Entrepreneurship Club
 
 Mrs Cindy Chan
 
-Educational Workshop Instructor:
+Mdm Norhayati Md Rashid
+
+**Educational Workshop Instructor:**
 
 Mr Azman Suarti
 
@@ -29,7 +31,7 @@ Vice Chairman - Kong Yun Xuan Elina
 
 <b> Training Session: </b>
 
-Wednesday 2:30 p.m. to 5 p.m.
+Wednesday 3:00 p.m. to 5 p.m.
 
   
 

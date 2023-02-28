@@ -11,8 +11,6 @@ Concert Band
 
 <b> Teachers-in-charge: </b>
 
-Ms Ng Yun Xuan (OIC)
-
 Mr Jameson Kang 
 
 Ms Ng Li Rong
@@ -21,7 +19,8 @@ Ms Lee Wan Rong
 
 Mr Ang Eng Hong
 
-  
+Mr Gabriel Lim
+
 
 <b> Leaders: </b>
 
@@ -31,9 +30,9 @@ Band Major – Sherrin Wong Ka Shin
 
 <b> Training Schedule: </b> 
 
-Thursday 3.30pm - 6.00pm
+Thursday 3.30pm - 5.45pm
 
-Friday 2.30pm - 6.00pm
+Friday 2.30pm - 5.45pm
 
 <b> “One Band! One Sound!” </b>
 

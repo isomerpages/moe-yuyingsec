@@ -25,10 +25,9 @@ Vice-chairperson – Ayu Walitiya Binte Walid 
 
 <b> Training Schedule: </b>
 
-Wednesday 3.30pm - 6.00pm
-
-Thursday 3.30pm - 5.30pm
-
+Monday, Wednesday
+LS: 1430-1730
+US: 1530-1730	
   
 
 Yuying’s Malay Dance welcomes both girls and boys, regardless of ethnicity. We thrive with passionate and versatile dancers from different backgrounds, aspiring to tell their stories through  dance skills from different dance genres, beyond the traditional Malay Dance.

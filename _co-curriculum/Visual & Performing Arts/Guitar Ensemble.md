@@ -27,11 +27,10 @@ Vice-chairperson – Seah Yu Lin
 
 Training Schedule: 
 
-Monday 2.30pm - 5.30pm
+Monday, Tuesday
+LS: 1430-1730
+US: 1530-1730
 
-Tuesday 2.30pm - 5.30pm
-
-  
 
 The Guitar Ensemble is a CCA where students without any prior musical knowledge, but with keenness for hard work and passion for music gather. In this CCA, they learn the basics of guitar playing under the guidance of their instructors and seniors the moment they join the Guitar Ensemble. More importantly, the CCA comes together to make beautiful music, moving together as one.
 

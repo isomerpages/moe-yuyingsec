@@ -13,9 +13,9 @@ Sepak Takraw (Boys)
 
 Mdm Absa Ummal Binte MD Ali 
 
-Mr. Don Zhang
+Mr Lee Hock Joo
 
-Mr. Syed Abubakar Alsree
+Ms Yee Sze Jia
 
   
 
