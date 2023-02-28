@@ -27,9 +27,13 @@ Vice-chairperson – Seah Yu Lin
 
 Training Schedule: 
 
-Monday 2.30pm - 5.30pm
+Monday
+LS: 1430-1730
+US: 1530-1730
 
-Tuesday 2.30pm - 5.30pm
+Tuesday
+LS: 1430-1730
+US: 1530-1730
 
   
 
