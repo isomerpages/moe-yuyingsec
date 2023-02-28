@@ -11,13 +11,11 @@ Boys' Brigade
 
 <b> Teachers-in-charge: </b>
 
-Mr Darren Kung (Sec 1 Coordinator)
+Mr Darren Kung 
 
-Mr Teo Huai Wei Edmund (Sec 2 Coordinator and OIC)
+Mr Teo Huai Wei Edmund 
 
-Mr Kelvin Goh (Sec 3 Coordinator)
-
-Mr Ong Teck Yew (Sec 4/5 Coordinator)
+Mr Ong Teck Yew 
 
 <b> Leaders: </b>
 
