@@ -27,9 +27,9 @@ Vice-Chairperson - Cai Xinyu
 
 <b> Training Sessions: </b>
 
-Monday: 1530 - 1630
+Monday: 1430 - 1715
 
-Thursday: 1530 - 1730
+Thursday: 1430 - 1715
 
   
 
