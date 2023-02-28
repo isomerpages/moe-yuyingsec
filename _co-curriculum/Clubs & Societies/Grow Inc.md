@@ -25,7 +25,7 @@ Vice Chairman - Aqilah Qu’aysya Binte Mohammed Hermi
 
 <b> Training Session: </b>
 
-Thursday 3 p.m. to 5 p.m.
+Thursday 3.30 p.m. to 5.30 p.m.
 
 Grow-Inc is made up of a group of enthusiastic and nature-loving students who are passionate to champion environmental causes such as food sustainability and water conservation. As Singapore gears up for a greener future, the club believes the answers to environmental challenges lies in our young people's ingenuity and responsibility to be good stewards of the environment with informed, and sustainability-conscious mindsets. The club has forged close partnerships with NParks, National Environment Agency (NEA) and National Institute of Education (NIE) over the years through our collaboration on various sustainability and gardening projects.
 
