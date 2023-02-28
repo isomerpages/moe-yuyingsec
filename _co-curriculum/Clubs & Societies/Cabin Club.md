@@ -12,8 +12,8 @@ Cabin Club
 <b> Teachers-in-charge </b> 
 
 Mdm Lathamagesh
-
-Ms Yee Sze Jia 
+  
+Ms Rebecca Oh
 
   
 
