@@ -89,7 +89,7 @@ The department embraces a blended approach to equip pupils with the knowledge, l
   </tr>
   <tr>
     <td class="tg-0lax">Ms. Mong Hui Ling Jasmine</td>
-    <td class="tg-0lax">PE Flexi Adjunt</td>
+    <td class="tg-0lax">Music Flexi Adjunt</td>
   </tr>
 </tbody>
 </table>
