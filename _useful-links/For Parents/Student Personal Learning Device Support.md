@@ -46,7 +46,7 @@ Click the Chrome menu on the browser toolbar.
 *   Click Clear browsing data.
 
 
-If you are still facing a hardware issue with your Chromebook, inform your Form Teacher so the teacher can arrange an appointment with the IT department for us to troubleshoot.
+If you are still facing a hardware issue with your Chromebook, inform your Form Teacher so the teacher can arrange an appointment with the IT department for them to troubleshoot.
 
 
 **Useful tips.**
