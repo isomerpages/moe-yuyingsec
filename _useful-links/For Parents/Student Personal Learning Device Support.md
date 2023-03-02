@@ -84,11 +84,10 @@ Handling
 
 • The charging cable must be treated gently, and should not be tightly wound, crimped, or pulled on.
 
-  
-
 Parents can also bring the device to the service centre below for any hardware related issue.
 
-  
+**Acer Service Center**
+29 International Business Park Road #01-07, Acer Building, Tower A Service Centre, 609923
 
 **Lenovo Service Centre**
 
