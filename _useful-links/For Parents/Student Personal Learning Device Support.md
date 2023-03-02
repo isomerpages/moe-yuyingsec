@@ -45,9 +45,8 @@ Click the Chrome menu on the browser toolbar.
 *   In the dialogue that appears, select the checkboxes for the types of information that you want to remove. (do all). Use the menu at the top to select the amount of data that you want to delete.
 *   Click Clear browsing data.
 
-  
 
-#### \*\* [If you are still facing a hardware issue with your Chromebook, click here to book an appointment with our IT personnel.](https://docs.google.com/forms/d/e/1FAIpQLScR-yLi9Bdcwe8GJvTlE3pe1XDJKN3tDRYRAoMfoNSgrmDbng/viewform)
+If you are still facing a hardware issue with your Chromebook, inform your Form Teacher so the teacher can arrange an appointment with the IT department for us to troubleshoot.
 
 
 **Useful tips.**
@@ -87,6 +86,7 @@ Handling
 Parents can also bring the device to the service centre below for any hardware related issue.
 
 **Acer Service Center**
+
 29 International Business Park Road #01-07, Acer Building, Tower A Service Centre, 609923
 
 **Lenovo Service Centre**
