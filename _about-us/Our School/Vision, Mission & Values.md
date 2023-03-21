@@ -36,7 +36,7 @@ Vision, Mission & Values
     <td class="tg-hovb">Our School Mission</td>
   </tr>
   <tr>
-    <td class="tg-d2d2">To Nurture Wholesome Individuals with Global Mindset, Passion to Learn<span style="font-weight:400;font-style:normal;text-decoration:none">and Spirit to Serve</span></td>
+    <td class="tg-d2d2">To Nurture Wholesome Individuals with Global Mindset, Passion to Learn<span style="font-weight:400;font-style:normal;text-decoration:none"> and Spirit to Serve</span></td>
   </tr>
   <tr>
     <td class="tg-hovb">使命</td>
