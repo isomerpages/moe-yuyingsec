@@ -28,7 +28,7 @@ Timetable Jan 2023
 | [3A](/files/Timetable%202023/3A.pdf) | [3C](/files/Timetable%202023/3C.pdf) | [3E](/files/Timetable%202023/3E.pdf) |
 | -------- | -------- | -------- |
 | [3F](/files/Timetable%202023/3F.pdf)    | [3G](/files/Timetable%202023/3G.pdf)     | [3L](/files/Timetable%202023/3L.pdf)   |
-| [3R](/files/Timetable%202023/3R.pdf)     | [3R](/files/Timetable%202023/2R.pdf)      |   [3U](/files/Timetable%202023/3U.pdf)     |
+| [3R](/files/Timetable%202023/3R.pdf)     | [3S](/files/Timetable%202023/3S.pdf)      |   [3U](/files/Timetable%202023/3U.pdf)     |
 
 
 ##### **Secondary 4/5**
