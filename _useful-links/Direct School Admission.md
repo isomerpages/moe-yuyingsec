@@ -3,7 +3,6 @@ title: Direct School Admission
 permalink: /useful-links/permalink/
 description: DSA
 ---
-
 # Direct Schools Admission (DSA) Exercise for 2024 Intake
 
 Direct School Admission (**DSA**) scheme provides students with the opportunity to seek admission to a secondary school, based on a diverse range of specific academic and non-academic achievements and talents that they can demonstrate beyond the Primary School Leaving Examination (PSLE). Primary 6 (P6) students who do not participate in the DSA-Sec will continue to seek admission based on their PSLE results through the Secondary 1 (S1) Posting.
@@ -16,4 +15,4 @@ We welcome all current Primary Six students (or equivalent) to apply for 2024 ad
 * Sports and Games – Wushu (Boys and Girls)
 * Performing Arts – Concert Band (Boys and Girls)
 
-The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at https://www.moe.gov.sg/dsa-sec. 
+The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at https://www.moe.gov.sg/dsa-sec.
