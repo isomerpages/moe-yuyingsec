@@ -15,4 +15,4 @@ We welcome all current Primary Six students (or equivalent) to apply for 2024 ad
 * Sports and Games – Wushu (Boys and Girls)
 * Performing Arts – Concert Band (Boys and Girls)
 
-The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at https://www.moe.gov.sg/dsa-sec.
+The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at [www.moe.gov.sg/dsa-sec.]( https://www.moe.gov.sg/dsa-sec.)
