@@ -4,7 +4,8 @@ title: "Yuying Secondary School "
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: Direct Schools Admission (DSA) Exercise for 2024 Intake <a
+  href="https://www.yuyingsec.moe.edu.sg/useful-links/dsa/"> Find Out More</a>
 sections:
   - hero:
       url: /about-us/Contact-Us/
