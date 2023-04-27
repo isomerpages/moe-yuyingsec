@@ -4,7 +4,8 @@ title: "Yuying Secondary School "
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: <a href="https://www.yuyingsec.moe.edu.sg/useful-links/dsa/">Click
+notification: <a
+  href="https://drive.google.com/file/d/1NIo5JDhaGPlSbtvFZ1hNmJVeLzvrqsmo/view?usp=share_link">Click
   here to download Speech Day Programme booklet</a>
 sections:
   - hero:
