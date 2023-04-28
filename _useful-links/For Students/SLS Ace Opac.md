@@ -11,4 +11,4 @@ Educational Platforms
 
 [ACE Learning](https://www.ace-learning.com/)
 
-[Yuying Secondary School OPAC](https://schoolibrary.moe.edu.sg/yuyingsec/)
+[Library -  OPAC](https://schoolibrary.moe.edu.sg/yuyingsec/)
