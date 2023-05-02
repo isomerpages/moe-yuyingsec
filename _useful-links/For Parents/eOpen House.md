@@ -4,14 +4,13 @@ permalink: /yyss/e-Open-House/
 description: ""
 third_nav_title: For Parents
 ---
-
 e-Open House
 ============
 
 ### The Yuying Experience
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GXVRZIA37LA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GXVRZIA37LA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 
 ### Key Programmes
@@ -28,7 +27,7 @@ e-Open House
 
 Students have to report to school by 7.30am every day.
 
-Dismissal timing will range between 12.30 to 2.30pm according to the students’ timetables. Due to safe distancing measures, dismissal timing for all levels will be staggered.
+Students will be dismissed from 12.30pm to 3.05pm, depending on their timetables. 
 
 * **What are the nearest MRT stations to Yuying Secondary School?**
 
@@ -48,7 +47,7 @@ Our school emphasises a culture of care, learning and collaboration amongst teac
 
 * **What subjects would my child take in Secondary 1?**
 
-Please refer to MOE’s website for subjects offered to Secondary 1 students: [https://moe.gov.sg/secondary/courses/](https://moe.gov.sg/secondary/courses/)
+Please refer to MOE’s website for subjects offered to Secondary 1 students:&nbsp;[https://moe.gov.sg/secondary/courses/](https://moe.gov.sg/secondary/courses/)
 
 * **What are the subjects offered at the Upper Secondary level?** 
 
@@ -123,5 +122,5 @@ For more information, please refer to: (link not found)
 
 ##### **Other queries**
 
-##### If you have further queries, please email us at [yuying\_ss@moe.edu.sg](mailto:yuying_ss@moe.edu.sg). Do remember to leave your name and contact number so that we may respond to you.
+##### If you have further queries, please email us at&nbsp;[yuying\_ss@moe.edu.sg](mailto:yuying_ss@moe.edu.sg). Do remember to leave your name and contact number so that we may respond to you.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
