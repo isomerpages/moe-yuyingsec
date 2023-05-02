@@ -49,3 +49,5 @@ Our Staff
 | Administration Manager                                        | Mr Jason Ong             |
 | Operations Manager 1                                          | Mr Michael Sim           |
 | Operations Manager 2                                          | Mr Chua Kheng Chuang     |
+
+[Form Teacher Email](/files/FT%20Email/form%20teacher%20email%202023_updated.pdf)
