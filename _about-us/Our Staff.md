@@ -50,4 +50,4 @@ Our Staff
 | Operations Manager 1                                          | Mr Michael Sim           |
 | Operations Manager 2                                          | Mr Chua Kheng Chuang     |
 
-[Email of Form Teachers](https://cms.isomer.gov.sg/sites/moe-yuyingsec/media/files/mediaDirectory/files%2FFT%20Email/editMediaSettings/form%20teacher%20email%202023_updated.pdf)
+[Form Teacher Email](/files/FT%20Email/form%20teacher%20email%202023_updated.pdf)
