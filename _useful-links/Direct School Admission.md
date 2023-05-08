@@ -66,3 +66,9 @@ Performing Arts &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
   padding:4.0pt 4.0pt 4.0pt 4.0pt;height:.25in"><p class="MsoNormal" style="margin-bottom:8.0pt;line-height:normal"><i style="mso-bidi-font-style:normal"><span lang="EN-GB">Please note all applicants should have conduct grade of at least a ‘Very Good’ in Pri 5 and 6 in the holistic report.</span></i></p></td></tr></tbody></table>
 
 **NB**:  Meeting all the criteria does not guarantee the student will be shortlisted/given an offer.
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/lE3qU1VAnN8" height="315" width="560"></iframe>
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/jWJJEUtyXe8" height="315" width="560"></iframe>
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/1mSEFC2m48k" height="315" width="560"></iframe>
