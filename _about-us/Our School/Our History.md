@@ -9,6 +9,8 @@ Our History
 
 ![](/images/History.png)
 
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/KbUCkkpRJr0" height="355" width="600"></iframe>
+
 Yuying Secondary School was founded by the Hainanese Community in 1910 as a Chinese-medium high school. At that time, it was located at Prinsep Street and named Yock Eng High School. The school began with an enrolment of only 15 students. However, it soon outgrew its premises as the enrolment continued to climb. In 1939, the School Management Board initiated a campaign to raise funds for new premises.
 
   
@@ -21,7 +23,7 @@ On 9 Dec 1985, the school relocated to its present premises at 47 Hougang Ave 1.
 
   
 
-In 2015, an agreement which would last for the next 30 years was signed between the School Management Committee and the Ministry of Education. Yuying would continue as a Government-Aided secondary school, with the School Management Committee and School Alumni Association (founded in 1994) continuing to actively support the school programmes.  While Yuying has journeyed through more than a century, its educational beliefs remain the same - to nurture each generation of individuals and equip them with the skills to achieve personal excellence.
+In 2015, an agreement which would last for the next 30 years was signed between the School Management Committee and the Ministry of Education. Yuying would continue as a Government-Aided secondary school, with the School Management Committee and School Alumni Association (founded in 1994) continuing to actively support the school programmes.&nbsp; While Yuying has journeyed through more than a century, its educational beliefs remain the same - to nurture each generation of individuals and equip them with the skills to achieve personal excellence.
 
 
 
@@ -52,7 +54,7 @@ In 2015, an agreement which would last for the next 30 years was signed between 
 
 育英中学是新加坡一所历史悠久的学府，她历经风霜，走过战火，见证历史。
 
-创校之初奠定基石    
+创校之初奠定基石&nbsp; &nbsp;&nbsp;
 
 
 1910年，七位热心教育的琼籍侨领王绍经、黄可辉、云昌朗、何玉麟、卢熙耀、陈开国、符昌邠, 创办 “琼崖育英学堂”，为海南子弟提供受教育机会。 “育英”寓意培育英才。1911年，学校仅有15名学生，改校名为“育英学校”。育英创校初期规模不大，仅有位于布连拾街（俗称六马路）的三间校舍。1919年，校方筹款增建四间课室。
@@ -63,15 +65,15 @@ In 2015, an agreement which would last for the next 30 years was signed between 
 
 四十年代逆境求
 
-1940年，育英新校舍开始动工。1941年12月，日军南侵，新校舍被殖民地政府征用，当时距原定新校舍落成开幕日仅三天。1942年2月，日军占领新加坡，育英校舍随之被日军占用。1945年，日军投降，育英校舍被盟军充作兵营。校方多次交涉，终于在日军投降半年后收回校舍。当时校舍内空无一物，文件档案荡然无存。临时董事会凭着坚韧不拔的精神，筹得复校基金。1946年7月，育英重新开课，11月28日，举行新校舍落成开幕仪式。育英校园恢复蓬勃朝气，琼州会馆及琼州天后宫亦恢复对学校的支持。此时，学校增设中学部，育英学校也改名为育英中学 Yock Eng High School。   
+1940年，育英新校舍开始动工。1941年12月，日军南侵，新校舍被殖民地政府征用，当时距原定新校舍落成开幕日仅三天。1942年2月，日军占领新加坡，育英校舍随之被日军占用。1945年，日军投降，育英校舍被盟军充作兵营。校方多次交涉，终于在日军投降半年后收回校舍。当时校舍内空无一物，文件档案荡然无存。临时董事会凭着坚韧不拔的精神，筹得复校基金。1946年7月，育英重新开课，11月28日，举行新校舍落成开幕仪式。育英校园恢复蓬勃朝气，琼州会馆及琼州天后宫亦恢复对学校的支持。此时，学校增设中学部，育英学校也改名为育英中学 Yock Eng High School。&nbsp; &nbsp;
 
 五、六十年代顺应变革
 
-1956年，育英增设高中部，成为拥有小学、初中和高中完整教育体系的华校。1957年起，学校接受政府津贴，正式成为政府辅助学校。1958年，学生人数达2400余人，创历史最高。六十年代，社会对工艺技术及商业教育的需求增加，英语逐渐成为社会主要媒介语，华校开始走向末落   。
+1956年，育英增设高中部，成为拥有小学、初中和高中完整教育体系的华校。1957年起，学校接受政府津贴，正式成为政府辅助学校。1958年，学生人数达2400余人，创历史最高。六十年代，社会对工艺技术及商业教育的需求增加，英语逐渐成为社会主要媒介语，华校开始走向末落&nbsp; &nbsp;。
 
-七、八、九十年代发展历程 
+七、八、九十年代发展历程&nbsp;
 
-1976年，学校计划分开中学部和小学部。1981年，育英面对收生不足问题，教育部建议学校搬迁至人口稠密的后港区求得生存。1983年，学校因招生不足停办小学，在籍小学生并入光华学校。1984年，育英接受教育部迁校建议，在后港兴建新校舍。1985年，新校舍落成，学校名称由Yock Eng High School改为Yuying Secondary School。1987年8月13日，学校举行新校舍开幕仪式。1994年，育英开始实行单班制。 
+1976年，学校计划分开中学部和小学部。1981年，育英面对收生不足问题，教育部建议学校搬迁至人口稠密的后港区求得生存。1983年，学校因招生不足停办小学，在籍小学生并入光华学校。1984年，育英接受教育部迁校建议，在后港兴建新校舍。1985年，新校舍落成，学校名称由Yock Eng High School改为Yuying Secondary School。1987年8月13日，学校举行新校舍开幕仪式。1994年，育英开始实行单班制。&nbsp;
 
 <b> 新纪元 新育英 </b>
 
