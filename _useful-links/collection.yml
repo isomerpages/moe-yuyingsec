@@ -2,7 +2,6 @@ collections:
   useful-links:
     output: true
     order:
-      - Direct School Admission.md
       - For Students/.keep
       - For Students/School Timetable.md
       - For Students/School Uniform & Booklist.md
@@ -21,3 +20,4 @@ collections:
       - For Parents/Full Subject Based Banding.md
       - For Staff.md
       - School Canteen Advertisement.md
+      - Direct School Admission.md
