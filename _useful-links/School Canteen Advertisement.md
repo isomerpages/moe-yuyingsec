@@ -3,6 +3,11 @@ title: School Canteen Advertisement
 permalink: /useful-links/canteen/
 description: School Canteen Advertisement
 ---
+| Type of Stall | Closing Date | Requirements |
+| -------- | -------- | -------- |
+| Vegetarian Food Stall     | 2 June 2023 | Rice or noodle stalls are acceptable.|
+| Malay Food Stall | 2 June 2023 | Rice or noodle stalls are acceptable.|
+
 **Application Procedure**
 
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
