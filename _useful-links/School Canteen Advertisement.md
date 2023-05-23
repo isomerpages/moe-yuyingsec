@@ -12,7 +12,7 @@ description: School Canteen Advertisement
 
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
 
-* [Application Form]( https://schadmsvc.moe.gov.sg/schcanteenapplication)
+* [Application Form](files/pdf/application%20for%20canteen%20stall%20in%20existing%20school%20form.pdf)
 
 2. Attached the following documents together with the application form:
 * Photocopy of the NRIC (front and back)
