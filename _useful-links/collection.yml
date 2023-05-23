@@ -2,7 +2,6 @@ collections:
   useful-links:
     output: true
     order:
-      - Direct School Admission.md
       - For Students/.keep
       - For Students/School Timetable.md
       - For Students/School Uniform & Booklist.md
@@ -10,8 +9,8 @@ collections:
       - For Students/Promotion Criteria.md
       - For Students/SLS Ace Opac.md
       - For Students/Education & Career Guidance.md
-      - For Parents/eOpen House.md
       - For Parents/.keep
+      - For Parents/eOpen House.md
       - For Parents/Insurance for Students.md
       - For Parents/MOE SEXUALITY EDUCATION.md
       - For Parents/Parenting Tips.md
@@ -20,3 +19,5 @@ collections:
       - For Parents/Student Personal Learning Device Support.md
       - For Parents/Full Subject Based Banding.md
       - For Staff.md
+      - School Canteen Advertisement.md
+      - Direct School Admission.md
