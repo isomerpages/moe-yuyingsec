@@ -5,11 +5,11 @@ permalink: /contact-us/
 agency_name: Yuying Secondary School
 locations:
   - address:
-      - "47 Hougang Avenue 1 "
+      - 47 Hougang Avenue 1
       - Singapore 538884
       - ""
     operating_hours: []
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+    maps_link: ""
     title: Address
 contacts:
   - content:
