@@ -15,7 +15,6 @@ contacts:
   - content:
       - phone: +65 6282 7968
       - email: yuying_ss@moe.edu.sg
-      - other: "Tel: (65) 6282 7968  Fax: (65) 6287 1607  Bus Services: 53, 53M, 62,
-          62A, 113, 113A, 115"
+      - other: "Bus Services: 53, 53M, 62, 62A, 113, 113A, 115"
     title: General Enquiries & Feedback
 ---
