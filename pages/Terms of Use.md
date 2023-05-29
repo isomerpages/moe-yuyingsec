@@ -8,7 +8,7 @@ General
 
 Thank you for visiting this website (“Website”) which is owned and operated by the Yuying Secondary School (Yuying Sec). By accessing and using this Website, you unconditionally accept and agree to be bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Website.
 
-Hougang Sec reserves the right to change these Terms of Use from time to time. All changes will be posted on this page, and your use of this Website after such changes have been posted will constitute your unconditional agreement to the modified Terms of Use and all of the changes.
+Yuying Sec reserves the right to change these Terms of Use from time to time. All changes will be posted on this page, and your use of this Website after such changes have been posted will constitute your unconditional agreement to the modified Terms of Use and all of the changes.
 
 Proprietary Rights
 ------------------
@@ -42,12 +42,12 @@ Yuying Sec shall not be liable to you or any third party for any damage or loss 
 *   any delay or interruption in the transmission of the Contents on this Website, whether caused by delay or interruption in transmission over the internet or otherwise; or
 *   any decision made or action taken by you or any third party in reliance upon the Contents, regardless of whether Yuying Sec has been advised of the possibility of such damage or loss.
 
-You shall not rely on any Contents of this Website to claim or assert any form of legitimate expectation against Yuying Sec, whether procedural or substantive in nature, in respect of any action that Yuying Sec may or may not take in the exercise of its discretion, or in connection with Hougang Sec’s roles as a government agency.
+You shall not rely on any Contents of this Website to claim or assert any form of legitimate expectation against Yuying Sec, whether procedural or substantive in nature, in respect of any action that Yuying Sec may or may not take in the exercise of its discretion, or in connection with Yuying Sec’s roles as a government agency.
 
 Indemnity
 ---------
 
-You hereby agree to indemnify Yuying Sec and hold Hougang Sec harmless from and against any and all claims, losses, liabilities, costs and expenses (including but not limited to legal costs and expenses on a full indemnity basis) made against or suffered or incurred by Yuying Sec arising directly or indirectly out of:
+You hereby agree to indemnify Yuying Sec and hold Yuying Sec harmless from and against any and all claims, losses, liabilities, costs and expenses (including but not limited to legal costs and expenses on a full indemnity basis) made against or suffered or incurred by Yuying Sec arising directly or indirectly out of:
 
 *   your access to or use of this Website; or
 *   your breach of any of these Terms of Use.
