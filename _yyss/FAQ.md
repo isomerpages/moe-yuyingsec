@@ -3,7 +3,6 @@ title: FAQ
 permalink: /yyss/FAQ/
 description: ""
 ---
-![](/images/AboutUs.jpg)
 
 FAQ
 ===
@@ -46,15 +45,7 @@ Your account will be locked after 6 consecutive attempts to log in with an incor
 
   
 
-4\. How do I/my child log onto AsknLearn?
-
-  
-
-Information pertaining to AsknLearn login can be found [**here**](https://lms.asknlearn.com/corp/UserProfile/ForgotPassword/ForgotRoot.aspx).
-
-  
-
-5\. If there are some information I wish to find that is not on the website, what should I do?
+4\. If there are some information I wish to find that is not on the website, what should I do?
 
   
 
