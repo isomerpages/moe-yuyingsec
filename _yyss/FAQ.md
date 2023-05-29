@@ -3,7 +3,6 @@ title: FAQ
 permalink: /yyss/FAQ/
 description: ""
 ---
-
 FAQ
 ===
 
@@ -33,7 +32,7 @@ If you cannot see the email in your inbox, it may be in the spam or junk email f
 
   
 
-**c)** Call SLS helpdesk at 67026513
+**c)** Contact your form teacher to reset the password
 
   
 
@@ -42,7 +41,7 @@ If you cannot see the email in your inbox, it may be in the spam or junk email f
   
 
 Your account will be locked after 6 consecutive attempts to log in with an incorrect password.
-
+Contact your form Teacher to unlock the account
   
 
 4\. If there are some information I wish to find that is not on the website, what should I do?
