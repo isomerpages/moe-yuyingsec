@@ -5,8 +5,8 @@ description: School Canteen Advertisement
 ---
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Vegetarian Food Stall     | 2 June 2023 | Rice or noodle stalls are acceptable.|
-| Malay Food Stall | 2 June 2023 | Rice or noodle stalls are acceptable.|
+| Vegetarian Food Stall     | 31 July 2023 | Rice or noodle stalls are acceptable.|
+| Malay Food Stall | 31 July 2023 | Rice or noodle stalls are acceptable.|
 
 **Application Procedure**
 
