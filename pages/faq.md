@@ -20,14 +20,7 @@ If you cannot see the email in your inbox, it may be in the spam or junk email f
 
 **c)** Call SLS helpdesk at 67026513
   
-3\. My SLS account has been locked. What should I do?
+3\. My SLS account has been locked or I forgotten the password. What should I do?
 
-Your account will be locked after 6 consecutive attempts to log in with an incorrect password.
+Your account will be locked after 6 consecutive attempts to log in with an incorrect password. Contact your Form teacher to have the account unlock and password reset.
 
-4\. How do I/my child log onto AsknLearn?
-
-Information pertaining to AsknLearn login can be found [here](https://lms.asknlearn.com/corp/UserProfile/ForgotPassword/ForgotRoot.aspx).
-
-5\. If there are some information I wish to find that is not on the website, what should I do?
-  
-Call our office at 62827968 or email us at yuying\_ss@moe.edu.sg
