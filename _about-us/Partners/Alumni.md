@@ -230,3 +230,9 @@ Alumni
   </tr>
 </tbody>
 </table>
+
+**To contact the Alumni Office: **
+
+Email address : yyingalumni@gmail.com
+
+Office number: +65 62889173 
