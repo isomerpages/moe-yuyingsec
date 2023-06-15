@@ -11,7 +11,7 @@ Our Staff
 | ------------------------------------------------------------- | ------------------------ |
 | Principal                                                     | Mr Chong Jack Sheng      |
 | Vice-Principal                                                | Mrs Tham Hwee Peng       |
-| Vice-Principal                                                | Mr Simon Foo             |
+| Vice-Principal                                                |          |
 | School Staff Developer                                        | Ms Charmaine Tay         |
 | Year Head (Lower Secondary)                                   | Mdm Pearly Ang           |
 | Assistant Year Head (Lower Secondary)                         | Mr Kelvin Goh            |
