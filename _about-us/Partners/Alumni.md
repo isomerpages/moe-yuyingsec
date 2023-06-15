@@ -231,7 +231,7 @@ Alumni
 </tbody>
 </table>
 
-**To contact the Alumni Office: **
+To contact the Alumni Office:
 
 Email address : yyingalumni@gmail.com
 
