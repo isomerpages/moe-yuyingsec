@@ -4,7 +4,7 @@ permalink: /useful-links/For-Students/Timetable-June-2022/
 description: ""
 third_nav_title: For Students
 ---
-Timetable Jan 2023
+Timetable Semester 2
 ===================
 
 ##### **Secondary 1**
