@@ -18,7 +18,7 @@ Timetable Semester 2
 
 ##### **Secondary 2**
 
-| [2A](/files/Timetable%202023/2a-2023.pdf) | [2C](/files/Timetable%202023/2C-2023.pdf) | [2E](/files/Timetable%202023/2e-2023.pdf) |
+| [2A](/files/Timetable%202023/2a-2023.pdf) | [2C](/files/Timetable%202023/2c-2023.pdf) | [2E](/files/Timetable%202023/2e-2023.pdf) |
 | -------- | -------- | -------- |
 | [2F](/files/Timetable%202023/2f-2023.pdf)    | [2G](/files/Timetable%202023/2g-2023.pdf)     | [2L](/files/Timetable%202023/2l-2023.pdf)   |
 | [2R](/files/Timetable%202023/2r-2023.pdf)     | [2U](/files/Timetable%202023/2u-2023.pdf)      |      |
