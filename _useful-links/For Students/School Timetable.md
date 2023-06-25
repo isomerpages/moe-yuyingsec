@@ -27,7 +27,7 @@ Timetable Semester 2
 
 | [3A](/files/Timetable%202023/3a-2023.pdf) | [3C](/files/Timetable%202023/3c.pdf) | [3E](/files/Timetable%202023/3e-2023.pdf) |
 | -------- | -------- | -------- |
-| [3F](/files/Timetable%202023/3f-2023.pdf)    | [3G](/files/Timetable%202023/3g-2023.pdf)     | [3L](/files/Timetable%202023/3L-2023.pdf)   |
+| [3F](/files/Timetable%202023/3f-2023.pdf)    | [3G](/files/Timetable%202023/3g-2023.pdf)     | [3L](/files/Timetable%202023/3l-2023.pdf)   |
 | [3R](/files/Timetable%202023/3r-2023.pdf)     | [3S](/files/Timetable%202023/3s-2023.pdf)      |   [3U](/files/Timetable%202023/3u-2023.pdf)     |
 
 
