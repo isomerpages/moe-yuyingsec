@@ -11,7 +11,7 @@ Contact Us
 
 Address: 47 Hougang Avenue 1 Singapore 538884  
   
-Tel: (65) 6282 7968
+Tel: (65) 6282 5306
 
 Fax: (65) 6287 1607
 
