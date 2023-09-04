@@ -2,6 +2,7 @@ collections:
   yyss:
     output: true
     order:
+      - Student Initiated Learning (SIL).md
       - Arts Education.md
       - Search Results.md
       - Privacy Policy.md
