@@ -34,7 +34,7 @@ Our Staff
 | Subject Head (Chinese Language)                               | Mr Koh Chee Keong        |
 | Subject Head (Chemistry)                                      | Mrs Tan Ruiqi            |
 | Subject Head (Student Leadership & Aesthetics)                | Ms Nur Izzati            |
-| Subject Head (ICT & Data Management)                          | Ms Wee Li Hui            |
+| Subject Head (ICT & Data Management)                          |           |
 | Subject Head (Student Well-Being)                             | Ms Rebecca Oh            |
 | Subject Head (Character & Citizenship Education)              | Mdm Amy Wong       |
 | Level Head (Mathematics)                                      | Mr Chia Kah Kheng        |
