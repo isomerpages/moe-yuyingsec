@@ -34,7 +34,7 @@ Our Staff
 | Subject Head (Chinese Language)                               | Mr Koh Chee Keong        |
 | Subject Head (Chemistry)                                      | Mrs Tan Ruiqi            |
 | Subject Head (Student Leadership & Aesthetics)                | Ms Nur Izzati            |
-| Subject Head (ICT & Data Management)                          | Ms Wee Li Hui            |
+| Subject Head (ICT & Data Management)                          |           |
 | Subject Head (Student Well-Being)                             | Ms Rebecca Oh            |
 | Subject Head (Character & Citizenship Education)              | Mdm Amy Wong       |
 | Level Head (Mathematics)                                      | Mr Chia Kah Kheng        |
@@ -48,4 +48,4 @@ Our Staff
 | Operations Manager 1                                          | Mr Michael Sim           |
 | Operations Manager 2                                          | Mr Chua Kheng Chuang     |
 
-[Form Teacher Email](/files/FT%20Email/form%20teacher%20email%202023_updated.pdf)
+[Form Teacher email list](/files/Pdf/ft%20list%202023_semester%202_final_sep%202023.pdf)
