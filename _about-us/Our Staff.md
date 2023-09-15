@@ -48,4 +48,4 @@ Our Staff
 | Operations Manager 1                                          | Mr Michael Sim           |
 | Operations Manager 2                                          | Mr Chua Kheng Chuang     |
 
-[Form Teacher Email List](/files/FT%20Email/form%20teacher%20email%202023_updated.pdf)[Form Teacher email list](/files/Pdf/ft%20list%202023_semester%202_final_sep%202023.pdf)
+[Form Teacher Email List](/files/Pdf/form%20teacher%20email%202023_t4.pdf)
