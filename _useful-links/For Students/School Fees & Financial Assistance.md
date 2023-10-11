@@ -172,8 +172,6 @@ School fees are collected to defray part of the cost of education. The current f
   mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
   color:#282828;mso-font-kerning:0pt;mso-ligatures:none">$1,790</span></p></td></tr></tbody></table>
 
-\*Miscellaneous fees consist of two components – standard miscellaneous fees and 2nd-tier miscellaneous fees.
-
 <b>NOTE:</b>
 
 There are three modes of payment:
