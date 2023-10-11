@@ -12,73 +12,165 @@ School Fees &amp; Financial Assistance
 
 School fees are collected to defray part of the cost of education. The current fee rates are given below:
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-1pwd{background-color:#e1fbe0;color:#282828;text-align:center;vertical-align:top}
-.tg .tg-yhis{background-color:#e1fbe0;color:#282828;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-nz19{color:#282828;text-align:center;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 724px">
-<colgroup>
-<col style="width: 261px">
-<col style="width: 116px">
-<col style="width: 231px">
-<col style="width: 116px">
-</colgroup>
-<thead>
-  <tr>
-    <th class="tg-yhis" colspan="4"><span style="font-weight:700;color:#282828">2023 onwards</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-nz19" rowspan="2"><br><span style="color:#282828;background-color:transparent">Nationality</span></td>
-    <td class="tg-nz19"><span style="color:#282828;background-color:transparent">Monthly</span></td>
-    <td class="tg-nz19" rowspan="2"><br><span style="color:#282828;background-color:transparent">*Monthly Miscellaneous Fee</span></td>
-    <td class="tg-nz19"><span style="color:#282828;background-color:transparent">Monthly</span></td>
-  </tr>
-  <tr>
-    <td class="tg-nz19"><span style="color:#282828;background-color:transparent">School Fee</span></td>
-    <td class="tg-nz19"><span style="color:#282828;background-color:transparent">Total Fee</span></td>
-  </tr>
-  <tr>
-    <td class="tg-1pwd"><span style="color:#282828">Singapore Citizen (SC)</span></td>
-    <td class="tg-1pwd"><span style="color:#282828">$5</span></td>
-    <td class="tg-1pwd"><span style="color:#282828">$20</span></td>
-    <td class="tg-1pwd"><span style="color:#282828">$25</span></td>
-  </tr>
-  <tr>
-    <td class="tg-nz19"><span style="color:#282828;background-color:transparent">Singapore Permanent Resident (PR)</span></td>
-    <td class="tg-nz19"><span style="color:#282828;background-color:transparent">$500</span></td>
-    <td class="tg-nz19"><span style="color:#282828;background-color:transparent">$20</span></td>
-    <td class="tg-nz19"><span style="color:#282828;background-color:transparent">$520</span></td>
-  </tr>
-  <tr>
-    <td class="tg-1pwd"><span style="color:#282828">International Student</span></td>
-    <td class="tg-1pwd" rowspan="2"><br><span style="color:#282828">$900</span></td>
-    <td class="tg-1pwd" rowspan="2"><br><span style="color:#282828">$20</span></td>
-    <td class="tg-1pwd" rowspan="2"><br><span style="color:#282828">$920</span></td>
-  </tr>
-  <tr>
-    <td class="tg-1pwd"><span style="color:#282828">(ASEAN)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-nz19"><span style="color:#282828;background-color:transparent">International Student</span></td>
-    <td class="tg-nz19" rowspan="2"><br><span style="color:#282828;background-color:transparent">$1,750</span></td>
-    <td class="tg-nz19" rowspan="2"><br><span style="color:#282828;background-color:transparent">$20</span></td>
-    <td class="tg-nz19" rowspan="2"><br><span style="color:#282828;background-color:transparent">$1,770</span></td>
-  </tr>
-  <tr>
-    <td class="tg-nz19"><span style="color:#282828;background-color:transparent">(Non-ASEAN)</span></td>
-  </tr>
-</tbody>
-</table>
-
-\*Miscellaneous fees consist of two components – standard miscellaneous fees and 2nd-tier miscellaneous fees.
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="702" style="width:526.5pt;border-collapse:collapse;mso-yfti-tbllook:1184;
+ mso-padding-alt:0in 5.4pt 0in 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:17.9pt"><td width="702" colspan="4" style="width:526.5pt;border:solid #D6D6D6 1.0pt;
+  border-bottom:solid #D6D6D6 1.5pt;background:#E1FBE0;padding:0in 5.4pt 0in 5.4pt;
+  height:17.9pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><b><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
+  color:#282828;mso-font-kerning:0pt;mso-ligatures:none">School Fees from 2024 onwards</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:17.9pt"><td width="702" colspan="4" style="width:526.5pt;border-top:none;border-left:
+  solid #D6D6D6 1.0pt;border-bottom:solid #D6D6D6 1.5pt;border-right:solid #D6D6D6 1.0pt;
+  mso-border-top-alt:solid #D6D6D6 1.0pt;background:#E1FBE0;padding:0in 5.4pt 0in 5.4pt;
+  height:17.9pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><b><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
+  color:#282828;mso-font-kerning:0pt;mso-ligatures:none">&nbsp;</span></b></p></td></tr><tr style="mso-yfti-irow:2;height:18.65pt"><td width="257" style="width:192.55pt;border-top:none;border-left:solid #D6D6D6 1.0pt;
+  border-bottom:none;border-right:solid #D6D6D6 1.0pt;padding:0in 5.4pt 0in 5.4pt;
+  height:18.65pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="mso-ascii-font-family:Calibri;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">&nbsp;</span></p></td><td width="123" style="width:92.1pt;border-top:none;border-left:none;
+  border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:18.65pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
+  color:#282828;mso-font-kerning:0pt;mso-ligatures:none">Monthly</span></p></td><td width="99" style="width:74.55pt;border:none;border-right:solid #D6D6D6 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:18.65pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="mso-ascii-font-family:Calibri;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">&nbsp;</span></p></td><td width="223" style="width:167.2pt;border-top:none;border-left:none;
+  border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:18.65pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
+  color:#282828;mso-font-kerning:0pt;mso-ligatures:none">Monthly</span></p></td></tr><tr style="mso-yfti-irow:3;height:37.3pt"><td width="257" style="width:192.55pt;border:solid #D6D6D6 1.0pt;border-top:
+  none;padding:0in 5.4pt 0in 5.4pt;height:37.3pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
+  color:#282828;mso-font-kerning:0pt;mso-ligatures:none">Nationality</span></p></td><td width="123" style="width:92.1pt;border-top:none;border-left:none;
+  border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:37.3pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
+  color:#282828;mso-font-kerning:0pt;mso-ligatures:none">School Fee</span></p></td><td width="99" style="width:74.55pt;border-top:none;border-left:none;
+  border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:37.3pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
+  color:#282828;mso-font-kerning:0pt;mso-ligatures:none">Monthly Miscellaneous Fee</span></p></td><td width="223" style="width:167.2pt;border-top:none;border-left:none;
+  border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:37.3pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
+  color:#282828;mso-font-kerning:0pt;mso-ligatures:none">Total Fee</span></p></td></tr><tr style="mso-yfti-irow:4;height:37.3pt"><td width="257" style="width:192.55pt;border:solid #D6D6D6 1.0pt;border-top:
+  none;background:#E1FBE0;padding:0in 5.4pt 0in 5.4pt;height:37.3pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
+  color:#282828;mso-font-kerning:0pt;mso-ligatures:none">Singapore Citizen (SC)</span></p></td><td width="123" style="width:92.1pt;border-top:none;border-left:none;
+  border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
+  background:#E1FBE0;padding:0in 5.4pt 0in 5.4pt;height:37.3pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
+  color:#282828;mso-font-kerning:0pt;mso-ligatures:none">$5</span></p></td><td width="99" style="width:74.55pt;border-top:none;border-left:none;
+  border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
+  background:#E1FBE0;padding:0in 5.4pt 0in 5.4pt;height:37.3pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
+  color:#282828;mso-font-kerning:0pt;mso-ligatures:none">$20</span></p></td><td width="223" style="width:167.2pt;border-top:none;border-left:none;
+  border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
+  background:#E1FBE0;padding:0in 5.4pt 0in 5.4pt;height:37.3pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
+  color:#282828;mso-font-kerning:0pt;mso-ligatures:none">$25</span></p></td></tr><tr style="mso-yfti-irow:5;height:37.3pt"><td width="257" style="width:192.55pt;border:solid #D6D6D6 1.0pt;border-top:
+  none;padding:0in 5.4pt 0in 5.4pt;height:37.3pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
+  color:#282828;mso-font-kerning:0pt;mso-ligatures:none">Singapore Permanent Resident (PR)</span></p></td><td width="123" style="width:92.1pt;border-top:none;border-left:none;
+  border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:37.3pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
+  color:#282828;mso-font-kerning:0pt;mso-ligatures:none">$500</span></p></td><td width="99" style="width:74.55pt;border-top:none;border-left:none;
+  border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:37.3pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
+  color:#282828;mso-font-kerning:0pt;mso-ligatures:none">$20</span></p></td><td width="223" style="width:167.2pt;border-top:none;border-left:none;
+  border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:37.3pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
+  color:#282828;mso-font-kerning:0pt;mso-ligatures:none">$520</span></p></td></tr><tr style="mso-yfti-irow:6;height:37.3pt"><td width="257" style="width:192.55pt;border:solid #D6D6D6 1.0pt;border-top:
+  none;background:#E1FBE0;padding:0in 5.4pt 0in 5.4pt;height:37.3pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
+  color:#282828;mso-font-kerning:0pt;mso-ligatures:none">International Student</span></p></td><td width="123" style="width:92.1pt;border:none;border-right:solid #D6D6D6 1.0pt;
+  background:#E1FBE0;padding:0in 5.4pt 0in 5.4pt;height:37.3pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="mso-ascii-font-family:Calibri;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">&nbsp;</span></p></td><td width="99" style="width:74.55pt;border:none;border-right:solid #D6D6D6 1.0pt;
+  background:#E1FBE0;padding:0in 5.4pt 0in 5.4pt;height:37.3pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="mso-ascii-font-family:Calibri;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">&nbsp;</span></p></td><td width="223" style="width:167.2pt;border:none;border-right:solid #D6D6D6 1.0pt;
+  background:#E1FBE0;padding:0in 5.4pt 0in 5.4pt;height:37.3pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="mso-ascii-font-family:Calibri;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:7;height:37.3pt"><td width="257" style="width:192.55pt;border:solid #D6D6D6 1.0pt;border-top:
+  none;background:#E1FBE0;padding:0in 5.4pt 0in 5.4pt;height:37.3pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
+  color:#282828;mso-font-kerning:0pt;mso-ligatures:none">(ASEAN)</span></p></td><td width="123" style="width:92.1pt;border-top:none;border-left:none;
+  border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
+  background:#E1FBE0;padding:0in 5.4pt 0in 5.4pt;height:37.3pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
+  color:#282828;mso-font-kerning:0pt;mso-ligatures:none">$910</span></p></td><td width="99" style="width:74.55pt;border-top:none;border-left:none;
+  border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
+  background:#E1FBE0;padding:0in 5.4pt 0in 5.4pt;height:37.3pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
+  color:#282828;mso-font-kerning:0pt;mso-ligatures:none">$20</span></p></td><td width="223" style="width:167.2pt;border-top:none;border-left:none;
+  border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
+  background:#E1FBE0;padding:0in 5.4pt 0in 5.4pt;height:37.3pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
+  color:#282828;mso-font-kerning:0pt;mso-ligatures:none">$930</span></p></td></tr><tr style="mso-yfti-irow:8;height:37.3pt"><td width="257" style="width:192.55pt;border:solid #D6D6D6 1.0pt;border-top:
+  none;padding:0in 5.4pt 0in 5.4pt;height:37.3pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
+  color:#282828;mso-font-kerning:0pt;mso-ligatures:none">International Student</span></p></td><td width="123" style="width:92.1pt;border:none;border-right:solid #D6D6D6 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:37.3pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="mso-ascii-font-family:Calibri;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">&nbsp;</span></p></td><td width="99" style="width:74.55pt;border:none;border-right:solid #D6D6D6 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:37.3pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="mso-ascii-font-family:Calibri;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">&nbsp;</span></p></td><td width="223" style="width:167.2pt;border:none;border-right:solid #D6D6D6 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:37.3pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="mso-ascii-font-family:Calibri;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:9;mso-yfti-lastrow:yes;height:37.3pt"><td width="257" style="width:192.55pt;border:solid #D6D6D6 1.0pt;border-top:
+  none;padding:0in 5.4pt 0in 5.4pt;height:37.3pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
+  color:#282828;mso-font-kerning:0pt;mso-ligatures:none">(Non-ASEAN)</span></p></td><td width="123" style="width:92.1pt;border-top:none;border-left:none;
+  border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:37.3pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
+  color:#282828;mso-font-kerning:0pt;mso-ligatures:none">$1,770</span></p></td><td width="99" style="width:74.55pt;border-top:none;border-left:none;
+  border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:37.3pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
+  color:#282828;mso-font-kerning:0pt;mso-ligatures:none">$20</span></p></td><td width="223" style="width:167.2pt;border-top:none;border-left:none;
+  border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:37.3pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:10.5pt;font-family:&quot;Lato&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
+  color:#282828;mso-font-kerning:0pt;mso-ligatures:none">$1,790</span></p></td></tr></tbody></table>
 
 <b>NOTE:</b>
 
