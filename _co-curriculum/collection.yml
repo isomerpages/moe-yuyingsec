@@ -2,7 +2,6 @@ collections:
   co-curriculum:
     output: true
     order:
-      - Rules & Regulations.md
       - Physical Sports/.keep
       - Physical Sports/Badminton (Boys).md
       - Physical Sports/Basketball (Boys).md
