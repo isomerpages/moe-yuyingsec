@@ -9,14 +9,6 @@ School Uniform &amp; Booklist
 <u><b>Online Sales Details</b>
 
 
-
-  
-    <span style="font-weight:bold;text-decoration:underline">For Uniform sales:</span><br><br><span style="color:black">Vendor:</span> <span style="text-decoration:underline">Shanghai School Uniforms</span><br><br><span style="color:black">Online sale url:</span> <a href="https://shop.shanghai-uniforms.com/product-category/yuying-secondary-school/" target="_blank" rel="noopener noreferrer">https://shop.shanghai-uniforms.com/product-category/yuying-secondary-school/</a><span style="color:black"> with $10 delivery charge and you will be required to create an online account</span><br><br><span style="color:black">Retail@Ubi address: 63 Ubi Ave 1, #04-09, Singapore 408937</span><br><br><span style="color:black">(Strictly by appointment booking online)</span><br><br><span style="color:black">Tel: 6747 8037 (Retail@Ubi)</span><br><br><span style="color:black">Tel: 6352 2741 (Office)</span><br><br><span style="color:black">Business Hours:</span><br><br><span style="color:black">Mon - Sat from 10 a.m. to 6 p.m. (Lunch break from 1 p.m. to 2 p.m.)</span><br><br><span style="color:black">Closed on Sun &amp; Public Holidays</span><br>
-  
-
-
-
-
 ### School Uniform
 
 <b>Shanghai School Uniforms</b>
