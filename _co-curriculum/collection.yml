@@ -2,30 +2,30 @@ collections:
   co-curriculum:
     output: true
     order:
-      - Student Management/.keep
+      - Physical Sports/.keep
       - Physical Sports/Badminton (Boys).md
       - Physical Sports/Basketball (Boys).md
       - Physical Sports/Sepak Takraw (Boys).md
       - Physical Sports/Volleyball (Girls).md
       - Physical Sports/Wushu (Mixed).md
-      - Physical Sports/.keep
+      - Uniformed Groups/.keep
       - Uniformed Groups/Boys' Brigade.md
       - Uniformed Groups/Girls' Brigade.md
       - Uniformed Groups/St John Brigade Singapore.md
       - Uniformed Groups/National Cadet Corps.md
       - Uniformed Groups/National Police Cadet Corps.md
-      - Uniformed Groups/.keep
+      - Visual & Performing Arts/.keep
       - Visual & Performing Arts/Chinese Dance.md
       - Visual & Performing Arts/Guzheng Ensemble.md
       - Visual & Performing Arts/Guitar Ensemble.md
       - Visual & Performing Arts/Concert Band.md
       - Visual & Performing Arts/Malay Dance.md
       - Visual & Performing Arts/24 Season Drums.md
-      - Visual & Performing Arts/.keep
+      - Clubs & Societies/.keep
       - Clubs & Societies/Photography Club.md
       - Clubs & Societies/Media Society.md
       - Clubs & Societies/Literary Society.md
       - Clubs & Societies/Cabin Club.md
       - Clubs & Societies/Design and Entrepreneurship Club.md
       - Clubs & Societies/Grow Inc.md
-      - Clubs & Societies/.keep
+      - Student Management/.keep
