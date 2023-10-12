@@ -6,7 +6,7 @@ description: ""
 PE Department
 =============
 
-### Our Vision - C.H.A.M.P.S
+### Our Vision&nbsp;- C.H.A.M.P.S
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -26,10 +26,6 @@ PE Department
   
 
 ### Our Mission
-
-
-<figure><img src="/images/PE.png" style="width:95%"><figcaption> Photo from left: Mr Tan Boon Kann, Mr Don Zhang (left), Ms Sim Yin Hui, Mr Lawrence Lim, Ms Melissa Leow, Ms Jennifer Soh, Mdm Amy Wong and Mr Iskhandar   Not in Photo: Mr Lee Hock Joo</figcaption></figure>
-
 
 The department embraces a blended approach to equip pupils with the knowledge, life-skills and learning experience. This is to equip students with the 21CCs to be able to adapt competently and show resilience in a Volatile, Uncertain, Complex, Ambiguous (V.U.C.A.) environment.
 
@@ -112,7 +108,7 @@ Secondary 5 - Tag Rugby and Scoop Ball
 
 All levels - Physical Health and Fitness (PHF) and Outdoor Education (OE)
 
-The department also takes pride in offering Exercise and Sports Science (ESS) as a GCE ‘O’ Level Subject. Exercise and Sports Science (ESS) is an interdisciplinary subject where students are grounded in the sub-disciplines of sports science with an understanding of sociology in relation to sports. Through the study of ESS,  students will develop disciplinary thinking and practices of the subject and thus interdisciplinary understanding.
+The department also takes pride in offering Exercise and Sports Science (ESS) as a GCE ‘O’ Level Subject. Exercise and Sports Science (ESS) is an interdisciplinary subject where students are grounded in the sub-disciplines of sports science with an understanding of sociology in relation to sports. Through the study of ESS,&nbsp;&nbsp;students will develop disciplinary thinking and practices of the subject and thus interdisciplinary understanding.
 
 
 ### Key Events
@@ -133,7 +129,7 @@ YO-PF week seeks to build awareness and instil values of the various paralympic 
 
 * #####    **Tiktoks in PE**
 
-<iframe width="600" height="355" src="https://www.youtube.com/embed/kBIAHAQ87QU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="600" height="355" src="https://www.youtube.com/embed/kBIAHAQ87QU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 
 Students use the Tik Tok platform to demonstrate their knowledge and understanding of the sport that they have learnt during PE lessons. It is a meaningful process where students brainstorm ideas together, film and edit content through a novel and creative approach to demonstrate their learning.
@@ -150,4 +146,4 @@ There are various sports that all Yuying students participate in their secondary
 ![](/images/PE6.jpeg)
 
 
-There is so much more to PE lessons than sports and exercise. PE lessons are also used as platforms for students to be well-equipped with the skills and knowledge for outdoor learning. The series of outdoor education lessons forge greater relationships among peers while working together in varied activities. It also allows peers to interact with one another in a natural environment to develop appreciation of their surroundings and relationships. Students are presented with the task of setting up a shelter by constructing a basha together with their peers and cooking outdoors using the necessary equipment.
+There&nbsp;is so much more to PE lessons than sports and exercise. PE lessons are also used as platforms for students to be well-equipped with the skills and knowledge for outdoor learning. The series of outdoor education lessons forge greater relationships among peers while working together in varied activities. It also allows peers to interact with one another in a natural environment to develop appreciation of their surroundings and relationships. Students are presented with the task of setting up a shelter by constructing a basha together with their peers and cooking outdoors using the necessary equipment.

@@ -2,7 +2,6 @@
 title: Promotion Criteria
 permalink: /useful-links/For-Students/Promotion-Criteria/
 description: ""
-third_nav_title: For Students
 ---
 Promotion Criteria
 ==================
@@ -52,4 +51,4 @@ Promotion Criteria
 </table>
 
 
-For more information on the post-secondary pathways, please refer to [Post-Secondary.](https://www.moe.gov.sg/education/post-secondary)
+For more information on the post-secondary pathways, please refer to&nbsp;[Post-Secondary.](https://www.moe.gov.sg/education/post-secondary)

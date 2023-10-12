@@ -15,11 +15,9 @@ Our Staff
 | School Staff Developer                                        | Ms Charmaine Tay         |
 | Year Head (Lower Secondary)                                   | Mdm Pearly Ang           |
 | Assistant Year Head (Lower Secondary)                         | Mr Kelvin Goh            |
-| Year Head (Upper Secondary)                                   |         |
 | Head of Department (Character & Citizenship Education)        | Mrs Loretta Goh          |
 | Head of Department (Mother Tongue Languages)                  | Mdm Yu Ya Ting           |
 | Head of Department (Craft & Technology)                       | Mr Johnny Tan Teck Thong |
-| Head of Department (Special Education Needs)                  |          |
 | Head of Department (Information & Communication Technology)   | Mr Yeo Wei Ming          |
 | Head of Department (Mathematics)                              | Mr Tai Kay Seng          |
 | Head of Department (Physical Education & CCA)                 | Mr Lawrence Lim          |
@@ -34,7 +32,6 @@ Our Staff
 | Subject Head (Chinese Language)                               | Mr Koh Chee Keong        |
 | Subject Head (Chemistry)                                      | Mrs Tan Ruiqi            |
 | Subject Head (Student Leadership & Aesthetics)                | Ms Nur Izzati            |
-| Subject Head (ICT & Data Management)                          |           |
 | Subject Head (Student Well-Being)                             | Ms Rebecca Oh            |
 | Subject Head (Character & Citizenship Education)              | Mdm Amy Wong       |
 | Level Head (Mathematics)                                      | Mr Chia Kah Kheng        |

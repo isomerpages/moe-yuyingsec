@@ -1,7 +1,7 @@
 ---
-title: MOE SEXUALITY EDUCATION
-permalink: /useful-links/For-Parents/SEd/
-description: "MOE SEXUALITY EDUCATION "
+title: MOE Sexuality Education
+permalink: /useful-links/for-parents/sed/
+description: MOE SEXUALITY EDUCATION
 third_nav_title: For Parents
 ---
 # MOE SEXUALITY EDUCATION IN SCHOOLS
