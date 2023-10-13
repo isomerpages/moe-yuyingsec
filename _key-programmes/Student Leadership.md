@@ -8,13 +8,13 @@ Student Leadership
 
 ##### Vision:
 
-Every Student a Leader 
+Every Student a Leader&nbsp;
 
   
 
 ##### Mission:
 
-To Nurture Leadership Potential in Every Student 
+To Nurture Leadership Potential in Every Student&nbsp;
 
   
 
@@ -48,7 +48,7 @@ Every Yuying student will be equipped with basic leadership skills. This is thro
 
 *   Ad-hoc leaders; Performing Arts Ambassadors
 *   Prefects
-*   Prefects Executive Committee  (EXCO)
+*   Prefects Executive Committee&nbsp;&nbsp;(EXCO)
 
 <b>What we do:</b>
 
@@ -59,32 +59,3 @@ Every Yuying student will be equipped with basic leadership skills. This is thro
 *   In-house trainings for Class Executive Committee and Class Chairmen;  
     
 *   Facilitating focus group discussions with students and school leaders
-
-
-<b>Teachers in-charge:</b>
-
-Miss Nur Izzati Zainudin
-
-Mr Ang Eng Hong
-
-Miss Lee Wan Rong
-
-Mr Iskhandar Bin Abdul Talib
-
-  
-
-<b>Current Prefect EXCOs:</b>
-
-Eryn Lim Yu (Head Prefect)
-
-Yao Wen Ting (Head Prefect - Admin)
-
-Nur Nayli Hazwani Binte Hatnen (Secretary)
-
-Ng Le Yang (Head of Logistics)
-
-Tan Jin Huay (Head of Training)
-
-Debbie Ang Zi Yi (Head of Operations)
-
-Muhammed Fazrul Elifyan Bin Mohamed Azril  (Vice-Head of Operations)
