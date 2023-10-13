@@ -9,38 +9,13 @@ third_nav_title: Visual & Performing Arts
 Concert Band
 ============
 
-<b> Teachers-in-charge: </b>
-
-Mr Jameson Kang 
-
-Ms Ng Li Rong
-
-Ms Lee Wan Rong
-
-Mr Ang Eng Hong
-
-Mr Gabriel Lim
-
-
-<b> Leaders: </b>
-
-Drum Major – Muhammad Mufid Mirza Bin Noor Edham 
-
-Band Major – Sherrin Wong Ka Shin
-
-<b> Training Schedule: </b> 
-
-Thursday 3.30pm - 5.45pm
-
-Friday 2.30pm - 5.45pm
-
 <b> “One Band! One Sound!” </b>
 
 This is the energetic cheer you will often hear from Yuying Concert Band (YYCB) which is made up of about 100 passionate students, 5 dedicated teachers and 2 band directors.
 
   
 
-In Yuying Concert Band, our members are provided with the opportunity to showcase their musical talents through public performances. Programmes such as combined schools year-end concerts, mentorship and music exchanges will be specially organised together with our sister school bands (Yishun Primary Concert Band, Pasir Ris Secondary Concert Band and Bukit Panjang Government High School Concert Band) for our band members. Our members also get the opportunity to hone their musical skills by attending music workshops conducted by professional Band Conductors which will be organised annually. 
+In Yuying Concert Band, our members are provided with the opportunity to showcase their musical talents through public performances. Programmes such as combined schools year-end concerts, mentorship and music exchanges will be specially organised together with our sister school bands (Yishun Primary Concert Band, Pasir Ris Secondary Concert Band and Bukit Panjang Government High School Concert Band) for our band members. Our members also get the opportunity to hone their musical skills by attending music workshops conducted by professional Band Conductors which will be organised annually.&nbsp;
 
   
 
