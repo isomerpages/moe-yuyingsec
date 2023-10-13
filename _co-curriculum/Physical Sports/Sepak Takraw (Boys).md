@@ -9,48 +9,7 @@ third_nav_title: Physical Sports
 Sepak Takraw (Boys)
 ===================
 
-<b> Teachers-in-charge: </b>
-
-Mdm Absa Ummal Binte MD Ali 
-
-Mr Lee Hock Joo
-
-Ms Yee Sze Jia
-
-  
-
-<b> Leaders: </b>
-
-<b> B Boys Captain: </b>
-
-Muhammad Danish Bin Nurfirdaus
-
-<b> B Boys Vice Captain: </b> 
-
-Muhammad Mazlan Khan Surattee Bin Roslan
-
-  
-
-<b> C Boys Captain: </b>
-
-Muzaffar Aniq Ilham Bin Mansor   
-  
-
-<b> C Boys Vice Captain: </b>
-
-Nabil Haidar Bin Norizan
-
-  
-
-<b> Training Schedule: </b>
-
-Tuesday: 1530 - 1730
-
-Thursday: 1530 - 1730
-
-  
-
-The Sepak Takraw CCA aims to develop our students into athletes who possess a life-long passion for the game by enhancing their game skills. 
+The Sepak Takraw CCA aims to develop our students into athletes who possess a life-long passion for the game by enhancing their game skills.&nbsp;
 
   
 
