@@ -8,32 +8,7 @@ third_nav_title: Uniformed Groups
 
 Girls' Brigade
 ==============
-
-<b> Teachers-in-charge: </b>
-
-Ms Hannah Tan
-
-Mdm Esther Tay 
-
-Miss Melanie Sim
-
-Miss Ershen Kaur
-
-<b> Leaders: </b>
-
-President - Ang Yee Ting Adrina
-
-Vice-President - Ng Tian Xuan Keena
-
-  
-
-<b> Training Schedule: </b>
-
-Saturday: 0900 - 1300
-
-  
-
-The Girls’ Brigade's mission is to develop each girl and officer to her fullest potential by equipping, empowering and enabling every girl to be a leader, and every officer to be a servant leader. The CCA serves as a platform for our girls to develop in character and hone their leadership skills through our purposeful GB sessions, and the annual camps and events organised for the girls. Our activities aim to nurture our girls to be adept educationally, spiritually, socially, as well as physically, preparing them to make a difference in society. 
+The Girls’ Brigade's mission is to develop each girl and officer to her fullest potential by equipping, empowering and enabling every girl to be a leader, and every officer to be a servant leader. The CCA serves as a platform for our girls to develop in character and hone their leadership skills through our purposeful GB sessions, and the annual camps and events organised for the girls. Our activities aim to nurture our girls to be adept educationally, spiritually, socially, as well as physically, preparing them to make a difference in society.&nbsp;
 
   
 
