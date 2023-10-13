@@ -37,7 +37,8 @@ Kovan MRT station is 10 minutes' walk from the school, and Serangoon MRT station
 
 Your child may take any of the bus services listed here: 25, 51, 53, 53M, 55, 62, 62A, 87, 113, 113A, 115, 151, 854.
 
-You may view the map at: (permalink)
+\*\* Nearest MRT Station : Kovan
+![School map](/images/Yuying-map.jpeg)
 
 * **What is the learning environment like in Yuying Secondary School?**
 

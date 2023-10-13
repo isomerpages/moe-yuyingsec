@@ -41,7 +41,7 @@ Make an online purchase @&nbsp;&nbsp;[https://shop.shanghai-uniforms.com/product
 
 ### School Booklist / Stationery List
 
-Please refer to the attached textbook list for more info or enquire at 62859442
+Please refer to the attached textbook list for more information
 
 <b>Textbooks and Stationery</b>
 
@@ -88,7 +88,7 @@ Please refer to the attached textbook list for more info or enquire at 62859442
 
 <b>CASCO Educational Supply Pte Ltd</b>
 
-10 Ubi Cresent#01-02 Ubi Techpark Singapore 408564
+10 Ubi Cresent #01-02 Ubi Techpark Singapore 408564
 
 https://cascoedusupply.com.sg
 
