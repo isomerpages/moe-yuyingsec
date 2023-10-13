@@ -9,34 +9,6 @@ third_nav_title: Physical Sports
 Volleyball (Girls)
 ==================
 
-<b> Teachers-in-charge: </b>
-
-Ms Melissa Leow
-
-Mdm Nisha Bte Omar Khan
-
-Ms Nabilah Syahirah
-
-Ms Lea Wong
-
-  
-
-<b> Leaders: </b>
-
-Captain: Tan Jia Hwee
-
-Vice Captain: Lee Tian Sin
-
-  
-
-<b> Training Schedule: </b>
-
-Tuesday: 1500 - 1715
-
-Friday: 1415 - 1715
-
-  
-
 Yuying Volleyball is an all-girls team. Our volleyball programme in Yuying aims to help our girls develop good balance, flexibility, upper and lower body strength, and speed. In addition to these, our girls are taught sports psychology, trained in team formation, and exposed to various aspects of overall fitness. These have become the trademark strengths of the Yuying Volleyball team when we represent the school in external competitions.
 
   

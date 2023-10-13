@@ -9,27 +9,6 @@ third_nav_title: Physical Sports
 Basketball (Boys)
 =================
 
-<b> Teachers-in-charge: </b>
-
-Mr Chia Kah Kheng
-
-Mr Koh Chee Keong
-
-Miss Wee Li Hui
-
-Mdm Soh Hwee Ling
-
-<b> Leaders: </b>
-
-Captain: Fiyaz Ahmad Khan
-
-Vice Captain: Reyes Yeo Zhibin
-
-<b> Training Schedule: </b>
-
-Monday: 1430 - 1710
-
-Wednesday: 1530 - 1710
 
 Yuying Basketball Club aims to develop leaders on and off the court. Students are involved in planning and running the basketball programmes so that they get to learn about basketball and its related challenges. The boys are trained physically and mentally to represent our school in the South Zone Basketball National School Games.
 

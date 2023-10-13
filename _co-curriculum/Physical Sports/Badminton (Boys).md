@@ -9,40 +9,14 @@ third_nav_title: Physical Sports
 Badminton (Boys)
 ================
 
-<b> Teachers-in-charge: </b>
 
-Mdm Amy Wong 
 
-Mr Ong Beng Keong 
-
-Ms Amelia Goh
-
-  
-
-<b> Leaders: </b> 
-
-Captain Manoj Ghale 
-
-Vice Captain Lock Sheng Yong 
-
-  
-
-<b> Training Schedule: </b> 
-
-Monday: 1530 - 1730
-
-Wednesday: 1530 - 1730
-
-  
-
-Rapid movements, jumps, smashes and lifting - Badminton club brings to you the enjoyable indoor sport. Badminton club members are nurtured all-roundedly. Besides building on their physical competencies in the sport, they also develop social emotional competencies such as self-awareness, social-awareness and responsible decision making.  
-
-  
+Rapid movements, jumps, smashes and lifting - Badminton club brings to you the enjoyable indoor sport. Badminton club members are nurtured all-roundedly. Besides building on their physical competencies in the sport, they also develop social emotional competencies such as self-awareness, social-awareness and responsible decision making.&nbsp;
 
 The Badminton club welcomes many members with minimal badminton backgrounds when they first join the CCA in Secondary 1. By the end of their Secondary 4 or 5 year in school, the members will be able to leave the school with relevant skills and experiences both in school and external competitions. In school, students will get a chance to compete in interclass competitions. The school also endeavours to get members to participate in the annual National School Games and other external events.
   
 
-The ‘B’ and ‘C’ divisions train together and this fosters team spirit in the CCA. Members forge long-lasting friendships and teamwork through weekly practices. Seniors are given opportunities to lead and mentor junior members, and students take responsibility for the running of the CCA. 
+The ‘B’ and ‘C’ divisions train together and this fosters team spirit in the CCA. Members forge long-lasting friendships and teamwork through weekly practices. Seniors are given opportunities to lead and mentor junior members, and students take responsibility for the running of the CCA.&nbsp;
 
   
 
