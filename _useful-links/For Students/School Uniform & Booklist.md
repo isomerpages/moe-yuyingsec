@@ -6,7 +6,7 @@ third_nav_title: For Students
 ---
 School Uniform &amp; Booklist
 =========================
-<u><b>Online Sales Details</b>
+<b>Online Sales Details</b>
 
 
 ### School Uniform
@@ -100,4 +100,4 @@ https://cascoedusupply.com.sg
 
 <b>Email:</b>&nbsp;cascoedusupply@singnet.com.sg
 
-<b>School Bookshop Tel Number:</b>&nbsp;62859442</u>
+<b>School Bookshop Tel Number:</b>&nbsp;62859442
