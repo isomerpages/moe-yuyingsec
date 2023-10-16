@@ -100,4 +100,4 @@ https://cascoedusupply.com.sg
 
 <b>Email:</b>&nbsp;cascoedusupply@singnet.com.sg
 
-<b>School Bookshop Tel Number:<b> 62859442</b></b></u>
+School Bookshop Tel Number: 62859442</u>
