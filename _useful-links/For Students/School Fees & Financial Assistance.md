@@ -190,4 +190,4 @@ Please refer to this attachment for the step-by-step guide on how to redeem FAS 
 
 [TransitLink\_Evoucher\_Redemption\_Process.pdf](https://www.moe.gov.sg/-/media/images/news/press/meal_subsidies_redemption_guide.pdf?la=en&amp;hash=5D7DADF07A43E4DBBF2FF0AAF231B7EADBECDD94)
 
-You may refer here to the MOE FAS website for more information.
+You may refer here to the  [MOE FAS website](https://www.moe.gov.sg/financial-matters/financial-assistance)for more information.
