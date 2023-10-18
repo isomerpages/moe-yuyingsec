@@ -106,10 +106,9 @@ There are three modes of payment:
 
 ### Financial Assistance
 
-MOE-FAS 2024 application is now open. You can apply&nbsp;[**online**](https://go.gov.sg/moe-efas). Alternatively, you can download the [**MOE FAS application form**](/files/MOE-FAS-Application-Form-Sep2022.pdf) or collect a copy at your child’s school. Submit the completed form directly to the school.
+MOE-FAS 2024 application is now open. You can apply&nbsp;[**online**](https://go.gov.sg/moe-efas). Alternatively, you can download the [MOE FAS Application Form](/files/2024%20moe%20fas%20application%20form.pdf) or collect a copy at your child’s school. Submit the completed form directly to the school.
 
 Please refer to this attachment for the step-by-step guide on how to redeem FAS Transitlink Evouchers.&nbsp;
-
 [TransitLink\_Evoucher\_Redemption\_Process.pdf](https://www.moe.gov.sg/-/media/images/news/press/meal_subsidies_redemption_guide.pdf?la=en&amp;hash=5D7DADF07A43E4DBBF2FF0AAF231B7EADBECDD94)
 
 You may refer here to the  [MOE FAS website](https://www.moe.gov.sg/financial-matters/financial-assistance)for more information.
