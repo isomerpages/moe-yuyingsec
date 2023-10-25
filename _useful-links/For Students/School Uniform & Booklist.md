@@ -66,9 +66,11 @@ Please refer to the attached textbook list for more information
 [2024 Sec 3 NT G1 Booklist](/files/Booklist/2024%20sec%203%20nt%20g1%20booklist.pdf)
 
 ##### **Sec 4**
+[2024 Sec 4 Express G3 Booklist](/files/Booklist/2024%20sec%204%20express%20g3%20booklist.pdf)
 
+[2024 Sec 4 NA G2 Booklist](/files/Booklist/2024%20sec%204%20na%20g2%20booklist.pdf)
 
-
+[2024 Sec 4 NT G1 Booklist](/files/Booklist/2024%20sec%204%20nt%20g1%20booklist.pdf)
 
 <b>CASCO Educational Supply Pte Ltd</b>
 
