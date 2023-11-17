@@ -4,8 +4,7 @@ title: Yuying Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: School General Office is closed for external school event on  15
-  Nov(11am to 3pm) 16-17 Nov (whole day)
+notification: ""
 sections:
   - hero:
       url: https://drive.google.com/file/d/1NIo5JDhaGPlSbtvFZ1hNmJVeLzvrqsmo/view?usp=share_link
