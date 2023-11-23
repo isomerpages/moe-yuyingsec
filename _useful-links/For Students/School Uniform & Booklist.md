@@ -3,6 +3,7 @@ title: School Uniform & Booklist
 permalink: /useful-links/For-Students/School-Uniform-and-Booklist/
 description: ""
 third_nav_title: For Students
+variant: markdown
 ---
 School Uniform &amp; Booklist
 =========================
@@ -52,25 +53,30 @@ Please refer to the attached textbook list for more information
 
 
 ##### **Sec 2**
-[2024 Sec 2 Express G3 Booklist](/files/Booklist/2024%20sec%202%20express%20g3%20booklist.pdf)
+[2024 Sec 2 Express G3 Booklist](/files/Booklist/2024_Sec_2_Express_G3_Booklist.pdf)
 
-[2024 Sec 2 NA G2 Booklist](/files/Booklist/2024%20sec%202%20na%20g2%20booklist.pdf)
+[2024 Sec 2 NA G2 Booklist](/files/Booklist/2024_Sec_2_NA_G2_Booklist.pdf)
 
-[2024 Sec 2 NT G1 Booklist](/files/Booklist/2024%20sec%202%20nt%20g1%20booklist.pdf)
+[2024 Sec 2 NT G1 Booklist](/files/Booklist/2024_Sec_2_NT_G1_Booklist.pdf)
+
 
 ##### **Sec 3**
-[2024 Sec 3 Express G3 Booklist](/files/Booklist/2024%20sec%203%20express%20g3%20booklist.pdf)
+[2024 Sec 3 Express G3 Booklist](/files/Booklist/2024_Sec_3_Express_G3_Booklist.pdf)
 
-[2024 Sec 3 NA G2 Booklist](/files/Booklist/2024%20sec%203%20na%20g2%20booklist.pdf)
+[2024 Sec 3 NA G2 Booklist](/files/Booklist/2024_Sec_3_NA_G2_Booklist.pdf)
 
-[2024 Sec 3 NT G1 Booklist](/files/Booklist/2024%20sec%203%20nt%20g1%20booklist.pdf)
+[2024 Sec 3 NT G1 Booklist](/files/Booklist/2024_Sec_3_NT_G1_Booklist.pdf)
+
 
 ##### **Sec 4**
-[2024 Sec 4 Express G3 Booklist](/files/Booklist/2024%20sec%204%20express%20g3%20booklist.pdf)
 
-[2024 Sec 4 NA G2 Booklist](/files/Booklist/2024%20sec%204%20na%20g2%20booklist.pdf)
+[2024 Sec 4 Express G3 Booklist](/files/Booklist/2024_Sec_4_Express_G3_Booklist.pdf)
 
-[2024 Sec 4 NT G1 Booklist](/files/Booklist/2024%20sec%204%20nt%20g1%20booklist.pdf)
+[2024 Sec 4 NA G2 Booklist](/files/Booklist/2024_Sec_4_NA_G2_Booklist.pdf)
+
+[2024 Sec 4 NT G1 Booklist](/files/Booklist/2024_Sec_4_NT_G1_Booklist.pdf)
+
+
 
 <b>CASCO Educational Supply Pte Ltd</b>
 
