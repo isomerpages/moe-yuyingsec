@@ -55,9 +55,9 @@ Please refer to the attached textbook list for more information
 ##### **Sec 2**
 [2024 Sec 2 Express G3 Booklist](/files/Booklist/2024_Sec_2_Express_G3_Booklist.pdf)
 
-[2024 Sec 2 NA G2 Booklist](/files/Booklist/2024%20Sec%202%20NA%20G2%20Booklist.pdf)
+[2024 Sec 2 NA G2 Booklist](/files/Booklist/2024_Sec_2_NA_G2_Booklist.pdf)
 
-[2024 Sec 2 NT G1 Booklist](/files/Booklist/2024%20Sec%202%20NT%2G1%20Booklist.pdf)
+[2024 Sec 2 NT G1 Booklist](/files/Booklist/2024_Sec_2_NT_G1_Booklist.pdf)
 
 ##### **Sec 3**
 [2024 Sec 3 Express G3 Booklist](/files/Booklist/2024%20Sec%203%20Express%20G3%20Booklist.pdf)
