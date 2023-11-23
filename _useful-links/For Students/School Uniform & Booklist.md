@@ -3,6 +3,7 @@ title: School Uniform & Booklist
 permalink: /useful-links/For-Students/School-Uniform-and-Booklist/
 description: ""
 third_nav_title: For Students
+variant: markdown
 ---
 School Uniform &amp; Booklist
 =========================
