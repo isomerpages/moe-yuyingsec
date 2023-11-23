@@ -53,25 +53,25 @@ Please refer to the attached textbook list for more information
 
 
 ##### **Sec 2**
-[2024 Sec 2 Express G3 Booklist](/files/Booklist/2024%20sec%202%20express%20g3%20booklist.pdf)
+[2024 Sec 2 Express G3 Booklist](/files/Booklist/2024%20Sec%202%20Express%20G3%20Booklist.pdf)
 
-[2024 Sec 2 NA G2 Booklist](/files/Booklist/2024%20sec%202%20na%20g2%20booklist.pdf)
+[2024 Sec 2 NA G2 Booklist](/files/Booklist/2024%20Sec%202%20NA%20G2%20Booklist.pdf)
 
-[2024 Sec 2 NT G1 Booklist](/files/Booklist/2024%20sec%202%20nt%20g1%20booklist.pdf)
+[2024 Sec 2 NT G1 Booklist](/files/Booklist/2024%20Sec%202%20NT%2G1%20Booklist.pdf)
 
 ##### **Sec 3**
-[2024 Sec 3 Express G3 Booklist](/files/Booklist/2024%20sec%203%20express%20g3%20booklist.pdf)
+[2024 Sec 3 Express G3 Booklist](/files/Booklist/2024%20Sec%203%20Express%20G3%20Booklist.pdf)
 
-[2024 Sec 3 NA G2 Booklist](/files/Booklist/2024%20sec%203%20na%20g2%20booklist.pdf)
+[2024 Sec 3 NA G2 Booklist](/files/Booklist/2024%20Sec%203%20NA%20G2%20Booklist.pdf)
 
-[2024 Sec 3 NT G1 Booklist](/files/Booklist/2024%20sec%203%20nt%20g1%20booklist.pdf)
+[2024 Sec 3 NT G1 Booklist](/files/Booklist/2024%20Sec%203%20NT%20G1%20bBoklist.pdf)
 
 ##### **Sec 4**
-[2024 Sec 4 Express G3 Booklist](/files/Booklist/2024%20sec%204%20express%20g3%20booklist.pdf)
+[2024 Sec 4 Express G3 Booklist](/files/Booklist/2024%20Sec%204%20Express%20G3%20booklist.pdf)
 
-[2024 Sec 4 NA G2 Booklist](/files/Booklist/2024%20sec%204%20na%20g2%20booklist.pdf)
+[2024 Sec 4 NA G2 Booklist](/files/Booklist/2024%20Sec%204%20NA%20Gg2%20Booklist.pdf)
 
-[2024 Sec 4 NT G1 Booklist](/files/Booklist/2024%20sec%204%20nt%20g1%20booklist.pdf)
+[2024 Sec 4 NT G1 Booklist](/files/Booklist/2024%20Sec%204%20NT%20G1%20Booklist.pdf)
 
 <b>CASCO Educational Supply Pte Ltd</b>
 
