@@ -3,9 +3,16 @@ title: eOpen House
 permalink: /yyss/e-Open-House/
 description: ""
 third_nav_title: For Parents
+variant: markdown
 ---
 e-Open House
 ============
+
+### The Yuying's Heritage
+
+
+
+
 
 ### The Yuying Experience
 
