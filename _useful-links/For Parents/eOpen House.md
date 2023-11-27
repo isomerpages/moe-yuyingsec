@@ -3,9 +3,15 @@ title: eOpen House
 permalink: /yyss/e-Open-House/
 description: ""
 third_nav_title: For Parents
+variant: markdown
 ---
 e-Open House
 ============
+
+
+[Information on Yuying Secondary School](/files/Publicity/Information_on_Yuying_Secondary_School.pdf)
+
+
 
 ### The Yuying Experience
 
