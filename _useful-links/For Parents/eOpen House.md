@@ -10,7 +10,7 @@ e-Open House
 
 ### The Yuying's Heritage
 
-
+[Information on Yuying Secondary School](/files/Publicity/Information_on_Yuying_Secondary_School.pdf)
 
 
 
