@@ -4,7 +4,9 @@ title: Yuying Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: <a
+  href="https://www.yuyingsec.moe.edu.sg/useful-links/for-parents/sec1-reg-2023/">Sec
+  1 Registration Exercise 2023</a>
 sections:
   - hero:
       url: https://drive.google.com/file/d/1NIo5JDhaGPlSbtvFZ1hNmJVeLzvrqsmo/view?usp=share_link
