@@ -2,6 +2,7 @@
 title: Our Staff
 permalink: /about-us/Our-Staff/
 description: ""
+variant: markdown
 ---
 Our Staff
 =========
@@ -10,8 +11,8 @@ Our Staff
 | **Designation**                                              | **Name**               |
 | ------------------------------------------------------------- | ------------------------ |
 | Principal                                                     | Mr Chong Jack Sheng      |
-| Vice-Principal                                                | Mrs Tham Hwee Peng       |
 | Vice-Principal                                                |   Mr Gabriel Cheong       |
+| Vice-Principal                                                |   Mr Ivin Chan       |
 | School Staff Developer                                        | Ms Charmaine Tay         |
 | Year Head (Lower Secondary)                                   | Mdm Pearly Ang           |
 | Assistant Year Head (Lower Secondary)                         | Mr Kelvin Goh            |
