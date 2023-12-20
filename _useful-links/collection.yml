@@ -2,11 +2,11 @@ collections:
   useful-links:
     output: true
     order:
-      - For Students/2023 Year End Holiday Homework.md
       - For Students/.keep
-      - For Students/School Timetable.md
       - For Students/School Uniform & Booklist.md
       - For Students/School Fees & Financial Assistance.md
+      - For Students/School Timetable.md
+      - For Students/2023 Year End Holiday Homework.md
       - For Students/SLS Ace Opac.md
       - For Students/Education & Career Guidance.md
       - For Parents/Sec 1 Registration Exercise 2023.md
