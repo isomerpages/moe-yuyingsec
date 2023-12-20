@@ -50,7 +50,7 @@ Please refer to the attached textbook list for more information
 <b>Textbooks and Stationery</b>
 
 ##### **Sec 1**
-
+[2024 Sec 1 Booklist](/files/Booklist/2024_Sec_1_G1_G2_G3_Booklist.pdf)
 
 ##### **Sec 2**
 [2024 Sec 2 Express G3 Booklist](/files/Booklist/2024_Sec_2_Express_G3_Booklist.pdf)
