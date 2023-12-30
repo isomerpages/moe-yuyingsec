@@ -22,9 +22,7 @@ Staff, Teachers, and Students – Yuying Secondary School salutes you.
 
 2024 promises to be another exciting year for the Yuying Secondary School community.
 
-Guided by our school motto, ‘**Together, Achieve Personal Excellence’,** we will continue to stay true to our mission of **nurturing a curiosity to learn and a heart to serve** in every Yuying Eagle. We will continue
-to strengthen student well-being and resilience for every Yuying Eagle to flourish. We will promote deep and engaged learning among Yuying Eagles to bring about greater motivation and zest for life. In so
-doing, we aspire for **every Yuying EAGLE to be Enterprising, Adaptable, Gracious, Leaders of the Future.**
+Guided by our school motto, ‘**Together, Achieve Personal Excellence’,** we will continue to stay true to our mission of **nurturing a curiosity to learn and a heart to serve** in every Yuying Eagle. We will continue to strengthen student well-being and resilience for every Yuying Eagle to flourish. We will promote deep and engaged learning among Yuying Eagles to bring about greater motivation and zest for life. In so doing, we aspire for **every Yuying EAGLE to be Enterprising, Adaptable, Gracious, Leaders of the Future.**
 
 Our school’s emblem of the soaring eagle reminds us of the many profound lessons we can learn from the eagle. One of the eagle’s characteristics is its remarkable vision: a piercing sharp focus which enables it to home in on its target with pinpoint accuracy from a distance. We, too, can develop this discipline of determined focus through repeated practice until it becomes a habit of mind and an instinct in our pursuit of excellence.
 
