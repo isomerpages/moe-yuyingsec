@@ -3,11 +3,11 @@ title: School Crest & Motto
 permalink: /about-us/Our-School/School-Crest-and-Motto/
 description: ""
 third_nav_title: Our School
+variant: markdown
 ---
 School Crest & Motto
 ====================
-![](/images/Crest.png)
-
+![School Logo](/images/Official_school_logo__red_ring_.jpg)
 The school crest comprises two concentric circles with the picture of an eagle in the shape of the capital letter ‘Y’ depicted in the inner circle. 
 
   
