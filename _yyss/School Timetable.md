@@ -2,7 +2,6 @@
 title: School Timetable
 permalink: /useful-links/For-Students/Timetable-June-2022/
 description: ""
-third_nav_title: For Students
 ---
 Timetable Semester 2
 ===================

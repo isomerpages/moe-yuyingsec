@@ -2,29 +2,33 @@
 title: Principal's Message
 permalink: /about-us/Principals-Message/
 description: ""
+variant: markdown
 ---
 Principal's Message
 ===================
+“We are what we repeatedly do. Excellence, then, is not an act, but a
+habit.” – Will Durant
 
-**Yuying@113: Soaring Higher Together**
+The past year had been an invigorating journey for all the students and
+staff here at Yuying Secondary School. The return of many of the student development experiences enabled students and staff to come together and share beautiful collective memories while strengthening their bonds.
 
+Together, the staff and students navigated through different challenges to ensure that teaching and learning went on as effectively and in as holistic a manner as possible. Together, the staff and students from our six Visual and Performing Arts CCA rose above themselves to achieve admirable outcomes at the Singapore Youth Festival Arts Presentation 2023. Together, the staff and students from our five Sports CCA competed with determination and did the school proud at the National School Games 2023.
 
-This year, we celebrate Yuying Secondary School’s 113th anniversary. Over the past decades, Yuying Secondary School has stayed true to the core of its mission. Students who have walked through the gates of the school would attest to having been positively impacted, and having their lives transformed and potential unleashed. Under the leadership of Mr Lo Chee Lin from 2016 to 2022, the school had continued to provide quality school experiences to meet the learning needs of every Yuying student. Our heartfelt gratitude goes to Mr Lo and we wish him all the very best in his retirement. 
+Together, the teachers learnt and collaborated to find ways to make lessons in our Applied Learning Programme and Learning for Life Programme more engaging, leveraging the affordance of the Personal
+Learning Device. Together, the teachers designed packages for self-paced learning on regular Home-Based Learning days. Together, the teachers nurtured Yuying students in the right values, to the best of
+their abilities.
 
+Staff, Teachers, and Students – Yuying Secondary School salutes you.
 
-I am deeply honoured to be entrusted with the stewardship of Yuying Secondary School. As the 18th Principal (since records started in 1946), I stand on the shoulders of giants – the many Principals who have laboured with love and taken the school to where it is today. I endeavour to build on their good work, further strengthen the Yuying spirit and let the love of Yuying spread throughout the Yuying community. 
+2024 promises to be another exciting year for the Yuying Secondary School community.
 
-  
+Guided by our school motto, ‘**Together, Achieve Personal Excellence’,** we will continue to stay true to our mission of **nurturing a curiosity to learn and a heart to serve** in every Yuying Eagle. We will continue to strengthen student well-being and resilience for every Yuying Eagle to flourish. We will promote deep and engaged learning among Yuying Eagles to bring about greater motivation and zest for life. In so doing, we aspire for **every Yuying EAGLE to be Enterprising, Adaptable, Gracious, Leaders of the Future.**
 
-Our school motto, ‘**Together, Achieve Personal Excellence**’, will continue to be the key tenet of education in Yuying Secondary School. We will continue to embrace every child and strive to nurture every Yuying student to be ‘**Wholesome Individuals with a Global Mindset, Passion to Learn and Spirit to Serve**’ – a leader with a strong sense of purpose and motivation to better the lives of others. 
+Our school’s emblem of the soaring eagle reminds us of the many profound lessons we can learn from the eagle. One of the eagle’s characteristics is its remarkable vision: a piercing sharp focus which enables it to home in on its target with pinpoint accuracy from a distance. We, too, can develop this discipline of determined focus through repeated practice until it becomes a habit of mind and an instinct in our pursuit of excellence.
 
-  
-
-Yuying students will continue to enjoy an innovative and engaging curriculum anchored on our school values of **Integrity, Resilience, Respect and Responsibility**. Our school’s signature Applied Learning Programme (Fostering Innovation through Design Thinking) and Learning for Life Programme (Yuying C.A.R.E.S), coupled with the exciting line up of CCA and student development experiences, aim to equip every child with 21st century competencies and instil the love for learning in them. Through a caring and supportive school environment, Yuying students will also learn social-emotional skills and the right citizenship dispositions to navigate life’s challenges. 
-
-
-As Team Yuying embarks on reimagining education and furthering efforts on leveraging affordances of digital technology to enhance teaching and learning, we are keenly aware that we cannot walk this journey alone. We need strong support to **uplift every Yuying student to enable every child to be a Lifelong Learner, Compassionate Leader, Enterprising Changemaker and Responsible Citizen**. I humbly invite all our valued parents and stakeholders to partner us as we write the next chapter of Yuying Secondary School.
-
+As we celebrate our school’s 114 th anniversary this year, we endeavour to draw inspiration from our school’s history and our school’s identity. We will relive the pioneering spirit – the can-do spirit to innovate and be inventive while leveraging affordances of digital technology to enhance teaching and learning. We are keenly aware that we cannot walk this journey alone. We need strong support to uplift every Yuying Eagle to enable every child to be a **Lifelong Learner, Compassionate Leader, Enterprising Changemaker and Responsible Citizen**, anchored on the school values of **Integrity, Resilience, Respect and Responsibility**. I humbly invite all our valued parents and stakeholders to support and partner us on the road ahead. We did it before and we will do it again in 2024.
+Soaring Higher Together
+.
 ***Soaring Higher Together***
 <figure><img src="/images/Mr%20Chong%20JS.jpg" style="width:50%"><figcaption> Mr Chong Jack Sheng - 
 Principal</figcaption></figure>
