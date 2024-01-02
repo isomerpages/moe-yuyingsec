@@ -5,7 +5,7 @@ description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
 notification: <a
-  href="https://www.yuyingsec.moe.edu.sg/useful-links/for-parents/firstweek/First_week_of_school_programme_and_dismissal_timings.pdf">1.
+  href="https://www.yuyingsec.moe.edu.sg/files/Announcement/First_week_of_school_programme_and_dismissal_timings.pdf">1.
   First week of school programme & dismissal timings </a> <a
   href="https://www.yuyingsec.moe.edu.sg/useful-links/for-parents/firstweek/">2.
   Term 1 Letter to Parents </a> 3. 2024 timetable will be uploaded by Wednesday,
