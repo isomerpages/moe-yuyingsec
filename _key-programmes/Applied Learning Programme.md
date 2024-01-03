@@ -26,7 +26,7 @@ Fostering Innovation through Design Thinking
 ### ALP Framework
 
 
-<img src="/images/ALP.jpeg" style="width:300px;height:300px;margin-left:15px;" align="left">
+<img src="/images/ALP.jpeg" style="width:280px;height:280px;margin-left:15px;" align="left">
 
 **1.&nbsp; &nbsp;    Discovery – Ideate and discover possibilities**
 
