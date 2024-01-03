@@ -145,4 +145,6 @@ Learn a new skill to teach elderly
 
 ![](/images/Design_thinking_stages.jpg)
 
+![](/images/Sec_1_programme_outline.jpg)
 
+![](/images/Sec_2_programme_outline.jpg)
