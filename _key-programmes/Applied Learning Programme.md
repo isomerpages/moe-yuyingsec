@@ -64,6 +64,7 @@ Students connect design innovation with entrepreneurship. They learn from local 
 
 ![](/images/ALP1.jpg)
 
+![](/images/Tier_1_and_Tier_2_ALP_themes.jpg)
 
 ### Tier 1 Programmes (for every student)
 -------------------------------------
