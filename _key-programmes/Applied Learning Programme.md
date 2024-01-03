@@ -140,6 +140,9 @@ Learn a new skill to teach elderly
 
 <figure><img src="/images/FDC1.png" style="width:100%"><figcaption> Creating their own unique product</figcaption></figure>
 
+<figure><img src="/images/FDC2.png" style="width:100%"><figcaption> Healthy granola cookie!</figcaption></figure>
+
+
 ![](/images/Design_thinking_stages.jpg)
 
-<figure><img src="/images/FDC2.png" style="width:100%"><figcaption> Healthy granola cookie!</figcaption></figure>
+
