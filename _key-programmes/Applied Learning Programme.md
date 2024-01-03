@@ -2,6 +2,7 @@
 title: Applied Learning Programme
 permalink: /key-programmes/Applied-Learning-Programme/
 description: ""
+variant: markdown
 ---
 Applied Learning Programme
 ==========================
@@ -25,18 +26,18 @@ Fostering Innovation through Design Thinking
 ### ALP Framework
 
 
-<img src="/images/ALP.jpeg" style="width:300px;height:300px;margin-left:15px;" align = "left">
+<img src="/images/ALP.jpeg" style="width:300px;height:300px;margin-left:15px;" align="left">
 
-**1.    Discovery - Ideate and discover possibilities**
+**1.&nbsp; &nbsp;    Discovery – Ideate and discover possibilities**
 
-**2.    Application – Apply Design Thinking to meet real needs and solve problems**
+**2.&nbsp; &nbsp;    Application – Apply Design Thinking to meet real needs and solve problems**
 
-**3.    Innovate– Innovate and embark on innovation projects**
+**3.&nbsp; &nbsp;    Innovate – Innovate and embark on innovation projects**
 
-**4.    Dream – Learn from local entrepreneurs who pursue their dreams and to define their own dream to improve people’s lives**
+**4.&nbsp; &nbsp;    Dream – Learn from local entrepreneurs who pursue their dreams and to define their own dream to improve people’s lives**
 
 
-**Mission**: To develop innovative individuals with skills and attitude to impact the society positively.
+REM**Mission**: To develop innovative individuals with skills and attitude to impact the society positively.
 
 #### Stages of Development
 
@@ -48,7 +49,7 @@ Students learn about concepts such as product design and value creation. They ap
 
 <b> Stage 2: Apply Design Thinking </b>
 
-Students apply Design Thinking Process (DT), which consists of these steps: <b> Empathise, Define, Ideate, Prototype, Test </b>. Opportunities are provided for students to gather information from users and analyse their needs. Students take the extra step in consulting <b> (Empathise)</b> and confirming with users what those needs are <b> (Define)</b>. Then they proceed to brainstorm and apply ideation techniques to come up with possible solutions <b> (Ideate)</b>. They do a prototype <b> (Prototype) </b>and check with users if this prototype is able to meet their identified needs. After users have experience with the product or service, their feedback is sought <b> (Test)</b>.
+Students apply Design Thinking Process (DT), which consists of these steps:&nbsp;<b> Empathise, Define, Ideate, Prototype, Test </b>. Opportunities are provided for students to gather information from users and analyse their needs. Students take the extra step in consulting&nbsp;<b> (Empathise)</b>&nbsp;and confirming with users what those needs are&nbsp;<b> (Define)</b>. Then they proceed to brainstorm and apply ideation techniques to come up with possible solutions&nbsp;<b> (Ideate)</b>. They do a prototype&nbsp;<b> (Prototype) </b>and check with users if this prototype is able to meet their identified needs. After users have experience with the product or service, their feedback is sought&nbsp;<b> (Test)</b>.
 
   
 
@@ -89,11 +90,11 @@ Students connect design innovation with entrepreneurship. They learn from local 
 
 <figure><img src="/images/ALP7.png" style="width:100%"><figcaption> Group discussion</figcaption></figure>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/teiur6qjB3M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/teiur6qjB3M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 Learn a new skill to teach elderly
 
-<b> Sec 3</b>: Innovation and Entreprise Design Challenge; Brainstorm ideas to resolve real-life I&E challenges
+<b> Sec 3</b>: Innovation and Entreprise Design Challenge; Brainstorm ideas to resolve real-life I&amp;E challenges
 
 
 
