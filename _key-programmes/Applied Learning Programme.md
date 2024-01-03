@@ -62,7 +62,7 @@ Students embark on innovation projects to apply what they have learnt through De
 
 Students connect design innovation with entrepreneurship. They learn from local entrepreneurs how a business is grown from the idea of value creation and how it benefits groups of people in our community. These are carried out through talks, learning journeys and short attachments or authentic learning experiences. Students are encouraged to reflect on their ALP journey and start looking for problems to solve and where to contribute. They make their own choices and follow their interests and passions, using their strengths and applying Design Thinking to create value.
 
-![](/images/ALP1.jpeg)
+![](/images/ALP1.jpg)
 
 
 ### Tier 1 Programmes (for every student)
