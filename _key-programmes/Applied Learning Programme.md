@@ -37,7 +37,6 @@ Fostering Innovation through Design Thinking
 **4.&nbsp; &nbsp;    Dream – Learn from local entrepreneurs who pursue their dreams and to define their own dream to improve people’s lives**
 
 
-// Remarks **Mission**: To develop innovative individuals with skills and attitude to impact the society positively. 
 
 #### Stages of Development
 
