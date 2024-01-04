@@ -26,10 +26,13 @@ Timetable Semester 1
 
 ##### **Secondary 3**
 
-| [3U](/files/Timetable%202024/3U.pdf) | [3R](/files/Timetable%202024/3R.pdf) | [3L](/files/Timetable%202024/3L.pdf) |
+
+
+| [3U](/files/Timetable%202024/3U.pdf) |  [3R](/files/Timetable%202024/3R.pdf) | [3L](/files/Timetable%202024/3L.pdf) |
 | -------- | -------- | -------- |
-| [3G](/files/Timetable%202024/3G.pdf)     | [3F](/files/Timetable%202024/3F.pdf)     | [3E](/files/Timetable%202024/3E.pdf)     |
-| [3C](/files/Timetable%202024/3C.pdf)     | [3A](/files/Timetable%202024/3A.pdf)   |     |
+| [3G](/files/Timetable%202024/3G.pdf)     | [3F](/files/Timetable%202024/3F.pdf)    | [3E](/files/Timetable%202024/3E.pdf)      |
+| [3C](/files/Timetable%202024/3C.pdf)     |  [3A](/files/Timetable%202024/3A.pdf)    |     |
+
 ##### **Secondary 4/5**
 
 | [4U](/files/Timetable%202024/4U.pdf) | [4S](/files/Timetable%202024/4S.pdf) | [4R](/files/Timetable%202024/4R.pdf) |
