@@ -25,8 +25,8 @@ Our Staff
 | Head of Department (Mother Tongue Languages)                  | Mdm Yu Ya Ting           |
 | Head of Department (Physical Education & CCA)                 | Mr Lawrence Lim          |
 | Head of Department (Science)                                  | Mr Alvin Peh             |
-| Assistant Year Head (Upper Secondary)                         | Ms Anu Priya            |
-| Assistant Year Head (Lower Secondary)                         | Mr Kelvin Goh            |
+| Assistant Year Head (Sec 4 & 5)                         | Ms Anu Priya            |
+| Assistant Year Head (Sec 2)                         | Mr Kelvin Goh            |
 | Subject Head (Aesthetics)                                     | Ms Nur Izzati           |
 | Subject Head (Chemistry)                                      | Mrs Tan Ruiqi            |
 | Subject Head (Chinese Language)                               | Mr Koh Chee Keong        |
