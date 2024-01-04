@@ -44,4 +44,4 @@ Our Staff
 | Administration Manager                                        | Mr Jason Ong             |
 | Operations Manager                                          | Mr Michael Sim           |
 
-[Form Teacher Email list](/files/Pdf/2024_FT_List_docx.pdf)
+[Form Teacher Email list](/files/FT%20Email/Form_teacher_email_2024_updated_4_Jan.pdf)
