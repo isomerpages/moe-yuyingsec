@@ -9,7 +9,7 @@ notification: <a
   First week of school programme & dismissal timings .</a> <a
   href="https://www.yuyingsec.moe.edu.sg/useful-links/for-parents/firstweek/">  2.
   Term 1 Letter to Parents .</a> <a
-  href="https://www.yuyingsec.moe.edu.sg/useful-links/For-Students/Timetable-June-2022/">3.
+  href="https://www.yuyingsec.moe.edu.sg/useful-links/for-students/timetable/">3.
   2024 timetable is available here .</a>  4. Books and uniforms will be
   available for purchase from 2 to 5 January, 2pm to 4pm.
 sections:

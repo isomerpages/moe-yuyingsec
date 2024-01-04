@@ -1,6 +1,6 @@
 ---
 title: School Timetable
-permalink: /useful-links/For-Students/Timetable-June-2022/
+permalink: /useful-links/for-students/timetable/
 description: ""
 third_nav_title: For Students
 variant: markdown
@@ -14,7 +14,7 @@ Timetable Semester 1
 |[1U](/files/Timetable%202024/1U.pdf) | [1R](/files/Timetable%202024/1R.pdf) | [1L](/files/Timetable%202024/1L.pdf) |
 | -------- | -------- | -------- |
 | [1G](/files/Timetable%202024/1G.pdf)     | [1F](/files/Timetable%202024/1F.pdf)      | [1E](/files/Timetable%202024/1E.pdf)    |
-| [1C](/files/Timetable%202024/1C.pdf)    | [1A](/files/Timetable%202024/1A.pdf)     |     |
+| [1C](/files/Timetable%202024/1C.pdf)    | [1A](/files/Timetable%202024/1A.pdf)     |     |  |
 
 ##### **Secondary 2**
 
@@ -26,10 +26,13 @@ Timetable Semester 1
 
 ##### **Secondary 3**
 
-| [3U](/files/Timetable%202024/3U.pdf) | [3R](/files/Timetable%202024/3R.pdf) | [3L](/files/Timetable%202024/3L.pdf) |
+
+
+| [3U](/files/Timetable%202024/3U.pdf) |  [3R](/files/Timetable%202024/3R.pdf) | [3L](/files/Timetable%202024/3L.pdf) |
 | -------- | -------- | -------- |
-| [3G](/files/Timetable%202024/3G.pdf)     | [3F](/files/Timetable%202024/3F.pdf)     | [3E](/files/Timetable%202024/3E.pdf)     |
-| [3C](/files/Timetable%202024/3C.pdf)     | [3A](/files/Timetable%202024/3A.pdf)   |     |
+| [3G](/files/Timetable%202024/3G.pdf)     | [3F](/files/Timetable%202024/3F.pdf)    | [3E](/files/Timetable%202024/3E.pdf)      |
+| [3C](/files/Timetable%202024/3C.pdf)     |  [3A](/files/Timetable%202024/3A.pdf)    |     |
+
 ##### **Secondary 4/5**
 
 | [4U](/files/Timetable%202024/4U.pdf) | [4S](/files/Timetable%202024/4S.pdf) | [4R](/files/Timetable%202024/4R.pdf) |
