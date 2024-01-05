@@ -6,12 +6,10 @@ image: /images/isomer-logo.svg
 permalink: /
 notification: <a
   href="https://www.yuyingsec.moe.edu.sg/useful-links/for-students/timetable/">1.
-  2024 timetable is available here .</a><a
-  href="https://www.yuyingsec.moe.edu.sg/files/Announcement/First_week_of_school_programme_and_dismissal_timings.pdf">2.
-  First week of school programme & dismissal timings .</a> <a
-  href="https://www.yuyingsec.moe.edu.sg/useful-links/for-parents/firstweek/">  3.
-  Term 1 Letter to Parents .</a>  4. Books and uniforms will be available for
-  purchase from 2 to 5 January, 2pm to 4pm.
+  2024 timetable is available here .</a> 2. Please note that there will be no
+  Home-based Learning (HBL) on 8 January 2024 (Monday). Students will need to be
+  present in school. On 8 January 2024 only, the timetable will follow the
+  timetable for Odd Week Monday.
 sections:
   - hero:
       url: https://drive.google.com/file/d/1NIo5JDhaGPlSbtvFZ1hNmJVeLzvrqsmo/view?usp=share_link
