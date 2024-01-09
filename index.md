@@ -6,9 +6,11 @@ image: /images/isomer-logo.svg
 permalink: /
 notification: <a
   href="https://www.yuyingsec.moe.edu.sg/useful-links/for-students/timetable/">1.
-  2024 timetable is available here .</a> 2. Please note that there will be no
+  2024 timetable is available here .</a> <a
+  href="https://www.yuyingsec.moe.edu.sg/media/images/mediaDirectory/images/Sec_1_CCA_Trials_Schedule.jpg">2.
+  Sec 1 CCA Trials Schedule .</a>  3. Please note that there will be no
   Home-based Learning (HBL) on 8 January 2024 (Monday). Students will need to be
-  present in school. On 8 January 2024 only, the timetable will follow the
+  present in school.  On 8 January 2024 only, the timetable will follow the
   timetable for Odd Week Monday.
 sections:
   - hero:
