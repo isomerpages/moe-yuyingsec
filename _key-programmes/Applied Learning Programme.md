@@ -16,6 +16,15 @@ Fostering Innovation through Design Thinking
 3.  Students apply Design Thinking principles to solve problems
 4.  Students understand innovation and entrepreneurship as value creation
 
+
+
+![](/images/Design_thinking_stages.jpg)
+
+![](/images/Sec_1_programme_outline.jpg)
+
+![](/images/Sec_2_programme_outline.jpg)
+
+
 ### Partnership with Relevant Industries
 
 
@@ -142,9 +151,3 @@ Learn a new skill to teach elderly
 
 <figure><img src="/images/FDC2.png" style="width:100%"><figcaption> Healthy granola cookie!</figcaption></figure>
 
-
-![](/images/Design_thinking_stages.jpg)
-
-![](/images/Sec_1_programme_outline.jpg)
-
-![](/images/Sec_2_programme_outline.jpg)
