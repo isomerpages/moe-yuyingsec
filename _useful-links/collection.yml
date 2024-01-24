@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - For Students/Weighted Assessment.md
       - For Students/School Timetable.md
       - For Students/.keep
       - For Students/School Uniform & Booklist.md
