@@ -1,0 +1,7 @@
+collections:
+  key-programmes:
+    output: true
+    order:
+      - Learning for Life Programme.md
+      - Applied Learning Programme.md
+      - Student Leadership.md
