@@ -56,43 +56,39 @@ b.&nbsp;&nbsp;&nbsp; Character and Citizenship Education (CCE)
 ![SecondaryOne](/images/SecondaryOne.jpg)
 ![SecondaryOneA](/images/SecondaryOneA.jpg)
 ![SecondaryOneB](/images/SecondaryOneB.jpg)
+
 ![SecondaryTwo](/images/SecondaryTwo.jpg)
 ![SecondaryTwoA](/images/SecondaryTwoA.jpg)
 ![SecondaryTwoB](/images/SecondaryTwoB.jpg)
 
+![SecondaryThree](/images/SecondaryThree.jpg)
+![SecondaryThreeA](/images/SecondaryThreeA.jpg)
 
-**2023 Sexuality Education Lessons in CCE 2021**
-**Secondary 3**
-![](/images/sec3.jpg)
+![SecondaryFour](/images/SecondaryFour.jpg)
+![SecondaryFourA](/images/SecondaryFourA.jpg)
+![SecondaryFourB](/images/SecondaryFourB.jpg)
 
-**2023 Sexuality Education Lessons in CCE 2021**
-**Secondary 4**
-![](/images/sec4.jpg)
+![SecondaryFive](/images/SecondaryFive.jpg)
 
-**2023 Sexuality Education Lessons in CCE 2021**
-**Secondary 5**
-![](/images/sec5.jpg)
 
-**eTeens Programme:**
 
-8)  eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide
-Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two
-segments – a mass talk segment and a classroom-based programme.
+**eTeens** **Programme**:
 
-9)  Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.
+8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
 
-At Yuying Secondary School, the eTeens programme will be implemented as follows in 2023:
-![](/images/eteen.jpg)
+9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages.
 
+
+At Yuying Secondary School, the eTeens programme will be implemented as follows in 2024:
+![eTeens](/images/eTeens.jpg)
 
 **Information for Parents**
+         <!-- /\* Font Definitions \*/ @font-face {font-family:SimSun; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-alt:宋体; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:515 680460288 22 0 262145 0;} @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} @font-face {font-family:"\\@SimSun"; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:515 680460288 22 0 262145 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin:0in; mso-pagination:widow-orphan; font-size:12.0pt; font-family:"Times New Roman",serif; mso-fareast-font-family:SimSun; mso-ansi-language:EN-GB; mso-bidi-language:AR-SA;} a:link, span.MsoHyperlink {mso-style-unhide:no; mso-style-parent:""; color:blue; text-decoration:underline; text-underline:single;} a:visited, span.MsoHyperlinkFollowed {mso-style-noshow:yes; mso-style-priority:99; color:#954F72; mso-themecolor:followedhyperlink; text-decoration:underline; text-underline:single;} p {mso-style-unhide:no; mso-style-link:"Normal \\(Web\\) Char"; mso-margin-top-alt:auto; margin-right:0in; mso-margin-bottom-alt:auto; margin-left:0in; mso-pagination:widow-orphan; font-size:12.0pt; font-family:"Times New Roman",serif; mso-fareast-font-family:SimSun; mso-ansi-language:EN-GB; mso-bidi-language:AR-SA;} span.NormalWebChar {mso-style-name:"Normal \\(Web\\) Char"; mso-style-unhide:no; mso-style-locked:yes; mso-style-parent:""; mso-style-link:"Normal \\(Web\\)"; mso-ansi-font-size:12.0pt; mso-bidi-font-size:12.0pt; mso-ansi-language:EN-GB; mso-fareast-language:ZH-CN;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-size:10.0pt; mso-ansi-font-size:10.0pt; mso-bidi-font-size:10.0pt; mso-fareast-font-family:SimSun; mso-font-kerning:0pt; mso-ligatures:none; mso-ansi-language:EN-SG; mso-fareast-language:EN-SG; mso-bidi-language:AR-SA;} @page WordSection1 {size:595.45pt 841.7pt; margin:1.0in 1.0in 1.0in 1.0in; mso-header-margin:.5in; mso-footer-margin:.5in; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} @page WordSection2 {size:8.5in 11.0in; margin:1.0in 1.0in 1.0in 1.0in; mso-header-margin:.5in; mso-footer-margin:.5in; mso-paper-source:0;} div.WordSection2 {page:WordSection2;} -->
 
-10)  Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers. 
+10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-11) 	Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form is downloadable here (please upload parents opt-out form found in  [Annex A](/files/Annex%20A.pdf). The completed form is to be submitted to thier children’s form teachers by 28/02/2023. 
+11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](Sex%20Ed%20Opt%20Out%20Form.pdf) .The completed form is to be submitted by **23/02/2024** to your child/ward’s Form Teacher.
 
-12) 	Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form is also downloadable here (please upload parents opt-out form found in [Annex B](/files/Annex%20B.pdf).  The completed form is to be submitted to their children’s form teachers by 28/02/2023.
+12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](eTeens%20Opt%20Out%20Form.pdf). The completed form is to be submitted by **23/02/2024** to your child/ward’s Form Teacher.
 
-13) 	Parents can contact the school (yuying_ss@moe.edu.sg or call 62827968) for discussion or to seek clarification about the school’s Sexuality Education programme.
-
-[2023 Info on SEd for schools](/files/2023%20Info%20on%20SEd%20for%20schs%20website%20(Secondary%20Schools).pdf)
+13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at **yuying\_ss@moe.edu.sg or call 62827968** for discussion or to seek clarification about the school’s Sexuality Education programme.
