@@ -5,6 +5,11 @@ variant: tiptap
 description: ""
 third_nav_title: Partners
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Han San Por" src="/images/Alumini/2__Han_Sai_Por_Photo.jpg">
+</div>
+<p></p>
 <p>Han Sai Por, a distinguished alumna of Yuying Secondary School, stands
 as one of Asia's leading modern sculptors. Besides being one of the three
 Singaporean women who have clinched a spot on the Forbes 50 over 50: Asia
