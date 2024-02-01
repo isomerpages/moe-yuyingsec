@@ -1,6 +1,6 @@
 ---
 title: Distinguished Yuying Alumni
-permalink: /about-us/partners/permalink/
+permalink: /about-us/partners/distinguished-yuying-alumni/
 variant: tiptap
 description: ""
 third_nav_title: Partners
