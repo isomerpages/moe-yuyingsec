@@ -15,3 +15,9 @@ description: ""
 <p>Date: 14 Feb 2024 onwards
 <br>School will revert back to normal operating hours</p>
 <p></p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CNY_2024" src="/images/Holidays/CNY_2024.jpg">
+</div>
+<p></p>
