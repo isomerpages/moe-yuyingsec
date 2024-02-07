@@ -4,14 +4,17 @@ permalink: /holidays/
 variant: tiptap
 description: ""
 ---
-<p>Date: 9 Feb 2024 (Fri) – Chinese New Year Eve</p>
+<p><strong>Date: 9 Feb 2024 (Fri) – Chinese New Year Eve</strong>
+</p>
 <p>School Operating Hours: 730am to 1030am</p>
 <p>&nbsp;</p>
-<p>Date: 12 Feb 2024 (Mon) and 13 Feb 2024 (Tue)</p>
+<p><strong>Date: 12 Feb 2024 (Mon) and 13 Feb 2024 (Tue)</strong>
+</p>
 <p>School Closed</p>
 <p>&nbsp;</p>
-<p>Date: 14 Feb 2024 onwards
-<br>School will revert back to normal operating hours</p>
+<p><strong>Date: 14 Feb 2024 onwards</strong>
+</p>
+<p>School will revert back to normal operating hours</p>
 <p></p>
 <p></p>
 <p></p>
