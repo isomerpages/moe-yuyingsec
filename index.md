@@ -8,7 +8,7 @@ notification: <a
   href="https://www.yuyingsec.moe.edu.sg/about-us/partners/distinguished-yuying-alumni/">Congratulations
   to our distinguished alumna, Han Sai Por, on being recognised by Forbes for
   her enduring impact on the art world!  </a> <a
-  href="https://www.yuyingsec.moe.edu.sg/images/Holidays/CNY_2024.jpg">   _____School
+  href="https://www.yuyingsec.moe.edu.sg/holidays/school-operations-during-cny-period2024/">   _____School
   Operations during CNY period 2024 </a>
 sections:
   - hero:
