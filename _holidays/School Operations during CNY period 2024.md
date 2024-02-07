@@ -4,8 +4,6 @@ permalink: /holidays/
 variant: tiptap
 description: ""
 ---
-<p>School Operations during CNY Period 2024:</p>
-<p>&nbsp;</p>
 <p>Date: 9 Feb 2024 (Fri) – Chinese New Year Eve</p>
 <p>School Operating Hours: 730am to 1030am</p>
 <p>&nbsp;</p>
