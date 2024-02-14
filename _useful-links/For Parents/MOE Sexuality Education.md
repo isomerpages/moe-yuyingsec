@@ -87,8 +87,8 @@ At Yuying Secondary School, the eTeens programme will be implemented as follows 
 
 10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](Sex%20Ed%20Opt%20Out%20Form.pdf) .The completed form is to be submitted by **23/02/2024** to your child/ward’s Form Teacher.
+11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [Sex_Ed_Opt_Out_Form.pdf](/files/Pdf/Sex_Ed_Opt_Out_Form.pdf) .The completed form is to be submitted by **23/02/2024** to your child/ward’s Form Teacher.
 
-12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](eTeens%20Opt%20Out%20Form.pdf). The completed form is to be submitted by **23/02/2024** to your child/ward’s Form Teacher.
+12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [eTeens_Opt_Out_Form.pdf](/files/Pdf/eTeens_Opt_Out_Form.pdf). The completed form is to be submitted by **23/02/2024** to your child/ward’s Form Teacher.
 
 13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at **yuying\_ss@moe.edu.sg or call 62827968** for discussion or to seek clarification about the school’s Sexuality Education programme.
