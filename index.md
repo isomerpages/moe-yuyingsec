@@ -5,7 +5,7 @@ description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
 notification: <a
-  href="https://www.yuyingsec.moe.edu.sg/Files/Pdf/honours_day_2024_programme.pdf">   YuYing
+  href="https://www.yuyingsec.moe.edu.sg/files/Pdf/Honours_Day_2024_Programme.pdf">   YuYing
   Secondary School Honours Day on 30 April 2024</a>
 sections:
   - hero:
