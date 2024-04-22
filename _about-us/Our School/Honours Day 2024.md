@@ -5,5 +5,4 @@ variant: tiptap
 description: Honours Day 2024
 third_nav_title: Our School
 ---
-<p><a href="/files/Pdf/Honours_Day_2024_Programme.pdf" rel="noopener noreferrer nofollow" target="_blank">www.yuyingsec.moe.edu.sg/Files/Pdf/Honours_Day_2024_Programme.pdf</a>
-</p>
+<p>[Honours Day 2024 Programme](<a href="https://drive.google.com/drive/folders/1DbxXuechM96VtNK8usAPhNKWtS18BsF8" rel="noopener noreferrer nofollow" target="_blank">https://drive.google.com/drive/folders/1DbxXuechM96VtNK8usAPhNKWtS18BsF8</a>)</p>
