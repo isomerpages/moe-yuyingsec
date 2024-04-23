@@ -11,8 +11,13 @@ Yuying Secondary is a vibrant school with a rich 114-year heritage. The school i
 
 We welcome all current Primary Six students (or equivalent) to apply for 2025 admission to our school through the DSA-Sec exercise. We offer Singaporeans and foreign students who fulfil the minimum criteria for secondary school admission, have specific talents, and have attained outstanding achievements in one or more of the following:
 
+![Talent Area](/images/DSA/Talents_Area.png)
 
 
+**Admission Criteria for DSA Categories**
+
+![Adminission Critteria for DSA Categories](/images/DSA/Admission_Criteria_for_DSA_Categories.png)
+![Adminission Criteria for DSA Categories part 2](/images/DSA/Admission_Criteria_for_DSA_Categories2.png)
 
 
 
