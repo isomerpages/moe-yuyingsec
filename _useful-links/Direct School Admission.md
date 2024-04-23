@@ -20,11 +20,13 @@ We welcome all current Primary Six students (or equivalent) to apply for 2025 ad
 ![Adminission Criteria for DSA Categories part 2](/images/DSA/Admission_Criteria_for_DSA_Categories2.png)
 
 
+**Key Dates**
+
+![Key Dates](/images/DSA/Key_Dates.png)
 
 
 
-
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        
 
 
