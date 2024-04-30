@@ -3,6 +3,7 @@ title: Guitar Ensemble
 permalink: /co-curriculum/Visual-and-Performing-Arts/Guitar-Ensemble/
 description: ""
 third_nav_title: Visual & Performing Arts
+variant: markdown
 ---
 ![](/images/CCA/Collage-art.jpg)
 
@@ -13,3 +14,6 @@ The Guitar Ensemble is a CCA where students without any prior musical knowledge,
 
 
 ![](/images/Guitar.png)
+
+
+[Guitar e-Showcase](https://drive.google.com/file/d/1Uu4QhpAiAmuhrrG3D3Jqo9RYogqY2w30/view?usp=drive_link)
