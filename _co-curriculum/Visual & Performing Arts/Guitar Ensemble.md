@@ -14,6 +14,13 @@ The Guitar Ensemble is a CCA where students without any prior musical knowledge,
 
 
 ![](/images/Guitar.png)
+/nb
+/nb
 
 
-[Guitar e-Showcase](https://drive.google.com/file/d/1Uu4QhpAiAmuhrrG3D3Jqo9RYogqY2w30/view?usp=drive_link)
+* #####    **Guitar e-Showcase**
+
+<iframe width="600" height="355" src="https://www.youtube.com/embed/5isO7vxYwR0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+
+
