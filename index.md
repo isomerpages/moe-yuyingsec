@@ -5,8 +5,6 @@ description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
 notification: <a
-  href="https://drive.google.com/drive/folders/1DbxXuechM96VtNK8usAPhNKWtS18BsF8">[Honours
-  Day 2024 Programme]</a> <a
   href="https://www.yuyingsec.moe.edu.sg/useful-links/dsa/">      [DSA 2025]</a>
 sections:
   - hero:
