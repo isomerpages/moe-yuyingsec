@@ -6,8 +6,8 @@ variant: markdown
 ---
 # **2024 June Holiday Homework**
 
-[Sec 1 Year-end holiday Homework 2023](/files/Pdf/yyss%20year-end%20holiday%20homework%202023_sec%201.pdf)
+[S1 2024 SECONDARY 1 JUNE HOLIDAYHOMEWORK](/files/Pdf/S1_2024_SECONDARY_1_JUNE_HOLIDAY_HOMEWORK.pdf)
 
-[Sec 2 Year-end holiday Homework 2023](/files/Pdf/yyss%20year-end%20holiday%20homework%202023_sec%202.pdf)
+[S3 2024 SECONDARY 2 JUNE HOLIDAY HOMEWORK](/files/Pdf/S2_2024_SECONDARY_2_JUNE_HOLIDAY_HOMEWORK.pdf)
 
-[Sec 3 Year-end holiday Homework 2023](/files/Pdf/yyss%20year-end%20holiday%20homework%202023_sec%203.pdf)
+[S3 2024 SECONDARY 3 JUNE HOLIDAY HOMEWORK](/files/Pdf/S3_2024_SECONDARY_3_JUNE_HOLIDAY_HOMEWORK.pdf)
