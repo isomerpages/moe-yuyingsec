@@ -3,6 +3,7 @@ title: Education & Career Guidance
 permalink: /useful-links/For-Students/Education-and-Career-Guidance/
 description: ""
 third_nav_title: For Students
+variant: markdown
 ---
 ![](/images/Useful%20Links.jpg)
 
@@ -18,3 +19,5 @@ Education & Career Guidance
   
 
 [Joint Admissions Exercise](https://yuyingsec.moe.edu.sg/useful-links/for-students/education-n-career-guidance/joint-admissions-exercise)
+
+[School Graduation Certificate Collection](/files/Pdf/2023_4NT_SGC_Collection.pdf)
