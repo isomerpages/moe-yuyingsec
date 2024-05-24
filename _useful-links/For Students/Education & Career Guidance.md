@@ -19,5 +19,3 @@ Education & Career Guidance
   
 
 [Joint Admissions Exercise](https://yuyingsec.moe.edu.sg/useful-links/for-students/education-n-career-guidance/joint-admissions-exercise)
-
-[2023 4NT SGC Collection](/files/Pdf/2023_4NT_SGC_Collection.pdf)
