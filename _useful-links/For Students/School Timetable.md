@@ -27,10 +27,10 @@ Timetable Semester 2
 
 
 
-| [3U](/files/Timetable%202024/3U.pdf) |  [3R](/files/Timetable%202024/3R.pdf) | [3L](/files/Timetable%202024/3L.pdf) |
+| [3A](/files/Timetable%202024/3_Adaptability.pdf) |  [3C](/files/Timetable%202024/3_Courage.pdf) | [3E](/files/Timetable%202024/3_Empathy.pdf) |
 | -------- | -------- | -------- |
-| [3G](/files/Timetable%202024/3G.pdf)     | [3F](/files/Timetable%202024/3F.pdf)    | [3E](/files/Timetable%202024/3E.pdf)      |
-| [3C](/files/Timetable%202024/3C.pdf)     |  [3A](/files/Timetable%202024/3A.pdf)    |     |
+| [3F](/files/Timetable%202024/3_Fortitude.pdf)     | [3G](/files/Timetable%202024/3_Gratitude.pdf)    | [3L](/files/Timetable%202024/3_Leadership.pdf)      |
+| [3R](/files/Timetable%202024/3_Responsibility.pdf)     |  [3U](/files/Timetable%202024/3_Unity.pdf)    |     |
 
 ##### **Secondary 4/5**
 
