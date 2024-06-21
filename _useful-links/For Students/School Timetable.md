@@ -25,8 +25,6 @@ Timetable Semester 2
 
 ##### **Secondary 3**
 
-
-
 | [3A](/files/Timetable%202024/3_Adaptability.pdf) |  [3C](/files/Timetable%202024/3_Courage.pdf) | [3E](/files/Timetable%202024/3_Empathy.pdf) |
 | -------- | -------- | -------- |
 | [3F](/files/Timetable%202024/3_Fortitude.pdf)     | [3G](/files/Timetable%202024/3_Gratitude.pdf)    | [3L](/files/Timetable%202024/3_Leadership.pdf)      |
@@ -34,8 +32,8 @@ Timetable Semester 2
 
 ##### **Secondary 4/5**
 
-| [4U](/files/Timetable%202024/4U.pdf) | [4S](/files/Timetable%202024/4S.pdf) | [4R](/files/Timetable%202024/4R.pdf) |
+| [4A](/files/Timetable%202024/4_Adaptability.pdf) | [4C](/files/Timetable%202024/4_Courage.pdf) | [4E](/files/Timetable%202024/4_Empathy.pdf) |
 | -------- | -------- | -------- |
-| [4L](/files/Timetable%202024/4L.pdf)     | [4G](/files/Timetable%202024/4G.pdf)     | [4F](/files/Timetable%202024/4F.pdf)     |
-| [4E](/files/Timetable%202024/4E.pdf)     | [4C](/files/Timetable%202024/4C.pdf)    | [4A](/files/Timetable%202024/4A.pdf)     |
-| [5G](/files/Timetable%202024/5G.pdf)    |    |
+| [4F](/files/Timetable%202024/4_Fortitude.pdf)     | [4G](/files/Timetable%202024/4_Gratitude.pdf)     | [4L](/files/Timetable%202024/4_Leadership.pdf)     |
+| [4R](/files/Timetable%202024/4_Responsibility.pdf)     | [4S](/files/Timetable%202024/4_Synergy.pdf)    | [4U](/files/Timetable%202024/4_Unity.pdf)     |
+| [5G](/files/Timetable%202024/5_Gratitude.pdf)    |    |
