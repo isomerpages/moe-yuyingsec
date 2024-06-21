@@ -10,11 +10,24 @@ Timetable Semester 1
 
 ##### **Secondary 1**
 
+[1A](/files/Timetable%202024/1_Adaptability.pdf)  | 
+[1C](/files/Timetable%202024/1_Courage.pdf)  | 
+[1E](/files/Timetable%202024/1_Empathy.pdf)  | 
 
-|[1U](/files/Timetable%202024/1U.pdf) | [1R](/files/Timetable%202024/1R.pdf) | [1L](/files/Timetable%202024/1L.pdf) |
+[1F](/files/Timetable%202024/1_Fortitude.pdf)  | 
+[1G](/files/Timetable%202024/1_Gratitude.pdf)  | 
+[1L](/files/Timetable%202024/1_Leadership.pdf)  |  
+
+[1R](/files/Timetable%202024/1_Responsibility.pdf)  | 
+[1U](/files/Timetable%202024/1_Unity.pdf)
+
+
+
+
+[1A](/files/Timetable%202024/1_Adaptability.pdf) | [1C](/files/Timetable%202024/1_Courage.pdf)|[1E](/files/Timetable%202024/1_Empathy.pdf) |
 | -------- | -------- | -------- |
-| [1G](/files/Timetable%202024/1G.pdf)     | [1F](/files/Timetable%202024/1F.pdf)      | [1E](/files/Timetable%202024/1E.pdf)    |
-| [1C](/files/Timetable%202024/1C.pdf)    | [1A](/files/Timetable%202024/1A.pdf)     |     |  |
+| [1F](/files/Timetable%202024/1_Fortitude.pdf)     | [1G](/files/Timetable%202024/1_Gratitude.pdf)     | [1L](/files/Timetable%202024/1_Leadership.pdf)     |
+| [1R](/files/Timetable%202024/1_Responsibility.pdf)    | [1U](/files/Timetable%202024/1_Unity.pdf)   |     |  |
 
 ##### **Secondary 2**
 
