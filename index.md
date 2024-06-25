@@ -5,10 +5,8 @@ description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
 notification: <a
-  href="https://www.yuyingsec.moe.edu.sg/useful-links/dsa/">      [DSA
-  2025]</a><a
-  href="https://www.yuyingsec.moe.edu.sg/useful-links/sgc-collection/">      [Sec
-  4NT SGC Collection]</a>
+  href="https://www.yuyingsec.moe.edu.sg/useful-links/sgc-collection/">      [2023
+  Sec 4 & 5 SGC Collection]</a>
 sections:
   - hero:
       url: https://drive.google.com/file/d/1NIo5JDhaGPlSbtvFZ1hNmJVeLzvrqsmo/view?usp=share_link
