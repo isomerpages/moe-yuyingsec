@@ -11,8 +11,9 @@ Our Staff
 | **Designation**                                              | **Name**               |
 | ------------------------------------------------------------- | ------------------------ |
 | Principal                                                     | Mr Chong Jack Sheng      |
-| Vice-Principal                                                |   Mr Gabriel Cheong       |
-| Vice-Principal                                                |   Mr Ivin Chan       |
+| Vice-Principal (T&L)                                              |   Mr Gabriel Cheong       |
+| Vice-Principal (T&L)                                               |   Mr Ivin Chan       |
+| Vice-Principal (Admin)                                              |   Mrs Catherine Tan       |
 | School Staff Developer                                        | Ms Charmaine Tay         |
 | Year Head (Upper Secondary)                                   | Mr Eric Chew           |
 | Year Head (Lower Secondary)                                   | Ms Linda Marie           |
@@ -34,7 +35,6 @@ Our Staff
 | Subject Head (Literature)                                     | Mrs Jaslyn Lim           |
 | Subject Head (Physical Education)                                 | Mdm Amy Wong            |
 | Subject Head (Student Management)                                 | Ms Ng Li Rong            |
-| Subject Head (Student Well-Being)                             | Ms Rebecca Oh            |
 | Senior Teacher (Chinese Language)                             | Mdm Gao Xia              |
 | Senior Teacher (Design & Technology)                          | Mrs Cindy Chan           |
 | Senior Teacher (English Language)                             | Ms Hope Sng              |
