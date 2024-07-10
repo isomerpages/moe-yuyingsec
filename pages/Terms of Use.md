@@ -21,7 +21,7 @@ The materials located on this Web Site including the information and software pr
 
 
 ## Privacy Policy 
-Click here to review this Web Site Privacy Statement. 
+Click [here](https://www.yuyingsec.moe.edu.sg/privacy/) to review this Web Site Privacy Statement. 
 
 Restrictions on Use of Materials
 -------------------------------
@@ -64,5 +64,4 @@ Yuying Secondary School reserves all rights to disable any links to, or frames o
 Yuying Secondary School reserves the right to disable any unauthorised links or frames and disclaims any responsibility for the content available on any other site reached by links to or from this Web Site or any of the Contents. 
 
 ## Governing Law 
-These Terms of Use shall be governed and construed in accordance with laws of the Republic of Singapore. 
-
+These Terms of Use shall be governed and construed in accordance with laws of the Republic of Singapore.
