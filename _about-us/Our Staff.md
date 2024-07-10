@@ -11,8 +11,8 @@ Our Staff
 | **Designation**                                              | **Name**               |
 | ------------------------------------------------------------- | ------------------------ |
 | Principal                                                     | Mr Chong Jack Sheng      |
-| Vice-Principal (T&L)                                              |   Mr Gabriel Cheong       |
-| Vice-Principal (T&L)                                               |   Mr Ivin Chan       |
+| Vice-Principal                                              |   Mr Gabriel Cheong       |
+| Vice-Principal                                               |   Mr Ivin Chan       |
 | Vice-Principal (Admin)                                              |   Mrs Catherine Tan       |
 | School Staff Developer                                        | Ms Charmaine Tay         |
 | Year Head (Upper Secondary)                                   | Mr Eric Chew           |
