@@ -21,7 +21,7 @@ The materials located on this Web Site including the information and software pr
 
 
 ## Privacy Policy 
-Click [here](https://www.yuyingsec.moe.edu.sg/privacy/) to review this Web Site Privacy Statement. 
+Click [here](https://www.yuyingsec.moe.edu.sg/privacy/)to review this Web Site Privacy Statement. 
 
 Restrictions on Use of Materials
 -------------------------------
