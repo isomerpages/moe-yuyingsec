@@ -2,6 +2,7 @@
 title: For Staff
 permalink: /useful-links/For-Staff/
 description: ""
+variant: markdown
 ---
 For Staff
 =========
@@ -15,6 +16,8 @@ For Staff
 [Staff Catering Request](https://go.gov.sg/yysscater )
 
 [Transport Service Request](https://go.gov.sg/yyssbus )
+
+[Safety Incident Reporting](https://go.gov.sg/yyssreportincident)
 
 [Email - iConnect 2](http://icon.moe.edu.sg/)
 
