@@ -31,6 +31,6 @@ third_nav_title: For Students
 </p>
 <p><a href="/files/Pdf/Weighted Assessment/Sec_4_and_5_WA2_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec_4_and_5_WA2_2024.pdf</a>
 </p>
-<p><a href="/files/Pdf/Weighted Assessment/Sec_4N_Prelims_Timetable_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Prelims Timetable 2024</a>
+<p><a href="/files/Pdf/4E5N_Prelims_Timetable_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4NA/NT Prelims Timetable 2024</a>
 </p>
 <p></p>
