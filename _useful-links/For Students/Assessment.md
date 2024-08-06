@@ -33,7 +33,7 @@ third_nav_title: For Students
 </p>
 <p><a href="/files/Pdf/Sec_4NA_NT_Prelims_Timetable_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4NA NT Prelims Timetable 2024</a>
 </p>
-<p><a href="/files/Pdf/Sec_4E5N_Prelims_Timetable_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4E5N Prelims Timetable 2024</a>
+<p><a href="/files/Pdf/4E5N_Prelims_Timetable_Updated_6_Aug.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4E5N Prelims Timetable 2024</a>
 </p>
 <p></p>
 <p></p>
