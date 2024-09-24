@@ -23,7 +23,7 @@ third_nav_title: For Students
 </p>
 <p><a href="/files/Pdf/Weighted Assessment/Sec_2_WA3_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec_2_WA3_2024.pdf</a>
 </p>
-<p><a href="/files/Pdf/Weighted Assessment/Sec_2_EOY_Timetable.pdf" rel="noopener nofollow" target="_blank">Sec 2 EOY Timetable</a>
+<p><a href="https://drive.google.com/file/d/1F-APbRTvmmv_tl9Xyf5FijGbWFTcM65N/view?usp=sharing" rel="noopener nofollow" target="_blank">Sec 2 EOY Timetable</a>
 </p>
 <p><a href="https://drive.google.com/file/d/1OWLlKE670KqZsxD0FV09k0wUy5zZ7s8N/view?usp=sharing" rel="noopener nofollow" target="_blank">Sec 2 EOY Format &amp; Coverage</a>
 </p>
