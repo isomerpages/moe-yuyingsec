@@ -11,4 +11,5 @@ sections:
       title: SOARING HIGHER TOGETHER
       subtitle: Together, Achieve Personal Excellence
       background: /images/2024_Landing_Page.jpg
+      variant: image
 ---
