@@ -2,6 +2,7 @@
 title: School Management Committee
 permalink: /about-us/School-Management-Committee/
 description: ""
+variant: markdown
 ---
 School Management Committee
 ===========================
@@ -15,7 +16,7 @@ School Management Committee
   color:black">Position</span></p></td></tr><tr style="mso-yfti-irow:1;height:15.75pt"><td style="width:209.0pt;border:solid windowtext 1.0pt;
   border-top:none;padding:0in 5.4pt 0in 5.4pt;height:15.75pt" valign="top" nowrap="" width="279"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
   color:black"><span style="color:black;
-  text-decoration:none;text-underline:none">MR PANG LIM (BBM)</span></span></p></td><td style="width:94.0pt;border-top:none;
+  text-decoration:none;text-underline:none">MR PANG LIM (BBM)L</span></span></p></td><td style="width:94.0pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt;height:15.75pt" valign="top" nowrap="" width="125"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Microsoft YaHei&quot;,sans-serif;
   color:black" lang="ZH-CN">庞琳先生</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
@@ -24,7 +25,7 @@ School Management Committee
   padding:0in 5.4pt 0in 5.4pt;height:15.75pt" valign="top" nowrap="" width="149"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
   color:black">Chairperson</span></p></td></tr><tr style="mso-yfti-irow:2;height:15.75pt"><td style="width:209.0pt;border:solid windowtext 1.0pt;
   border-top:none;padding:0in 5.4pt 0in 5.4pt;height:15.75pt" valign="top" nowrap="" width="279"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:black">MR ANTHONY LIM KEEN BAN</span></p></td><td style="width:94.0pt;border-top:none;
+  color:black">MR ANTHONY LIM KEEN BAN (PBM)</span></p></td><td style="width:94.0pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt;height:15.75pt" valign="top" nowrap="" width="125"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Microsoft YaHei&quot;,sans-serif;
   color:black" lang="ZH-CN">林廷万先生</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
