@@ -38,39 +38,26 @@ to 2 p.m.) Closed on Sunday, Public Holiday and Sec 1 Registration week
 </div>
 <h3>School Booklist / Stationery List</h3>
 <p>Please refer to the attached textbook list for more information</p>
-<p><strong>Textbooks and Stationery</strong>
-</p>
 <h5><strong>Sec 1</strong></h5>
-<p><a href="/files/Booklist/2024_Sec_1_G1_G2_G3_Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 1 Booklist</a>
+<p><strong>Sec 1 Textbook list to be published later</strong>
 </p>
 <h5><strong>Sec 2</strong></h5>
-<p><a href="/files/Booklist/2024_Sec_2_Express_G3_Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 2 Express G3 Booklist</a>
-</p>
-<p><a href="/files/Booklist/2024_Sec_2_NA_G2_Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 2 NA G2 Booklist</a>
-</p>
-<p><a href="/files/Booklist/2024_Sec_2_NT_G1_Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 2 NT G1 Booklist</a>
+<p><a href="/files/Pdf/Uniforms and Textbooks/Sec_2_Textbook_list_2025.pdf" rel="noopener nofollow" target="_blank">Sec 2 Textbook list 2025</a>
 </p>
 <h5><strong>Sec 3</strong></h5>
-<p><a href="/files/Booklist/2024_Sec_3_Express_G3_Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3 Express G3 Booklist</a>
+<p><a href="/files/Pdf/Uniforms and Textbooks/Sec_3_Express_G3_Textbook_list_2025.pdf" rel="noopener nofollow" target="_blank">Sec 3 Express G3 Textbook list 2025</a>
 </p>
-<p><a href="/files/Booklist/2024_Sec_3_NA_G2_Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3 NA G2 Booklist</a>
+<p><a href="/files/Pdf/Uniforms and Textbooks/Sec_3_NA_G2_Textbook_list_2025.pdf" rel="noopener nofollow" target="_blank">Sec 3 NA G2 Textbook list 2025</a>
 </p>
-<p><a href="/files/Booklist/2024_Sec_3_NT_G1_Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3 NT G1 Booklist</a>
+<p><a href="/files/Pdf/Uniforms and Textbooks/Sec_3_NT_G1_Textbook_list_2025.pdf" rel="noopener nofollow" target="_blank">Sec 3 NT G1 Textbook list 2025</a>
 </p>
 <h5><strong>Sec 4 / 5</strong></h5>
-<p><a href="/files/Booklist/2024_Sec_4_Express_G3_Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4 Express G3 Booklist</a>
+<p><a href="/files/Pdf/Uniforms and Textbooks/Sec_4_Express_G3_Textbook_list_2025.pdf" rel="noopener nofollow" target="_blank">Sec 4 Express G3 Textbook list 2025</a>
 </p>
-<p><a href="/files/Booklist/2024_Sec_4_NA_G2_Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4 NA G2 Booklist</a>
+<p><a href="/files/Pdf/Uniforms and Textbooks/Sec_4_NA_G2_Textbook_list_2025.pdf" rel="noopener nofollow" target="_blank">Sec 4 NA G2 Textbook list 2025</a>
 </p>
-<p><a href="/files/Booklist/2024_Sec_4_NT_G1_Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4 NT G1 Booklist</a>
+<p><a href="/files/Pdf/Uniforms and Textbooks/Sec_4_NT_G1_Textbook_list_2025.pdf" rel="noopener nofollow" target="_blank">Sec 4 NT G1 Textbook list 2025</a>
 </p>
-<p><a href="/files/Booklist/2024_Sec_5_NA_G2_Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 5 Booklist</a>
+<p><a href="/files/Pdf/Uniforms and Textbooks/Sec_5_NA_G2_Textbook_list_2025.pdf" rel="noopener nofollow" target="_blank">Sec 5 NA G2 Textbook list 2025</a>
 </p>
-<p><strong>CASCO Educational Supply Pte Ltd</strong>
-</p>
-<p>10 Ubi Cresent #01-02 Ubi Techpark Singapore 408564</p>
-<p>https://cascoedusupply.com.sg</p>
-<p><strong>Tel:</strong>&nbsp;6547 4203 / 6547 4204&nbsp;&nbsp;</p>
-<p><strong>Fax:</strong>&nbsp;6547 4205</p>
-<p><strong>Email:</strong>&nbsp;cascoedusupply@singnet.com.sg</p>
-<p><strong>School Bookshop Tel Number:</strong>&nbsp;62859442</p>
+<p></p>
