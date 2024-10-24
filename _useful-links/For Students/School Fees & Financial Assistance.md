@@ -3,7 +3,7 @@ title: School Fees & Financial Assistance
 permalink: /useful-links/for-students/school-sees-and-financial-assistance/
 description: ""
 third_nav_title: For Students
-variant: markdown
+variant: tiptap
 ---
 <h1>School Fees &amp; Financial Assistance</h1>
 <h3>School fees</h3>
@@ -159,7 +159,7 @@ available only on Mondays and Wednesdays (10am to 3pm)</p>
 </ul>
 <h3>Financial Assistance</h3>
 <p>MOE-FAS 2025 application is now open. You can apply&nbsp;<strong><a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">online</a></strong>.
-Alternatively, you can download the <a href="/files/2024%20moe%20fas%20application%20form.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE FAS Application Form</a> or
+Alternatively, you can download the <a href="/files/Pdf/Uniforms and Textbooks/MOE_FAS_Application_Form_2025.pdf" rel="noopener nofollow" target="_blank">MOE FAS Application Form 2025 </a>or
 collect a copy at your child’s school. Submit the completed form directly
 to the school.</p>
 <p>Please refer to this attachment for the step-by-step guide on how to redeem
@@ -167,3 +167,5 @@ FAS Transitlink Evouchers.&nbsp; <a href="https://www.moe.gov.sg/-/media/images/
 </p>
 <p>You may refer here to the <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">MOE FAS website </a>for
 more information.</p>
+<p></p>
+<p></p>
