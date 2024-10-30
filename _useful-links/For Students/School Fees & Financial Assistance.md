@@ -1,6 +1,6 @@
 ---
 title: School Fees & Financial Assistance
-permalink: /useful-links/for-students/school-sees-and-financial-assistance/
+permalink: /useful-links/for-students/school-fees-and-financial-assistance/
 description: ""
 third_nav_title: For Students
 variant: tiptap
