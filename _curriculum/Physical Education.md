@@ -2,6 +2,7 @@
 title: Physical Education
 permalink: /curriculum/Physical-Education/
 description: ""
+variant: markdown
 ---
 PE Department
 =============
@@ -84,3 +85,24 @@ There are various sports that all Yuying students participate in their secondary
 
 
 There&nbsp;is so much more to PE lessons than sports and exercise. PE lessons are also used as platforms for students to be well-equipped with the skills and knowledge for outdoor learning. The series of outdoor education lessons forge greater relationships among peers while working together in varied activities. It also allows peers to interact with one another in a natural environment to develop appreciation of their surroundings and relationships. Students are presented with the task of setting up a shelter by constructing a basha together with their peers and cooking outdoors using the necessary equipment.
+
+Exercise &amp; Sports Science
+=========================
+
+Exercise &amp; Sports Science (ESS) is an interdisciplinary applied subject where students are taught to perform and participate in various sports. They will also be exposed in-depth to disciplines of Biomechanics, Physiology, Sociology, Psychology and Motor Learning &amp; Development.&nbsp;
+
+  
+
+ESS provides a plethora of opportunities for students to develop 21st Century Competencies where theories and concepts are applied in authentic learning contexts. Students will learn to manage uncertainties as teams and adapt to diverse challenges from the myriad of experiential learning experiences. They strive to become effective communicators who can employ multiple perspective-taking when dealing with the complexities in life. ESS aims to develop individuals who can take on new challenges and be future-ready.
+
+  
+
+
+
+#### Assessment Mode:
+
+40% - Theory examination
+
+40% - Coursework: Planning and enactment of developmental training log
+
+20% - Practical assessment of one individual/ dual and one team physical activity
