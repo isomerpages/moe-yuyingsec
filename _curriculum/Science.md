@@ -2,6 +2,7 @@
 title: Science
 permalink: /curriculum/Science/
 description: ""
+variant: markdown
 ---
 Science
 =======
@@ -21,26 +22,6 @@ Enterprising learners with the mindset and passion to pursue knowledge and skill
 
   
 
-To cater to the different aspirations and abilities of our students, the department offers several subject combinations in the Upper Secondary.
-
-The options for Secondary 3 Express in 2023 are:
-
-*   Physics & Chemistry
-    
-*   Chemistry & Biology
-    
-*   Physics & Science (Chemistry/Biology) 
-    
-*   Science (Physics/Chemistry)   
-    
-*   Science (Chemistry/Biology)
-
-The options for the Secondary 3 Normal Academic in 2023 are:
-
-*   ‘O’ Level Science(Physics/Chemistry) 
-*   ‘N’ Level Science (Physics/Chemistry)
-
-Science is also offered as an elective to Secondary 3 Normal Technical students. 
 
   
 

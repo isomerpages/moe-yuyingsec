@@ -7,7 +7,9 @@ variant: markdown
 ---
 School Crest & Motto
 ====================
-![School Logo](/images/Official_school_logo__red_ring_.jpg)
+
+![School Logo](/images/LOGO/YYSS_LOGO_2023.png)
+
 The school crest comprises two concentric circles with the picture of an eagle in the shape of the capital letter ‘Y’ depicted in the inner circle. 
 
   
