@@ -2,5 +2,6 @@ collections:
   openhouse:
     output: true
     order:
+      - privacy.md
       - example-page.md
       - faq.md
