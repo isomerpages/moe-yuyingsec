@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Open House website.md
-      - privacy.md
       - example-page.md
       - faq.md
