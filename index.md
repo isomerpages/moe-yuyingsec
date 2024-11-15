@@ -15,9 +15,9 @@ sections:
   - infopic:
       title: Yuying Secondary School Open House 2024
       id: infopic
-      description: "Welcome Address by Principal  :  9:15am and
-        11:15am                                           Guided School Tour -
-        8:30am - 9:00am and 10:00am - 11:00am"
+      description: "Welcome Address by Principal:  9:15am and
+        11:15am                                           Guided School
+        Tour:   8:30am - 9:00am and 10:00am - 11:00am"
       image: /images/Images/Open_House_Advertisement_Image.jpg
       alt: Yuying Secondary Open house
 ---
