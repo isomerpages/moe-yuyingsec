@@ -4,18 +4,19 @@ permalink: /open-house-website/
 variant: tiptap
 description: ""
 ---
-<p></p>
+<h3>Programme Guide</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Programme Guide" src="/images/Images/2024_Open_House_Programme_Outline.png">
 </div>
 <p></p>
-<p><strong>Virtual School Tour</strong>
-</p>
+<h3>Virtual School Tour</h3>
+<p></p>
 <div class="iframe-wrapper">
 <iframe height="355" width="600" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/D6A0ThRn2HM?si=AoOxIM2cNF27wJBH"></iframe>
 </div>
 <p></p>
+<h3>Signature Programmes</h3>
 <p><strong>Applied Learning Programme (ALP): Fostering Innovation through Design Thinking</strong>
 </p>
 <p>Our <strong>Applied Learning Programme (ALP)</strong> empowers students
@@ -77,4 +78,11 @@ Additionally, selected students collaborate with Dyson-NTU, applying design
 thinking to address environmental challenges with a focus on energy sustainability.</p>
 <p><a href="https://youtube.com/shorts/ar-TpDh-f-M?feature=share" rel="noopener nofollow" target="_blank">Sustainability video link</a>
 </p>
+<p></p>
+<h3>Frequently Asked Questions</h3>
+<p></p>
+<p></p>
+<p></p>
+<h3></h3>
+<h3></h3>
 <p></p>
