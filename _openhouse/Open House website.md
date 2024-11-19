@@ -6,6 +6,11 @@ description: ""
 ---
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Programme Guide" src="/images/Images/2024_Open_House_Programme_Outline.png">
+</div>
+<p></p>
+<p></p>
 <p><strong>Applied Learning Programme (ALP): Fostering Innovation through Design Thinking</strong>
 </p>
 <p>Our <strong>Applied Learning Programme (ALP)</strong> empowers students
