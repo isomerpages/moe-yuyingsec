@@ -80,7 +80,14 @@ thinking to address environmental challenges with a focus on energy sustainabili
 </p>
 <p></p>
 <h3>Frequently Asked Questions</h3>
+<p><a href="/files/Pdf/Open_House_FAQs.pdf" rel="noopener nofollow" target="_blank">Open House FAQs</a>
+</p>
 <p></p>
+<h3>Follow us on our socials!</h3>
+<p>Instagram: <a href="https://www.instagram.com/yuyingsecondaryschool/?hl=en" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/yuyingsecondaryschool/?hl=en</a>
+</p>
+<p>Facebook: <a href="https://www.facebook.com/YuyingSecondarySchoolOfficial/" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/YuyingSecondarySchoolOfficial/</a>
+</p>
 <p></p>
 <p></p>
 <h3></h3>
