@@ -1,0 +1,5 @@
+collections:
+  openhouse:
+    output: true
+    order:
+      - Open House website.md
