@@ -13,7 +13,7 @@ description: ""
 <p><strong>Virtual School Tour</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/D6A0ThRn2HM?si=AoOxIM2cNF27wJBH"></iframe>
+<iframe height="355" width="600" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/D6A0ThRn2HM?si=AoOxIM2cNF27wJBH"></iframe>
 </div>
 <p></p>
 <p><strong>Applied Learning Programme (ALP): Fostering Innovation through Design Thinking</strong>
