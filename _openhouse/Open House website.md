@@ -28,6 +28,9 @@ food products. These hands-on experiences nurture critical thinking, innovation,
 and resilience, equipping students to confidently face future challenges.</p>
 <p><a href="https://youtube.com/shorts/9LQZI2Qs1Ts?feature=share" rel="noopener nofollow" target="_blank">ALP video link</a>
 </p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/9LQZI2Qs1Ts?si=6j3jhooUhQ3CVCRa"></iframe>
+</div>
 <p></p>
 <p><strong>Learning for Life Programme (LLP): Yuying CARES</strong>
 </p>
@@ -40,6 +43,9 @@ the elderly to advocating for mental health awareness, students take purposeful
 action with empathy and care.</p>
 <p><a href="https://youtube.com/shorts/VsoayKsoIIs?feature=share" rel="noopener nofollow" target="_blank">LLP video link</a>
 </p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube-nocookie.com/embed/VsoayKsoIIs?si=jjDMU75Oh2TXD0n6"></iframe>
+</div>
 <p></p>
 <p><strong>STEM Programme: Igniting Curiosity and Innovation</strong>
 </p>
