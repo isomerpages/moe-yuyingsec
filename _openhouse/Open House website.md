@@ -40,7 +40,7 @@ solutions to address their needs. From promoting sustainability and supporting
 the elderly to advocating for mental health awareness, students take purposeful
 action with empathy and care.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/VsoayKsoIIs?si=MlyzZxNrnOt__m9B"></iframe>
+<iframe height="630" width="1120" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/VsoayKsoIIs?si=75EU2qwXp8zXriXT"></iframe>
 </div>
 <p></p>
 <p><strong>STEM Programme: Igniting Curiosity and Innovation</strong>
