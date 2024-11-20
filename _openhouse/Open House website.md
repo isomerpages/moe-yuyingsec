@@ -13,7 +13,7 @@ description: ""
 <h3>Virtual School Tour</h3>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="355" width="600" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/D6A0ThRn2HM?si=AoOxIM2cNF27wJBH"></iframe>
+<iframe height="710" width="1200" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/D6A0ThRn2HM?si=AoOxIM2cNF27wJBH"></iframe>
 </div>
 <p></p>
 <h3>Signature Programmes</h3>
@@ -26,10 +26,8 @@ students explore practical solutions for sustainability, such as reducing
 food waste in the canteen and repurposing soya bean pulp into innovative
 food products. These hands-on experiences nurture critical thinking, innovation,
 and resilience, equipping students to confidently face future challenges.</p>
-<p><a href="https://youtube.com/shorts/9LQZI2Qs1Ts?feature=share" rel="noopener nofollow" target="_blank">ALP video link</a>
-</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/9LQZI2Qs1Ts?si=6j3jhooUhQ3CVCRa"></iframe>
+<iframe height="630" width="1120" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/9LQZI2Qs1Ts?si=6j3jhooUhQ3CVCRa"></iframe>
 </div>
 <p></p>
 <p><strong>Learning for Life Programme (LLP): Yuying CARES</strong>
@@ -41,10 +39,8 @@ understand challenges faced by various communities, creating thoughtful
 solutions to address their needs. From promoting sustainability and supporting
 the elderly to advocating for mental health awareness, students take purposeful
 action with empathy and care.</p>
-<p><a href="https://youtube.com/shorts/VsoayKsoIIs?feature=share" rel="noopener nofollow" target="_blank">LLP video link</a>
-</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube-nocookie.com/embed/VsoayKsoIIs?si=jjDMU75Oh2TXD0n6"></iframe>
+<iframe height="630" width="1120" allowfullscreen="true" frameborder="0" src="https://www.youtube-nocookie.com/embed/VsoayKsoIIs?si=jjDMU75Oh2TXD0n6"></iframe>
 </div>
 <p></p>
 <p><strong>STEM Programme: Igniting Curiosity and Innovation</strong>
@@ -58,8 +54,9 @@ drones using Python, and delving into the potential of hydrogen fuel cells
 as a renewable energy source. These engaging experiences nurture creativity,
 problem-solving skills, and a future-ready mindset, preparing students
 to become leaders and innovators in a rapidly evolving world.</p>
-<p><a href="https://youtube.com/shorts/ivuL03fTwGs?feature=share" rel="noopener nofollow" target="_blank">STEM video link</a>
-</p>
+<div class="iframe-wrapper">
+<iframe height="630" width="1120" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ivuL03fTwGs?si=Z_lAOaIU9Xz8XgHg"></iframe>
+</div>
 <p></p>
 <p><strong>Student Leadership: Every Student a Leader</strong>
 </p>
@@ -69,8 +66,9 @@ Executive Committee roles, students develop confidence and take ownership
 of planning and organising exciting school events. These experiences nurture
 compassionate leaders who serve their communities with pride and purpose,
 equipping them with the skills to lead with confidence and empathy.</p>
-<p><a href="https://youtube.com/shorts/7a0EjWR26As?feature=share" rel="noopener nofollow" target="_blank">Leadership video link</a>
-</p>
+<div class="iframe-wrapper">
+<iframe height="630" width="1120" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7a0EjWR26As?si=-NKkYepOHmKbsIZZ"></iframe>
+</div>
 <p></p>
 <p><strong>Sustainability Education: Nurturing Environmental Stewards</strong>
 </p>
@@ -82,9 +80,9 @@ of reducing food waste to fostering a school-wide culture of recycling
 and mindful living, students gain hands-on experience in sustainability.
 Additionally, selected students collaborate with Dyson-NTU, applying design
 thinking to address environmental challenges with a focus on energy sustainability.</p>
-<p><a href="https://youtube.com/shorts/ar-TpDh-f-M?feature=share" rel="noopener nofollow" target="_blank">Sustainability video link</a>
-</p>
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="630" width="1120" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ar-TpDh-f-M?si=zZ4Wxx6us6XqXSmt"></iframe>
+</div>
 <h3>Frequently Asked Questions</h3>
 <p><a href="/files/Pdf/Open_House_FAQs.pdf" rel="noopener nofollow" target="_blank">Open House FAQs</a>
 </p>
