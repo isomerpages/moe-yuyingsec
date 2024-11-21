@@ -6,8 +6,8 @@ variant: markdown
 ---
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Vegetarian Food Stall     | 30 June 2024 | Rice or noodle stalls are acceptable.|
-| Malay Food Stall | 30 June 2024 | Rice or noodle stalls are acceptable.|
+| Vegetarian Food Stall     | 31 Dec 2024 | Rice or noodle stalls are acceptable.|
+| Malay Food Stall | 31 Dec 2024 | Rice or noodle stalls are acceptable.|
 
 **Application Procedure**
 
