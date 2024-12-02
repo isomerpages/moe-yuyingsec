@@ -2,6 +2,7 @@
 title: Contact Us
 permalink: /about-us/Contact-Us/
 description: ""
+variant: markdown
 ---
 Contact Us
 ==========
@@ -10,6 +11,8 @@ Contact Us
 
 
 Address: 47 Hougang Avenue 1 Singapore 538884  
+
+School Operating Hours: 730am - 530pm (Weekdays)
   
 Tel: (65) 6282 7968
 
