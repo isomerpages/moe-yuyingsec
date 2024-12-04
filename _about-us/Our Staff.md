@@ -41,8 +41,9 @@ Our Staff
 | Senior Teacher (Mathematics)                                  | Mdm Tan Lin              |
 | Senior Teacher (Physical Education)                           | Mr Lee Hock Joo          |
 | Senior Teacher (Physics)                                      | Mr Jameson Kang          |
-| Administration Manager                                        | Mr Jason Ong             |
-| Operations Manager                                          | Mr Michael Sim           |
+| Administration Manager 1                                       | Mr Jason Ong             |
+| Administration Manager 2                                      | Mdm Vernetta Chua             |
+| Operations Manager (Facilities)                                         | Mr Michael Sim           |
 
 
 [Form Teacher email contact for year 2024 (Semester 2)](/files/form_teacher_email_2024_T3_Copy.pdf)
