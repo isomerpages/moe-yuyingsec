@@ -39,7 +39,7 @@ to 2 p.m.) Closed on Sunday, Public Holiday and Sec 1 Registration week
 <h3>School Booklist / Stationery List</h3>
 <p>Please refer to the attached textbook list for more information</p>
 <h5><strong>Sec 1</strong></h5>
-<p><strong>Sec 1 Textbook list to be published later</strong>
+<p><a href="/files/Pdf/Uniforms and Textbooks/Sec_1_Textbook_list_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Textbook list 2025</a>
 </p>
 <h5><strong>Sec 2</strong></h5>
 <p><a href="/files/Pdf/Uniforms and Textbooks/Sec_2_Textbook_list_2025.pdf" rel="noopener nofollow" target="_blank">Sec 2 Textbook list 2025</a>
