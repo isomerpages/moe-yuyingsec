@@ -27,5 +27,5 @@ sections:
         - title: Keen to join us?
           description: ""
           linktext: Click here to access appeal form
-          url: ""
+          url: https://www.yuyingsec.moe.edu.sg/appeals-and-transfers/
 ---
