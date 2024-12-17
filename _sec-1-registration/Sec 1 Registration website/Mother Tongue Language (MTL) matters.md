@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Sec 1 Registration website
 ---
-<h3>Please note the following details about MTL matters:</h3>
+<h4>Please note the following details about MTL matters:</h4>
 <ol data-tight="true" class="tight">
 <li>
 <p><u>Higher Chinese Language</u> Lessons will be conducted in school during
