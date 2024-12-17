@@ -2,11 +2,11 @@ collections:
   sec-1-registration:
     output: true
     order:
-      - Sec 1 Registration/.keep
-      - Sec 1 Registration/Communication.md
-      - Sec 1 Registration/First Day of School.md
-      - Sec 1 Registration/Student Details.md
-      - Sec 1 Registration/Financial Assistance.md
-      - Sec 1 Registration/School uniform and textbooks.md
-      - Sec 1 Registration/Subject Based Banding (SBB) itle.md
-      - Sec 1 Registration/Mother Tongue Language (MTL) matters.md
+      - Sec 1 Registration website/.keep
+      - Sec 1 Registration website/Communication.md
+      - Sec 1 Registration website/First Day of School.md
+      - Sec 1 Registration website/Student Details.md
+      - Sec 1 Registration website/Financial Assistance.md
+      - Sec 1 Registration website/School uniform and textbooks.md
+      - Sec 1 Registration website/Subject Based Banding (SBB) itle.md
+      - Sec 1 Registration website/Mother Tongue Language (MTL) matters.md
