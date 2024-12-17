@@ -16,7 +16,7 @@ sections:
       title: 2025 Sec 1 Cohort Matters
       id: textcards
       cards:
-        - title: Sec 1 Registration
+        - title: Information for Sec One Students
           description: Important information for parents
           linktext: Learn more
           url: https://www.yuyingsec.moe.edu.sg/communication/
