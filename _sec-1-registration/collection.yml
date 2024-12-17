@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - First Day of School.md
+      - Sec 1 Registration/Communication.md
       - Sec 1 Registration/.keep
       - Sec 1 Registration/Student Details.md
       - Sec 1 Registration/Financial Assistance.md
