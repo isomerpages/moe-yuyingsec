@@ -22,4 +22,20 @@ sections:
       alt: Yuying Secondary Open house
       url: /open-house-website/
       button: Open House website
+  - textcards:
+      title: 2025 Sec 1 Cohort Matters
+      id: textcards
+      cards:
+        - title: Sec 1 Registration
+          description: Important information for parents
+          linktext: Learn more
+          url: ""
+        - title: Open House 2024
+          description: Missed our Open House?
+          linktext: Click here to find out more
+          url: ""
+        - title: Keen to join us?
+          description: ""
+          linktext: Click here to access appeal form
+          url: ""
 ---
