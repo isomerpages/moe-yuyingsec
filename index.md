@@ -29,11 +29,11 @@ sections:
         - title: Sec 1 Registration
           description: Important information for parents
           linktext: Learn more
-          url: ""
+          url: https://www.yuyingsec.moe.edu.sg/open-house-website/
         - title: Open House 2024
           description: Missed our Open House?
           linktext: Click here to find out more
-          url: ""
+          url: https://www.yuyingsec.moe.edu.sg/open-house-website/
         - title: Keen to join us?
           description: ""
           linktext: Click here to access appeal form
