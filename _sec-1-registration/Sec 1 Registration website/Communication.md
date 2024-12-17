@@ -296,3 +296,5 @@ Secondary School) for updates on the school’s activities.</p>
 </tbody>
 </table>
 <p></p>
+<p><a href="/files/Pdf/PG_letter_for_Sec_One_Parents.pdf" rel="noopener nofollow" target="_blank">PG letter for Sec One Parents</a>
+</p>
