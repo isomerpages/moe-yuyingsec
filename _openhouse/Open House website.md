@@ -4,11 +4,7 @@ permalink: /open-house-website/
 variant: tiptap
 description: ""
 ---
-<h3>Programme Guide</h3>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Programme Guide" src="/images/Images/2024_Open_House_Programme_Outline.png">
-</div>
+<h3></h3>
 <p></p>
 <h3>Virtual School Tour</h3>
 <p></p>
