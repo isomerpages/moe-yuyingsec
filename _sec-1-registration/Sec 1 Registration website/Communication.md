@@ -11,7 +11,7 @@ the call and would like to be contacted, please call the General Office
 at 62827968 so that your child’s/ ward’s Form Teachers can return your
 call.&nbsp;</p>
 <p>If there are any further queries, please do not hesitate to contact your
-child’s form teacher, the General Office or email us at yuying_ss@moe.edu.sg.
+child’s form teacher, the General Office or email us at <a href="yuying_ss@moe.edu.sg" rel="noopener nofollow" target="_blank">yuying_ss@moe.edu.sg</a>.
 The school will communicate with parents primarily via Parents Gateway
 (PG) going forward.</p>
 <p>Follow us on Instagram (@yuyingsecondaryschool) and Facebook (@Yuying
