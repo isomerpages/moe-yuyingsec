@@ -14,8 +14,8 @@ call.&nbsp;</p>
 child’s form teacher, the General Office or email us at <a href="yuying_ss@moe.edu.sg" rel="noopener nofollow" target="_blank">yuying_ss@moe.edu.sg</a>.
 The school will communicate with parents primarily via Parents Gateway
 (PG) going forward.</p>
-<p>Follow us on Instagram (@yuyingsecondaryschool) and Facebook (@Yuying
-Secondary School) for updates on the school’s activities.</p>
+<p>Follow us on Instagram <a href="https://www.instagram.com/yuying/hl=en" rel="noopener nofollow" target="_blank">https://www.instagram.com/yuying/hl=en</a>(@yuyingsecondaryschool)
+and Facebook (@Yuying Secondary School) for updates on the school’s activities.</p>
 <p></p>
 <p></p>
 <table style="minWidth: 100px">
