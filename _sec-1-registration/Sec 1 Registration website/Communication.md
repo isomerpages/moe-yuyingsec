@@ -11,11 +11,12 @@ the call and would like to be contacted, please call the General Office
 at 62827968 so that your child’s/ ward’s Form Teachers can return your
 call.&nbsp;</p>
 <p>If there are any further queries, please do not hesitate to contact your
-child’s form teacher, the General Office or email us at yuying_ss@moe.edu.sg.
+child’s form teacher, the General Office or email us at <a href="yuying_ss@moe.edu.sg" rel="noopener nofollow" target="_blank">yuying_ss@moe.edu.sg</a>.
 The school will communicate with parents primarily via Parents Gateway
 (PG) going forward.</p>
-<p>Follow us on Instagram (@yuyingsecondaryschool) and Facebook (@Yuying
-Secondary School) for updates on the school’s activities.</p>
+<p>Follow us on Instagram <a href="https://www.instagram.com/yuyingsecondaryschool/" rel="noopener nofollow" target="_blank">Yu Ying Secondary School Official Instagram website</a> and
+Facebook <a href="https://www.facebook.com/search/posts?q=yuying%20secondary%20school" rel="noopener nofollow" target="_blank">Yu Ying Secondary School Official Facebook website</a> for
+updates on the school’s activities.</p>
 <p></p>
 <p></p>
 <table style="minWidth: 100px">
@@ -41,19 +42,9 @@ Secondary School) for updates on the school’s activities.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
 <td rowspan="2" colspan="1">
-<p>1 Gratitude</p>
+<p><strong>1 Gratitude</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Ms Sarah Jane Lee</p>
@@ -73,13 +64,9 @@ Secondary School) for updates on the school’s activities.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="4">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
 <td rowspan="2" colspan="1">
-<p>1 Responsibility</p>
+<p><strong>1 Responsibility</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Mr Lee Mun Tat</p>
@@ -99,13 +86,9 @@ Secondary School) for updates on the school’s activities.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="4">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
 <td rowspan="2" colspan="1">
-<p>1 Adaptability</p>
+<p><strong>1 Adaptability</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Mdm Risliana</p>
@@ -125,13 +108,9 @@ Secondary School) for updates on the school’s activities.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="4">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
 <td rowspan="2" colspan="1">
-<p>1 Courage</p>
+<p><strong>1 Courage</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Mr Irsyaad Hasif</p>
@@ -151,13 +130,9 @@ Secondary School) for updates on the school’s activities.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="4">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
 <td rowspan="2" colspan="1">
-<p>1 Empathy</p>
+<p><strong>1 Empathy</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Ms Melanie Sim</p>
@@ -177,13 +152,9 @@ Secondary School) for updates on the school’s activities.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="4">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
 <td rowspan="2" colspan="1">
-<p>1 Fortitude</p>
+<p><strong>1 Fortitude</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Mr Desmond Pok</p>
@@ -203,13 +174,9 @@ Secondary School) for updates on the school’s activities.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="4">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
 <td rowspan="2" colspan="1">
-<p>1 Unity</p>
+<p><strong>1 Unity</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Mr Aaron Chan</p>
@@ -229,13 +196,9 @@ Secondary School) for updates on the school’s activities.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="4">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
 <td rowspan="2" colspan="1">
-<p>1 Leadership</p>
+<p><strong>1 Leadership</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Mr Gabriel Lim</p>
@@ -255,13 +218,9 @@ Secondary School) for updates on the school’s activities.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="4">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
 <td rowspan="2" colspan="1">
-<p>1 Synergy</p>
+<p><strong>1 Synergy</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Mdm Nor Jehan Raseede</p>
@@ -282,16 +241,34 @@ Secondary School) for updates on the school’s activities.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
-<p>Assistant Year Head</p>
+<p><strong>Assistant Year Head</strong>
+</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Ms Anu Priya Nair</p>
 </td>
 <td rowspan="1" colspan="2">
 <p><a rel="noopener noreferrer nofollow" target="_blank">anu_priya_nair_appukuttan@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
