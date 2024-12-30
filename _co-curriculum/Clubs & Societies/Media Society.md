@@ -3,13 +3,14 @@ title: Media Society
 permalink: /co-curriculum/Clubs-and-Societies/Media-Society/
 description: ""
 third_nav_title: Clubs & Societies
+variant: markdown
 ---
 ![](/images/CCA/Collage-club.jpg)
 
-Media Society
+InnoTech Club
 =============
 
-In Media Society, our members are introduced to the world of robotics as they learn the basics of building and programming autonomous robots using sensors. Working together to build an effective robot, they systematically test and refine programs to develop solutions to complete missions. At the same time, they also develop teamwork and effective communication skills which are useful in their future careers.&nbsp;
+At InnoTech Club, our members are introduced to the world of robotics as they learn the basics of building and programming autonomous robots using sensors. Working together to build an effective robot, they systematically test and refine programs to develop solutions to complete missions. At the same time, they also develop teamwork and effective communication skills which are useful in their future careers.&nbsp;
 
   
 
