@@ -28,8 +28,8 @@ Our Staff
 | Head of Department (Science)                                  | Mr Alvin Peh             |
 | Head of Department (Student Management)                                 | Ms Ng Li Rong            |
 | Head of Department (Student Well-Being)                                 | Mr Jeffrey Quek           |
-| Assistant Year Head (Sec 4 & 5)                         | Ms Anu Priya            |
-| Assistant Year Head (Sec 2)                         | Mr Kelvin Goh            |
+| Assistant Year Head (Lower Secondary)                         | Ms Anu Priya            |
+| Assistant Year Head (Upper Secondary)                         | Mr Kelvin Goh            |
 | Subject Head (Chinese Language)                               | Mr Koh Chee Keong        |
 | Subject Head (History)                                        | Ms Yee Sze Jia           |
 | Subject Head (Literature)                                     | Mrs Jaslyn Lim           |
@@ -145,4 +145,3 @@ Our Staff
 |                         | Mdm Tan Sook Hoon   | tan_sook_hoon@moe.edu.sg  |
 | Year Head   |      |                                                 |                                    | 
 |                         | Mr Eric Chew   | chew_tse_yong@moe.edu.sg  |
-
