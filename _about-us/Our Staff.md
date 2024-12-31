@@ -120,5 +120,27 @@ Our Staff
 | Assistant Year Head   |      |                                                 |                                    | 
 |                         | Mr Kelvin Goh   | goh_kelvin@moe.edu.sg  |
 
+
+### **Secondary 4
+
+|Class                | Form Teacher               | Email                                      |
+| --------           | --------                        | --------                                   |
+| 3 Gratitude     |  Mdm Esther Tay   | tay_hwee_kiang_esther@moe.edu.sg    |
+|                         | Mr Lee Hock Joo    | lee_hock_joo@moe.edu.sg     |
+| 3 Responsibility     |  Mr Leong Kah Hoong    | leong_kah_hoong@moe.edu.sg |
+|                         | Mdm Gao Xia    | gao_xia@moe.edu.sg     |
+| 3 Adaptability     |  Miss Zuraidah    | zuraidah_daud@moe.edu.sg   |
+|                         | Mr Jameson Kang   | kang_siak_chuan_jameson@moe.edu.sg    |
+| 3 Courage     | Mr Ahmadsallehin Zulkiflee   | ahmadsallehin_zulkiflee@moe.edu.sg   |
+|                         | Ms Lai Ai Fah    | lai_ai_fah@moe.edu.sg   |
+| 3 Empathy     | Ms Jasmine Koh    | koh_kai_min_jasmine@moe.edu.sg  |
+|                         | Mdm Lathamagesh     | lathamagesh_shatiannatham@moe.edu.sg   |
+| 3 Fortitude     | Mr Ang Eng Hong    | ang_eng_hong@moe.edu.sg   |
+|                         | Ms Candice Yong   | yong_jia_yun_candice@moe.edu.sg   |
+| 3 Unity     | Mr Rajesh William    | rajesh_william@moe.edu.sg   |
+|                     | Ms Ng Yun Xuan    | ng_yun_xuan@moe.edu.sg   |
+|                         | Ms Rabi'atul 'Adawiyah   | rabiatul_adawiyah_abd_wahid@moe.edu.sg  |
+| Assistant Year Head   |      |                                                 |                                    | 
+|                         | Mr Kelvin Goh   | goh_kelvin@moe.edu.sg  |
 **
 [Form Teacher email contact for year 2024 (Semester 2)](/files/form_teacher_email_2024_T3_Copy.pdf)
