@@ -93,7 +93,7 @@ Our Staff
 |                         | Mr Sandhu    | gulzar_gurdev_singh_sandhu@moe.edu.sg  |
 | 2 Leadership     | Mr Edmund Teo    | teo_huai_wei_edmund@moe.edu.sg |
 |                         | Mdm See Soo Shin    | see_soo_shin@moe.edu.sg   |
-| Assistant Year Head   |      |                                                 |                                    | 
+| Year Head   |      |                                                 |                                    | 
 |                         | Ms Linda Marie    | linda_marie@moe.edu.sg  |
 
 
@@ -102,24 +102,23 @@ Our Staff
 
 |Class                | Form Teacher               | Email                                      |
 | --------           | --------                        | --------                                   |
-| 2 Gratitude     |  Mdm Norhayati    | norhayati_md_rashid@moe.edu.sg    |
-|                         | Mr Tan Yurn Long    | tan_yurn_long@moe.edu.sg     |
-| 2 Responsibility     |  Mr Ong Beng Keong    | ong_beng_keong@moe.edu.sg  |
-|                         | Ms Hope Sng    | sng_ee_hui_hope@moe.edu.sg     |
-| 2 Adaptability     |  Mr Iskhandar    | iskhandar_abdul_talib@moe.edu.sg   |
-|                         | Mdm Seah Mei Ping   | seah_mei_ping@moe.edu.sg     |
-| 2 Courage     | Mdm Nisha   | nisha_omar_khan@moe.edu.sg   |
-|                         | Mrs Jaslyn Lim    | wong_jiexin_jaslyn@moe.edu.sg   |
-| 2 Empathy     | Mdm Tan Soon Lee    | tan_soon_lee@moe.edu.sg   |
-|                         | Mr Teo Chek Meng    | teo_chek_meng_a@moe.edu.sg   |
-| 2 Fortitude     | Miss Nur Syahirah    | nur_syahirah_mohamed_salim@moe.edu.sg   |
-|                         | Mr Seetoh Kok Leong   | seetoh_kok_leong@moe.edu.sg   |
-| 2 Unity     | Ms Lea Wong    | 	lea_wong_lay_yi@moe.edu.sg   |
-|                         | Mr Sandhu    | gulzar_gurdev_singh_sandhu@moe.edu.sg  |
-| 2 Leadership     | Mr Edmund Teo    | teo_huai_wei_edmund@moe.edu.sg |
-|                         | Mdm See Soo Shin    | see_soo_shin@moe.edu.sg   |
+| 3 Gratitude     |  Mdm Esther Tay   | tay_hwee_kiang_esther@moe.edu.sg    |
+|                         | Mr Lee Hock Joo    | lee_hock_joo@moe.edu.sg     |
+| 3 Responsibility     |  Mr Leong Kah Hoong    | leong_kah_hoong@moe.edu.sg |
+|                         | Mdm Gao Xia    | gao_xia@moe.edu.sg     |
+| 3 Adaptability     |  Miss Zuraidah    | zuraidah_daud@moe.edu.sg   |
+|                         | Mr Jameson Kang   | kang_siak_chuan_jameson@moe.edu.sg    |
+| 3 Courage     | Mr Ahmadsallehin Zulkiflee   | ahmadsallehin_zulkiflee@moe.edu.sg   |
+|                         | Ms Lai Ai Fah    | lai_ai_fah@moe.edu.sg   |
+| 3 Empathy     | Ms Jasmine Koh    | koh_kai_min_jasmine@moe.edu.sg  |
+|                         | Mdm Lathamagesh     | lathamagesh_shatiannatham@moe.edu.sg   |
+| 3 Fortitude     | Mr Ang Eng Hong    | ang_eng_hong@moe.edu.sg   |
+|                         | Ms Candice Yong   | yong_jia_yun_candice@moe.edu.sg   |
+| 3 Unity     | Mr Rajesh William    | rajesh_william@moe.edu.sg   |
+|                     | Ms Ng Yun Xuan    | ng_yun_xuan@moe.edu.sg   |
+|                         | Ms Rabi'atul 'Adawiyah   | rabiatul_adawiyah_abd_wahid@moe.edu.sg  |
 | Assistant Year Head   |      |                                                 |                                    | 
-|                         | Ms Linda Marie    | linda_marie@moe.edu.sg  |
+|                         | Mr Kelvin Goh   | goh_kelvin@moe.edu.sg  |
 
 **
 [Form Teacher email contact for year 2024 (Semester 2)](/files/form_teacher_email_2024_T3_Copy.pdf)
