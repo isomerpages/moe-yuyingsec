@@ -10,15 +10,17 @@ Principal's Message
 
 **Yuying Celebrates 115th Anniversary**
 
-&nbsp;_“Sow a thought and you reap an action;_
-
-_Sow an act and you reap a habit;_
-
-_Sow a habit and you reap a character;_
-
-_Sow a character and you reap a destiny.”_
-
+<p align="center">
+	“Sow a thought and you reap an action;
+</p><p align="center">
+Sow an act and you reap a habit;
+</p><p align="center">
+Sow a habit and you reap a character;
+</p><p align="center">
+Sow a character and you reap a destiny.”
+</p><p align="center">
 ―&nbsp;Ralph Waldo Emerson
+</p>	
 
 Yuying Secondary School had a great year last year. While the journey in 2024 was long and sometimes arduous, we are glad that the effort and time that staff and students sowed into the journey has enabled us to reap an immense sense of collective pride. Yuying demonstrated the ‘can do’ spirit – we rose above the challenges to deliver excellence. The beautiful sight of Yuying Concert Band and student dancers performing at the pre-parade segment of NDP2024 will forever be etched in Yuying’s collective memory. Looking back, we can be proud to declare that we have lived out our school motto - _Together, Achieve Personal Excellence._
 
@@ -36,6 +38,6 @@ As we celebrate our school’s 115th anniversary this year, we endeavour to draw
 
 We are keenly aware that we cannot walk this journey alone. We need strong support to uplift every Yuying Eagle to enable every child to be a **Lifelong Learner, Compassionate Leader, Enterprising Changemaker** and **Responsible Citizen**, anchored on the school values of **Integrity, Resilience, Respect** and **Responsibility**. I humbly invite all our valued parents and stakeholders to support and partner us as we continue our journey in _‘Honouring our Heritage, Innovating for the Future’_.
 
-***Soaring Higher Together***
+### ***Soaring Higher Together***
 <figure><img src="/images/Mr%20Chong%20JS.jpg" style="width:50%"><figcaption> Mr Chong Jack Sheng - 
 Principal</figcaption></figure>
