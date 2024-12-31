@@ -14,7 +14,7 @@ Our Staff
 | Vice-Principal                                              |   Mr Gabriel Cheong       |
 | Vice-Principal                                               |   Mr Ivin Chan       |
 | Vice-Principal (Admin)                                              |   Mrs Catherine Tan       |
-| School Staff Developer                                        | Ms Charmaine Tay         |
+| School Staff Developer                                        | Ms Sucillia Sukiman        |
 | Year Head (Upper Secondary)                                   | Mr Eric Chew           |
 | Year Head (Lower Secondary)                                   | Ms Linda Marie           |
 | Head of Department (Character & Citizenship Education)        | Mrs Loretta Goh          |
@@ -26,15 +26,16 @@ Our Staff
 | Head of Department (Mother Tongue Languages)                  | Mdm Yu Ya Ting           |
 | Head of Department (Physical Education & CCA)                 | Mr Lawrence Lim          |
 | Head of Department (Science)                                  | Mr Alvin Peh             |
+| Head of Department (Student Management)                                 | Ms Ng Li Rong            |
+| Head of Department (Student Well-Being)                                 | Mr Jeffrey Quek           |
 | Assistant Year Head (Sec 4 & 5)                         | Ms Anu Priya            |
 | Assistant Year Head (Sec 2)                         | Mr Kelvin Goh            |
-| Subject Head (Aesthetics)                                     | Ms Nur Izzati           |
-| Subject Head (Chemistry)                                      | Mrs Tan Ruiqi            |
 | Subject Head (Chinese Language)                               | Mr Koh Chee Keong        |
 | Subject Head (History)                                        | Ms Yee Sze Jia           |
 | Subject Head (Literature)                                     | Mrs Jaslyn Lim           |
-| Subject Head (Physical Education)                                 | Mdm Amy Wong            |
-| Subject Head (Student Management)                                 | Ms Ng Li Rong            |
+| Subject Head (Mathematics)                                     | Mdm Lathamagesh            |
+| Subject Head (Subject Head (Nutrition and Food Science)                                 | Ms Candice Yong            |
+| Subject Head (Subject Head (Learning Support - SEN)                                 | Mdm Absa Ummal            |
 | Senior Teacher (Chinese Language)                             | Mdm Gao Xia              |
 | Senior Teacher (Design & Technology)                          | Mrs Cindy Chan           |
 | Senior Teacher (English Language)                             | Ms Hope Sng              |
