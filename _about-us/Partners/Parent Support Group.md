@@ -28,13 +28,9 @@ Your involvement makes a difference!
 
 Visit us at our PSG Facebook Page to find out about the programmes and activities that we support the school in.
 
-https://www.facebook.com/YuyingPSG
 
-
+[https://www.facebook.com/YuyingPSG](https://www.facebook.com/YuyingPSG)
 
 Sign up today and play a key role in shaping our school community.
 
 Click on this URL to sign up for PSG: [https://docs.google.com/forms/d/e/1FAIpQLSdUkrWUAG3avZnZ0XIqVOKhS7dWIvXsIuGSPWHPKjJKQP5QOQ/viewform](https://docs.google.com/forms/d/e/1FAIpQLSdUkrWUAG3avZnZ0XIqVOKhS7dWIvXsIuGSPWHPKjJKQP5QOQ/viewform)
-
-
-
