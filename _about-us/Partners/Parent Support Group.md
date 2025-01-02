@@ -14,20 +14,19 @@ Parent Support Group
 ### Yuying Parent Group (PSG) 
 
 
-Become an integral part of our school community by joining the Parent Support Group (PSG)!
+Become an integral part of our school community by joining the PSG!
 
 As a PSG member, you’ll have the opportunity to:
 
-*   **Stay Connected** and be actively involved in your child’s educational journey
+*   **Stay connected** and be actively involved in your child’s educational journey
 
-*   **Make an Impact** by supporting school initiatives and contributing to a vibrant learning environment
+*   **Make an impact** by supporting school initiatives and contributing to a vibrant learning environment
 
-*   **Build Relationships** by networking with fellow parents and collaborating with teachers to enhance the school experience.
+*   **Build relationships** by networking with fellow parents and collaborating with teachers to enhance the school experience.
 
 Your involvement makes a difference!
 
-Visit us at our PSG Facebook Page to find out about the programmes and activities that we support the school in.
-
+Visit us at our PSG Facebook page to find out about the programmes and activities that we support the school in.
 
 [https://www.facebook.com/YuyingPSG](https://www.facebook.com/YuyingPSG)
 
