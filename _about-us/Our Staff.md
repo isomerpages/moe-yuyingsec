@@ -69,8 +69,7 @@ Our Staff
 |                         | Ms Wong Hiew Min    | wong_hiew_min@moe.edu.sg   |
 | 1 Synergy     | Mdm Nor Jehan Raseede    | nor_jehan_raseede@moe.edu.sg   |
 |                         | Mr Kwok Zhen Yuan    | kwok_zhen_yuan@moe.edu.sg   |
-| Assistant Year Head   |      |                                                 |                                    | 
-|                         | Ms Anu Priya    | anu_priya_nair_appukuttan@moe.edu.sg   |
+| Assistant Year Head   |  Ms Anu Priya    |  anu_priya_nair_appukuttan@moe.edu.sg                                              |                                    | 
 
 
 ### **Secondary 2
@@ -93,8 +92,8 @@ Our Staff
 |                         | Mr Sandhu    | gulzar_gurdev_singh_sandhu@moe.edu.sg  |
 | 2 Leadership     | Mr Edmund Teo    | teo_huai_wei_edmund@moe.edu.sg |
 |                         | Mdm See Soo Shin    | see_soo_shin@moe.edu.sg   |
-| Year Head   |      |                                                 |                                    | 
-|                         | Ms Linda Marie    | linda_marie@moe.edu.sg  |
+| Year Head   | Ms Linda Marie     |   linda_marie@moe.edu.sg                                               |                                    | 
+
 
 
 
@@ -117,8 +116,8 @@ Our Staff
 | 3 Unity     | Mr Rajesh William    | rajesh_william@moe.edu.sg   |
 |                     | Ms Ng Yun Xuan    | ng_yun_xuan@moe.edu.sg   |
 |                         | Ms Rabi'atul 'Adawiyah   | rabiatul_adawiyah_abd_wahid@moe.edu.sg  |
-| Assistant Year Head   |      |                                                 |                                    | 
-|                         | Mr Kelvin Goh   | goh_kelvin@moe.edu.sg  |
+| Assistant Year Head   | Mr Kelvin Goh     |   goh_kelvin@moe.edu.sg                                              |                                    | 
+
 
 
 ### **Secondary 4/5
@@ -143,5 +142,4 @@ Our Staff
 |                         | Mr Low Zhiyong   | low_zhiyong@moe.edu.sg |
 | 5 Gratitude     | Mr Vincent Lew    | lew_wei_sern_vincent@moe.edu.sg   |
 |                         | Mdm Tan Sook Hoon   | tan_sook_hoon@moe.edu.sg  |
-| Year Head   |      |                                                 |                                    | 
-|                         | Mr Eric Chew   | chew_tse_yong@moe.edu.sg  |
+| Year Head   | Mr Eric Chew     |  chew_tse_yong@moe.edu.sg                                               |                                    | 
