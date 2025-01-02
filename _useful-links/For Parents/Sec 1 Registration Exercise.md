@@ -6,7 +6,5 @@ description: ""
 third_nav_title: For Parents
 ---
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Site updates in progress" src="/images/Images/Updates_in_progress.jpg">
-</div>
-<p></p>
+<p><a href="https://www.yuyingsec.moe.edu.sg/communication/" rel="noopener nofollow" target="_blank">Information for Sec 1 students</a>
+</p>
