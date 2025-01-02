@@ -11,7 +11,7 @@ third_nav_title: Clubs & Societies
 </div>
 <p></p>
 <h1>Drama Club</h1>
-<p>================</p>
+<p></p>
 <p>Drama club aims to develop imaginative explorers with open hearts and
 minds. Our members learn to hone their communication skills as they engage
 in drama activities and immerse themselves in the imaginary world of stories.</p>
