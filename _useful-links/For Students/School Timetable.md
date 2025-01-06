@@ -5,7 +5,7 @@ description: ""
 third_nav_title: For Students
 variant: markdown
 ---
-Timetable Semester 2
+2025 Timetable 
 ===================
 
 ##### **Secondary 1**
@@ -25,4 +25,3 @@ Timetable Semester 2
 
 ##### **Secondary 4/5**
 [Secondary 4 and 5 Timetable](/files/Timetable%202025/Sec_4_and_5_Timetable.pdf)
-
