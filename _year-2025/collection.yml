@@ -2,4 +2,5 @@ collections:
   year-2025:
     output: true
     order:
+      - 2025 Semester 1 Timetablee.md
       - 2025 Week 1 Dismissal Timings.md
