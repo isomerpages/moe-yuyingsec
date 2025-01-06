@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p></p>
+<p>2025 Week 1 Dismissal Timings</p>
 <p><strong>6 Jan 2025</strong>
 </p>
 <table style="minWidth: 125px">
