@@ -29,8 +29,7 @@ sections:
           linktext: Click here to access appeal form
           url: https://www.yuyingsec.moe.edu.sg/appeals-and-transfers/
   - resources:
-      title: Resources
-      subtitle: Add a preview and link to your Resource Room
+      title: ANNOUNCEMENTS
       id: resources
       button: View All ANNOUNCEMENTS
 ---
