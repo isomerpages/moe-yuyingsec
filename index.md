@@ -12,22 +12,6 @@ sections:
       subtitle: Together, Achieve Personal Excellence
       background: /images/2024_Landing_Page.jpg
       variant: center
-  - textcards:
-      title: 2025 Sec 1 Cohort Matters
-      id: textcards
-      cards:
-        - title: Information for Sec One Students
-          description: Important information for parents
-          linktext: Learn more
-          url: https://www.yuyingsec.moe.edu.sg/communication/
-        - title: Open House 2024
-          description: Missed our Open House?
-          linktext: Click here to find out more
-          url: https://www.yuyingsec.moe.edu.sg/open-house-website/
-        - title: Keen to join us?
-          description: ""
-          linktext: Click here to access appeal form
-          url: https://www.yuyingsec.moe.edu.sg/appeals-and-transfers/
   - resources:
       title: ANNOUNCEMENTS
       id: resources
