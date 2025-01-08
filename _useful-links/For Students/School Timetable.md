@@ -9,19 +9,23 @@ variant: markdown
 ===================
 
 ##### **Secondary 1**
-[Secondary 1 Timetable](/files/Timetable%202025/Sec_1_Timetable.pdf)
+
+[Sec 1 Timetable](/files/Timetable%202025/Sec_1_Timetable_2025.pdf)
 
 
 
 ##### **Secondary 2**
-[Secondary 2 Timetable](/files/Timetable%202025/Sec_2_Timetable.pdf)
+
+[Sec 2 Timetable](/files/Timetable%202025/Sec_2_Timetable_2025.pdf)
 
 
 
 ##### **Secondary 3**
-[Secondary 3 Timetable](/files/Timetable%202025/Sec_3_Timetable.pdf)
+
+[Sec 3 Timetable](/files/Timetable%202025/Sec_3_Timetable_2025.pdf)
 
 
 
 ##### **Secondary 4/5**
-[Secondary 4 and 5 Timetable](/files/Timetable%202025/Sec_4_and_5_Timetable.pdf)
+
+[Sec 4/5 Timetable](/files/Timetable%202025/Sec_4_and_5_Timetable_2025.pdf)

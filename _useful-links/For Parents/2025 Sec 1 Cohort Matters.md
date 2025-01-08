@@ -1,5 +1,5 @@
 ---
-title: Communication
+title: 2025 Sec 1 Cohort Matters
 permalink: /communication/
 variant: tiptap
 description: ""
