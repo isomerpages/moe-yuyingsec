@@ -2,7 +2,6 @@ collections:
   co-curriculum:
     output: true
     order:
-      - Physical Sports/Water Polo.md
       - Physical Sports/Athletics.md
       - Physical Sports/Canoeing.md
       - Physical Sports/.keep
