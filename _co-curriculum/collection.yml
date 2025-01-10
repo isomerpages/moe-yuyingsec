@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Physical Sports/CANOEING.md
       - Physical Sports/.keep
       - Physical Sports/Badminton (Boys).md
       - Physical Sports/Basketball (Boys).md
