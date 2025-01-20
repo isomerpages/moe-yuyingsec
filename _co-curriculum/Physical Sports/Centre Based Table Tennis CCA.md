@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Physical Sports
 ---
+<h1><strong>Centre Based Table Tennis CCA</strong></h1>
 <p>The Centre-Based Table Tennis CCA is a collaboration among four schools:
 Yuying Secondary School, Bartley Secondary School, Peicai Secondary School,
 and St. Gabriel’s Secondary School.</p>
