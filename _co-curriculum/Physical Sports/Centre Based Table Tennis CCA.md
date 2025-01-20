@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Physical Sports
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Collage Sport" src="/images/CCA/Collage-sport.jpg">
+</div>
 <h1><strong>Centre Based Table Tennis CCA</strong></h1>
 <p>The Centre-Based Table Tennis CCA is a collaboration among four schools:
 Yuying Secondary School, Bartley Secondary School, Peicai Secondary School,
