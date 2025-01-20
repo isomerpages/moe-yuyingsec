@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Clubs & Societies
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Collage Club" src="/images/CCA/Collage-club.jpg">
+</div>
 <h2>Eco EAGLES</h2>
 <p>The Eco EAGLES CCA at Yuying Secondary School is dedicated to developing <em>enterprising, adaptable, and gracious leaders of the future</em> through
 the lens of sustainability. By fostering a spirit of innovation and advocacy,
