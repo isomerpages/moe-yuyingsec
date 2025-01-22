@@ -34,8 +34,8 @@ Our Staff
 | Subject Head (History)                                        | Ms Yee Sze Jia           |
 | Subject Head (Literature)                                     | Mrs Jaslyn Lim           |
 | Subject Head (Mathematics)                                     | Mdm Lathamagesh            |
-| Subject Head (Subject Head (Nutrition and Food Science)                                 | Ms Candice Yong            |
-| Subject Head (Subject Head (Learning Support - SEN)                                 | Mdm Absa Ummal            |
+| Subject Head (Nutrition and Food Science)                                 | Ms Candice Yong            |
+| Subject Head (Learning Support - SEN)                                 | Mdm Absa Ummal            |
 | Senior Teacher (Chinese Language)                             | Mdm Gao Xia              |
 | Senior Teacher (Design & Technology)                          | Mrs Cindy Chan           |
 | Senior Teacher (English Language)                             | Ms Hope Sng              |
@@ -142,4 +142,4 @@ Our Staff
 |                         | Mr Low Zhiyong   | low_zhiyong@moe.edu.sg |
 | 5 Gratitude     | Mr Vincent Lew    | lew_wei_sern_vincent@moe.edu.sg   |
 |                         | Mdm Tan Sook Hoon   | tan_sook_hoon@moe.edu.sg  |
-| Year Head   | Mr Eric Chew     |  chew_tse_yong@moe.edu.sg                                               |                                    | 
+| Year Head   | Mr Eric Chew     |  chew_tse_yong@moe.edu.sg                                               |                                    |
