@@ -11,7 +11,7 @@ variant: markdown
 
 1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd) in schools aims to enable students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships with others, including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
 
-2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The **Goals** of Sexuality Education are to:
+2.&nbsp; The **Goals** of Sexuality Education are to:
 
 (a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support students in managing their physiological, social and emotional changes as they grow up and develop safe and healthy relationships.
 
@@ -50,9 +50,18 @@ b.&nbsp;&nbsp;&nbsp; Character and Citizenship Education (CCE)
 
 7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
 
- 
 
-**At Yuying Secondary School, the following Sexuality Education lessons will be taught in 2024:**
+
+**_eTeens_** **Programme**:
+
+1.    _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
+
+2.    Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages.
+
+
+**At Yuying Secondary School, the **_eTeens_** **programme will be implemented as follows in 2025:****
+
+
 ![SecondaryOne](/images/SecondaryOne.jpg)
 ![SecondaryOneA](/images/SecondaryOneA.jpg)
 ![SecondaryOneB](/images/SecondaryOneB.jpg)
@@ -83,7 +92,7 @@ At Yuying Secondary School, the eTeens programme will be implemented as follows 
 ![eTeens](/images/eTeens.jpg)
 
 **Information for Parents**
-         <!-- /\* Font Definitions \*/ @font-face {font-family:SimSun; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-alt:宋体; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:515 680460288 22 0 262145 0;} @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} @font-face {font-family:"\\@SimSun"; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:515 680460288 22 0 262145 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin:0in; mso-pagination:widow-orphan; font-size:12.0pt; font-family:"Times New Roman",serif; mso-fareast-font-family:SimSun; mso-ansi-language:EN-GB; mso-bidi-language:AR-SA;} a:link, span.MsoHyperlink {mso-style-unhide:no; mso-style-parent:""; color:blue; text-decoration:underline; text-underline:single;} a:visited, span.MsoHyperlinkFollowed {mso-style-noshow:yes; mso-style-priority:99; color:#954F72; mso-themecolor:followedhyperlink; text-decoration:underline; text-underline:single;} p {mso-style-unhide:no; mso-style-link:"Normal \\(Web\\) Char"; mso-margin-top-alt:auto; margin-right:0in; mso-margin-bottom-alt:auto; margin-left:0in; mso-pagination:widow-orphan; font-size:12.0pt; font-family:"Times New Roman",serif; mso-fareast-font-family:SimSun; mso-ansi-language:EN-GB; mso-bidi-language:AR-SA;} span.NormalWebChar {mso-style-name:"Normal \\(Web\\) Char"; mso-style-unhide:no; mso-style-locked:yes; mso-style-parent:""; mso-style-link:"Normal \\(Web\\)"; mso-ansi-font-size:12.0pt; mso-bidi-font-size:12.0pt; mso-ansi-language:EN-GB; mso-fareast-language:ZH-CN;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-size:10.0pt; mso-ansi-font-size:10.0pt; mso-bidi-font-size:10.0pt; mso-fareast-font-family:SimSun; mso-font-kerning:0pt; mso-ligatures:none; mso-ansi-language:EN-SG; mso-fareast-language:EN-SG; mso-bidi-language:AR-SA;} @page WordSection1 {size:595.45pt 841.7pt; margin:1.0in 1.0in 1.0in 1.0in; mso-header-margin:.5in; mso-footer-margin:.5in; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} @page WordSection2 {size:8.5in 11.0in; margin:1.0in 1.0in 1.0in 1.0in; mso-header-margin:.5in; mso-footer-margin:.5in; mso-paper-source:0;} div.WordSection2 {page:WordSection2;} -->
+         
 
 10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
 
