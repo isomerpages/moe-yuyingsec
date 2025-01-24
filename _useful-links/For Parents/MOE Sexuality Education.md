@@ -54,50 +54,27 @@ b.&nbsp;&nbsp;&nbsp; Character and Citizenship Education (CCE)
 
 **_eTeens_** **Programme**:
 
-1.    _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
+8.&nbsp;&nbsp;&nbsp;    _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
 
-2.    Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages.
+9.&nbsp;&nbsp;&nbsp;    Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages.
 
 
 **At Yuying Secondary School, the **_eTeens_** **programme will be implemented as follows in 2025:****
 
-
-![SecondaryOne](/images/SecondaryOne.jpg)
-![SecondaryOneA](/images/SecondaryOneA.jpg)
-![SecondaryOneB](/images/SecondaryOneB.jpg)
-
-![SecondaryTwo](/images/SecondaryTwo.jpg)
-![SecondaryTwoA](/images/SecondaryTwoA.jpg)
-![SecondaryTwoB](/images/SecondaryTwoB.jpg)
-
-![SecondaryThree](/images/SecondaryThree.jpg)
-![SecondaryThreeA](/images/SecondaryThreeA.jpg)
-
-![SecondaryFour](/images/SecondaryFour.jpg)
-![SecondaryFourA](/images/SecondaryFourA.jpg)
-![SecondaryFourB](/images/SecondaryFourB.jpg)
-
-![SecondaryFive](/images/SecondaryFive.jpg)
+![eTeens Programme](/images/eTeens_Programme.jpg)
 
 
 
-**eTeens** **Programme**:
-
-8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
-
-9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages.
-
-
-At Yuying Secondary School, the eTeens programme will be implemented as follows in 2024:
-![eTeens](/images/eTeens.jpg)
 
 **Information for Parents**
-         
 
-10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
+10.&nbsp;&nbsp;&nbsp;    Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [Sex_Ed_Opt_Out_Form.pdf](/files/Pdf/Sex_Ed_Opt_Out_Form.pdf) .The completed form is to be submitted by **23/02/2024** to your child/ward’s Form Teacher.
+11.&nbsp;&nbsp;&nbsp;    Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](file:///C:/Users/s8331683g/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/2SUWTUTD/Sex%20Ed%20Opt%20Out%20Form.pdf). The completed form is to be submitted by 21/02/205.
 
-12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [eTeens_Opt_Out_Form.pdf](/files/Pdf/eTeens_Opt_Out_Form.pdf). The completed form is to be submitted by **23/02/2024** to your child/ward’s Form Teacher.
+12.&nbsp;&nbsp;&nbsp;    Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](file:///C:/Users/s8331683g/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/2SUWTUTD/eTeens%20Opt%20Out%20Form.pdf). The completed form is to be submitted by 21/02/2025.
 
-13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at **yuying\_ss@moe.edu.sg or call 62827968** for discussion or to seek clarification about the school’s Sexuality Education programme.
+13.&nbsp;&nbsp;&nbsp;    Parents can contact the school at **yuying\_ss@moe.edu.sg** or call **62827968** for discussion or to seek clarification about the school’s Sexuality Education programme.
+
+**Please see document attached for details of the 2025 Sexuality Education lessons for Secondary 1 to 5.**
+
