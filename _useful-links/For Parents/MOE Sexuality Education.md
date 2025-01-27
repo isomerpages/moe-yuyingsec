@@ -70,11 +70,11 @@ b.&nbsp;&nbsp;&nbsp; Character and Citizenship Education (CCE)
 
 10.&nbsp;&nbsp;&nbsp;    Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-11.&nbsp;&nbsp;&nbsp;    Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](file:///C:/Users/s8331683g/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/2SUWTUTD/Sex%20Ed%20Opt%20Out%20Form.pdf). The completed form is to be submitted by 21/02/2025.
+11.&nbsp;&nbsp;&nbsp;    Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](/files/Pdf/Sex_Ed_Opt_Out_Form.pdf). The completed form is to be submitted by 21/02/2025.
 
-12.&nbsp;&nbsp;&nbsp;    Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](file:///C:/Users/s8331683g/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/2SUWTUTD/eTeens%20Opt%20Out%20Form.pdf). The completed form is to be submitted by 21/02/2025.
+12.&nbsp;&nbsp;&nbsp;    Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](/files/Pdf/eTeens_Opt_Out_Form.pdf). The completed form is to be submitted by 21/02/2025.
 
-13.&nbsp;&nbsp;&nbsp;    Parents can contact the school at **yuying\_ss@moe.edu.sg** or call **62827968** for discussion or to seek clarification about the school’s Sexuality Education programme.
+13.&nbsp;&nbsp;&nbsp;    Parents can contact the school at **yuying_ss@moe.edu.sg** or call **62827968** for discussion or to seek clarification about the school’s Sexuality Education programme.
 
 #### **Please see document attached for details of the 2025 Sexuality Education lessons for Sec 1 to 5.**
 
