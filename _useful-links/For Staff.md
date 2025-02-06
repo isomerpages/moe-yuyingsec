@@ -7,7 +7,6 @@ variant: markdown
 For Staff
 =========
 
-[YYSS Staff Professional Development](https://sites.google.com/moe.edu.sg/yyss-professional-learning-com/home?pli=1&authuser=1)  
 
 [Room Booking System](https://rbs.avero-tech.com/)
 
