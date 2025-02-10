@@ -4,7 +4,7 @@ permalink: /privacy/
 variant: tiptap
 description: ""
 ---
-<h1><strong>YUYING SECONDARY SCHOOL PRIVACY STATEMENT</strong></h1>
+<h2><strong>YUYING SECONDARY SCHOOL PRIVACY STATEMENT</strong></h2>
 <p><strong>&nbsp;</strong>
 </p>
 <p>1.&nbsp; This is a Yuying Secondary School website. Thank you for examining
