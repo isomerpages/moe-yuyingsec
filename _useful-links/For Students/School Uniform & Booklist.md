@@ -78,7 +78,7 @@ $10 delivery charge and you will be required to create an online account</p>
 <p>Blouse/Shirt</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1</p>
+<p>2</p>
 </td>
 </tr>
 <tr>
