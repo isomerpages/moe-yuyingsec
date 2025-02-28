@@ -52,3 +52,68 @@ p.m. to 2 p.m.)</p>
 <p>Online sale url: <a href="https://shop.shanghai-uniforms.com/product-category/yuying-secondary-school/" rel="noopener noreferrer nofollow" target="_blank">https://shop.shanghai-uniforms.com/product-category/yuying-secondary-school/</a> with
 $10 delivery charge and you will be required to create an online account</p>
 <p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>S/N</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Items</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Recommended Number to purchase</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blouse/Shirt</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Skirt/Pant</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PE T-shirts/Shorts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jacket (Optional)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
