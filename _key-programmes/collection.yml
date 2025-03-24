@@ -2,9 +2,9 @@ collections:
   key-programmes:
     output: true
     order:
-      - STEM.md
-      - Talent Development.md
-      - Sustainability Education.md
       - Learning for Life Programme.md
       - Applied Learning Programme.md
       - Student Leadership.md
+      - Sustainability Education.md
+      - Talent Development.md
+      - STEM.md
