@@ -25,3 +25,7 @@ meaningful contributions to their communities.​</p>
 <p>Through these programmes, Yuying Secondary School strives to provide a
 holistic education that prepares students to excel in their future endeavors
 and make a positive impact on society.</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/zvqNMuiS_2Q?si=00d5FQvJ5YemQm7G"></iframe>
+</div>
+<p></p>
