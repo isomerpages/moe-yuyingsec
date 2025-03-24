@@ -1,0 +1,5 @@
+collections:
+  to-be-deleted:
+    output: true
+    order:
+      - Teacher's Day 2024.md
