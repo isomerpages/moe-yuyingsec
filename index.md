@@ -10,7 +10,7 @@ sections:
       url: https://drive.google.com/file/d/1NIo5JDhaGPlSbtvFZ1hNmJVeLzvrqsmo/view?usp=share_link
       title: SOARING HIGHER TOGETHER
       subtitle: Together, Achieve Personal Excellence
-      background: /images/2024_Landing_Page.jpg
+      background: /images/115.gif
       variant: center
   - resources:
       title: ANNOUNCEMENTS
