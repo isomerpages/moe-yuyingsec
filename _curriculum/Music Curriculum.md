@@ -2,12 +2,13 @@
 title: Music Curriculum
 permalink: /curriculum/Music-Curriculum/
 description: ""
+variant: markdown
 ---
-Music Curriculum
+Music
 ================
 <figure><img src="/images/Musicc1.jpeg" style="width:75%"><figcaption> Secondary One students learning basic ukulele chords</figcaption></figure> 
 
-Yuying Secondary School provides a two-year music curriculum that is specially designed to fulfill the aims of the General Music Programme and to meet the needs of our students. It is also aligned to the school’s Aesthetic Education Programme, where music is seen as an integral part of students’ lives. We believe that every child should be given the opportunity to develop his/her potential for creativity and expression through music education in school. 
+Yuying Secondary School provides a two-year music curriculum that is specially designed to fulfill the aims of the General Music Programme and to meet the needs of our students. It is also aligned to the school’s Aesthetic Education Programme, where music is seen as an integral part of students’ lives. We believe that every child should be given the opportunity to develop his/her potential for creativity and expression through music education in school.&nbsp;
 
   
 
