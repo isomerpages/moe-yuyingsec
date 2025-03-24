@@ -2,6 +2,7 @@ collections:
   key-programmes:
     output: true
     order:
+      - Sustainability Education.md
       - Learning for Life Programme.md
       - Applied Learning Programme.md
       - Student Leadership.md
