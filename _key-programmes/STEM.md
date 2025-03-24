@@ -15,3 +15,7 @@ drones using Python, and delving into the potential of hydrogen fuel cells
 as a renewable energy source. These engaging experiences nurture creativity,
 problem-solving skills, and a future-ready mindset, preparing students
 to become leaders and innovators in a rapidly evolving world.</p>
+<div class="iframe-wrapper">
+<iframe height="630" width="1120" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ivuL03fTwGs?si=Z_lAOaIU9Xz8XgHg"></iframe>
+</div>
+<p></p>
