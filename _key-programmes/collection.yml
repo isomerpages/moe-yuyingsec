@@ -2,6 +2,7 @@ collections:
   key-programmes:
     output: true
     order:
+      - Talent Development.md
       - Sustainability Education.md
       - Learning for Life Programme.md
       - Applied Learning Programme.md
