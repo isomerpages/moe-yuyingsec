@@ -2,6 +2,7 @@ collections:
   key-programmes:
     output: true
     order:
+      - STEM.md
       - Talent Development.md
       - Sustainability Education.md
       - Learning for Life Programme.md
