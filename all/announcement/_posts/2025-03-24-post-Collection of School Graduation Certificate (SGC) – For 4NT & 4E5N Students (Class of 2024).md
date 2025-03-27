@@ -13,7 +13,7 @@ variant: tiptap
 <p>Your School Graduation Certificate (SGC) is now ready for collection at
 the Yuying Secondary School General Office.</p>
 <p>&nbsp;Date: From 24 March 2025
-<br>Time: 9:00 AM to 3:00 PM
+<br>Time: 1:00 PM to 4:00 PM
 <br>Location: Yuying Secondary School General Office</p>
 <p></p>
 <p>Please bring along your Student ID or NRIC for verification purposes.</p>
