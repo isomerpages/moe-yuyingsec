@@ -12,21 +12,21 @@ variant: markdown
 
 At Yuying, we inspire.&nbsp;
  
-Our students, the Eagles, are nurtured to be **Enterprising, Adaptable, Gracious, and Leaders of the Future** through a transformative learning experience that blends **deep learning, well-being, and resilience.
-**
+Our students, the Eagles, are nurtured to be **Enterprising, Adaptable, Gracious, and Leaders of the Future** through a transformative learning experience that blends **deep learning, well-being, and resilience.**
+
 ### Why Choose Yuying?
 
-*   Signature "Yuying Changemakers" Programme    
+*   **Signature "Yuying Changemakers" Programme**    
 Unlock your potential with our talent development initiatives, designed to cultivate self-directed leaders and skilful practitioners in your field of passion and strength.
 
   
 
-*   Holistic Growth  
+*   **Holistic Growth**  
 We foster curiosity, empathy, and resilience to empower students to thrive in an ever-changing world.
 
   
 
-*   Strong Parent-School Partnership
+*   **Strong Parent-School Partnership**
     Together, we build a foundation for lifelong success for our Yuying Changemakers - you.
 
 ### Calling All Visionary Students!
