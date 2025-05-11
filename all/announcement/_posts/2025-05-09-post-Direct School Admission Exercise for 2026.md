@@ -296,8 +296,8 @@ System for Secondary Schools (PSSS).</p>
 are successful in the DSA-Sec are NOT allowed to participate in the S1
 Posting and NOT allowed to transfer to another school after the release
 of the PSLE results. However, if they are eligible for third language and/or
-Posting Group options8, they may enter these options during the School
-Choice Submission period via the S1 Posting Portal.</p>
+Posting Group options, they may enter these options during the School Choice
+Submission period via the S1 Posting Portal.</p>
 <p><strong>Unsuccessful DSA-Sec Students</strong>. Students who are unsuccessful
 in the DSA-Sec will be notified to participate in the S1 Posting to submit
 school choices.</p>
