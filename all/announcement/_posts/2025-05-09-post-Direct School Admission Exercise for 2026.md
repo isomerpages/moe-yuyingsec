@@ -197,8 +197,9 @@ or&nbsp;</p>
 an offer.</p>
 <h4><strong>Key Dates</strong></h4>
 <p></p>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -212,6 +213,9 @@ an offer.</p>
 <p><strong>Processes</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -223,6 +227,9 @@ this timing is a system cut-off)</p>
 <p>Applicants can apply for DSA-Sec through the centralised online MOE-Sec
 Portal @ <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/dsa-sec</u></a>.
 The application is free-of-charge.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -238,6 +245,9 @@ your child has been shortlisted to undergo Direct School Admission (DSA)
 selection.</p>
 <p>All applicants will be informed of the outcome via an email or letter
 from the school (stating Confirmed Offer, Wait List or Unsuccessful).</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -261,11 +271,17 @@ who wish to accept the SSP offer should not submit their DSA-Sec school
 preferences. If they do so, their earlier SSP offer will be voided. Students
 who wish to accept the SSP offer will need to take part in the S1 Posting.</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Late Nov</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>DSA Result Release</strong>
@@ -280,13 +296,11 @@ System for Secondary Schools (PSSS).</p>
 are successful in the DSA-Sec are NOT allowed to participate in the S1
 Posting and NOT allowed to transfer to another school after the release
 of the PSLE results. However, if they are eligible for third language and/or
-Posting Group options8, they may enter these options during the School
-Choice Submission period via the S1 Posting Portal.</p>
+Posting Group options, they may enter these options during the School Choice
+Submission period via the S1 Posting Portal.</p>
 <p><strong>Unsuccessful DSA-Sec Students</strong>. Students who are unsuccessful
 in the DSA-Sec will be notified to participate in the S1 Posting to submit
-school choices. Schools should NOT give a false impression to unsuccessful
-DSA-Sec students that they will be able to transfer to the school on a
-discretionary basis after</p>
+school choices.</p>
 </td>
 </tr>
 </tbody>
