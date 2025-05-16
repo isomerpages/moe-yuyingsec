@@ -1,6 +1,6 @@
 ---
 title: Direct School Admission
-permalink: /useful-links/dsa/
+permalink: /direct-school-admission-exercise-for-2026/
 description: DSA
 variant: tiptap
 ---
