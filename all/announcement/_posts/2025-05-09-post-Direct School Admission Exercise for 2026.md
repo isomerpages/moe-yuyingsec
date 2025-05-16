@@ -289,9 +289,7 @@ who wish to accept the SSP offer will need to take part in the S1 Posting.</p>
 <p>Students studying in MOE mainstream primary schools will receive their
 DSA-Sec results together with their PSLE results by end-Nov. Students who
 are not studying in MOE mainstream primary schools will receive their DSA-Sec
-results from PPSB via email. Secondary schools will be able to download
-the list of successful DSA-Sec students allocated to them using the Placement
-System for Secondary Schools (PSSS).</p>
+results via email.</p>
 <p><strong>Successful DSA-Sec Students</strong>. Students who took PSLE and
 are successful in the DSA-Sec are NOT allowed to participate in the S1
 Posting and NOT allowed to transfer to another school after the release
