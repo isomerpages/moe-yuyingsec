@@ -64,13 +64,17 @@ Click the Chrome menu on the browser toolbar.
 If you are still facing a hardware issue with your Chromebook, inform your Form Teacher so the teacher can arrange an appointment with the IT department for them to troubleshoot.
 
 
+**Q5 - I will like to change the DMA Settings on my child's PLD**
+
+Any changes to Parent Option will have to be requested through the school or form teacher via email.
+
+
 **Useful tips.**
 
 How to copy and paste on a Chromebook
 
 The simple and easy answer is ctrl + c to copy and ctrl + v to paste. But there’s so much more to “copy and paste” on a Chromebook that you’ll want to read on for more details..
 
-  
 
 How to take a screenshot on a Chromebook
 
