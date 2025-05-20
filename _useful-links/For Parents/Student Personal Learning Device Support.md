@@ -3,9 +3,24 @@ title: Student Personal Learning Device Support
 permalink: /yyss/Student-Personal-Learning-Device-Support/
 description: ""
 third_nav_title: For Parents
+variant: markdown
 ---
 Student Personal Learning Device Support
 ========================================
+
+<b>National Digital Literacy Programme (NDLP)</b>
+
+The National Digital Literacy Programme (NDLP) for our schools and Institutes of Higher Learning to help students strengthen their digital literacy was launched at the MOE’s Committee of Supply Debate in March 2020. One of the components of the NDLP is the introduction of the Personalised Digital Learning Programme (PDLP) for all secondary school students, whereby every secondary school student will own a school-prescribed Personal Learning Device (PLD) by end-2021.
+
+[Parent Engagement Deck](/files/IP1_Chromebook____Parent_Engagement_Deck_2025.pdf)
+
+[Parent Handbook 1](/files/IP2___Parent_Handbook__I__2025.pdf)
+
+
+[Parent Handbook 2](/files/IP3___Parent_Handbook__II__2025.pdf)
+
+[FAQs on the Personal Learning Device](/files/PDLP2024/FAQs_on_the_Personal_Learning_Device_YYSS_.pdf)
+
 
 Basic troubleshooting guide  
   
@@ -22,21 +37,21 @@ A2 - All software request is via teacher only. It will be pushed down to your Ch
 
   
 
-**Q3 - If your Chromebook isn’t charging, or not turning on, please check the following items:** 
+**Q3 - If your Chromebook isn’t charging, or not turning on, please check the following items:**&nbsp;
 
-A3 - Check all power connections. Remove any power strips and surge protectors then connect the ac power adapter directly to the ac power outlet. 
+A3 - Check all power connections. Remove any power strips and surge protectors then connect the ac power adapter directly to the ac power outlet.&nbsp;
 
   
 
-Inspect the AC power adapter. Check for any physical damage, and make sure that the power cable is firmly attached to the adapter brick and to the Chromebook. 
+Inspect the AC power adapter. Check for any physical damage, and make sure that the power cable is firmly attached to the adapter brick and to the Chromebook.&nbsp;
 
-Verify the AC power source is working by something else into the outlet, like a lamp or phone 
+Verify the AC power source is working by something else into the outlet, like a lamp or phone&nbsp;
 
   
 
 **Q4 - My Chromebook is very slow and sluggish**
 
-A4 - Delete all browsing history (clears cache and cookies - great for fixing errors with website)
+A4 -&nbsp;Delete all browsing history (clears cache and cookies - great for fixing errors with&nbsp;website)
 
 Click the Chrome menu on the browser toolbar.
 
