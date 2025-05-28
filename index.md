@@ -16,10 +16,6 @@ sections:
         - title: The Yuying Experience
           description: The Yuying Experience
           url: https://www.youtube.com/watch?v=GXVRZIA37LA
-  - resources:
-      title: ANNOUNCEMENTS
-      id: resources
-      button: View All ANNOUNCEMENTS
   - infopic:
       id: infopic
       description: The Yuying Experience
@@ -27,4 +23,8 @@ sections:
       url: https://www.youtube.com/watch?v=GXVRZIA37LA
       image: /images/yyexperience.png
       alt: Image alt text
+  - resources:
+      title: ANNOUNCEMENTS
+      id: resources
+      button: View All ANNOUNCEMENTS
 ---
