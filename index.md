@@ -12,6 +12,10 @@ sections:
       subtitle: Together, Achieve Personal Excellence
       background: /images/115.gif
       variant: center
+      key_highlights:
+        - title: The Yuying Experience
+          description: The Yuying Experience
+          url: https://www.youtube.com/watch?v=GXVRZIA37LA
   - resources:
       title: ANNOUNCEMENTS
       id: resources
