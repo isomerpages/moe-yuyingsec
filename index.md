@@ -12,17 +12,13 @@ sections:
       subtitle: Together, Achieve Personal Excellence
       background: /images/115.gif
       variant: center
-      key_highlights:
-        - title: The Yuying Experience
-          description: The Yuying Experience
-          url: https://www.youtube.com/watch?v=GXVRZIA37LA
   - infobar:
       subtitle: The Yuying Experience
       id: infobar
       description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
         clipboard-write; encrypted-media; gyroscope; picture-in-picture;
         web-share" frameborder="0" title="YouTube video player"
-        src="https://www.youtube.com/embed/GXVRZIA37LA?si=qD12mdb41g8uOjG-"
+        src="https://www.youtube.com/embed/GXVRZIA37LA?si=4i6SE49DNqWC4hbw&autoplay=1&mute=1"
         height="315" width="560"></iframe>
   - infopic:
       id: infopic
