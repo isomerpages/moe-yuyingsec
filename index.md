@@ -20,13 +20,6 @@ sections:
         web-share" frameborder="0" title="YouTube video player"
         src="https://www.youtube.com/embed/GXVRZIA37LA?si=4i6SE49DNqWC4hbw&autoplay=1&mute=1"
         height="315" width="560"></iframe>
-  - infopic:
-      id: infopic
-      description: The Yuying Experience
-      button: Click to watch
-      url: https://www.youtube.com/watch?v=GXVRZIA37LA
-      image: /images/yyexperience.png
-      alt: Image alt text
   - resources:
       title: ANNOUNCEMENTS
       id: resources
