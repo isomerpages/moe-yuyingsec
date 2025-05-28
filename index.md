@@ -17,7 +17,7 @@ sections:
           description: The Yuying Experience
           url: https://www.youtube.com/watch?v=GXVRZIA37LA
   - infobar:
-      subtitle: Add informational text
+      subtitle: The Yuying Experience
       id: infobar
       description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
         clipboard-write; encrypted-media; gyroscope; picture-in-picture;
