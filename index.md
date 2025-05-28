@@ -20,4 +20,11 @@ sections:
       title: ANNOUNCEMENTS
       id: resources
       button: View All ANNOUNCEMENTS
+  - infopic:
+      id: infopic
+      description: The Yuying Experience
+      button: Click to watch
+      url: https://www.youtube.com/watch?v=GXVRZIA37LA
+      image: /images/yyexperience.png
+      alt: Image alt text
 ---
