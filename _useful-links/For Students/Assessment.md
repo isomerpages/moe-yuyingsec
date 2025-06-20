@@ -29,3 +29,8 @@ third_nav_title: For Students
 <p><a href="/files/Pdf/Weighted Assessment/Sec_4_and_5_WA2_2025.pdf" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5 WA2 2025</a>
 </p>
 <p></p>
+<p><a href="/files/Pdf/Weighted Assessment/N_Level_Preliminary_Examinations_Timetable_2025.pdf" rel="noopener nofollow" target="_blank">N Levels Preliminary Examinations Timetable 2025</a>
+</p>
+<p><a href="/files/Pdf/Weighted Assessment/O_Level_Preliminary_Examinations_Timetable_2025.pdf" rel="noopener nofollow" target="_blank">O Level Preliminary Examination Timetable 2025</a>
+</p>
+<p></p>
