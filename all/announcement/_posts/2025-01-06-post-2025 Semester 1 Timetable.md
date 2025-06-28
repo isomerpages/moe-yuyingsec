@@ -1,6 +1,6 @@
 ---
 title: 2025 Semester 1 Timetable
-permalink: /2025-semester-1-timetable/
+permalink: /useful-links/for-students/timetable/
 date: 2025-01-06
 layout: post
 description: ""
