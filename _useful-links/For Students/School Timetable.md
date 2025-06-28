@@ -23,13 +23,10 @@ variant: markdown
 ##### **Secondary 3**
 
 
-[Sec 2 Sem 2 Timetable](/files/Timetable%202025/Sec_3_Sem_2_Timetable.pdf)
+[Sec 3 Sem 2 Timetable](/files/Timetable%202025/Sec_3_Sem_2_Timetable.pdf)
 
 
 
 ##### **Secondary 4/5**
 
 [Sec 4/5 Sem 2 Timetable](/files/Timetable%202025/Sec_4_5_Sem_2_Timetable.pdf)
-
-
-
