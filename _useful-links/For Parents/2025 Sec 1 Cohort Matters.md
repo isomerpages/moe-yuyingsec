@@ -196,24 +196,33 @@ for updates on the school’s activities.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>1 Leadership</strong>
 </p>
 </td>
-<td rowspan="1" colspan="2">
-<p>Mr Gabriel Lim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lim_wen_jun_gabriel@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="2">
 <p>Ms Wong Hiew Min</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">wong_hiew_min@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Ms Rabi’atul Adawiyah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">rabiatul_adawiyah_abd_wahid@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Mr Kevin Yap</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yap_shao_kuan_kevin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yap_shao_kuan_kevin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
