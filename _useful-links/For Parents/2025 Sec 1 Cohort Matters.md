@@ -42,7 +42,7 @@ for updates on the school’s activities.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>1 Gratitude</strong>
 </p>
 </td>
@@ -64,7 +64,16 @@ for updates on the school’s activities.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="2">
+<p>Ms Serene Neoh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:serene_neoh_si_yii@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">serene_neoh_si_yii@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
 <p><strong>1 Responsibility</strong>
 </p>
 </td>
@@ -86,6 +95,15 @@ for updates on the school’s activities.</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="2">
+<p>Mr Ong Teck Yew</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ong_teck_yew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_teck_yew@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="2" colspan="1">
 <p><strong>1 Adaptability</strong>
 </p>
@@ -99,6 +117,18 @@ for updates on the school’s activities.</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="2">
+<p>Mr Gervasio Carlos</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:gervasio_carlos_agustin_escasa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gervasio_carlos_agustin_escasa@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="2">
 <p>Mr Koh Chee Keong</p>
 </td>
@@ -130,6 +160,18 @@ for updates on the school’s activities.</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Ms Shi Yan Wei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">s</a><a href="mailto:hi_yanwei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hi_yanwei@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="2" colspan="1">
 <p><strong>1 Empathy</strong>
 </p>
@@ -152,6 +194,18 @@ for updates on the school’s activities.</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Mr Ang Ben Siang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ang_ben_siang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_ben_siang@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="2" colspan="1">
 <p><strong>1 Fortitude</strong>
 </p>
@@ -170,6 +224,18 @@ for updates on the school’s activities.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">wang_hsiao_yu@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Ms Charmaine Loh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:loh_ying_shan_charmaine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_ying_shan_charmaine@moe.edu.sg</a>
 </p>
 </td>
 </tr>
