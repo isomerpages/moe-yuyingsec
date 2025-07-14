@@ -104,7 +104,7 @@ for updates on the school’s activities.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>1 Adaptability</strong>
 </p>
 </td>
@@ -126,9 +126,6 @@ for updates on the school’s activities.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="2">
 <p>Mr Koh Chee Keong</p>
 </td>
@@ -138,7 +135,7 @@ for updates on the school’s activities.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>1 Courage</strong>
 </p>
 </td>
@@ -160,9 +157,6 @@ for updates on the school’s activities.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="2">
 <p>Ms Shi Yan Wei</p>
 </td>
@@ -172,7 +166,7 @@ for updates on the school’s activities.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>1 Empathy</strong>
 </p>
 </td>
@@ -194,9 +188,6 @@ for updates on the school’s activities.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="2">
 <p>Mr Ang Ben Siang</p>
 </td>
@@ -206,7 +197,7 @@ for updates on the school’s activities.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>1 Fortitude</strong>
 </p>
 </td>
@@ -228,9 +219,6 @@ for updates on the school’s activities.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="2">
 <p>Ms Charmaine Loh</p>
 </td>
