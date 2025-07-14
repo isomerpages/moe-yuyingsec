@@ -42,7 +42,7 @@ for updates on the school’s activities.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>1 Gratitude</strong>
 </p>
 </td>
@@ -64,7 +64,16 @@ for updates on the school’s activities.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="2">
+<p>Ms Serene Neoh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:serene_neoh_si_yii@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">serene_neoh_si_yii@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
 <p><strong>1 Responsibility</strong>
 </p>
 </td>
@@ -86,7 +95,16 @@ for updates on the school’s activities.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="2">
+<p>Mr Ong Teck Yew</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ong_teck_yew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_teck_yew@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
 <p><strong>1 Adaptability</strong>
 </p>
 </td>
@@ -100,6 +118,15 @@ for updates on the school’s activities.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
+<p>Mr Gervasio Carlos</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:gervasio_carlos_agustin_escasa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gervasio_carlos_agustin_escasa@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <p>Mr Koh Chee Keong</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -108,7 +135,7 @@ for updates on the school’s activities.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>1 Courage</strong>
 </p>
 </td>
@@ -130,7 +157,16 @@ for updates on the school’s activities.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="2">
+<p>Ms Shi Yan Wei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">sh</a><a href="mailto:hi_yanwei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">i_yanwei@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
 <p><strong>1 Empathy</strong>
 </p>
 </td>
@@ -152,7 +188,16 @@ for updates on the school’s activities.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="2">
+<p>Mr Ang Ben Siang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ang_ben_siang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_ben_siang@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
 <p><strong>1 Fortitude</strong>
 </p>
 </td>
@@ -170,6 +215,15 @@ for updates on the school’s activities.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">wang_hsiao_yu@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Ms Charmaine Loh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:loh_ying_shan_charmaine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_ying_shan_charmaine@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -196,24 +250,33 @@ for updates on the school’s activities.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>1 Leadership</strong>
 </p>
 </td>
-<td rowspan="1" colspan="2">
-<p>Mr Gabriel Lim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lim_wen_jun_gabriel@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="2">
 <p>Ms Wong Hiew Min</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">wong_hiew_min@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Ms Rabi’atul Adawiyah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">rabiatul_adawiyah_abd_wahid@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Mr Kevin Yap</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yap_shao_kuan_kevin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yap_shao_kuan_kevin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
