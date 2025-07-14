@@ -161,7 +161,7 @@ for updates on the school’s activities.</p>
 <p>Ms Shi Yan Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">s</a><a href="mailto:hi_yanwei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hi_yanwei@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">sh</a><a href="mailto:hi_yanwei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">i_yanwei@moe.edu.sg</a>
 </p>
 </td>
 </tr>
