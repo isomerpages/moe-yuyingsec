@@ -6,7 +6,6 @@ description: ""
 third_nav_title: Partners
 ---
 <h2><strong><u>Arts</u></strong></h2>
-<p></p>
 <h4><strong>Ms Han Sai Por (Class of 1960)</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -35,6 +34,15 @@ third_nav_title: Partners
 </li>
 <li>
 <p><strong>Director, Humanities Branch, Curriculum Planning and Development Division 2</strong>
+</p>
+</li>
+</ul>
+<p></p>
+<h2><strong><u>Media</u></strong></h2>
+<h4>&nbsp;<strong>Ms Chen San Lian (Class of 1969)</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Presenter, Capital 95.8FM </strong>
 </p>
 </li>
 </ul>
