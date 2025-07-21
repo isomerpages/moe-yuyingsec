@@ -39,10 +39,10 @@ third_nav_title: Partners
 </ul>
 <p></p>
 <h2><strong><u>Media</u></strong></h2>
-<h4>&nbsp;<strong>Ms Chen San Lian (Class of 1969)</strong></h4>
+<h4>&nbsp;<strong>Ms Chen Sen Lian (Class of 1969)</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Presenter, Capital 95.8FM </strong>
+<p><strong>Presenter, Capital 95.8FM</strong>
 </p>
 </li>
 </ul>
