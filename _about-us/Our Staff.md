@@ -73,7 +73,7 @@ Our Staff
 |                         | Ms Charmain Tan    | charmain_tan_see_lai@moe.edu.sg  |
 | 1 Leadership     | Ms Wong Hiew Min    | wong_hiew_min@moe.edu.sg   |
 |                         | Ms Rabi’atul Adawiyah    | rabiatul_adawiyah_abd_wahid@moe.edu.sg   |
-|                         | Mr Kevin Yap    | kwok_zhen_yuan@moe.edu.sg   |
+|                         | Mr Kevin Yap    | yap_shao_kuan_kevin@moe.edu.sg   |
 | 1 Synergy     | Mdm Nor Jehan Raseede    | nor_jehan_raseede@moe.edu.sg   |
 |                         | Mr Kwok Zhen Yuan    | kwok_zhen_yuan@moe.edu.sg   |
 | Assistant Year Head   |  Ms Anu Priya    |  anu_priya_nair_appukuttan@moe.edu.sg                                              |                                    | 
