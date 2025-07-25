@@ -29,7 +29,16 @@ variant: markdown
 
 
 
-##### **Secondary 4/5**
+##### **Secondary 4**
+
+
+[Sec 4 Sem 2 Timetable](/files/Timetable%202025/Sec_4_Sem_2.pdf)
+
+
+
+##### **Secondary 5**
 
 
 [Sec 5 Sem 2 Timetable](/files/Timetable%202025/Sec_5_Sem_2.pdf)
+
+
