@@ -36,6 +36,7 @@ third_nav_title: For Students
 <p></p>
 <p><a href="/files/Pdf/Weighted Assessment/N_Level_Preliminary_Examinations_Timetable_2025.pdf" rel="noopener nofollow" target="_blank">N Levels Preliminary Examinations Timetable 2025</a>
 </p>
-<p><a href="/files/Pdf/Weighted Assessment/O_Level_Preliminary_Examinations_Timetable_2025.pdf" rel="noopener nofollow" target="_blank">O Level Preliminary Examination Timetable 2025</a>
+<p></p>
+<p><a href="/files/Pdf/Weighted Assessment/O_Level_Preliminary_Examinations_Timetable_2025_4_Aug.pdf" rel="noopener nofollow" target="_blank">O Level Preliminary Examination Timetable 2025</a>
 </p>
 <p></p>
