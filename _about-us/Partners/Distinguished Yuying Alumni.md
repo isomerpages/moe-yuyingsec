@@ -29,11 +29,11 @@ third_nav_title: Partners
 <h4>&nbsp;<strong>Mr Kelvin Tay Hsien Chuan (Class of 1986)</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Former Principal of Keming Primary School, Punggol View Primary School and Singapore International School (Hong Kong)</strong>
+<p><strong>Former Principal of Keming Primary School, Punggol View Primary School and Singapore International School (Hong Kong), Former Director, Humanities Branch, Curriculum Planning and Development Division 2</strong>
 </p>
 </li>
 <li>
-<p><strong>Director, Humanities Branch, Curriculum Planning and Development Division 2</strong>
+<p><strong>Principal of Mee Toh School</strong>
 </p>
 </li>
 </ul>
