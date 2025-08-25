@@ -15,8 +15,8 @@ Our Staff
 | Vice-Principal                                               |   Mr Ivin Chan       |
 | Vice-Principal (Admin)                                              |   Mrs Catherine Tan       |
 | School Staff Developer                                        | Ms Sucillia Sukiman        |
-| Year Head (Sec 4/5)                                   | Mr Eric Chew           |
-| Year Head (Sec 2)                                   | Ms Linda Marie           |
+| Year Head (Upper Sec)                                   | Mr Eric Chew           |
+| Year Head (Lower Sec)                                   | Ms Linda Marie           |
 | Head of Department (Character & Citizenship Education)        | Mrs Loretta Goh          |
 | Head of Department (Craft & Technology)                       | Mr Johnny Tan Teck Thong |
 | Head of Department (English Language & Literature) | Ms Tay Kaixin            |
