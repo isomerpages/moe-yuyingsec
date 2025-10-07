@@ -65,8 +65,11 @@ Slams, and Debates.</p>
 <p>36th YMCA Plain Speaking English Awards - Participation</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Choral Reading" src="/images/Choral_Reading.png">
+<img style="width: 65%;" height="auto" width="100%" alt="Choral Reading" src="/images/Choral_Reading.png">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Debate @ EL Lesson" src="/images/Debate___EL_Lesson.jpg">
+</div>
 <p></p>
 <p></p>
