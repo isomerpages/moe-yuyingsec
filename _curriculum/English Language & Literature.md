@@ -72,4 +72,7 @@ Slams, and Debates.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Debate @ EL Lesson" src="/images/Debate___EL_Lesson.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/NLB_KidsRead_Programme.jpg">
+</div>
 <p></p>
