@@ -46,7 +46,9 @@ the bedrock of our national values. As a school, Yuying aims to create
 a positive environment that will develop our students’ personal character
 and nurture in them our shared societal and national values.</p>
 <p></p>
-<p>&lt;img style="width:50%" src="/images/hdf.jpg"&gt;&lt;figcaption&gt;</p>
+<p>&lt;figure&gt;&lt;img style="width:50%" src="/images/Mr%20Chong%20JS.jpg"&gt;&lt;figcaption&gt;
+Mr Chong Jack Sheng -</p>
+<p>Principal&lt;/figcaption&gt;&lt;/figure&gt;</p>
 <p></p>
 <p><strong>MOTTO</strong>
 </p>
