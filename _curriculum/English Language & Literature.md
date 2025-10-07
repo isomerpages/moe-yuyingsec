@@ -65,22 +65,27 @@ Slams, and Debates.</p>
 <p>36th YMCA Plain Speaking English Awards - Participation</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="Choral Reading" src="/images/Choral_Reading.png">
+<img style="width: 100%;" height="auto" width="100%" alt="Choral Reading" src="/images/Choral_Reading.png">
 </div>
-<p></p>
+<p><strong>Choral Reading</strong>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Debate @ EL Lesson" src="/images/Debate___EL_Lesson.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="Debate @ EL Lesson" src="/images/Debate___EL_Lesson.jpg">
 </div>
-<p></p>
+<p><strong>Debate @ EL Lesson</strong>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/NLB_KidsRead_Programme.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/NLB_KidsRead_Programme.jpg">
 </div>
-<p></p>
+<p><strong>NLB KidsRead Programme</strong>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="Sec 2 Lit x AEC Learning Journey to the Theatre2" src="/images/Sec_2_Lit_x_AEC_Learning_Journey_to_the_Theatre2.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="Sec 2 Lit x AEC Learning Journey to the Theatre2" src="/images/Sec_2_Lit_x_AEC_Learning_Journey_to_the_Theatre2.jpg">
 </div>
-<p></p>
+<p><strong>Sec 2 Lit x AEC Learning Journey to the Theatre2</strong>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Unity Writer's Festival" src="/images/Unity_Writer_s_Festival.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="Unity Writer's Festival" src="/images/Unity_Writer_s_Festival.jpg">
 </div>
-<p></p>
+<p><strong>Unity Writer's Festival</strong>
+</p>
