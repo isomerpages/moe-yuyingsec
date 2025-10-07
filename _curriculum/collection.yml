@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Engaged and Deep Learning Framework.md
       - English Language & Literature.md
       - Mother Tongue Languages.md
       - Mathematics.md
