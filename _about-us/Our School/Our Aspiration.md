@@ -45,11 +45,9 @@ and find meaning in contributing to the lives of others.</p>
 the bedrock of our national values. As a school, Yuying aims to create
 a positive environment that will develop our students’ personal character
 and nurture in them our shared societal and national values.</p>
-<p></p>
-<p>&lt;figure&gt;&lt;img style="width:50%" src="/images/Mr%20Chong%20JS.jpg"&gt;&lt;figcaption&gt;
-Mr Chong Jack Sheng -</p>
-<p>Principal&lt;/figcaption&gt;&lt;/figure&gt;</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Holistic Development Framework" src="/images/hdf.png">
+</div>
 <p><strong>MOTTO</strong>
 </p>
 <p>Together, Achieve Personal Excellence</p>
