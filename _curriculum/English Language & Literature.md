@@ -39,7 +39,7 @@ national-level writing and speaking competitions:</p>
 <p>5. YMCA Plain English Speaking Awards</p>
 <p>6. Applied Learning Modules @ Polytechnics: Steal the Show: The Killer
 Presentation, Introduction to Digital Journalism and A.I. Visual Effects</p>
-<p><strong>National Schools Literature Festival</strong> 
+<p><strong>National Schools Literature Festival</strong>
 </p>
 <p>Our students represent the school in Singapore’s largest literary festival,
 participating in exciting events like Book Trailer Presentations, Poetry
