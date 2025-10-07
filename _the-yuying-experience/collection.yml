@@ -1,4 +1,5 @@
 collections:
   the-yuying-experience:
     output: true
-    order: []
+    order:
+      - Character & Citizenship Education.md
