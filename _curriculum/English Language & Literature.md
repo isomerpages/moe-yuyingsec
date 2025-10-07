@@ -80,3 +80,7 @@ Slams, and Debates.</p>
 <img style="width: 65%;" height="auto" width="100%" alt="Sec 2 Lit x AEC Learning Journey to the Theatre2" src="/images/Sec_2_Lit_x_AEC_Learning_Journey_to_the_Theatre2.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Unity Writer's Festival" src="/images/Unity_Writer_s_Festival.jpg">
+</div>
+<p></p>
