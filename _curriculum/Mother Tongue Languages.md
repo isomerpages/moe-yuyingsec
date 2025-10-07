@@ -2,68 +2,106 @@
 title: Mother Tongue Languages
 permalink: /curriculum/Mother-Tongue-Languages/
 description: ""
+variant: tiptap
 ---
-Mother Tongue Languages
-=======================
-
-
-#### Philosophy
-
-The Mother Tongue Language Department is committed to develop students into proficient language users who can communicate in a confident, effective and meaningful way in real-life situations.
-
-  
-
-#### Desired Learner Outcome
-
-The MTL curriculum aims to develop proficient language users who can communicate confidently and effectively in various real-life contexts. It also aims to expose students to cultures and values through the MTL lesson. In Yuying, the MTL curriculum seeks to:
-
-  
-
-*   Strengthen communication skills – students to be able to use their MTL as a living language in and out of school.
-*   Deepen appreciation of culture - students to be able to understand and develop their unique identity through a deeper appreciation of culture, traditions, literature and history.
-*   Better connect with communities – students to be able to connect with communities across Asia and the world who speak that language or share that culture.
-
-  
-
-#### Teaching and Learning Approach
-
-To achieve the learning outcomes, interactive and innovative teaching strategies are tailored to suit our students’ learning needs. Teachers will use differentiated teaching for different learner groups and emphasis on more lively teaching. 
-
-  
-
-School-based curriculum is developed so as to cater to the specific needs of our students. Experiential learning is integrated, allowing students to make a connection between the concepts learnt and the real world context, so as to better prepare students to actively use their MTL in real-life situations. 
-
-  
-
-Lessons conducted focus on developing students’ critical thinking and creative thinking skills. Teachers will also leverage on ICT to provide students with more interactive and real-life authentic learning to promote self-directed and collaborative learning.
-
-  
-
-#### Assessment Framework
-
-Assessment plays an important role in developing students’ proficiency in MTL. It does not serve only as an evaluative tool, but also as an instructional tool to promote students’ learning. The use of a variety of assessment modes will allow for better matching of performance tasks with outcomes.
-
-Assessment modes include:
-
-  
-
-*   Self, peer and teacher assessment
-*   Oral presentation
-*   Test and examination
-
-  
-
-#### Enrichment
-
-To create an engaged and innovative learning environment, the MTL Department has tailored various enrichment programmes for all students:
-
-  
-
-*   Cultural Learning Journey
-*   Chinese New Year Celebration
-*   Mother Tongue Fortnight
-*   Mother Tongue Cultural Camp
-*   Hari Raya Celebration
-*   Mid-Autumn Festival Celebration
-*   Drama Appreciation
-*   Internal competition: Chinese Calligraphy Competition, Chinese Essay Competition, Malay Language Essay Competition, Malay Language Scrabble Competition
+<h1>Mother Tongue Languages</h1>
+<h4>Vision</h4>
+<p>Every Yuying student a confident and proficient communicator, rooted in
+the cultural heritage of their Mother Tongue Language.</p>
+<h4>Mission</h4>
+<p>To provide joyful, purposeful, and authentic language learning experiences
+that deepen cultural understanding and values, strengthen communication
+skills, and foster a strong connection to the Mother Tongue Language.</p>
+<h4>Philosophy</h4>
+<p>We believe every student can grow in their Mother Tongue Language when
+supported by a strong partnership among school, home, and community. Rooted
+in the principles of communication, culture, and connection, we are committed
+to nurturing confident learners who value their heritage, embrace cultural
+diversity, and use their Mother Tongue Language effectively and meaningfully
+in daily life, both inside and beyond the classroom.</p>
+<h4>Key Programmes &amp; Competitions</h4>
+<p><strong>Read@Yuying</strong>
+</p>
+<p>The MTL Reading Programme has designated reading materials for every level.
+Students read these books during silent reading period and in class. Students
+are encouraged to continue reading the materials during the school holidays
+to improve their MTL.</p>
+<p><strong>Mother Tongue Language Fortnight</strong>
+</p>
+<p>As part of Mother Tongue Language Fortnight, a series of programmes are
+designed to provide students at all levels with meaningful platforms to
+actively learn the Mother Tongue Language and explore its rich cultural
+heritage. These activities, conducted both in and beyond the classroom,
+include learning journeys, competitions, talks by invited guests, handicraft
+workshops, and language skills sessions. They offer authentic opportunities
+for students to use the Mother Tongue Language and experience it as a living
+language.</p>
+<p><strong>Mother Tongue Language Cultural Enrichment Programme</strong>
+</p>
+<p>The Mother Tongue Language and Culture Enrichment Programme is a post-examination
+activity that provides students with meaningful opportunities to use their
+Mother Tongue Language and appreciate their cultural heritage. Activities
+such as handicraft workshops, learning journeys, and food tasting allow
+students to experience the language in fun, hands-on ways beyond the classroom.</p>
+<p><strong>Festive Celebrations</strong>
+</p>
+<p>Students take part in celebratory activities for the Lunar New Year, Hari
+Raya, Deepavali, and the Mid-Autumn Festival. These celebrations foster
+greater awareness and a deeper appreciation of the cultures and traditions
+of Singapore’s diverse ethnic groups. In addition, students are encouraged
+to take on active roles as emcees for the programmes and to showcase their
+talents through stage performances, thereby enriching their cultural understanding
+and building confidence.</p>
+<p><strong>Cultural Performance and Exposure Scheme</strong>
+</p>
+<p>The Cultural Performance Exposure Scheme provides students with opportunities
+to attend Chinese and Malay language stage and theater performances by
+local and international arts groups. These experiences help students develop
+an appreciation for the performing arts while enriching their language
+learning.</p>
+<p><strong>Publication of Students Essay</strong>
+</p>
+<p>The publication of Students’ Essays in Chinese and Malay languages provides
+a platform to showcase the outstanding written work of our students. This
+initiative not only celebrates their creativity and expression but also
+aims to enhance their writing skills by encouraging effective and confident
+communication. By sharing their essays publicly, students gain valuable
+experience and motivation to further develop their language abilities."</p>
+<h4>Accomplishments</h4>
+<p><strong>2025</strong>
+</p>
+<p>National Malay Debate Competition - Best Speaker Award</p>
+<p>Sahibba Scrabble Competition - Certificate of Participation</p>
+<p>Malay Essay Writing Competition MLLPC - Certificate of Participation</p>
+<p>23rd National Secondary School Chinese Essay Writing Competition (Xin
+Lei Jiang) - 2nd Place (Upper Sec)</p>
+<p>National Chinese Creative Writing with Photography (Xin Lei Jiang) - 2nd
+Place (Lower Sec)</p>
+<p>8th National Text Recital Competition - 1 Silver and 2 Bronze Awards in
+the Preliminary Round</p>
+<p>Ngee Ann National Students’ Calligraphy Competition 2025 - Certificate
+of Participation</p>
+<p><strong>2024</strong>
+</p>
+<p>Malay Essay Writing Competition EDUfront - 6 Gold Awards</p>
+<p>Sahibba Scrabble Competition - Certificate of Participation</p>
+<p>2024 Reading Superstar Competition CPCLL - 1 Distiction Award</p>
+<p>22nd National Secondary School Chinese Essay Writing Competition (Xin
+Lei Jiang) - Certificate of Participation</p>
+<p>National Chinese Creative Writing with Photography (Xin Lei Jiang) - Certificate
+of Participation</p>
+<p>Young Reporter News Challenge 2024 - Certificate of Participation</p>
+<p><strong>2023</strong>
+</p>
+<p>Malay Essay Writing Competition EDN (Pena Emasku) - 4 Gold</p>
+<p>Malay Essay Writing Competition EDUfront (Saya Boleh Mengarang) - 3 Silver,
+1 Bronze</p>
+<p>21st National Secondary School Chinese Essay Writing Competition (Xin
+Lei Jiang) - Certificate of Participation</p>
+<p>6th National Text Recital Competition - Certificate of Participation</p>
+<p>2023 Reading Superstar Competition CPCLL - 1 Distinction</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL4.jpg">
+</div>
+<p></p>
