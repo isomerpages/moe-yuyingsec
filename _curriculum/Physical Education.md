@@ -2,107 +2,54 @@
 title: Physical Education
 permalink: /curriculum/Physical-Education/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-PE Department
-=============
-
-### Our Vision&nbsp;- C.H.A.M.P.S
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-b8y7{border-color:#ffffff;font-size:20px;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <td class="tg-b8y7">"<span style="font-weight:bold">C</span>ultivating <span style="font-weight:bold">H</span>ealthy <span style="font-weight:bold">A</span>dvocates of <span style="font-weight:bold">M</span>ental <span style="font-weight:bold">P</span>rowess from <span style="font-weight:bold">S</span>ports"</td>
-  </tr>
-</thead>
-</table>
-  
-
-### Our Mission
-
-The department embraces a blended approach to equip pupils with the knowledge, life-skills and learning experience. This is to equip students with the 21CCs to be able to adapt competently and show resilience in a Volatile, Uncertain, Complex, Ambiguous (V.U.C.A.) environment.
-
-
-### Structured Sports eXposure (SSX) 
-The following sports are organised to promote an active and healthy lifestyle for all levels in the school.
-
-Secondary 1 - Netball and Volleyball
-
-Secondary 2 - Pickleball and Basketball
-
-Secondary 3 - Badminton and Futsal
-
-Secondary 4 - Floorball and Softball
-
-Secondary 5 - Tag Rugby and Scoop Ball
-
-All levels - Physical Health and Fitness (PHF) and Outdoor Education (OE)
-
-The department also takes pride in offering Exercise and Sports Science (ESS) as a GCE ‘O’ Level Subject. Exercise and Sports Science (ESS) is an interdisciplinary subject where students are grounded in the sub-disciplines of sports science with an understanding of sociology in relation to sports. Through the study of ESS,&nbsp;&nbsp;students will develop disciplinary thinking and practices of the subject and thus interdisciplinary understanding.
-
-
-### Key Events
-
-* #####    **Yuying Olympic - Paralympic Fortnight (YO-PF)**
-
-![](/images/PE3.jpeg)
-
-Secondary 1 - Sit-down volleyball
-
-Secondary 2 - Seated Petanque
-
-Secondary 3 - Goalball
-
-Secondary 4 and 5 - Blind Cricket
-
-YO-PF week seeks to build awareness and instil values of the various paralympic sports in our students. It also aims to nurture students to be more inclusive when engaging in sports. 
-
-* #####    **Tiktoks in PE**
-
-<iframe width="600" height="355" src="https://www.youtube.com/embed/kBIAHAQ87QU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-
-Students use the Tik Tok platform to demonstrate their knowledge and understanding of the sport that they have learnt during PE lessons. It is a meaningful process where students brainstorm ideas together, film and edit content through a novel and creative approach to demonstrate their learning.
-
-* #####    **Interclass Games (ICG)**
-
-![](/images/PE4.jpeg)
-
-There are various sports that all Yuying students participate in their secondary education journey, some of which are net-barrier (eg. pickleball and badminton), territorial-invasion (eg. futsal and frisbee) and striking-fielding sports (e.g. softball).
-
-
-* #####    **Highlights from Outdoor Education Lessons**
-
-![](/images/PE6.jpeg)
-
-
-There&nbsp;is so much more to PE lessons than sports and exercise. PE lessons are also used as platforms for students to be well-equipped with the skills and knowledge for outdoor learning. The series of outdoor education lessons forge greater relationships among peers while working together in varied activities. It also allows peers to interact with one another in a natural environment to develop appreciation of their surroundings and relationships. Students are presented with the task of setting up a shelter by constructing a basha together with their peers and cooking outdoors using the necessary equipment.
-
-Exercise &amp; Sports Science
-=========================
-
-Exercise &amp; Sports Science (ESS) is an interdisciplinary applied subject where students are taught to perform and participate in various sports. They will also be exposed in-depth to disciplines of Biomechanics, Physiology, Sociology, Psychology and Motor Learning &amp; Development.&nbsp;
-
-  
-
-ESS provides a plethora of opportunities for students to develop 21st Century Competencies where theories and concepts are applied in authentic learning contexts. Students will learn to manage uncertainties as teams and adapt to diverse challenges from the myriad of experiential learning experiences. They strive to become effective communicators who can employ multiple perspective-taking when dealing with the complexities in life. ESS aims to develop individuals who can take on new challenges and be future-ready.
-
-  
-
-
-
-#### Assessment Mode:
-
-40% - Theory examination
-
-40% - Coursework: Planning and enactment of developmental training log
-
-20% - Practical assessment of one individual/ dual and one team physical activity
+<h1>PE Department</h1>
+<h3>Vision </h3>
+<p>CARE - Championing Active, Resilient Eagles</p>
+<p>Every Yuying student an active and resilient individual, confident in
+pursuing physical excellence and personal well-being.</p>
+<h3>Mission</h3>
+<p>The PE Department at Yuying Secondary School is dedicated to inspiring
+active, resilient Eagles who embody personal excellence through dynamic
+physical education, fostering curiosity, teamwork, and adaptability to
+empower Enterprising, Adaptable, Gracious Leaders of the Future.</p>
+<h3>Philosophy</h3>
+<p>To empower students for lifelong well-being by developing the passion
+for physical activity through joyful, authentic learning experiences.</p>
+<h3>Key Programmes &amp; Competitions</h3>
+<p><strong>1. Secondary 1 Outdoor Adventure Learning Camp (Zenith Quest)</strong>
+</p>
+<p>A foundational camp that builds confidence, friendships, and teamwork
+through rich NE stations, team games, and low-element challenges. Students
+grow in resilience and adaptability as they transition into secondary school.</p>
+<p><strong>2) Secondary 3 Outdoor Adventure Learning Camp (Ascendancy Conquest)</strong>
+</p>
+<p>The department delivers a capstone adventure that focused on leadership
+and perseverance. Students take on activities, kayaking, and expeditions,
+strengthening collaboration and self-reliance in a challenging outdoor
+setting. In 2026, Sec 3 students would be attending OBS.</p>
+<p><strong>3) Inter-class Games</strong>
+</p>
+<p>The annual fun, competitive platform where students apply the sport skills
+adapted from the PE syllabus. Classes compete in age-appropriate team sports,
+promoting sportsmanship, teamwork, and class spirit in a lively and engaging
+environment.</p>
+<p><strong>4) Paralympics Week</strong>
+</p>
+<p>Students experience adapted sports like seated volleyball, boccia and
+goalball to foster empathy, inclusivity, and respect for persons with disabilities
+through hands-on learning as part of the Disability Sports Masterplan 2024.</p>
+<p><strong>5) Exercise and Sports Science (ESS) (Syllabus 6081)</strong>
+</p>
+<p>Upper Secondary students will be offered ESS, a subject that combines
+theory and practice in movement science, biomechanics, and sports psychology.
+This prepares students for future studies in sport-related fields and project-formats.</p>
+<p><strong>6) Strength Over Adversity (S.O.A.) Run </strong>
+</p>
+<p>A mass run that encourages healthy competition among students, while strengthening
+care culture, and building mental resilience through collective participation.
+Student leaders from both CCAs and prefectorial board are the students'
+voice in organising the event and rallying the school for mass cheer. This
+is a good opportunity for them to lead by example, support peers during
+activities, and grow in leadership and communication skills."</p>
