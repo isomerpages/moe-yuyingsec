@@ -2,48 +2,86 @@
 title: Science
 permalink: /curriculum/Science/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-Science
-=======
-#### Mission
-
-To nurture students with the attitude and scientific inquiry skills to appreciate and understand the world we live in
-
-  
-
-#### Vision
-
-Enterprising learners with the mindset and passion to pursue knowledge and skills in Science
-
-  
-
-#### Curriculum
-
-  
-
-
-  
-
-The department adopts Inquiry-based Learning (IBL) into its curriculum. We are committed to create learning experiences to foster deep learning and instil a sense of inquiry and curiosity through a variety of approaches. Lesson packages have been developed and are constantly refined for each level to provide opportunities for students to develop 21 Century Competencies, especially in Critical and Inventive Thinking (CIT).
-
-
-![](/images/Science1.png)
-
-To cater to students of diverse learning profiles and abilities in pursuing knowledge and skills in Science, varied modes of assessments are used. Besides practical skills, students are also assessed in performance assessments in problem-solving, mind-mapping, model-making, video-making, etc.
-
-![](/images/Science2.png)
-
-The Science Department in Yuying makes use of a multi-disciplinary approach towards the teaching and learning of students. It typically includes interesting hands-on activities and experiential learning opportunities to engage and enthuse the students in the learning of Science and Technology.
-
-Through the integration of the various disciplines in Science, Technology and Engineering, students were engaged in several intriguing activities and in one of those activities, they even crafted their very own kaleidoscope! The joy of learning of the students was evident in their enthusiastic participation in the activities.
-
-![](/images/Sci.png)
-
-Our programmes serve to pique students' interests in Science, Technology and Engineering and they aim to cultivate a more holistic appreciation of real-life phenomenon and applications.
-
-#### Advanced Elective Module (AEM) 
-
-AEMs in Science are offered to the students in Sec 3 Express and Sec 3 Normal (Academic), wherever possible. The AEMs are rotated among the 3 disciplines of Science, to expose the students to authentic learning experiences and to plant the seeds of passion and independent learning of Science.
-
-![](/images/Science3.png)
+<h1>Science</h1>
+<h4>Vision</h4>
+<p>Every Yuying student an innovative thinker and problem solver with a strong
+foundation in scientific principles and practices.</p>
+<h4>Mission</h4>
+<p>To cultivate students' scientific inquiry skills and foster a positive
+attitude towards learning, enabling them to appreciate and critically understand
+the complexities of the world around them.</p>
+<h4>Philosophy</h4>
+<p>The Secondary School Science Education is centered around inquiry, allowing
+students to ask meaningful questions, design experiments, and analyse data
+to draw evidence-based conclusions.</p>
+<p>We aim to provide a nexus between scientific concepts and real-life applications,
+enabling students to see the relevance of science in everyday life and
+equipping them with the skills to apply their knowledge to solve practical
+problems.</p>
+<p></p>
+<h4>Key Programmes &amp; Competitions</h4>
+<p><strong>Secondary 1: Scientific Endeavors Involving Vertical Farming</strong>
+</p>
+<p>Our students carry out a scientific investigation involving hands-on experiments,
+data analysis, and research projects to understand the scientific principles
+underlying vertical farming. Students will design and conduct experiments
+to test variables affecting plant growth in vertical farming systems. They
+will collect, analyse, and interpret data to draw conclusions about optimal
+growing conditions.</p>
+<p><strong>Secondary 2: Learning Journey to Changi Jewel (a collaboration with the Mathematics Department)</strong>
+<br>This immersive experience moves beyond traditional classroom settings,
+allowing students to observe and understand the intricate connections between
+STEM (Science, Technology, Engineering, and Mathematics) disciplines in
+tangible, real-world applications. At Jewel Changi, students explored how
+mathematical principles underpin the stunning architectural design of the
+building's iconic toroidal structure and the impressive HSBC Rain Vortex,
+the world's tallest indoor waterfall and other features.This journey provides
+a unique opportunity for students to witness firsthand how theoretical
+STEM knowledge is seamlessly integrated to create a functional and awe-inspiring
+environment, reinforcing the relevance and interconnectedness of their
+studies.</p>
+<p><strong>Lower Secondary Science - STEM Playground</strong>
+</p>
+<p>STEM Playground Challenge organised by the Science Centre Singapore with
+James Dyson Foundation. Students are able to foster collaboration, exhibits
+critical thinking, and problem-solving skills, while being explored to
+STEM concepts in a fun and engaging environment. We seek to encourage students’
+curiosity, creativity and interest through innovation in these STEM challenges.
+The challenges also develop school spirit alongside 21st Century Competencies
+in our students.</p>
+<p><strong>Stretch Programmes</strong>
+</p>
+<p>Singapore Youth STEM Festival</p>
+<p>Science Buskers</p>
+<p>GMAC Students Challenge 2025</p>
+<p>Singapore Junior Biology Olympiad</p>
+<p>Singapore Junior Chemistry Olympiad</p>
+<p>Singapore Junior Physics Olympiad</p>
+<p>ASRJC Elementz Fair</p>
+<h4>Accomplishments</h4>
+<p><strong>2025</strong>
+</p>
+<p>GMAC Students Challenge 2025 - 3rd Placing</p>
+<p>Elementz Fair 2024 - Certificate of Participation</p>
+<p>STEM for Good Contest - Certificate of Participation</p>
+<p>Singapore Youth STEM Fair - Certificate of Participation</p>
+<p>Singapore Junior Biology Olympiad - 1 Silver 1 Bronze</p>
+<p>Singapore Junior Chemistry Olympiad - Certificate of Merit</p>
+<p>Singapore Junior Physics Olympiad - Certificate of Participation</p>
+<p>Singapore Science Buskers - Finalists</p>
+<p><strong>2024</strong>
+</p>
+<p>12th Biomedical Quiz - 1 Bronze 1 Honourable Mention</p>
+<p>H2GP Singapore Finals - Certificate of Participation</p>
+<p>Elementz Fair 2024 - Certificate of Commendation</p>
+<p>Singapore Junior Chemistry Olympiad - 1 Silver 1 Bronze</p>
+<p>Singapore Junior Biology Olympiad - Certificate of Participation</p>
+<p>Shell NXplorer 2024 - Certificate of Participation</p>
+<p><strong>2023</strong>
+</p>
+<p>Singapore Junior Biology Olympiad - 2 Bronze 1 Honourable Mention</p>
+<p>Singapore Junior Physics Olympiad - 2 Silver 7 Bronze</p>
+<p>Singapore Youth Science Fair - Distinction</p>
+<p></p>
