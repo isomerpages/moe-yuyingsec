@@ -2,6 +2,7 @@ collections:
   the-yuying-experience:
     output: true
     order:
+      - Uniformed Groups/Boys' Brigade.md
       - Uniformed Groups/.keep
       - Student Well being & Resilence Framework.md
       - Student Well Being.md
