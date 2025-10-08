@@ -33,3 +33,33 @@ Sec 2 Care-for-the-Elderly Enthusiasts through Applied Learning &amp; Learning
 for Life for Lower Sec with focus on environment and elderly; Developing
 Contributors and Advocators for Inclusivity through CCA-VIA for Upper Sec
 with student-initiated social causes &amp; overseas VIA opportunities.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Applied_Learning_Module_ITE.jpg">
+</div>
+<p><strong>Applied Learning Module@ITE</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Applied_Learning_Modules_for_Sec_3s__2_.jpg">
+</div>
+<p><strong>Applied Learning Modules for Sec 3s</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/National_Day_Celebration.jpg">
+</div>
+<p><strong>National Day Celebration</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Racial_Harmony_Day.jpg">
+</div>
+<p><strong>Racial Harmony Day</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_4___5_Careers_Day.jpg">
+</div>
+<p><strong>Sec 4 &amp; 5 Careers Day</strong>
+</p>
