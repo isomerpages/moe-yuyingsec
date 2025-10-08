@@ -2,8 +2,8 @@ collections:
   the-yuying-experience:
     output: true
     order:
-      - Performing Arts/.keep
       - Student Well being & Resilence Framework.md
       - Student Well Being.md
       - Character & Citizenship Education.md
       - Co Curricular Activities.md
+      - Performing Arts/.keep
