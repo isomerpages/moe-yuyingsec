@@ -2,6 +2,7 @@ collections:
   the-yuying-experience:
     output: true
     order:
+      - CCA Visual & Performing Arts/Concert Band.md
       - CCA Visual & Performing Arts/Malay Dance.md
       - CCA Visual & Performing Arts/24 Seasons Drums.md
       - CCA Visual & Performing Arts/.keep
