@@ -98,4 +98,17 @@ in our students.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NXplorer_2024.jpg">
 </div>
+<p><strong>NXplorer 2024(a)</strong>
+</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NXplorer_2024__2_.jpg">
+</div>
+<p><strong>NXplorer 2024(b)</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science_Buskers.jpg">
+</div>
+<p><strong>Science Buskers</strong>
+</p>
