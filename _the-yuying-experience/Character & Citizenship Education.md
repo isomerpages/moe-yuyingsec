@@ -2,68 +2,34 @@
 title: Character & Citizenship Education
 permalink: /curriculum/Character-and-Citizenship-Education/
 description: ""
+variant: tiptap
 ---
-Character &amp; Citizenship Education
-=================================
-
-#### CCE Vision
-
-To develop our students to be rooted in Singapore &amp; to be confident youths who are anchored in values and possess a spirit to serve
-
-  
-
-#### Our Holistic Approach
-
-![](/images/CCE1.jpeg)
-
-#### Our Desired Student Outcomes
-
-Responsible citizens
-
-Compassionate Leaders
-
-Enterprising Change makers
-
-Lifelong Learners
-
-![](/images/CCE2.jpeg)
-
-![](/images/CCE3.png)
-
-### Our Developmental Programmes
-
-Developing the Head, Heart and Hand
-
-![](/images/CCE4.jpeg)
-
-
-#### Our Key ECG Programmes:
-
-*   Careers Day for Sec 4 &amp; 5
-
-*   EAE Application and Interview Skills Workshop  
-    
-*   Sec 3 NA &amp; 2NT ITE Attachment Programmes  
-    
-*   Elective Modules for Sec 2 &amp; 3 NA &amp; NT
-*   Learning programmes with IHLs and Industries
-
-![](/images/CCE.jpeg)
-
-#### PRAISE Awards
-
-  
-
-**PRAISE&nbsp;stands for**&nbsp;**P**ositive&nbsp;**R**einforcement &amp;&nbsp;**A**ffirmation for the d**I**splay of Desired&nbsp;**S**tudent Outcom**E**s
-
-
-<u><b> Objective: </b></u>&nbsp;To recognise and affirm students who are consistently demonstrating the school’s four Desired Student Outcomes in their daily lives.
-
-  
-
-<u><b> 4 Types of Awards</b></u>
-
-1.  Lifelong Learner
-2.  Compassionate Leader
-3.  Enterprising Changemaker
-4.  Responsible Citizen
+<h1>Character &amp; Citizenship Education</h1>
+<h4>Vision</h4>
+<p>Every Yuying Student - a citizen with good character and active contributor
+to society.</p>
+<h4>Mission</h4>
+<p>To develop our students to be rooted in Singapore, anchored in values
+and possess the schools’ desired student outcomes.
+<br>
+</p>
+<h4>Philosophy</h4>
+<p>Every student can be nurtured to develop the right way of thinking, possess
+the sound values that guide their actions and have the empathy to take
+actions for the good of society.</p>
+<h4>Key Programmes &amp; Activities</h4>
+<p><strong>CCE 2021 Curriculum</strong> for all students to develop good character.
+<br>
+<br><strong>ECG Curriculum</strong> - Visits to Institutes of Higher Learning,
+Careers Day, Applied Learning Modules, Learning Journeys &amp; individualised
+ECG guidance
+<br>
+<br><strong>National Education</strong> - Total Defence Day, International
+Friendship Day, Racial Harmony Day, National Day, NS man Engagement for
+Sec 4, NRIC Ceremony for Sec 3 and Sec 2 cohort Learning Journey
+<br>
+<br><strong>Values-in-Action</strong> - Developing Sec 1 Eco-Innovators &amp;
+Sec 2 Care-for-the-Elderly Enthusiasts through Applied Learning &amp; Learning
+for Life for Lower Sec with focus on environment and elderly; Developing
+Contributors and Advocators for Inclusivity through CCA-VIA for Upper Sec
+with student-initiated social causes &amp; overseas VIA opportunities.</p>
