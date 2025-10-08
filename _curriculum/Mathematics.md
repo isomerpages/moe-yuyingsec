@@ -86,3 +86,29 @@ Lower Sec NT individual – 6th position</p>
 <p>Australian Mathematics Competition - 1 High Distinctions, 2 Distinctions,
 14 Credits</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Desmos_Art_by_3NA_Students.jpg">
+</div>
+<p><strong>Desmos Art by 3NA Students</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Desmos_Art_by_Yidan_and_Enyu__3R_.jpg">
+</div>
+<p><strong>Desmos Art by Yidan and Enyu (3R)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LJ_at_Jewel__1_.jpg">
+</div>
+<p><strong>LJ at Jewel </strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NP_MA_Challenge_.jpg">
+</div>
+<p><strong>NP MA Challenge </strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VR_in_MA.jpg">
+</div>
+<p><strong>VR in MA</strong>
+</p>
