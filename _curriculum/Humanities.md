@@ -108,5 +108,5 @@ industry, bringing their EBS learning to life.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students_solving_puzzles_.jpg">
 </div>
-<p><strong>Students solving puzzles</strong> 
+<p><strong>Students solving puzzles</strong>
 </p>
