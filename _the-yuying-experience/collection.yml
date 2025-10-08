@@ -2,13 +2,6 @@ collections:
   the-yuying-experience:
     output: true
     order:
-      - CCA Visual & Performing Arts/.keep
-      - CCA Visual & Performing Arts/Chinese Dance.md
-      - CCA Visual & Performing Arts/Concert Band.md
-      - CCA Visual & Performing Arts/Guzheng Ensemble.md
-      - CCA Visual & Performing Arts/Guitar Ensemble.md
-      - CCA Visual & Performing Arts/Malay Dance.md
-      - CCA Visual & Performing Arts/24 Seasons Drums.md
       - Student Well being & Resilence Framework.md
       - Student Well Being.md
       - Character & Citizenship Education.md
@@ -25,3 +18,10 @@ collections:
       - CCA Uniformed Groups/St John Brigade Singapore.md
       - CCA Uniformed Groups/National Cadet Corps.md
       - CCA Uniformed Groups/National Police Cadet Corps.md
+      - CCA Visual & Performing Arts/.keep
+      - CCA Visual & Performing Arts/Chinese Dance.md
+      - CCA Visual & Performing Arts/Concert Band.md
+      - CCA Visual & Performing Arts/Guzheng Ensemble.md
+      - CCA Visual & Performing Arts/Guitar Ensemble.md
+      - CCA Visual & Performing Arts/Malay Dance.md
+      - CCA Visual & Performing Arts/24 Seasons Drums.md
