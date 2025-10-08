@@ -99,12 +99,12 @@ Lower Sec NT individual – 6th position</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/LJ_at_Jewel__1_.jpg">
 </div>
-<p><strong>LJ at Jewel </strong>
+<p><strong>LJ at Jewel</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NP_MA_Challenge_.jpg">
 </div>
-<p><strong>NP MA Challenge </strong>
+<p><strong>NP MA Challenge</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
