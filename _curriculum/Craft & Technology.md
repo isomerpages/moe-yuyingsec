@@ -58,7 +58,7 @@ Participation</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/C_T2_Urban_Sketch_1.jpg">
 </div>
-<p><strong>Urban Sketch </strong>
+<p><strong>Urban Sketch</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/C_T3_Art_sculpture.jpg">
@@ -70,4 +70,10 @@ Participation</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/C_T4_D_T_peer_assessment.jpg">
 </div>
 <p><strong>D&amp;T peer assessment</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/C_T5_D_T_Toy_design.jpg">
+</div>
+<p><strong>D&amp;T Toy design</strong>
 </p>
