@@ -2,6 +2,7 @@ collections:
   the-yuying-experience:
     output: true
     order:
+      - CCA Clubs & Societies/Eco EAGLES.md
       - CCA Clubs & Societies/Drama Club.md
       - CCA Clubs & Societies/InnoTech Club.md
       - CCA Clubs & Societies/Photography Club.md
