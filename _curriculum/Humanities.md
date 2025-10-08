@@ -93,3 +93,20 @@ industry, bringing their EBS learning to life.</p>
 <p><strong>Integrated Humanities Learning Journey at Labrador Park</strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/National_Cashflow_Competition_2024.jpg">
+</div>
+<p><strong>National Cashflow Competition 2024</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secret_Seashores_Project.jpg">
+</div>
+<p><strong>Secret Seashores Project</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students_solving_puzzles_.jpg">
+</div>
+<p><strong>Students solving puzzles</strong> 
+</p>
