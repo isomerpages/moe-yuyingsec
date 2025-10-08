@@ -85,3 +85,12 @@ in our students.</p>
 <p>Singapore Junior Physics Olympiad - 2 Silver 7 Bronze</p>
 <p>Singapore Youth Science Fair - Distinction</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20250927_182832.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/H2GP_2024.jpg">
+</div>
+<p></p>
