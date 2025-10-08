@@ -53,5 +53,21 @@ Participation</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/C_T1_3D_food_printer_presention_to_other_school_teachers.png">
 </div>
-<p><strong>C&amp;T1_3D food printer presention to other school teachers</strong>
+<p><strong>3D food printer presentation to other school teachers</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/C_T2_Urban_Sketch_1.jpg">
+</div>
+<p><strong>Urban Sketch </strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/C_T3_Art_sculpture.jpg">
+</div>
+<p><strong>Art Sculpture</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/C_T4_D_T_peer_assessment.jpg">
+</div>
+<p><strong>D&amp;T peer assessment</strong>
 </p>
