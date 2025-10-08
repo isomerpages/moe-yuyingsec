@@ -2,4 +2,5 @@ collections:
   the-yuying-experience:
     output: true
     order:
+      - Student Well being & Resilence Framework.md
       - Character & Citizenship Education.md
