@@ -54,3 +54,32 @@ voice in organising the event and rallying the school for mass cheer. This
 is a good opportunity for them to lead by example, support peers during
 activities, and grow in leadership and communication skills.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_10_08_130908.png">
+</div>
+<p><strong>Interclass Games (a)</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/b.png">
+</div>
+<p><strong>Interclass Games (b)</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/c.png">
+</div>
+<p><strong>Mass Run (a)</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/d.png">
+</div>
+<p><strong>Mass Run (b)</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/e.png">
+</div>
+<p><strong>PE Ambassadors</strong>
+</p>
