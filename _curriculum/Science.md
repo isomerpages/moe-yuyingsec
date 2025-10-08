@@ -93,7 +93,8 @@ in our students.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/H2GP_2024.jpg">
 </div>
-<p></p>
+<p><strong>H2GP</strong>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NXplorer_2024.jpg">
