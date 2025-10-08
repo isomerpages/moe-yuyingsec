@@ -2,7 +2,7 @@ collections:
   the-yuying-experience:
     output: true
     order:
-      - Co Curricular Activities/.keep
       - Student Well being & Resilence Framework.md
       - Student Well Being.md
       - Character & Citizenship Education.md
+      - Co Curricular Activities/.keep
