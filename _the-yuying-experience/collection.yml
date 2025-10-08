@@ -2,14 +2,14 @@ collections:
   the-yuying-experience:
     output: true
     order:
+      - Student Well being & Resilence Framework.md
+      - Student Well Being.md
+      - Character & Citizenship Education.md
+      - CCA Clubs & Societies/.keep
       - CCA Clubs & Societies/Eco EAGLES.md
       - CCA Clubs & Societies/Drama Club.md
       - CCA Clubs & Societies/InnoTech Club.md
       - CCA Clubs & Societies/Photography Club.md
-      - CCA Clubs & Societies/.keep
-      - Student Well being & Resilence Framework.md
-      - Student Well Being.md
-      - Character & Citizenship Education.md
       - CCA Physical Sports/.keep
       - CCA Physical Sports/Badminton (Boys).md
       - CCA Physical Sports/Basketball (Boys).md
