@@ -53,11 +53,14 @@ so that they may become aspiring musicians and individuals.
 developed and introduced new learning strategies such as spiral learning
 and self-directed learning in our music programme.
 <br>
-<br>(photo) : Secondary One students participating in a class performance
-<br>(photo) : Secondary One students playing a popular song after learning
-a new strumming pattern
 <br>
-<br>Our Secondary One students will be introduced to a 10-week ukulele module
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary_One_students_participating_in_a_class_performance.jpg">
+</div>
+<p><strong>Secondary One students participating in a class performance </strong>
+</p>
+<p>Our Secondary One students will be introduced to a 10-week ukulele module
 that teaches them how to read chord diagrams and play some popular songs
 on the ukulele. This trains their perseverance, discipline and eye-hand
 coordination. With the ukulele being one of the most popular and easiest-to-learn
@@ -76,16 +79,21 @@ On top of that, they will also create music using technology such as music
 apps on the iPad. Students have become more independent in their learning
 and innovative with their creativity when creating and performing music.
 <br>
-<br>(photo) : Secondary Two students learning to play a piece of music with
-both hands
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/A_Secondary_Two_student_practicing_the_note_rhythms_while_his_classmate_helps_to_clap_the_beats.jpg">
+</div>
+<p><strong>Secondary Two students learning to play a piece of music with both hands </strong>
 <br>
 <br>At the end of the two years, we believe that students will be nurtured
 into more confident, resilient and creative individuals who will be able
 to inspire others with their talents in the future.
 <br>
-<br>(photo) : A Secondary Two student practicing the note rhythms while his
-classmate helps to clap the beats
-<br>(photo) : Secondary Two students learning to identify notes on the keyboard
-<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary_Two_students_learning_to_identify_notes_on_the_keyboard.jpg">
+</div>
+<p><strong>Secondary Two students learning to identify notes on the keyboard</strong>
 </p>
 <p></p>
