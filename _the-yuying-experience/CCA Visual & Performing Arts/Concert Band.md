@@ -33,3 +33,8 @@ while building a supportive and inspiring community.</p>
 </div>
 <p><strong>NDP Backstage</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Yuying_Secondary_School_DSC_0163.jpg">
+</div>
+<p><strong>Yuying Secondary School DSC</strong>
+</p>
