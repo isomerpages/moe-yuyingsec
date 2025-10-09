@@ -23,4 +23,10 @@ ready to lead and contribute.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NSG_B_Division_Boys_2025_.jpg">
 </div>
-<p>NSG B Division Boys 2025</p>
+<p><strong>NSG B Division Boys 2025</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Outreach_program___Horizon_Primary_School_2024.jpg">
+</div>
+<p><strong>Outreach program @ Horizon Primary School 2024</strong>
+</p>
