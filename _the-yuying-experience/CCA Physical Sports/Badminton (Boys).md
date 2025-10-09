@@ -24,4 +24,9 @@ C Division Boys Placement round</p>
 <p>- 2025 1st Place for CCA placing in Soaring Over Adversity Mass Run (Lower
 Sec Girls)</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/B_div_players.png">
+</div>
+<p><strong>B Div players 2025</strong>
+</p>
 <p></p>
