@@ -23,4 +23,9 @@ and excellent team players.</p>
 <p>BB Blaze 2025: Silver Honour Roll</p>
 <p>BB Character Quest 2024: Bronze Honour Roll</p>
 <p>BB Week 2025: Bronze Honour Roll</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Enrolment_and_Dedication_Ceremony.png">
+</div>
+<p><strong>Enrolment and Dedication Ceremony</strong>
+</p>
 <p></p>
