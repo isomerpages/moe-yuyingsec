@@ -15,9 +15,13 @@ future-focused environment where students apply creative problem-solving,
 lead green initiatives, and explore partnerships that inspire meaningful
 change for tomorrow.</p>
 <h3>Accomplishments</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/rice_harvesting.png">
 </div>
 <p><strong>Rice harvesting in YYSS</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/workshop_at_Mandai_Zoo.jpg">
+</div>
+<p><strong>Workshop at Mandai Zoo</strong>
 </p>
