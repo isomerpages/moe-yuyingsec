@@ -25,5 +25,5 @@ can explore diverse stories and characters.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/curtain_falls.png">
 </div>
-<p><strong>2025 SYF - The curtain falls, but the applause lingers. Students take a bow after a successful show</strong>
+<p><strong>2025 SYF - The curtain falls, but the applause lingers. Students take a bow after a successful show.</strong>
 </p>
