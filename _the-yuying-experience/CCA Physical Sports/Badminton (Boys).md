@@ -17,11 +17,11 @@ is encouraged to give their best, support one another, and take pride in
 representing the school. Beyond the court, badminton helps students build
 confidence, friendships and values for life.</p>
 <h3>Accomplishments</h3>
-<p>- 2025 National School Games Badminton B Division Boys Championship</p>
-<p>- 2025 National School Games Badminton C Division Boys Championship</p>
-<p>- Promoted from League 3 to League 2 in 2025 National School Games Badminton
+<p>2025 National School Games Badminton B Division Boys Championship</p>
+<p>2025 National School Games Badminton C Division Boys Championship</p>
+<p>Promoted from League 3 to League 2 in 2025 National School Games Badminton
 C Division Boys Placement round</p>
-<p>- 2025 1st Place for CCA placing in Soaring Over Adversity Mass Run (Lower
+<p>2025 1st Place for CCA placing in Soaring Over Adversity Mass Run (Lower
 Sec Girls)</p>
 <p></p>
 <div class="isomer-image-wrapper">
