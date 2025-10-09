@@ -21,10 +21,12 @@ their talents, confidence, and leadership skills in a supportive environment.</p
 events — students gain valuable exposure while learning teamwork, resilience,
 and the importance of giving their best.</p>
 <h3>Accomplishments</h3>
-<p>SYF Arts Presentation:</p>
+<p><strong>SYF Arts Presentation:</strong>
+</p>
 <p>Certificate of Distinction (2025, 2021, 2019)</p>
 <p>Certificate of Accomplishment (2023)</p>
-<p>Other Competitions &amp; Public Performance:</p>
+<p><strong>Other Competitions &amp; Public Performance:</strong>
+</p>
 <p>Mutiara Tari Malay Dance Competition 2024 - First Runner-up</p>
 <p>Extraordinary Concert 2023 &amp; 2024</p>
 <div class="isomer-image-wrapper">
