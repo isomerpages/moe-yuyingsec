@@ -5,4 +5,14 @@ variant: tiptap
 description: ""
 third_nav_title: CCA Clubs & Societies
 ---
+<h2>Eco Eagles</h2>
+<h3>Objectives</h3>
+<p>Eco-EAGLES seeks to develop Enterprising, Adaptable, and Gracious LEaderS
+who are passionate about creating a sustainable future. Through authentic
+engagement with environmental issues, students are empowered to innovate,
+advocate, and act with compassion. The CCA provides a collaborative and
+future-focused environment where students apply creative problem-solving,
+lead green initiatives, and explore partnerships that inspire meaningful
+change for tomorrow.</p>
+<h3>Accomplishments</h3>
 <p></p>
