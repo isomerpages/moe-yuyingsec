@@ -31,4 +31,5 @@ while building a supportive and inspiring community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NDP_BACKSTAGE_2.jpg">
 </div>
-<p>NDP Backstage</p>
+<p><strong>NDP Backstage</strong>
+</p>
