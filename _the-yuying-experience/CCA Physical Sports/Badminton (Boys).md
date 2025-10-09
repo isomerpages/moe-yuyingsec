@@ -29,4 +29,8 @@ Sec Girls)</p>
 </div>
 <p><strong>B Div players 2025</strong>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/C_div_In_action.jpg">
+</div>
+<p><strong>C div In action</strong>
+</p>
