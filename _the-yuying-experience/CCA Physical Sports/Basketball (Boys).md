@@ -20,3 +20,7 @@ ready to lead and contribute.</p>
 <p>Attained Top 12 position in the B Division South Zone (2024)</p>
 <p>Awarded 2nd Place in the Serangoon Gardens Cup (2024)</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NSG_B_Division_Boys_2025_.jpg">
+</div>
+<p>NSG B Division Boys 2025</p>
