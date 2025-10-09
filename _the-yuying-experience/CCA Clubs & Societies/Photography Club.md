@@ -26,7 +26,7 @@ that inspire and refine students' craft.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Contributing_back_to_the_Community_3.jpg">
 </div>
-<p><strong>Contributing back to the Community </strong>
+<p><strong>Contributing back to the Community</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photographers_in_Action.jpg">
