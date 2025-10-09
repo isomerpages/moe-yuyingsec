@@ -34,4 +34,5 @@ and improving physical fitness.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_NSG_Group_1.jpg">
 </div>
-<p>2025 NSG Group</p>
+<p><strong>2025 NSG Group</strong>
+</p>
