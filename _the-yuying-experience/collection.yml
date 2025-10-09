@@ -2,7 +2,6 @@ collections:
   the-yuying-experience:
     output: true
     order:
-      - Student Management.md
       - Student Well being & Resilence Framework.md
       - Student Well Being.md
       - Character & Citizenship Education.md
@@ -32,3 +31,4 @@ collections:
       - CCA Visual & Performing Arts/Malay Dance.md
       - CCA Visual & Performing Arts/24 Seasons Drums.md
       - Student Leadership.md
+      - Student Management.md
