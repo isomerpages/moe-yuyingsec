@@ -29,7 +29,7 @@ and Integrity and Responsible Decision-Making with Compassion</p>
 <p>- Leadership module: Envisioning Goals, Empowering Peers, and Collaborative
 Teamwork</p>
 <p>- Planning and facilitating class bonding activities</p>
-<p>- Faciliatating CCE lessons</p>
+<p>- Facilitating CCE lessons</p>
 <p>- Organising school events such as NE events, Teachers' Day Celebrations,
 Sustainability Week</p>
 <p>- Mentorship support from Form Teachers</p>
@@ -46,4 +46,32 @@ Programme, Student Leadership Investiture, and Teachers’ Day Celebration</p>
 <p>- Planning and managing school events spanning Community Outreach &amp;
 Advocacy, Administration &amp; Operations, and Well-being &amp; Training</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Class_Leader_presents_ideas_discussed_during_CNY_celebration.jpg">
+</div>
+<p><strong>Class Leader presents ideas discussed during CNY celebration</strong>
+</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Farewell_event_for_Sec_4_Prefects.jpg">
+</div>
+<p><strong>Farewell event for Sec 4 Prefects</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pinning_of_pins_during_Student_Leaders_Investiture.jpg">
+</div>
+<p><strong>Pinning of pins during Student Leaders Investiture</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The_Leadership_Challenge_Workshop_photo_1.jpg">
+</div>
+<p><strong>The Leadership Challenge Workshop (a)</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The_Leadership_Challenge_Workshop_photo_2.jpg">
+</div>
+<p><strong>The Leadership Challenge Workshop (b)</strong>
+</p>
