@@ -25,4 +25,8 @@ the school and community with pride.</p>
 </div>
 <p><strong>Our Yuying cadets at the NPCC Annual Parade (NPAP)</strong>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our_Yuying_NPCC_Unit.jpg">
+</div>
+<p><strong>Our Yuying NPCC Unit</strong>
+</p>
