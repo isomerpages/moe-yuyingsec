@@ -18,10 +18,14 @@ prepared for personal growth and future challenges.</p>
 <h3>Accomplishments</h3>
 <p>2024 Chinese New Year, Founders' Day, National Day</p>
 <p>2025 Invited to perform at Singapore’s Largest Inclusive Concert – An
-Extraordinary Celebration</p>
+Extra Ordinary Celebration</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Perform_with_Extra_Ordinary_People_from_Hong_Chi_Association__Hong_Kong_.jpg">
 </div>
-<p><strong>Perform with Extra Ordinary People from Hong Chi Association (Hong Kong)</strong>
+<p><strong>Perform with Extra Ordinary People from Hong Chi Association (Hong Kong) a</strong>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Perform_with_Extra_Ordinary_People_from_Honh_Chi_Association__Hong_Kong_.jpg">
+</div>
+<p><strong>Perform with Extra Ordinary People from Hong Chi Association (Hong Kong) b</strong>
+</p>
