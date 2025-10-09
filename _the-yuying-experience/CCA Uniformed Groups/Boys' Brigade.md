@@ -31,5 +31,5 @@ and excellent team players.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interacting_with_beneficiaries_at_the_BB_95th_Anniversary_Family_Carnival_in_August_2025_.png">
 </div>
-<p><strong>Interacting with beneficiaries at the BB 95th Anniversary Family Carnival in August 2025</strong> 
+<p><strong>Interacting with beneficiaries at the BB 95th Anniversary Family Carnival in August 2025</strong>
 </p>
