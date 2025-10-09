@@ -7,18 +7,17 @@ third_nav_title: CCA Visual & Performing Arts
 ---
 <h2>Guzheng Ensemble</h2>
 <h3>Objectives</h3>
-<p>Yuying Guitar Ensemble (YYGE) aims to cultivate well-rounded musicianship
-and foster a deep appreciation for collaborative music-making. Through
-dedicated practice and performance, students will enhance their ensemble
-playing skills, focusing on active listening, precise rhythm, and dynamic
-expression within a group setting. We strive to expand repertoire knowledge,
-exploring diverse musical styles and genres adapted for guitars. Beyond
-technical mastery, the ensemble promotes teamwork, discipline, and and
-commitment, as members learn to contribute effectively to a shared artistic
-vision. We also give back to society by actively participating in Values-in-Action
-(VIA) initiatives, leveraging our musical talents for community benefit.
-Ultimately, we seek to build confidence and provide enriching performance
-opportunities that inspire a lifelong love for music.</p>
+<p>The Guzheng Ensemble aims to nurture a deep appreciation for traditional
+Chinese music while developing students’ musical skills through the learning
+and performance of the Guzheng. Open to all students regardless of prior
+musical background, the Ensemble provides a supportive environment where
+members grow together in both musicality and character. Through regular
+practices, public performances, and competitions, students gain valuable
+experience, build confidence, and develop discipline, resilience, and teamwork.
+Leadership and mentorship opportunities are also offered, empowering senior
+members to guide and inspire their juniors. We strive to cultivate not
+only skilled musicians but also responsible and committed individuals who
+take pride in preserving and promoting our cultural heritage.</p>
 <h3>Accomplishments</h3>
 <p>2023 SYF Arts Presentation (Certificate of Distinction)</p>
 <p>2025 SYF Arts Presentation (Certificate of Accomplishment)</p>
