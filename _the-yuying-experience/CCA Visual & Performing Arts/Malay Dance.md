@@ -32,4 +32,8 @@ and the importance of giving their best.</p>
 </div>
 <p><strong>MD Extraordinary Concert 2023</strong>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MD_Mutiara_Tari_Competition.jpg">
+</div>
+<p><strong>MD Mutiara Tari Competition</strong>
+</p>
