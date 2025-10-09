@@ -27,5 +27,9 @@ and the importance of giving their best.</p>
 <p>Other Competitions &amp; Public Performance:</p>
 <p>Mutiara Tari Malay Dance Competition 2024 - First Runner-up</p>
 <p>Extraordinary Concert 2023 &amp; 2024</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MD_Extraordinary_Concert_2023.jpg">
+</div>
+<p><strong>MD Extraordinary Concert 2023</strong>
+</p>
 <p></p>
