@@ -18,5 +18,17 @@ commitment, as members learn to contribute effectively to a shared artistic
 vision. We also give back to society by actively participating in Values-in-Action
 (VIA) initiatives, leveraging our musical talents for community benefit.
 Ultimately, we seek to build confidence and provide enriching performance
-opportunities that inspire a</p>
-<p>lifelong love for music."</p>
+opportunities that inspire a lifelong love for music.</p>
+<h3>Accomplishments</h3>
+<p>2023 SYF Arts Presentation (Certificate of Distinction)</p>
+<p>2025 SYF Arts Presentation (Certificate of Accomplishment)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Guitar_syf.jpg">
+</div>
+<p><strong>Guitar SYF</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/teaching_student_ukulele.jpg">
+</div>
+<p><strong>Teaching student ukulele</strong>
+</p>
