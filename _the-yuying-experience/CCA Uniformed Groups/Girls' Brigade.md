@@ -29,5 +29,13 @@ skills but also the humility and heart to lead by serving others.</p>
 <h3>Accomplishments</h3>
 <p>2025 Girls' Brigade Drill Competition (Silver)</p>
 <p>2024 Girls' Brigade Company Award (Silver)</p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our_Girl_s_Brigade_cadets_helping_each_other_to_prepare_gifts_for_beneficiaries.jpg">
+</div>
+<p><strong>Our Girl's Brigade cadets helping each other to prepare gifts for beneficiaries</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our_Yuying_Girl_s_Brigade_Unit.jpg">
+</div>
+<p><strong>Our Yuying Girl's Brigade Unit</strong>
+</p>
