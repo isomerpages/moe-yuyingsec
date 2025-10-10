@@ -18,7 +18,7 @@ very own vehicle prototypes.</p>
 </p>
 <p>Through drone coding, students will develop computational thinking and
 programming skills to be future-ready.</p>
-<p><strong>Scent-making workshop </strong>
+<p><strong>Scent-making workshop</strong>
 </p>
 <p>Students will apply chemical separation techniques to concoct their own
 DIY scent through the exploration of various chemical proportions.</p>
