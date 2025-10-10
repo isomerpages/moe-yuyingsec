@@ -27,6 +27,6 @@ DIY scent through the exploration of various chemical proportions.</p>
 <p>Students will take part in a globetrotting experience where they ‘travel’
 to different cities in the world to solve mathematical problems.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ivuL03fTwGs?si=QOkC5oNeUVg2e7ri"></iframe>
+<iframe height="630" width="1120" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ivuL03fTwGs?si=QOkC5oNeUVg2e7ri"></iframe>
 </div>
 <p></p>
