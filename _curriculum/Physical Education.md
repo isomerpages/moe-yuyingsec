@@ -6,9 +6,8 @@ variant: tiptap
 ---
 <h1>PE Department</h1>
 <h3>Vision</h3>
-<p>CARE - Championing Active, Resilient Eagles</p>
-<p>Every Yuying student an active and resilient individual, confident in
-pursuing physical excellence and personal well-being.</p>
+<p>Every Yuying student an active and resilient learner -- nurturing well-being,
+striving for excellence an growing through challenges.</p>
 <h3>Mission</h3>
 <p>The PE Department at Yuying Secondary School is dedicated to inspiring
 active, resilient Eagles who embody personal excellence through dynamic
