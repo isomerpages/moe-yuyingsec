@@ -158,10 +158,7 @@ available only on Mondays and Wednesdays (10am to 3pm)</p>
 </li>
 </ul>
 <h3>Financial Assistance</h3>
-<p>MOE-FAS 2025 application is now open. You can apply&nbsp;<strong><a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">online</a></strong>.
-Alternatively, you can download the <a href="/files/Pdf/Uniforms and Textbooks/MOE_FAS_Application_Form_2025.pdf" rel="noopener nofollow" target="_blank">MOE FAS Application Form 2025 </a>or
-collect a copy at your child’s school. Submit the completed form directly
-to the school.</p>
+<p>MOE-FAS 2026 application is now open. You can apply&nbsp;<strong><a href="https://go.gov.sg/moe-efasggas" rel="noopener noreferrer nofollow" target="_blank">online</a></strong>.</p>
 <p>Please refer to this attachment for the step-by-step guide on how to redeem
 FAS Transitlink Evouchers.&nbsp; <a href="https://www.moe.gov.sg/-/media/images/news/press/meal_subsidies_redemption_guide.pdf?la=en&amp;hash=5D7DADF07A43E4DBBF2FF0AAF231B7EADBECDD94" rel="noopener noreferrer nofollow" target="_blank">TransitLink_Evoucher_Redemption_Process.pdf</a>
 </p>
