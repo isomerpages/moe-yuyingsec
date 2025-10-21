@@ -99,7 +99,7 @@ Our Staff
 |                         | Mr Seetoh Kok Leong   | seetoh_kok_leong@moe.edu.sg   |
 | 2 Unity     | Ms Lea Wong    | 	lea_wong_lay_yi@moe.edu.sg   |
 |                         | Mr Sandhu    | gulzar_gurdev_singh_sandhu@moe.edu.sg  |
-|                         | Mr David Ngo   | ngo_wee_heng_david@moe.edu.sg  |
+|                         | Mr David Ngo   | ngo_wee_heng_david_a@moe.edu.sg  |
 | 2 Leadership     | Mr Edmund Teo    | teo_huai_wei_edmund@moe.edu.sg |
 |                         | Mr Freddy Khoo    | khoo_hong_shan_freddy@moe.edu.sg  |
 | Year Head   | Ms Linda Marie     |   linda_marie@moe.edu.sg                                               |                                    | 
