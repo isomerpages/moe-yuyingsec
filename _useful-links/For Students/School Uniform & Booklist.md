@@ -6,7 +6,32 @@ third_nav_title: For Students
 variant: tiptap
 ---
 <h1>School Uniform &amp; Booklist</h1>
-<h4><strong><u>School Bookshop (Purchase of Textbooks and Uniforms)</u></strong></h4>
+<p>For the coming 2026 Textbooks and Uniforms Sales, the school has arranged
+for both online purchase/delivery and physical sales in school:
+<br>_____________________________________________________________________________________________________</p>
+<h4><strong><u>Online Sales Details:</u></strong></h4>
+<p><strong>For Textbook sales (until 19 Dec 2025):</strong>
+<br>Vendor:<u> Casco Educational Supply Pte Ltd</u>
+<br>Online sale (4 Nov – 15 Dec 2025) url: <a rel="noopener noreferrer nofollow" target="_blank">https://cascoedusupply.com.sg</a>
+<br>Delivery to home (with $14.20 delivery charge) or collection with appointment
+at school bookshop via online (10 Nov to 28 Nov 2025 and 15 Dec to 19 Dec
+2025, 9am to 3pm)
+<br>You may contact the school bookshop at 62859442 for further online sales
+enquiry.</p>
+<p><strong><u>For Uniform sales:</u></strong>
+</p>
+<p>Vendor:<u> Shanghai School Uniforms</u>
+<br>Online sale url: <a rel="noopener noreferrer nofollow" target="_blank">https://shanghai-uniforms.sg/shop/category/yuying-secondary-school-176</a> &nbsp;with
+$10 delivery charge and you will be required to create an online account
+<br>Retail@Ubi address: 63 Ubi Ave 1, #04-09, Singapore 408937
+<br>(Strictly by appointment booking online only vias: <a href="https://shanghai-uniforms.sg/appointment-booking" rel="noopener noreferrer nofollow" target="_blank">https://shanghai-uniforms.sg/appointment-booking</a> )
+<br>Tel: 6747 8037 (Retail@Ubi)&nbsp;&nbsp; /&nbsp;Tel: 6352 2741 (Office)</p>
+<p>_____________________________________________________________________________________________________</p>
+<h4><strong><u>Physical Sales in School Schedule (By Appointment only)</u></strong><br></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Images/Physical_Sales_in_School_Schedule_2026.jpg">
+</div>
+<h4><br><strong><u>School Bookshop (Purchase of Textbooks)</u></strong></h4>
 <p>Vendor: Casco Educational Supply Pte Ltd</p>
 <p>Contact: 62859442</p>
 <p>Operating Hours: 8am to 3pm (School Days), Closed on School Holidays,
@@ -21,27 +46,21 @@ on the textbooks:</p>
 <h3>School Booklist / Stationery List</h3>
 <p>Please refer to the attached textbook list for more information</p>
 <h5><strong>Sec 1</strong></h5>
-<p><a href="/files/Pdf/Uniforms and Textbooks/Sec_1_Textbook_list_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Textbook list 2025</a>
-</p>
+<p>T.B.C</p>
 <h5><strong>Sec 2</strong></h5>
-<p><a href="/files/Pdf/Uniforms and Textbooks/Sec_2_Textbook_list_2025.pdf" rel="noopener nofollow" target="_blank">Sec 2 Textbook list 2025</a>
+<p><a href="/files/Booklist/Sec_2_Textbook_list_2026.pdf" rel="noopener nofollow" target="_blank">Sec 2 Textbook List 2026</a>
 </p>
 <h5><strong>Sec 3</strong></h5>
-<p><a href="/files/Pdf/Uniforms and Textbooks/Sec_3_Express_G3_Textbook_list_2025.pdf" rel="noopener nofollow" target="_blank">Sec 3 Express G3 Textbook list 2025</a>
-</p>
-<p><a href="/files/Pdf/Uniforms and Textbooks/Sec_3_NA_G2_Textbook_list_2025.pdf" rel="noopener nofollow" target="_blank">Sec 3 NA G2 Textbook list 2025</a>
-</p>
-<p><a href="/files/Pdf/Uniforms and Textbooks/Sec_3_NT_G1_Textbook_list_2025.pdf" rel="noopener nofollow" target="_blank">Sec 3 NT G1 Textbook list 2025</a>
+<p><a href="/files/Booklist/Sec_3_Textbook_list_2026.pdf" rel="noopener nofollow" target="_blank">Sec 3 Textbook List 2026</a>
 </p>
 <h5><strong>Sec 4 / 5</strong></h5>
-<p><a href="/files/Pdf/Uniforms and Textbooks/Sec_4_Express_G3_Textbook_list_2025.pdf" rel="noopener nofollow" target="_blank">Sec 4 Express G3 Textbook list 2025</a>
+<p><a href="/files/Booklist/Sec_4_Express_G3_Textbook_list_2026.pdf" rel="noopener nofollow" target="_blank">Sec 4 Express G3 Textbook list 2026</a>
 </p>
-<p><a href="/files/Pdf/Uniforms and Textbooks/Sec_4_NA_G2_Textbook_list_2025.pdf" rel="noopener nofollow" target="_blank">Sec 4 NA G2 Textbook list 2025</a>
+<p><a href="/files/Booklist/Sec_4_NA_G2_Textbook_list_2026.pdf" rel="noopener nofollow" target="_blank">Sec 4 NA G2 Textbook list 2026</a>
 </p>
-<p><a href="/files/Pdf/Uniforms and Textbooks/Sec_4_NT_G1_Textbook_list_2025.pdf" rel="noopener nofollow" target="_blank">Sec 4 NT G1 Textbook list 2025</a>
+<p><a href="/files/Booklist/Sec_4_NT_G1_Textbook_list_2026.pdf" rel="noopener nofollow" target="_blank">Sec 4 NT G1 Textbook list 2026</a>
 </p>
-<p><a href="/files/Pdf/Uniforms and Textbooks/Sec_5_NA_G2_Textbook_list_2025.pdf" rel="noopener nofollow" target="_blank">Sec 5 NA G2 Textbook list 2025</a>
-</p>
+<p>Sec 5 (T.B.C)</p>
 <p></p>
 <h4><strong><u>Uniform Vendor</u></strong></h4>
 <p>Vendor: Shanghai School Uniforms</p>
