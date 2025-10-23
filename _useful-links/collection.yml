@@ -2,10 +2,8 @@ collections:
   useful-links:
     output: true
     order:
-      - Open House.md
       - For Students/.keep
       - For Students/Student Handbook 2025.md
-      - For Students/SGC Collection.md
       - For Students/Holiday Homework.md
       - For Students/Assessment.md
       - For Students/School Timetable.md
@@ -13,7 +11,6 @@ collections:
       - For Students/School Fees & Financial Assistance.md
       - For Students/SLS Ace Opac.md
       - For Parents/.keep
-      - For Parents/Strategic Partnership CCA.md
       - For Parents/2025 Sec 1 Cohort Matters.md
       - For Parents/Insurance for Students.md
       - For Parents/MOE Sexuality Education.md
@@ -23,3 +20,5 @@ collections:
       - For Parents/Full Subject Based Banding.md
       - For Staff.md
       - Direct School Admission.md
+      - Open House.md
+      - School Canteen Advertisement.md

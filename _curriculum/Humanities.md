@@ -2,69 +2,111 @@
 title: Humanities
 permalink: /curriculum/Humanities/
 description: ""
+variant: tiptap
 ---
-Humanities
-==========
-
-
-<figure><img src="/images/Humanities.png" style="width:100%"><figcaption> Photograph of our Secondary 3 students gathering weather data for their Geographical Investigation Project</figcaption></figure>
-
-
-#### Vision
-
-Critical and Compassionate learners in the 21 Century Competencies 
-#### Mission
-
-To cultivate an appreciation of the Humanities in the students; and instil in them a strong civic consciousness through varied teaching approaches in Humanities Education. 
-
-#### Teaching and Learning Model/Approach/Pedagogy
-
-The study of Humanities utilises the use of inquiry. This approach encourages questioning, critical thinking, investigation and problem solving in the exploration of issues surrounding us. 21st Century skills are infused in the Humanities lessons in order to nurture our students to be independent learners. Students undergo lessons that are incorporated with Thinking Routines, an element of Visible Thinking, to meaningfully foster critical thinking amongst the students. 
-
-#### Curriculum/Signature Programmes
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-znal{background-color:#FFF;color:#726E91;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-r6qm{background-color:#FFF;color:#313942;text-align:center;vertical-align:top}
-.tg .tg-vrgi{background-color:#FFF;color:#313942;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-znal"><span style="font-weight:bold;color:#726E91">Programme Name</span></th>
-    <th class="tg-znal"><span style="font-weight:bold;color:#726E91">Details</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-r6qm"><br><br><span style="font-weight:400;color:#313942">Lower Secondary Geographical and Historical Investigation Projects  </span></td>
-    <td class="tg-vrgi">The study of Geography and History in Yuying involves the exploration process of learning through inquiry. This inquiry journey will allow students to embark on a learning experience that encourages questioning, investigation and critical thinking about issues affecting the environment, people’s lives, past and present.  It comprises four aspects of sparking curiosity, gathering data, exercising reasoning, and reflective thinking. Some of the issues our Lower Secondary students have looked into includes environmental conservation and waste management, National Service, housing challenges, past and present. <br><br><br></td>
-  </tr>
-  <tr>
-    <td class="tg-r6qm"><br><span style="font-weight:400;color:#313942">Sec 3 SS cum VIA Project </span></td>
-    <td class="tg-r6qm"><span style="font-weight:400;color:#313942">Secondary 3 students project provides students with the opportunity to examine a societal issue critically. While embarking on their group’s Issue Investigation, they will be </span><span style="background-color:initial">practising and strengthening a wide range of lifelong skills and responding constructively to a societal issue as informed, concerned and participative citizens. They will also propose solutions to address gaps in the society and execute these ideas as part of their Values-In-Action (VIA) project.</span></td>
-  </tr>
-</tbody>
-</table>
-
-
-
-#### Enrichment
-
-Learning Journeys are integral to the holistic development of students. We believe in exposing our students to different ranges of issues – from self to national and global. 
-
-
-Integrated Learning Journeys are planned to provide experiential learning that deepens the students’ understanding. Some of the learning journeys we have brought students for includes local learning journeys to the Hindhede Nature Park and historical districts such as Kampong Glam and tourist attractions like Orchard Road, where Geography students carry out fieldwork activities, Former Ford Factory where our History students extend their Historical understanding of the war and the Universal Studio Singapore, to deepen our EBS students’ understanding of the tourism industry.
-
-<figure><img src="/images/LJ.png" style="width:100%"><figcaption> Photographs of our Sec 1 Learning Journey to the Hindhede Nature Park</figcaption></figure>
-
-To develop our students’ cultural intelligence, we have also brought many students for overseas learning journeys. Our students would get to interact with students from other countries such as Japan, Perth, Cambodia and Hong Kong. These trips are carefully planned to include what they have learnt in the classrooms and to develop their global awareness and cross-cultural skills, as well as deepen their commitment and rootedness to Singapore.
-
-<figure><img src="/images/LJ1.png" style="width:75%"><figcaption> Cultural Immersion Trip to Osaka</figcaption></figure> 
-
-<figure><img src="/images/LJ2.png" style="width:75%"><figcaption> Combined Hum-Sci cum Cultural Exchange Trip to Perth</figcaption></figure>
+<h1>Humanities</h1>
+<h4>Vision</h4>
+<p>Every Yuying student a critical thinker and compassionate learner with
+a global perspective.</p>
+<h4>Mission</h4>
+<p>Cultivating critical thinking, cultural understanding, responsible citizenship,
+financial literacy, and the ability to navigate a VUCA future, while fostering
+a global mindset, passion for learning, and spirit of service.</p>
+<h4>Philosophy</h4>
+<p>We believe that the study of Humanities is essential in shaping well-rounded
+individuals who are equipped to thrive in a rapidly changing and interconnected
+world. Through a student-centered approach that emphasises inquiry based
+learning, collaboration, and real-world connections, we strive to nurture
+students to be critical thinkers and compassionate learners with a global
+perspective.</p>
+<h4>Key Programmes &amp; Competitions</h4>
+<p><strong>Level Programme</strong>
+</p>
+<p><strong>Lower Sec Geographical And Historical Investigation</strong>
+</p>
+<p>Lower Sec Geographical and Historical Investigation provide students with
+opportunities to appreciate the real-world application of geographical
+and historical knowledge and skills, as well as help them to acquire the
+21st Century Competencies.</p>
+<p><strong>Sec 3 Social Studies Issue Investigation</strong>
+</p>
+<p>Social Studies Issue Investigation offers students a platform to apply
+the knowledge, skills, and values essential for active citizenship. The
+skills developed are closely aligned with those from Geography and History
+at the lower secondary level. This connection helps students recognize
+the relationship between different Humanities subjects and understand how
+these skills contribute to their development as informed, engaged, and
+responsible citizens.</p>
+<p><strong>Sec 1 Integrated Humanities Learning Journey</strong>
+</p>
+<p>Sec 1 integrated Humanities learning journey to Labrador Park offers students
+an exciting opportunity to explore the rich history of the park and its
+mangrove forest through the historical and geographical lenses. Through
+interactive games and engaging activities, students deepen their understanding
+of the park’s historical significance and the unique ecosystem of the mangroves.
+This hands-on experience brings learning to life, allowing students to
+connect with the environment and history in a fun and meaningful way.</p>
+<p><strong>Sec 3 Financial Literacy Programme</strong>
+</p>
+<p>Sec 3 students gain financial knowledge through the a digital boardgame
+which simulates real-life situations. This interactive game will teach
+the importance of life-long learning by allowing students to make education,
+career, and financial decisions in a fun, risk-free environment.</p>
+<p><strong>Elements of Business Studies (EBS) Learning Journey</strong>
+</p>
+<p>Sec 3 students visit a place of interest/ local business/ hospitality
+establishment where they will gain valuable insights into the hospitality
+industry, bringing their EBS learning to life.</p>
+<p><strong>Stretch Programme</strong>
+</p>
+<p>NUS Geography Challenge</p>
+<p>MOE History Challenge</p>
+<p>Sec 3 Model United Nations</p>
+<p>National Finlit Competition</p>
+<p>EBS Online Competition</p>
+<h4>Accomplishments</h4>
+<p><strong>2025</strong>
+</p>
+<p>NUS Geography Challenge - Certificate of Participation</p>
+<p><strong>2024</strong>
+</p>
+<p>National Cashflow Competition - 1st, 5th &amp; 9th positions</p>
+<p>NUS Geography Challenge - Certificate of Participation</p>
+<p>EBS Online Competition - Certificate of Participation</p>
+<p><strong>2023</strong>
+</p>
+<p>NUS Geography Challenge - 3 Bronze</p>
+<p>EBS Online Competition</p>
+<p>Individual Category: Marketing - 1st &amp; 3rd positions</p>
+<p>Individual Category: Communication and Customer Service - 2nd position</p>
+<p>Team Category - 2nd position</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1.png">
+</div>
+<p><strong>EBS Learning Journey to Sea Aquarium 2024</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Integrated_Humanities_Learning_Journey_at_Labrador_Park.jpg">
+</div>
+<p><strong>Integrated Humanities Learning Journey at Labrador Park</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/National_Cashflow_Competition_2024.jpg">
+</div>
+<p><strong>National Cashflow Competition 2024</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secret_Seashores_Project.jpg">
+</div>
+<p><strong>Secret Seashores Project</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students_solving_puzzles_.jpg">
+</div>
+<p><strong>Students solving puzzles</strong>
+</p>
