@@ -31,12 +31,12 @@ $10 delivery charge and you will be required to create an online account
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Images/Physical_Sales_in_School_Schedule_2026.jpg">
 </div>
-<h4><br><strong><u>School Bookshop (Purchase of Textbooks)</u></strong></h4>
-<p>Vendor: Casco Educational Supply Pte Ltd</p>
-<p>Contact: 62859442</p>
-<p>Operating Hours: 8am to 3pm (School Days), Closed on School Holidays,
-Weekends and Public Holidays</p>
-<p>*Do note that the school bookshop carries limited uniform stocks and students
+<h4><strong><u>School Bookshop (Purchase of Textbooks)</u></strong></h4>
+<p>Vendor: Casco Educational Supply Pte Ltd
+<br>Contact: 62859442
+<br>Operating Hours: 8am to 3pm (School Days), Closed on School Holidays,
+Weekends and Public Holidays
+<br>*Do note that the school bookshop carries limited uniform stocks and students
 are advised to purchase from Uniform Vendor directly if stocks are unavailable
 at the bookshop. Please note that there will be no trying of uniforms and
 students are to bring a best-fitted garment to compare and select the size.
@@ -61,16 +61,7 @@ on the textbooks:</p>
 <p><a href="/files/Booklist/Sec_4_NT_G1_Textbook_list_2026.pdf" rel="noopener nofollow" target="_blank">Sec 4 NT G1 Textbook list 2026</a>
 </p>
 <p>Sec 5 (T.B.C)</p>
-<p></p>
-<h4><strong><u>Uniform Vendor</u></strong></h4>
-<p>Vendor: Shanghai School Uniforms</p>
-<p>Retail Address: 63 Ubi Ave 1, #04-09, Singapore 408937</p>
-<p>Contact: 67478037</p>
-<p>Operating Hours: Mon - Sat from 10 a.m. to 6 p.m. (Lunch break from 1
-p.m. to 2 p.m.)</p>
-<p>Online sale url: <a href="https://shop.shanghai-uniforms.com/product-category/yuying-secondary-school/" rel="noopener noreferrer nofollow" target="_blank">https://shop.shanghai-uniforms.com/product-category/yuying-secondary-school/</a> with
-$10 delivery charge and you will be required to create an online account</p>
-<p></p>
+<h4>Recommended uniform quantity:</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -86,7 +77,7 @@ $10 delivery charge and you will be required to create an online account</p>
 <p>Items</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Recommended Number to purchase</p>
+<p>Recommended quantity to purchase</p>
 </th>
 </tr>
 <tr>
