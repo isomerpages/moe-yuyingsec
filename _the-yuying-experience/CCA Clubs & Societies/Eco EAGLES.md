@@ -18,10 +18,10 @@ change for tomorrow.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/rice_harvesting.png">
 </div>
-<p><strong>Rice harvesting in YYSS</strong>
+<p><strong>Hands-on sustainability in action as Eco EAGLES harvest rice in the school compound.</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/workshop_at_Mandai_Zoo.jpg">
 </div>
-<p><strong>Workshop at Mandai Zoo</strong>
+<p><strong>Eco EAGLES taking part in a sustainability workshop at Mandai Zoo, learning about wildlife conservation and environmental stewardship</strong>
 </p>
