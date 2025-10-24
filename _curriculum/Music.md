@@ -22,7 +22,7 @@ our lives.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary_Two_students_practising_on_the_grand_piano.jpg">
 </div>
-<p><strong>Secondary Two students practicing on the grand piano</strong>
+<p><strong>Exploring harmony and expression, Secondary Two students practicing together on the grand piano.</strong>
 <br>
 <br>Yuying Secondary School provides a two-year music curriculum that is specially
 designed to fulfill the aims of the General Music Programme and to meet
@@ -41,12 +41,11 @@ and appreciation towards music of different cultures. They will also be
 able to express themselves through interactive and creative music-making,
 so that they may become aspiring musicians and individuals.
 <br>
-<br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary_One_students_learning_basic_ukulele_chords.jpg">
 </div>
-<p><strong>Secondary One students learning basic ukulele chords</strong>
+<p><strong>Secondary One students exploring the joy of music through learning basic ukulele chords during their Music lesson.</strong>
 <br>
 <br>Music Education Programme
 <br>To cater to the demands and needs of the 21st century learners, we have
@@ -57,7 +56,7 @@ and self-directed learning in our music programme.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary_One_students_participating_in_a_class_performance.jpg">
 </div>
-<p><strong>Secondary One students participating in a class performance</strong>
+<p><strong>Secondary One students participating in a ukulele class performance during Music lessons.</strong>
 </p>
 <p>Our Secondary One students will be introduced to a 10-week ukulele module
 that teaches them how to read chord diagrams and play some popular songs
@@ -93,6 +92,6 @@ to inspire others with their talents in the future.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary_Two_students_learning_to_identify_notes_on_the_keyboard.jpg">
 </div>
-<p><strong>Secondary Two students learning to identify notes on the keyboard</strong>
+<p><strong>Secondary Two students learning to identify notes on the keyboard.</strong>
 </p>
 <p></p>
