@@ -67,25 +67,25 @@ Slams, and Debates.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="Choral Reading" src="/images/Choral_Reading.png">
 </div>
-<p><strong>Choral Reading</strong>
+<p><strong>Students presenting a choral reading in English class, enhancing their language skills and teamwork through expressive performance.</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="Debate @ EL Lesson" src="/images/Debate___EL_Lesson.jpg">
 </div>
-<p><strong>Debate @ EL Lesson</strong>
+<p><strong>Students engaging in an English debate, sharpening their critical thinking, reasoning, and public speaking skills through lively discussion.</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/NLB_KidsRead_Programme.jpg">
 </div>
-<p><strong>NLB KidsRead Programme</strong>
+<p><strong>Students participating in the NLB KidsRead Programme, fostering a love for reading and storytelling among younger learners.</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="Sec 2 Lit x AEC Learning Journey to the Theatre2" src="/images/Sec_2_Lit_x_AEC_Learning_Journey_to_the_Theatre2.jpg">
 </div>
-<p><strong>Sec 2 Lit x AEC Learning Journey to the Theatre2</strong>
+<p><strong>Secondary 2 students on their Literature x Aesthetics (AEC) Learning Journey to the theatre, gaining deeper insights into performance and storytelling.</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="Unity Writer's Festival" src="/images/Unity_Writer_s_Festival.jpg">
 </div>
-<p><strong>Unity Writer's Festival</strong>
+<p><strong>Students proudly representing the school at the Unity Young Writers Festival, celebrating creativity and excellence in writing.</strong>
 </p>
