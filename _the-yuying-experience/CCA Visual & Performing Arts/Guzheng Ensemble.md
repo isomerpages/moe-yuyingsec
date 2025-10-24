@@ -24,10 +24,10 @@ take pride in preserving and promoting our cultural heritage.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Getting_ready_for_SYF_2025.jpg">
 </div>
-<p><strong>Getting ready for SYF 2025</strong>
+<p><strong>Yuying Guzheng Ensemble getting ready for their SYF performance, radiating teamwork and dedication under the morning sun.</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Guzheng_SYF_2025.jpg">
 </div>
-<p><strong>Guzheng SYF 2025</strong>
+<p><strong>Proud of our Yuying Guzheng Ensemble for their dedication and artistry at the Singapore Youth Festival presentation.</strong>
 </p>

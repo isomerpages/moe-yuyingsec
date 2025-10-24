@@ -23,10 +23,10 @@ the school and community with pride.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our_Yuying_cadets_at_the_NPCC_Annual_Parade__NPAP_.png">
 </div>
-<p><strong>Our Yuying cadets at the NPCC Annual Parade (NPAP)</strong>
+<p><strong>Our Yuying NPCC cadets capturing a proud moment at the NPCC Annual Parade (NPAP), celebrating camaraderie and achievement.</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our_Yuying_NPCC_Unit.jpg">
 </div>
-<p><strong>Our Yuying NPCC Unit</strong>
+<p><strong>Committed to serve with integrity and unity, our Yuying NPCC family.</strong>
 </p>

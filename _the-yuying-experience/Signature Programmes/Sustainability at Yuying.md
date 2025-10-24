@@ -21,7 +21,22 @@ skills to innovate and design sustainable solutions for society.</p>
 <p>Students will experience growing and harvesting vegetables in our vertical
 farm. Students will go on learning journeys to high-tech farms to learn
 more about indoor vertical farming</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sus1.png">
+</div>
+<p><strong>Students learning about sustainable living through hands-on experiences in the Sustainability@Yuying Programme, fostering care for the environment and the community.</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sus2.png">
+</div>
+<p><strong>Students presenting their water conservation project as part of the Sustainability Programme, promoting innovation and awareness for a greener future.</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_Photo_7.jpg">
+</div>
+<p><strong>Student caring for hydroponic plants as part of the Sustainability Programme, learning about urban farming and sustainable food practices.</strong>
+</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ar-TpDh-f-M?si=TIWAHlQtLjEWA570"></iframe>
+<iframe height="369" width="656" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ar-TpDh-f-M"></iframe>
 </div>
 <p></p>

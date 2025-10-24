@@ -53,12 +53,12 @@ Participation</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/C_T1_3D_food_printer_presention_to_other_school_teachers.png">
 </div>
-<p><strong>3D food printer presentation to other school teachers</strong>
+<p><strong>Yuying students shared their 3D food printer prototype with educators from other schools, demonstrating creativity, teamwork, and technological curiosity.</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/C_T2_Urban_Sketch_1.jpg">
 </div>
-<p><strong>Urban Sketch</strong>
+<p><strong>Students showcasing their artwork from the Urban Sketch activity under Craft and Technology, capturing everyday scenes through observation and creativity.</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/C_T3_Art_sculpture.jpg">
@@ -69,11 +69,10 @@ Participation</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/C_T4_D_T_peer_assessment.jpg">
 </div>
-<p><strong>D&amp;T peer assessment</strong>
+<p><strong>Students engaging in peer assessment during Design and Technology, exchanging ideas and feedback to refine their prototypes and design thinking.</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/C_T5_D_T_Toy_design.jpg">
 </div>
-<p><strong>D&amp;T Toy design</strong>
+<p><strong>Design and Technology toy design project by a Secondary 2 student, showcasing creativity, problem-solving, and iterative design from concept to prototype.</strong>
 </p>

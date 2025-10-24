@@ -59,8 +59,7 @@ is also about developing self-discipline and good character in our students,
 and equipping them with the necessary social and emotional skills to behave
 thoughtfully and be responsible and respectful individuals. We discipline
 because we care.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SM.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sm.png">
 </div>
 <p></p>

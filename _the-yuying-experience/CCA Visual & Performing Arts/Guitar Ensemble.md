@@ -25,10 +25,10 @@ opportunities that inspire a lifelong love for music.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Guitar_syf.jpg">
 </div>
-<p><strong>Guitar SYF</strong>
+<p><strong>Yuying Guitar Ensemble performing at the Singapore Youth Festival (SYF), showcasing harmony, skill, and passion for music.</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/teaching_student_ukulele.jpg">
 </div>
-<p><strong>Teaching student ukulele</strong>
+<p><strong>Hands-on mentoring as Yuying Guitar Ensemble members teach ukulele to younger learners.</strong>
 </p>
