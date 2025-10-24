@@ -5,7 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: For Students
 ---
-<h2><strong>2025 June Holiday Homework</strong></h2>
+<h2><strong>2025 Year-End Holiday Homework</strong></h2>
+<p></p>
 <p></p>
 <p></p>
 <p><a href="/files/Pdf/Holiday Homework/Sec_1_June_Holiday_Assignments.pdf" rel="noopener nofollow" target="_blank">SECONDARY 1 HOLIDAY HOMEWORK</a>
