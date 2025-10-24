@@ -32,10 +32,10 @@ skills but also the humility and heart to lead by serving others.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our_Girl_s_Brigade_cadets_helping_each_other_to_prepare_gifts_for_beneficiaries.jpg">
 </div>
-<p><strong>Our Girl's Brigade cadets helping each other to prepare gifts for beneficiaries</strong>
+<p><strong>Girls’ Brigade cadets working together to prepare heartfelt gifts for beneficiaries, demonstrating teamwork, compassion, and service to others.</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our_Yuying_Girl_s_Brigade_Unit.jpg">
 </div>
-<p><strong>Our Yuying Girl's Brigade Unit</strong>
+<p><strong>Yuying Girl’s Brigade members exemplifying discipline, leadership and compassion.</strong>
 </p>
