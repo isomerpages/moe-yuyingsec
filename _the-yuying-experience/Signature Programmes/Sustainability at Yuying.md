@@ -31,3 +31,12 @@ more about indoor vertical farming</p>
 </div>
 <p><strong>Students presenting their water conservation project as part of the Sustainability Programme, promoting innovation and awareness for a greener future.</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_Photo_7.jpg">
+</div>
+<p><strong>Student caring for hydroponic plants as part of the Sustainability Programme, learning about urban farming and sustainable food practices.</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="369" width="656" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ar-TpDh-f-M"></iframe>
+</div>
+<p></p>
