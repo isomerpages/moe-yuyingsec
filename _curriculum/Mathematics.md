@@ -89,26 +89,26 @@ Lower Sec NT individual – 6th position</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Desmos_Art_by_3NA_Students.jpg">
 </div>
-<p><strong>Desmos Art by 3NA Students</strong>
+<p><strong>Creative Desmos Art by 3NA students, showcasing their mathematical understanding through design and digital artistry.</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Desmos_Art_by_Yidan_and_Enyu__3R_.jpg">
 </div>
-<p><strong>Desmos Art by Yidan and Enyu (3R)</strong>
+<p><strong>Desmos Art by Yidan and Enyu (3R), showcasing the beauty of Math through digital design.</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/LJ_at_Jewel__1_.jpg">
 </div>
-<p><strong>LJ at Jewel</strong>
+<p><strong>Students on a Learning Journey at Jewel Changi Airport, exploring real-world applications of classroom learning through observation and inquiry.</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NP_MA_Challenge_.jpg">
 </div>
-<p><strong>NP MA Challenge</strong>
+<p><strong>Congratulations to our Yuying team for achieving Overall School 2nd Runner-up at the Ngee Ann Polytechnic Mathematics Challenge.</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/VR_in_MA.jpg">
 </div>
-<p><strong>VR in MA</strong>
+<p><strong>Students experiencing Virtual Reality in Mathematics, exploring abstract concepts through immersive and interactive learning.</strong>
 </p>
