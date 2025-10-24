@@ -109,17 +109,18 @@ Lei Jiang) - Certificate of Participation</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL6.png">
 </div>
-<p></p>
+<p><strong>Students celebrating cultural diversity during the Mother Tongue Department led Activities, showcasing traditional music and performances that bring languages to life</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/mt9.png">
 </div>
-<p></p>
-<p></p>
+<p><strong>Students taking part in the Chinese New Year calligraphy activity, expressing creativity while appreciating cultural traditions.</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL8.jpg">
 </div>
-<p></p>
-<p></p>
+<p><strong>Students enjoying a live Mandarin music performance, celebrating language and culture through song and connection.</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL7.png">
 </div>
