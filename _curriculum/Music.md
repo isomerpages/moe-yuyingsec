@@ -53,12 +53,11 @@ so that they may become aspiring musicians and individuals.
 developed and introduced new learning strategies such as spiral learning
 and self-directed learning in our music programme.
 <br>
-<br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secondary_One_students_participating_in_a_class_performance.jpg">
 </div>
-<p><strong>Secondary One students participating in a class performance </strong>
+<p><strong>Secondary One students participating in a class performance</strong>
 </p>
 <p>Our Secondary One students will be introduced to a 10-week ukulele module
 that teaches them how to read chord diagrams and play some popular songs
