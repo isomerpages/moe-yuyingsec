@@ -40,9 +40,10 @@ meaningfully to the digital future.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_5795.jpg">
 </div>
-<p></p>
-<p></p>
+<p><strong>Fostering creativity and collaboration as InnoTech Club students work on interactive tech projects.</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMg_5800.png">
 </div>
-<p></p>
+<p><strong>Innovation in progress with members experimenting with digital tools and design.</strong>
+</p>
