@@ -56,29 +56,25 @@ activities, and grow in leadership and communication skills.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_10_08_130908.png">
 </div>
-<p><strong>Interclass Games (a)</strong>
+<p><strong>Students giving their best during the Interclass Games, displaying teamwork, determination, and sportsmanship on the court.</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/b.png">
 </div>
-<p><strong>Interclass Games (b)</strong>
+<p><strong>Students displaying teamwork and sportsmanship during the PE Interclass Games.</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/c.png">
 </div>
-<p><strong>Mass Run (a)</strong>
+<p><strong>Students pushing their limits during the annual SOAR Mass Run, promoting endurance, resilience, and a spirit of healthy competition.</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/d.png">
 </div>
-<p><strong>Mass Run (b)</strong>
+<p><strong>A strong start to the SOAR Mass Run, where students showcase grit and determination.</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/e.png">
 </div>
-<p><strong>PE Ambassadors</strong>
+<p><strong>PE Ambassadors leading their peers with enthusiasm and teamwork, fostering a vibrant and active sporting culture in school.</strong>
 </p>
