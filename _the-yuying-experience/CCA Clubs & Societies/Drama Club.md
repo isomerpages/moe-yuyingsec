@@ -19,11 +19,11 @@ can explore diverse stories and characters.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_SYF___Lights__camera__drama_a.png">
 </div>
-<p><strong>2025 SYF - Lights, camera, drama!</strong>
+<p><strong>Lights, camera, drama! Our Drama Club members showcasing their creativity and passion at the Singapore Youth Festival (SYF).</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/curtain_falls.png">
 </div>
-<p><strong>2025 SYF - The curtain falls, but the applause lingers. Students take a bow after a successful show.</strong>
+<p><strong>The curtain falls, but the applause lingers. Students take a bow after a successful show.</strong>
 </p>
