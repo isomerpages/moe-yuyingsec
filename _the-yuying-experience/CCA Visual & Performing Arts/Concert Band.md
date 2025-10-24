@@ -31,10 +31,10 @@ while building a supportive and inspiring community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NDP_BACKSTAGE_2.jpg">
 </div>
-<p><strong>NDP Backstage</strong>
+<p><strong>Yuying Concert Band members preparing backend for their National Day Parade (NDP) performance, showcasing pride and unity through music.</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Yuying_Secondary_School_DSC_0163.jpg">
 </div>
-<p><strong>Yuying Secondary School DSC</strong>
+<p><strong>A harmonious showcase by the Yuying DSC Concert Band, blending talent and teamwork through music.</strong>
 </p>
