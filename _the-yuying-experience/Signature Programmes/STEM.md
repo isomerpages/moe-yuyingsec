@@ -33,6 +33,15 @@ to different cities in the world to solve mathematical problems.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/STEM1.png">
 </div>
-<p><strong>Student exploring innovation and design through hands-on projects in the Applied Learning Programme (ALP), integrating creativity with technology.</strong>
+<p><strong>Student applying problem-solving and innovation skills as part of the STEM programme, learning to connect science and technology through hands-on exploration.</strong>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STEM2.png">
+</div>
+<p><strong>Students enjoying a moment of teamwork and camaraderie during the STEM programme, learning through experimentation and shared laughter.</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STEM3.png">
+</div>
+<p><strong>Students exploring immersive technologies as part of the STEM programme, experiencing how virtual reality enhances learning and innovation.</strong>
+</p>
