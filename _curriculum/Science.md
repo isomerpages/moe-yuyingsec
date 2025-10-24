@@ -88,28 +88,25 @@ in our students.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/20250927_182832.jpg">
 </div>
-<p></p>
-<p></p>
+<p><strong>Students emerging as champions at the Singapore Science Buskers Festival, demonstrating creativity, passion, and excellence in science communication.</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/H2GP_2024.jpg">
 </div>
-<p><strong>H2GP</strong>
+<p><strong>Exploring the power of STEM: Yuying’s H2GP team applies Science and creativity to hydrogen-powered racing</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NXplorer_2024.jpg">
 </div>
-<p><strong>NXplorer 2024(a)</strong>
+<p><strong>Yuying Secondary School’s winning project at NXplorers 2024, students explored ways to optimise classroom energy efficiency through innovative studies on window materials.</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NXplorer_2024__2_.jpg">
 </div>
-<p><strong>NXplorer 2024(b)</strong>
+<p><strong>Celebrating innovation in Science,our students proudly showcased their research and received recognition for their outstanding projects.</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science_Buskers.jpg">
 </div>
-<p><strong>Science Buskers</strong>
+<p><strong>Our Science Buskers team wowed audiences with their engaging presentation that blended Science, storytelling, and showmanship.</strong>
 </p>
