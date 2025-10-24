@@ -34,10 +34,10 @@ and identity.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/B_Div_Team_Picture.jpg">
 </div>
-<p><strong>B Div Team Picture</strong>
+<p><strong>Kicking off with unity and spirit — Yuying’s B Division Boys Sepak Takraw team in action.</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/serving.png">
 </div>
-<p><strong>Serving</strong>
+<p><strong>Sepak Takraw (Boys) CCA member executing a powerful serve during training, showcasing skill, precision, and athleticism.</strong>
 </p>
