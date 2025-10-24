@@ -26,10 +26,10 @@ that inspire and refine students' craft.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Contributing_back_to_the_Community_3.jpg">
 </div>
-<p><strong>Contributing back to the Community</strong>
+<p><strong>Beyond the lens, Photography Club members connect and contribute to the community.</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photographers_in_Action.jpg">
 </div>
-<p><strong>Photographers in Action</strong>
+<p><strong>Capturing special moments in action with creativity and focus during a school event.</strong>
 </p>
