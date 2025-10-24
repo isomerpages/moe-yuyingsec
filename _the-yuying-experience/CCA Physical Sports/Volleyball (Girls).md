@@ -35,10 +35,10 @@ a positive team culture.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/B_Divisions_NSG_2025.jpg">
 </div>
-<p><strong>B Divisions NSG 2025</strong>
+<p><strong>B Division Volleyball (Girls) CCA team ready for their National School Games match, displaying focus, unity, and determination on court.</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Farewell_for_seniors_as_a_team.jpg">
 </div>
-<p><strong>Farewell for seniors as a team</strong>
+<p><strong>Signing off with love, Volleyball (Girls) team bids farewell to their seniors, cherishing memories of teamwork and friendship.</strong>
 </p>
