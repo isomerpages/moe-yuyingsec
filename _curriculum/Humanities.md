@@ -84,29 +84,25 @@ industry, bringing their EBS learning to life.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1.png">
 </div>
-<p><strong>EBS Learning Journey to Sea Aquarium 2024</strong>
+<p><strong>A dive into experiential learning! EBS students gained real-world insights into marine ecosystems at the S.E.A. Aquarium.</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Integrated_Humanities_Learning_Journey_at_Labrador_Park.jpg">
 </div>
-<p><strong>Integrated Humanities Learning Journey at Labrador Park</strong>
+<p><strong>Exploring learning beyond the classroom, Humanities students on a field study to deepen their understanding of Singapore’s environment and heritage.</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/National_Cashflow_Competition_2024.jpg">
 </div>
-<p><strong>National Cashflow Competition 2024</strong>
+<p><strong>Students representing Yuying Secondary School at the National Cashflow Competition 2024, applying Humanities and financial literacy skills to real-world economic scenarios.</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secret_Seashores_Project.jpg">
 </div>
-<p><strong>Secret Seashores Project</strong>
+<p><strong>Students participating in the Secret Seashores Project, learning about Singapore’s coastal ecosystems and biodiversity through experiential fieldwork.</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students_solving_puzzles_.jpg">
 </div>
-<p><strong>Students solving puzzles</strong>
+<p><strong>Engaged minds at work! Students demonstrate teamwork and analytical skills during their Humanities field activity.</strong>
 </p>
