@@ -104,7 +104,8 @@ Lei Jiang) - Certificate of Participation</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL4.jpg">
 </div>
-<p></p>
+<p><strong>Students engaging in a hands-on Mother Tongue activity, deepening their appreciation for language and culture through creative expression.</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL6.png">
 </div>
