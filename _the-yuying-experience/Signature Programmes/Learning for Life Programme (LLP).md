@@ -29,4 +29,13 @@ society.</p>
 for the young and the elderly. These partnerships create opportunities
 for students to engage in active volunteerism beyond the classroom.</p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP.png">
+</div>
+<p><strong>Students engaging in real-world learning as part of the Learning for Life Programme (LLP), building confidence and communication skills through authentic experiences.</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_Photo_3.jpg">
+</div>
+<p><strong>Students taking ownership of their environment as part of the Learning for Life Programme (LLP), promoting responsibility and teamwork through sustainable habits.</strong>
+</p>
