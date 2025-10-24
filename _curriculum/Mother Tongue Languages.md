@@ -124,4 +124,5 @@ Lei Jiang) - Certificate of Participation</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL7.png">
 </div>
-<p></p>
+<p>Students showcasing traditional Malay attire and instruments during Hari
+Raya Festival activites, celebrating cultural heritage and unity in diversity.</p>
