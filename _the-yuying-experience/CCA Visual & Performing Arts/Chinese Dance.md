@@ -25,7 +25,7 @@ and respect, preparing dancers to perform gracefully and confidently.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/YYCD_01.jpg">
 </div>
-<p><strong>YYCD (a)</strong>
+<p><strong>The Yuying Chinese Dance team expressing culture, rhythm and poise through movement.</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/YYCDb.png">
