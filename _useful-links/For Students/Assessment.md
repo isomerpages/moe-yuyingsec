@@ -27,7 +27,7 @@ third_nav_title: For Students
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Secondary 4 and 5</strong>
+<p><strong>Secondary 4 &amp; 5</strong>
 </p>
 </th>
 </tr>
