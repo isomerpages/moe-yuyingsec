@@ -25,10 +25,10 @@ focused, skilled individuals committed to excellence.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CNY_performance.jpg">
 </div>
-<p><strong>CNY Performance</strong>
+<p><strong>Wushu (Mixed) CCA members performing during the Chinese New Year celebration, showcasing strength, discipline, and cultural artistry.</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NSG_group_photo.jpg">
 </div>
-<p><strong>NSG group photo</strong>
+<p><strong>Proud representatives of Yuying! The Wushu (Mixed) team embodies focus and teamwork at the National School Games.</strong>
 </p>
