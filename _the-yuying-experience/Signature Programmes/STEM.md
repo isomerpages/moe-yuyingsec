@@ -30,3 +30,9 @@ to different cities in the world to solve mathematical problems.</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ivuL03fTwGs?si=QOkC5oNeUVg2e7ri"></iframe>
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STEM1.png">
+</div>
+<p><strong>Student exploring innovation and design through hands-on projects in the Applied Learning Programme (ALP), integrating creativity with technology.</strong>
+</p>
+<p></p>
