@@ -27,4 +27,10 @@ develop confident speakers, committed collaborators and compassionate leaders</p
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TD1.png">
 </div>
-<p></p>
+<p><strong>Student leaders nurtured through the school’s Talent Development Programme, growing in confidence, teamwork, and leadership.</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TD2.png">
+</div>
+<p><strong>Students developing their digital innovation skills through coding and robotics, part of the school’s STEM and Talent Development initiatives.</strong>
+</p>
