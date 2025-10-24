@@ -30,5 +30,5 @@ and respect, preparing dancers to perform gracefully and confidently.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/YYCDb.png">
 </div>
-<p><strong>YYCD (b)</strong>
+<p><strong>Yuying Chinese Dance (YYCD) performers captivating the audience with grace, expression, and vibrant choreography.</strong>
 </p>
