@@ -31,10 +31,10 @@ Foot Drills)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SJB_First_Aid_Competition.jpg">
 </div>
-<p><strong>SJB First Aid Competition</strong>
+<p><strong>Yuying St John Brigade members showcasing dedication and first aid proficiency in the competition arena.</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/YYSS_St_John_s_Ambulance_Brigade_Unit.jpg">
 </div>
-<p><strong>YYSS St John's Ambulance Brigade Unit</strong>
+<p><strong>Yuying Secondary School St. John Brigade unit upholding the spirit of service and discipline through teamwork and dedication.</strong>
 </p>
