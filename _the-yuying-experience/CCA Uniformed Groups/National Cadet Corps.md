@@ -23,10 +23,10 @@ a deeper appreciation of defence, service, and global citizenship.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Senior_and_Junior_cadets_bonding_together_during_weekly_training_.png">
 </div>
-<p><strong>Senior and Junior cadets bonding together during weekly training</strong>
+<p><strong>Senior and junior National Cadet Corps (NCC) cadets strengthening camaraderie and teamwork during their weekly training session.</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/YYSS_National_Cadet_Corps_Unit.png">
 </div>
-<p><strong>YYSS National Cadet Corps Unit</strong>
+<p><strong>Our Yuying National Cadet Corps unit standing proud in discipline, leadership and unity.</strong>
 </p>
