@@ -67,7 +67,7 @@ Slams, and Debates.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Book_Buzz_at_Morning_Assembly.jpg">
 </div>
-<p><strong>Students engaged in a growth mindset sharing session, inspired by the book Mindset by Carol Dweck during an English department assembly.</strong>
+<p><strong>Students engaged in Book Buzz, inspired by the book Mindset by Carol Dweck at Morning Assembly.</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="Debate @ EL Lesson" src="/images/Debate___EL_Lesson.jpg">
