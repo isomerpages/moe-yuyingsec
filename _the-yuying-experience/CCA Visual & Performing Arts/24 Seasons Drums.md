@@ -7,7 +7,7 @@ third_nav_title: CCA Visual & Performing Arts
 ---
 <h2>24 Seasons Drums</h2>
 <h3>Objectives</h3>
-<p>The 24 Season Drums CCA at Yuying Secondary School is dedicated to cultivating
+<p>The 24 Seasons Drums CCA at Yuying Secondary School is dedicated to cultivating
 both musical proficiency and essential life skills in students. Through
 consistent practice and expert guidance, students develop precise drumming
 techniques while fostering qualities such as teamwork, perseverance, focus,
