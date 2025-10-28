@@ -94,7 +94,7 @@ industry, bringing their EBS learning to life.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/National_Cashflow_Competition_2024.jpg">
 </div>
-<p><strong>Students representing Yuying Secondary School at the National Cashflow Competition 2024, applying Humanities and financial literacy skills to real-world economic scenarios.</strong>
+<p><strong>Students representing Yuying Secondary School at the National Cashflow Competition, applying Humanities and financial literacy skills to real-world economic scenarios.</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Secret_Seashores_Project.jpg">
