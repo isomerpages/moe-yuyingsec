@@ -9,8 +9,6 @@ third_nav_title: Signature Programmes
 <p>Students are nurtured to be advocates for sustainability, our students
 are exposed to a range of activities that instill in them a sense of responsibility
 as stewards of the environment:</p>
-<p><strong>Secondary 1:</strong>
-</p>
 <p>Students will experience rice planting to understand the importance of
 being able to grow food in our backyards.</p>
 <p>Students will take on the responsibility of proper recycling methods.
