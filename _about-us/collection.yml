@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Principal's Message.md
+      - Our School/Corporate Video.md
       - Our School/.keep
       - Our School/Our Aspiration.md
       - Our School/Our History.md
