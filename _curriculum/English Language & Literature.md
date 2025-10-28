@@ -65,9 +65,9 @@ Slams, and Debates.</p>
 <p>36th YMCA Plain Speaking English Awards - Participation</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="Choral Reading" src="/images/Choral_Reading.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Book_Buzz_at_Morning_Assembly.jpg">
 </div>
-<p><strong>Students presenting a choral reading in English class, enhancing their language skills and teamwork through expressive performance.</strong>
+<p><strong>Students engaged in a growth mindset sharing session, inspired by the book Mindset by Carol Dweck during an English department assembly.</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="Debate @ EL Lesson" src="/images/Debate___EL_Lesson.jpg">
