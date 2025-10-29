@@ -6,7 +6,7 @@ variant: tiptap
 description: ""
 third_nav_title: For Students
 ---
-<h3><strong>PRESIDENT’S AWARD FOR TEACHERS (PAT) 2026 &amp; OUTSTANDING YOUTH IN EDUCATION AWARD (OYEA) 2026</strong></h3>
+<h3><strong>PRESIDENT’S AWARD FOR TEACHERS (PAT) &amp; OUTSTANDING YOUTH IN EDUCATION AWARD (OYEA)</strong></h3>
 <p></p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp; Every year, the <strong>President’s Award for Teachers (PAT)</strong> and
 the <strong>Outstanding Youth in Education Award (OYEA)</strong> are given
