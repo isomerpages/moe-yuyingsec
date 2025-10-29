@@ -53,13 +53,13 @@ a source of encouragement for the teacher(s).</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="President's Award for Teachers (PAT) 2026" src="/images/PAT2026_OYEA2026/PAT2026.png">
+<img style="width: 60%;" height="auto" width="100%" alt="President's Award for Teachers (PAT) 2026" src="/images/PAT2026_OYEA2026/PAT2026.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Outstanding Youth in Education (OYEA) Award 2026" src="/images/PAT2026_OYEA2026/oyea2026.png">
+<img style="width: 60%;" height="auto" width="100%" alt="Outstanding Youth in Education (OYEA) Award 2026" src="/images/PAT2026_OYEA2026/oyea2026.png">
 </div>
 </td>
 </tr>
