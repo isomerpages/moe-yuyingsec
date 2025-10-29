@@ -128,6 +128,4 @@ available only on Mondays and Wednesdays (10am to 3pm)</p>
 FAS Transitlink Evouchers.&nbsp; <a href="https://www.moe.gov.sg/-/media/images/news/press/meal_subsidies_redemption_guide.pdf?la=en&amp;hash=5D7DADF07A43E4DBBF2FF0AAF231B7EADBECDD94" rel="noopener noreferrer nofollow" target="_blank">TransitLink_Evoucher_Redemption_Process.pdf</a>
 </p>
 <p>You may refer here to the <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">MOE FAS website </a>for
-more information.</p>
-<p></p>
-<p></p>
+more information</p>
