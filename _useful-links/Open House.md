@@ -6,6 +6,13 @@ description: ""
 ---
 <h3></h3>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Yuying Open House Poster 1" src="/images/Images/Image_1_Open_House_Poster.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Yuying Open House Programme 2" src="/images/Images/Image_2_Open_House_Programme.jpg">
+</div>
 <h3>Virtual School Tour</h3>
 <p></p>
 <div class="iframe-wrapper">
