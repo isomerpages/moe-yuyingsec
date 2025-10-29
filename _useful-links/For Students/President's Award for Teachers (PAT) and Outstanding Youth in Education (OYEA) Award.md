@@ -17,17 +17,14 @@ their role in moulding the future of our nation.&nbsp; These teachers are
 role models for the teaching profession as they embody a deep passion for
 teaching, and they inspire both their students and peers through their
 words and deeds.</p>
-<p></p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp; OYEA recognises young teachers who have shown
 admirable passion for teaching, and commitment to inspiring and nurturing
 their students.&nbsp; These teachers embody youthful idealism, energy and
 enthusiasm, and inspire both their students and peers through their words
 and deeds.&nbsp; Teachers who are 35 years old and below in 2026 are eligible
 for the award.</p>
-<p></p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp; Nominations for PAT 2026 and OYEA 2026 are <strong>now open</strong> and
 will <strong>close on Friday, 9 January 2026</strong>.</p>
-<p></p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp; We would like to invite you and your child/ward
 to submit your nomination(s) for one or more deserving teacher(s) by clicking
 on the URLs or scanning the QR codes below. Your nomination(s) will be
