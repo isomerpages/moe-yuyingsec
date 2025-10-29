@@ -29,9 +29,6 @@ students explore practical solutions for sustainability, such as reducing
 food waste in the canteen and repurposing soya bean pulp into innovative
 food products. These hands-on experiences nurture critical thinking, innovation,
 and resilience, equipping students to confidently face future challenges.</p>
-<div class="iframe-wrapper">
-<iframe height="710" width="1200" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/9LQZI2Qs1Ts?si=6j3jhooUhQ3CVCRa"></iframe>
-</div>
 <p></p>
 <p><strong>Learning for Life Programme (LLP): Yuying CARES</strong>
 </p>
