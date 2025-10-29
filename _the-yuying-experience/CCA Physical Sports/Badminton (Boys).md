@@ -27,10 +27,10 @@ Sec Girls)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/B_div_players.png">
 </div>
-<p><strong>B Div players 2025</strong>
+<p><strong>B Division Badminton players posing together after training, showcasing teamwork and dedication. </strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/C_div_In_action.jpg">
 </div>
-<p><strong>C div In action</strong>
+<p><strong>C Division Badminton players in action during a match, showing focus and determination on court.</strong>
 </p>

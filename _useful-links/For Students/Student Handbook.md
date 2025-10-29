@@ -1,5 +1,5 @@
 ---
-title: Student Handbook 2025
+title: Student Handbook
 permalink: /student-handbook-2025/
 variant: tiptap
 description: ""

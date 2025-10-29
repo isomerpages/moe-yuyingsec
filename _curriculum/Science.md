@@ -103,7 +103,7 @@ in our students.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NXplorer_2024__2_.jpg">
 </div>
-<p><strong>Celebrating innovation in Science,our students proudly showcased their research and received recognition for their outstanding projects.</strong>
+<p><strong>Celebrating innovation in Science, our students proudly showcased their research and received recognition for their outstanding projects.</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science_Buskers.jpg">

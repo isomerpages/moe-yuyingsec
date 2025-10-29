@@ -32,10 +32,10 @@ and the importance of giving their best.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MD_Extraordinary_Concert_2023.jpg">
 </div>
-<p><strong>Expressing rhythm and tradition through movement, our Malay Dance team shines at the MD Extraordinary Concert.</strong>
+<p><strong>Expressing rhythm and tradition through movement, our Malay Dance team shines at the Extraordinary Concert.</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MD_Mutiara_Tari_Competition.jpg">
 </div>
-<p><strong>Yuying Malay Dance members showcasing grace and cultural pride at the MD Mutiara Tari Competition.</strong>
+<p><strong>Yuying Malay Dance members showcasing grace and cultural pride at the Mutiara Tari Competition.</strong>
 </p>

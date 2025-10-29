@@ -21,7 +21,7 @@ enquiry.</p>
 <p><strong><u>For Uniform sales:</u></strong>
 </p>
 <p>Vendor:<u> Shanghai School Uniforms</u>
-<br>Online sale url: <a rel="noopener noreferrer nofollow" target="_blank">https://shanghai-uniforms.sg/shop/category/yuying-secondary-school-176</a> &nbsp;with
+<br>Online sale url: <a href="https://shanghai-uniforms.sg/shop/category/yuying-secondary-school-176" rel="noopener noreferrer nofollow" target="_blank">https://shanghai-uniforms.sg/shop/category/yuying-secondary-school-176</a> &nbsp;with
 $10 delivery charge and you will be required to create an online account
 <br>Retail@Ubi address: 63 Ubi Ave 1, #04-09, Singapore 408937
 <br>(Strictly by appointment booking online only vias: <a href="https://shanghai-uniforms.sg/appointment-booking" rel="noopener noreferrer nofollow" target="_blank">https://shanghai-uniforms.sg/appointment-booking</a> )
