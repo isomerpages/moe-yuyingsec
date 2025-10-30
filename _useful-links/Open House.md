@@ -92,7 +92,8 @@ thinking to address environmental challenges with a focus on energy sustainabili
 </p>
 <p>Facebook: <a href="https://www.facebook.com/YuyingSecondarySchoolOfficial/" rel="noopener nofollow" target="_blank">Yuying Official Facebook</a>
 </p>
-<p></p>
+<p>TikTok: <a href="https://www.tiktok.com/@yuyingsecondaryofficial?_t=ZS-90v6Kb8afyS&amp;_r=1" rel="noopener nofollow" target="_blank">Yuying Official TikTok</a>
+</p>
 <p></p>
 <h3></h3>
 <h3></h3>
