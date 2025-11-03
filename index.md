@@ -13,13 +13,14 @@ sections:
       background: /images/Soaring_Higher_Banner_3to1_maroon_font_24_Octb_below_5mb.gif
       variant: center
   - infopic:
-      title: Yuying Secondary Open House
-      subtitle: 22 Nov 2025, 0830 to 1230hrs
+      title: Open House 2025
+      subtitle: 22 Nov 2025, 0830 to 1230 HRS
       id: infopic
-      description: Infopic description
-      button: Button Text
-      url: /open-house-website/
-      image: /images/STEM3.png
+      description: Step into Yuying — where Eagles take flight with curiosity,
+        character, and confidence to soar towards their dreams.
+      button: FIND OUT MORE
+      url: https://www.yuyingsec.moe.edu.sg/open-house/
+      image: /images/Images/Image_1_Open_House_Poster.jpg
       alt: Image alt text
   - resources:
       title: ANNOUNCEMENTS
