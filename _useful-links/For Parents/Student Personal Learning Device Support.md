@@ -21,6 +21,7 @@ The National Digital Literacy Programme (NDLP) for our schools and Institutes of
 
 [FAQs on the Personal Learning Device](/files/PDLP2024/FAQs_on_the_Personal_Learning_Device_YYSS_.pdf)
 
+[DUDRC2 - Instructions for DMA Uninstallation [ChromeOS]](/files/Pdf/DUDRC2___For_Students__Instructions_for_DMA_Uninstallation__ChromeOS_.pdf)
 
 Basic troubleshooting guide  
   
@@ -110,4 +111,4 @@ Parents can also bring the device to the service centre below for any hardware r
 
 **Lenovo Service Centre**
 
-![](/images/Service.jpeg)
+Tai Seng Centre,&nbsp;_3 Irving Road #01-17 Singapore 369522
