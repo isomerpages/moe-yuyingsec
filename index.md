@@ -39,13 +39,8 @@ sections:
       url: https://www.instagram.com/yuyingsecondaryschool?igsh=MWIyOG01eDl5bHowag==
       image: /images/Images/Science_Buskers.png
       alt: Image alt text
-  - resources:
-      title: ANNOUNCEMENTS
-      id: resources
-      button: View All ANNOUNCEMENTS
   - infopic:
       title: Yuying Shines at SIT Community Challenge 2025
-      subtitle: Add an image and text
       id: infopic
       description: Where innovation thrives and teamwork soars — nurturing Eagles who
         design, create and make a difference.
@@ -53,4 +48,8 @@ sections:
       url: https://www.instagram.com/yuyingsecondaryschool?igsh=MWIyOG01eDl5bHowag==
       image: /images/Images/SIT_Challenge.png
       alt: Image alt text
+  - resources:
+      title: ANNOUNCEMENTS
+      id: resources
+      button: View All ANNOUNCEMENTS
 ---
