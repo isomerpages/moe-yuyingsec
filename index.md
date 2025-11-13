@@ -22,8 +22,35 @@ sections:
       url: https://www.yuyingsec.moe.edu.sg/open-house/
       image: /images/Images/Image_1_Open_House_Poster.jpg
       alt: Image alt text
+  - infopic:
+      title: 115th Gala Dinner
+      id: infopic
+      description: Join us for a special evening of celebration.
+      button: FIND OUT MORE
+      url: https://www.yuyingsec.moe.edu.sg/corporate-video/)
+      image: /images/Images/Gala_Dinner.png
+      alt: Image alt text
+  - infopic:
+      title: Yuying Shines at the Singapore Science Buskers 2025
+      id: infopic
+      description: Where curiosity takes flight and creativity shines — nurturing
+        Eagles who learn, lead and inspire through science.
+      button: FIND OUT MORE
+      url: https://www.instagram.com/yuyingsecondaryschool?igsh=MWIyOG01eDl5bHowag==
+      image: /images/Images/Science_Buskers.png
+      alt: Image alt text
   - resources:
       title: ANNOUNCEMENTS
       id: resources
       button: View All ANNOUNCEMENTS
+  - infopic:
+      title: Yuying Shines at SIT Community Challenge 2025
+      subtitle: Add an image and text
+      id: infopic
+      description: Where innovation thrives and teamwork soars — nurturing Eagles who
+        design, create and make a difference.
+      button: FIND OUT MORE
+      url: https://www.instagram.com/yuyingsecondaryschool?igsh=MWIyOG01eDl5bHowag==
+      image: /images/Images/SIT_Challenge.png
+      alt: Image alt text
 ---
