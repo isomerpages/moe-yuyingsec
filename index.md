@@ -24,7 +24,6 @@ sections:
       alt: Image alt text
   - infopic:
       title: 115th Gala Dinner
-      subtitle: Celebrating 115 Years —
       id: infopic
       description: Join us for a special evening of celebration.
       button: FIND OUT MORE
