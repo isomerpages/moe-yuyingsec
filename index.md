@@ -23,12 +23,10 @@ sections:
       image: /images/Images/Image_1_Open_House_Poster.jpg
       alt: Image alt text
   - infopic:
-      title: Honouring Our Heritage, Innovating for the Future
+      title: 115th Gala Dinner
       subtitle: Celebrating 115 Years —
       id: infopic
-      description: Join us for the Gala Dinner celebration on 14 November 2025 (Fri),
-        with Guest-of-Honour Mr David Neo, Acting Minister for Culture,
-        Community and Youth
+      description: Join us for a special evening of celebration.
       button: FIND OUT MORE
       url: https://www.yuyingsec.moe.edu.sg/corporate-video/)
       image: /images/Images/Gala_Dinner.png
