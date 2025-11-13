@@ -33,6 +33,15 @@ sections:
       url: https://www.yuyingsec.moe.edu.sg/corporate-video/)
       image: /images/Images/Gala_Dinner.png
       alt: Image alt text
+  - infopic:
+      title: Yuying Shines at the Singapore Science Buskers 2025
+      id: infopic
+      description: Where curiosity takes flight and creativity shines — nurturing
+        Eagles who learn, lead and inspire through science.
+      button: FIND OUT MORE
+      url: https://www.yuyingsec.moe.edu.sg/corporate-video/
+      image: /images/Images/Science_Buskers.png
+      alt: Image alt text
   - resources:
       title: ANNOUNCEMENTS
       id: resources
