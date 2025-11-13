@@ -31,7 +31,7 @@ sections:
         Community and Youth
       button: FIND OUT MORE
       url: https://www.yuyingsec.moe.edu.sg/corporate-video/)
-      image: /images/Sustainability_One.png
+      image: /images/Images/Gala_Dinner.png
       alt: Image alt text
   - resources:
       title: ANNOUNCEMENTS
