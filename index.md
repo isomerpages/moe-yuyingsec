@@ -27,7 +27,7 @@ sections:
       id: infopic
       description: Join us for a special evening of celebration.
       button: FIND OUT MORE
-      url: https://www.yuyingsec.moe.edu.sg/corporate-video/
+      url: https://www.instagram.com/yuyingsecondaryschool?igsh=MWIyOG01eDl5bHowag==
       image: /images/Images/Gala_Dinner.png
       alt: Image alt text
   - infopic:
