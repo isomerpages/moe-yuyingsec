@@ -1,0 +1,41 @@
+collections:
+  the-yuying-experience:
+    output: true
+    order:
+      - Student Well being & Resilence Framework.md
+      - Character & Citizenship Education.md
+      - CCA Physical Sports/.keep
+      - CCA Physical Sports/Badminton (Boys).md
+      - CCA Physical Sports/Basketball (Boys).md
+      - CCA Physical Sports/Centre Based Table Tennis CCA.md
+      - CCA Physical Sports/Sepak Takraw (Boys).md
+      - CCA Physical Sports/Volleyball (Girls).md
+      - CCA Physical Sports/Wushu (Mixed).md
+      - CCA Uniformed Groups/.keep
+      - CCA Uniformed Groups/Boys' Brigade.md
+      - CCA Uniformed Groups/Girls' Brigade.md
+      - CCA Uniformed Groups/St John Brigade Singapore.md
+      - CCA Uniformed Groups/National Cadet Corps.md
+      - CCA Uniformed Groups/National Police Cadet Corps.md
+      - CCA Visual & Performing Arts/.keep
+      - CCA Visual & Performing Arts/Chinese Dance.md
+      - CCA Visual & Performing Arts/Concert Band.md
+      - CCA Visual & Performing Arts/Guzheng Ensemble.md
+      - CCA Visual & Performing Arts/Guitar Ensemble.md
+      - CCA Visual & Performing Arts/Malay Dance.md
+      - CCA Visual & Performing Arts/24 Seasons Drums.md
+      - CCA Clubs & Societies/.keep
+      - CCA Clubs & Societies/Eco EAGLES.md
+      - CCA Clubs & Societies/Drama Club.md
+      - CCA Clubs & Societies/InnoTech Club.md
+      - CCA Clubs & Societies/Photography Club.md
+      - Student Well Being.md
+      - Student Leadership.md
+      - Student Management.md
+      - Signature Programmes/.keep
+      - Signature Programmes/Overview of Programmes.md
+      - Signature Programmes/Applied Learning Programme (ALP).md
+      - Signature Programmes/Learning for Life Programme (LLP).md
+      - Signature Programmes/STEM.md
+      - Signature Programmes/Sustainability Education at Yuying.md
+      - Signature Programmes/Talent Development @ Yuying.md

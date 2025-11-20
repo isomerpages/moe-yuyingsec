@@ -1,0 +1,61 @@
+---
+title: Our Aspiration
+permalink: /about-us/our-school/our-aspiration/
+description: ""
+third_nav_title: Our School
+variant: tiptap
+---
+<h1>Our Aspiration</h1>
+<p><strong>VISION</strong>
+</p>
+<p>Every Yuying student an <strong>EAGLE</strong> – Enterprising, Adaptable,
+Gracious, LEaders of the future</p>
+<p>每个育英学子具备创新进取精神、适应变通能力、包容谦和态度，及未来引领者的素质</p>
+<p>Our vision statement represents Yuying’s commitment to nurture future-ready
+leaders.</p>
+<p>As a school with a rich history, the vision encapsulates Yuying’s ability
+to navigate through different seasons, developing critical skills and strengths
+in our students to enable them to succeed. Since its inception, Yuying
+has embedded the needs of the community at its core. We will continue to
+develop gracious individuals who create a positive and welcoming atmosphere
+for all while contributing to the overall wellbeing of their communities.
+Despite the challenges during the post-war period, our Yuying founders
+also sought to tap on the strengths of the community in order to pull resources
+together. They displayed resilience in the face of adversity and emerged
+as effective problem solvers by taking on the challenges. Yuying will continue
+to prioritise innovation among students to keep them flexible and adaptable
+in a dynamic and evolving world, preparing them to be leaders of the future.</p>
+<p><strong>MISSION</strong>
+</p>
+<p>Nurturing a Curiosity to Learn and a Heart to Serve</p>
+<p>培育富有求知精神、热心服务社会的学生</p>
+<p>This captures the essence of our mission to foster an enthusiastic desire
+for knowledge in our students. Our curriculum and the Applied Learning
+Programme (ALP) aim to promote critical thinking and a desire to ask questions
+and seek out new information on a regular basis. At the same time, we aim
+to develop students’ awareness to their surroundings and a sense of rootedness
+through our co-curricular activities and our Lifelong Learning Programme
+(LLP). This will then strengthen their resolve to do good for the community
+and find meaning in contributing to the lives of others.</p>
+<p><strong>VALUES</strong>
+</p>
+<p>Integrity, Resilience, Respect and Responsibility</p>
+<p>诚信慎行、坚韧刚毅、友爱尊重、担当尽责</p>
+<p>The school’s core values are drawn from the enduring values that form
+the bedrock of our national values. As a school, Yuying aims to create
+a positive environment that will develop our students’ personal character
+and nurture in them our shared societal and national values.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Holistic Development Framework" src="/images/hdf.png">
+</div>
+<p><strong>MOTTO</strong>
+</p>
+<p>Together, Achieve Personal Excellence</p>
+<p>携手成就个人卓越</p>
+<p>The school motto, ‘Together, Achieve Personal Excellence’ signifies the
+importance of teamwork and unity within the school. With strong partnership
+among staff, students and our stakeholders, the school aims for every individual
+to pursue their personal best with courage and determination, so that they
+can become better versions of themselves. This effort will help the school
+to achieve excellence and collective success.</p>
+<p></p>

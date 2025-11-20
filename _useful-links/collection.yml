@@ -1,0 +1,26 @@
+collections:
+  useful-links:
+    output: true
+    order:
+      - For Students/.keep
+      - For Students/Student Handbook.md
+      - For Students/Holiday Homework.md
+      - For Students/Assessment.md
+      - For Students/School Timetable.md
+      - For Students/School Uniform & Booklist.md
+      - For Students/School Fees & Financial Assistance.md
+      - For Students/SLS Ace Opac.md
+      - For Students/President's Award for Teachers (PAT) and Outstanding Youth
+        in Education (OYEA) Award.md
+      - For Parents/.keep
+      - For Parents/2025 Sec 1 Cohort Matters.md
+      - For Parents/Insurance for Students.md
+      - For Parents/MOE Sexuality Education.md
+      - For Parents/Parenting Tips.md
+      - For Parents/SLS Support for Home Based Learning.md
+      - For Parents/Student Personal Learning Device Support.md
+      - For Parents/Full Subject Based Banding.md
+      - For Staff.md
+      - Direct School Admission.md
+      - Open House.md
+      - School Canteen Advertisement.md

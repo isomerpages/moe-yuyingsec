@@ -1,0 +1,13 @@
+collections:
+  curriculum:
+    output: true
+    order:
+      - Engaged and Deep Learning Framework.md
+      - English Language & Literature.md
+      - Mother Tongue Languages.md
+      - Mathematics.md
+      - Science.md
+      - Humanities.md
+      - Craft & Technology.md
+      - Physical Education.md
+      - Music.md

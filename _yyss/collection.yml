@@ -1,0 +1,10 @@
+collections:
+  yyss:
+    output: true
+    order:
+      - Education & Career Guidance.md
+      - Student Initiated Learning (SIL).md
+      - Arts Education.md
+      - Search Results.md
+      - Privacy Policy.md
+      - FAQ.md

@@ -1,0 +1,5 @@
+collections:
+  keen-to-join-us:
+    output: true
+    order:
+      - Appeals and Transfers.md
