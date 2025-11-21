@@ -1,4 +1,5 @@
 collections:
   qr:
     output: true
-    order: []
+    order:
+      - Exit QR.md
