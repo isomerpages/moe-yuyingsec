@@ -1,0 +1,5 @@
+collections:
+  qr:
+    output: true
+    order:
+      - QRcode.md
