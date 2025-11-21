@@ -2,4 +2,4 @@ collections:
   qr:
     output: true
     order:
-      - Exit QR.md
+      - QRcode.md
