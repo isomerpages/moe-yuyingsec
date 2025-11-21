@@ -1,0 +1,4 @@
+collections:
+  qr:
+    output: true
+    order: []
