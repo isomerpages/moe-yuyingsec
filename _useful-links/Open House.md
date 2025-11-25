@@ -16,7 +16,7 @@ description: ""
 </div>
 <h3>(c)&nbsp;&nbsp; Concert Band</h3>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/xCFV_A1q8DU?si=IOjEBllJauey57Cd"></iframe>
+<iframe height="630" width="1120" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/xCFV_A1q8DU?si=IOjEBllJauey57Cd"></iframe>
 </div>
 <h3>(d)&nbsp;&nbsp; Wushu</h3>
 <div class="iframe-wrapper">
