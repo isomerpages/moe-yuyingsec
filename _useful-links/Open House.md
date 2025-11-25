@@ -4,15 +4,31 @@ permalink: /open-house/
 variant: tiptap
 description: ""
 ---
-<h3></h3>
+<h3>Couldn’t make it to our Open House on 22 November? Watch the videos below to find out more about what makes Yuying such a vibrant and nurturing community.</h3>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Yuying Open House Poster 1" src="/images/Images/Image_1_Open_House_Poster.jpg">
+<h3>(a)&nbsp;&nbsp; Principal’s Address</h3>
+<div class="iframe-wrapper">
+<iframe height="630" width="1120" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/hFRu8bzWfbM?si=Th_DNAk6zJkMT8Wa"></iframe>
+</div>
+<h3>(b)&nbsp;&nbsp; Head Prefect Speech</h3>
+<div class="iframe-wrapper">
+<iframe height="630" width="1120" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-LNTRVyje-g?si=t4owDIBYKCJB815T"></iframe>
+</div>
+<h3>(c)&nbsp;&nbsp; Concert Band</h3>
+<div class="iframe-wrapper">
+<iframe height="630" width="1120" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/xCFV_A1q8DU?si=IOjEBllJauey57Cd"></iframe>
+</div>
+<h3>(d)&nbsp;&nbsp; Wushu</h3>
+<div class="iframe-wrapper">
+<iframe height="630" width="1120" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Ee--k5ghvEA?si=zE1lJ9VO6XtfRDzg"></iframe>
+</div>
+<h3>(e)&nbsp;&nbsp; NCC</h3>
+<div class="iframe-wrapper">
+<iframe height="630" width="1120" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ZbArgZDvyQ0?si=WqpaqjVkX6j5mwny"></iframe>
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Yuying Open House Programme 2" src="/images/Images/Image_2_Open_House_Programme.jpg">
-</div>
+<p></p>
+<p></p>
 <h3>Virtual School Tour</h3>
 <p></p>
 <div class="iframe-wrapper">
