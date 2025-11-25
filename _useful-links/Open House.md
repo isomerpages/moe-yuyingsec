@@ -8,11 +8,11 @@ description: ""
 <p></p>
 <h3>(a)&nbsp;&nbsp; Principal’s Address</h3>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/hFRu8bzWfbM?si=Th_DNAk6zJkMT8Wa"></iframe>
+<iframe height="630" width="1120" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/hFRu8bzWfbM?si=Th_DNAk6zJkMT8Wa"></iframe>
 </div>
 <h3>(b)&nbsp;&nbsp; Head Prefect Speech</h3>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-LNTRVyje-g?si=t4owDIBYKCJB815T"></iframe>
+<iframe height="630" width="1120" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-LNTRVyje-g?si=t4owDIBYKCJB815T"></iframe>
 </div>
 <h3>(c)&nbsp;&nbsp; Concert Band</h3>
 <div class="iframe-wrapper">
@@ -20,11 +20,11 @@ description: ""
 </div>
 <h3>(d)&nbsp;&nbsp; Wushu</h3>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Ee--k5ghvEA?si=zE1lJ9VO6XtfRDzg"></iframe>
+<iframe height="630" width="1120" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Ee--k5ghvEA?si=zE1lJ9VO6XtfRDzg"></iframe>
 </div>
 <h3>(e)&nbsp;&nbsp; NCC</h3>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ZbArgZDvyQ0?si=WqpaqjVkX6j5mwny"></iframe>
+<iframe height="630" width="1120" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ZbArgZDvyQ0?si=WqpaqjVkX6j5mwny"></iframe>
 </div>
 <p></p>
 <p></p>
