@@ -46,7 +46,8 @@ on the textbooks:</p>
 <h3>School Booklist / Stationery List</h3>
 <p>Please refer to the attached textbook list for more information</p>
 <h5><strong>Sec 1</strong></h5>
-<p>T.B.C</p>
+<p><a href="/files/Booklist/YYSS_Booklist_2026__S1.pdf" rel="noopener nofollow" target="_blank">Sec 1 Textbook List 2026</a>
+</p>
 <h5><strong>Sec 2</strong></h5>
 <p><a href="/files/Booklist/Sec_2_Textbook_list_2026.pdf" rel="noopener nofollow" target="_blank">Sec 2 Textbook List 2026</a>
 </p>
