@@ -12,6 +12,11 @@ sections:
       subtitle: Together, Achieve Personal Excellence
       background: /images/Soaring_Higher_Banner_3to1_maroon_font_24_Octb_below_5mb.gif
       variant: center
+  - infobar:
+      title: 2026 Secondary 1 Posting
+      id: infobar
+      button: FIND OUT MORE
+      url: https://www.yuyingsec.moe.edu.sg/communication/
   - infopic:
       title: Virtual Open House
       id: infopic
