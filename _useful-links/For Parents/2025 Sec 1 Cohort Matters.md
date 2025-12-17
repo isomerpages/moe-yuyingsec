@@ -6,17 +6,16 @@ description: ""
 third_nav_title: For Parents
 ---
 <p>Your child’s/ward’s Form Teachers will be making a courtesy call to you
-on 19 Dec 2024 (Thu) to check if you have any queries. If you had missed
-the call and would like to be contacted, please call the General Office
-at 62827968 so that your child’s/ ward’s Form Teachers can return your
-call.&nbsp;</p>
+by Tuesday, 23 Dec 2025. If you miss the call and would like to be contacted,
+please call the General Office at 62827968 so that our teachers can return
+your call.&nbsp;</p>
 <p>If there are any further queries, please do not hesitate to contact your
 child’s form teacher, the General Office or email us at <a href="yuying_ss@moe.edu.sg" rel="noopener nofollow" target="_blank">yuying_ss@moe.edu.sg</a>.
 The school will communicate with parents primarily via Parents Gateway
 (PG) going forward.</p>
-<p>Follow us on Instagram (<a href="https://www.instagram.com/yuyingsecondaryschool/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/yuyingsecondaryschool/</a>)
-and Facebook (<a href="https://www.facebook.com/YuyingSecondarySchoolOfficial" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/YuyingSecondarySchoolOfficial</a>)
-for updates on the school’s activities.</p>
+<p>Follow us on Instagram (<a href="https://www.instagram.com/yuyingsecondaryschool/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/yuyingsecondaryschool/</a>),
+Facebook (<a href="https://www.facebook.com/YuyingSecondarySchoolOfficial" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/YuyingSecondarySchoolOfficial</a>)
+and TikTok (@yuyingsecondaryofficial) for updates on the school’s activities.</p>
 <p></p>
 <p></p>
 <table style="minWidth: 100px">
@@ -29,7 +28,7 @@ for updates on the school’s activities.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Secondary One 2025</strong>
+<p><strong>Secondary One 2026</strong>
 </p>
 </td>
 <td rowspan="1" colspan="2">
@@ -47,28 +46,28 @@ for updates on the school’s activities.</p>
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Ms Sarah Jane Lee</p>
+<p>Ms Ummu Rabbisyfina</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">sarah_jane_lee@moe.edu.sg</a>
+<p><a href="ummu_rabbisyfina_abdul_hamid@moe.edu.sg" rel="noopener nofollow" target="_blank">ummu_rabbisyfina_abdul_hamid@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Mr Darren Kung</p>
+<p>Mr Goh Ser Meng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">kung_kai_wen@moe.edu.sg</a>
+<p><a href="goh_ser_meng@moe.edu.sg" rel="noopener nofollow" target="_blank">goh_ser_meng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Ms Serene Neoh</p>
+<p>Mr Teo Chek Meng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:serene_neoh_si_yii@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">serene_neoh_si_yii@moe.edu.sg</a>
+<p><a href="teo_chek_meng_a@moe.edu.sg" rel="noopener nofollow" target="_blank">teo_chek_meng_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -78,28 +77,28 @@ for updates on the school’s activities.</p>
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mr Lee Mun Tat</p>
+<p>Ms Nur Fazelinda</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lee_mun_tat@moe.edu.sg</a>
+<p><a href="nur_fazelinda_mohd_noor@moe.edu.sg" rel="noopener nofollow" target="_blank">nur_fazelinda_mohd_noor@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Ms Hannah Tan</p>
+<p>Ms Hope Sng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">hannah_tan_si_ping@moe.edu.sg</a>
+<p><a href="sng_ee_hui_hope@moe.edu.sg" rel="noopener nofollow" target="_blank">sng_ee_hui_hope@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Mr Ong Teck Yew</p>
+<p>Mr David Ngo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ong_teck_yew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_teck_yew@moe.edu.sg</a>
+<p><a href="ngo_wee_heng_david_a@moe.edu.sg" rel="noopener nofollow" target="_blank">ngo_wee_heng_david_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -109,29 +108,28 @@ for updates on the school’s activities.</p>
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mdm Risliana</p>
+<p>Mr Vincent Lew</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">risliana_mohd_idris_moey@moe.edu.sg</a>
+<p><a href="lew_wei_sern_vincent@moe.edu.sg" rel="noopener nofollow" target="_blank">lew_wei_sern_vincent@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Mr Gervasio Carlos</p>
+<p>Ms Crystal Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:gervasio_carlos_agustin_escasa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gervasio_carlos_agustin_escasa@moe.edu.sg</a>
+<p><a href="crystal_ling_yuet_ping@moe.edu.sg" rel="noopener nofollow" target="_blank">crystal_ling_yuet_ping@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Mr Koh Chee Keong</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">koh_chee_keong@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -140,28 +138,28 @@ for updates on the school’s activities.</p>
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mr Irsyaad Hasif</p>
+<p>Mr Linus Chan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">irsyaad_hasif_ramle@moe.edu.sg</a>
+<p><a href="chan_lin_siong_linus@moe.edu.sg" rel="noopener nofollow" target="_blank">chan_lin_siong_linus@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Ms Melissa Leow Lifang</p>
+<p>Ms Xu Cuixiao</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">melissa_leow_lifang@moe.edu.sg</a>
+<p><a href="xu_cuixiao@moe.edu.sg" rel="noopener nofollow" target="_blank">xu_cuixiao@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Ms Shi Yan Wei</p>
+<p>Ms Carolyn Hong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">sh</a><a href="mailto:hi_yanwei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">i_yanwei@moe.edu.sg</a>
+<p><a href="hong_keyun@moe.edu.sg" rel="noopener nofollow" target="_blank">hong_keyun@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -171,29 +169,28 @@ for updates on the school’s activities.</p>
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Ms Melanie Sim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">sim_yin_hui@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Ms Sophie Anastassia</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">sophie_anastassia_m_j@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <p>Mr Ang Ben Siang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ang_ben_siang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_ben_siang@moe.edu.sg</a>
+<p><a href="ang_ben_siang@moe.edu.sg" rel="noopener nofollow" target="_blank">ang_ben_siang@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Ms Cindy Chan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="chua_ze_jun@moe.edu.sg" rel="noopener nofollow" target="_blank">chua_ze_jun@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -202,72 +199,40 @@ for updates on the school’s activities.</p>
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mr Desmond Pok</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">pok_kah_hui_desmond@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Mdm Wang Hsiao Yu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">wang_hsiao_yu@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <p>Ms Charmaine Loh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:loh_ying_shan_charmaine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_ying_shan_charmaine@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p><strong>1 Unity</strong>
-</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Mr Aaron Chan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chan_jun_xian_aaron@moe.edu.sg</a>
+<p><a href="loh_ying_shan_charmaine@moe.edu.sg" rel="noopener nofollow" target="_blank">loh_ying_shan_charmaine@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Ms Charmain Tan</p>
+<p>Mr Md Fauzi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">charmain_tan_see_lai@moe.edu.sg</a>
+<p><a href="mohamed_fauzi_buang@moe.edu.sg" rel="noopener nofollow" target="_blank">mohamed_fauzi_buang@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p><strong>1 Leadership</strong>
+<p><strong>1 Unity</strong>
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Ms Wong Hiew Min</p>
+<p>Mdm Tan Soon Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">wong_hiew_min@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Ms Rabi’atul Adawiyah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">rabiatul_adawiyah_abd_wahid@moe.edu.sg</a>
+<p><a href="tan_soon_lee@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_soon_lee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -276,66 +241,65 @@ for updates on the school’s activities.</p>
 <p>Mr Kevin Yap</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yap_shao_kuan_kevin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yap_shao_kuan_kevin@moe.edu.sg</a>
+<p><a href="yap_shao_kuan_kevin@moe.edu.sg" rel="noopener nofollow" target="_blank">yap_shao_kuan_kevin@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p><strong>1 Leadership</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Mr Freddy Khoo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="khoo_hong_shan_freddy@moe.edu.sg" rel="noopener nofollow" target="_blank">khoo_hong_shan_freddy@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Mrs Jaslyn Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="wong_jiexin_jaslyn@moe.edu.sg" rel="noopener nofollow" target="_blank">wong_jiexin_jaslyn@moe.edu.sg </a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>1 Synergy</strong>
-</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Mdm Nor Jehan Raseede</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">nor_jehan_raseede@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Mr Kwok Zhen Yuan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">kwok_zhen_yuan@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="4">
 <p><strong>Assistant Year Head</strong>
 </p>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="2" colspan="1">
+<p>Mr Roysmond Sim</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Ms Anu Priya Nair</p>
-</td>
-<td rowspan="1" colspan="2">
-<p><a rel="noopener noreferrer nofollow" target="_blank">anu_priya_nair_appukuttan@moe.edu.sg</a>
+<td rowspan="2" colspan="2">
+<p><a href="roysmond_sim_zhen_wei@moe.edu.sg" rel="noopener nofollow" target="_blank">roysmond_sim_zhen_wei@moe.edu.sg</a>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
+<tr></tr>
 </tbody>
 </table>
 <p></p>
-<p><a href="/files/Pdf/PG_letter_for_Sec_One_Parents.pdf" rel="noopener nofollow" target="_blank">PG letter for Sec One Parents</a>
+<p></p>
+<p><a href="/files/Pdf/2026_Secondary_One_Registration_Exercise_19th_December_2025.pdf" rel="noopener nofollow" target="_blank">2026 Secondary One Registration Exercise 19th December 2025</a>
 </p>
