@@ -7,7 +7,21 @@ third_nav_title: For Parents
 ---
 <p>Dear Parents/Guardians of Sec 1 Yuying students,</p>
 <p>Greetings from Yuying Secondary School! We would like to warmly welcome
-you and your child/ward to our school.</p>
+you and your child/ward to our school. This letter seeks to provide useful
+information as your child/ward prepares to join us for Secondary 1:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Pdf/2026_Secondary_One_Registration_Exercise_19th_December_2025.pdf" rel="noopener nofollow" target="_blank">2026 Secondary One Posting Admin Details</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Pdf/Sec_1_Schedule_for_purchase_of_textbook_and_uniforms___2026.pdf" rel="noopener nofollow" target="_blank">Sec 1 Schedule for purchase of textbook and uniforms 2026 </a>
+</p>
+<p>Note: A separate PG message will be sent to you on Friday to make an appointment
+to purchase the school uniform and textbooks.</p>
+</li>
+</ul>
+<p></p>
 <p>Your child’s/ward’s Form Teachers will be making a courtesy call to you
 by Tuesday, 23 Dec 2025. If you miss the call and would like to be contacted,
 please call the General Office at 62827968 so that our teachers can return
