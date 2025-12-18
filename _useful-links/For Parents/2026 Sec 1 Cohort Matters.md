@@ -5,17 +5,21 @@ variant: tiptap
 description: ""
 third_nav_title: For Parents
 ---
+<p>Dear Parents/Guardians of Sec 1 Yuying students,</p>
+<p>Greetings from Yuying Secondary School! We would like to warmly welcome
+you and your child/ward to our school.</p>
 <p>Your child’s/ward’s Form Teachers will be making a courtesy call to you
 by Tuesday, 23 Dec 2025. If you miss the call and would like to be contacted,
 please call the General Office at 62827968 so that our teachers can return
 your call.&nbsp;</p>
 <p>If there are any further queries, please do not hesitate to contact your
-child’s form teacher, the General Office or email us at <a href="yuying_ss@moe.edu.sg" rel="noopener nofollow" target="_blank">yuying_ss@moe.edu.sg</a>.
+child’s form teacher, the General Office or email us at <a href="mailto:yuying_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yuying_ss@moe.edu.sg</a>.
 The school will communicate with parents primarily via Parents Gateway
 (PG) going forward.</p>
 <p>Follow us on Instagram (<a href="https://www.instagram.com/yuyingsecondaryschool/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/yuyingsecondaryschool/</a>),
 Facebook (<a href="https://www.facebook.com/YuyingSecondarySchoolOfficial" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/YuyingSecondarySchoolOfficial</a>)
-and TikTok (@yuyingsecondaryofficial) for updates on the school’s activities.</p>
+and TikTok (<a href="https://www.tiktok.com/@yuyingsecondaryofficial?_t=ZS-90v6Kb8afyS&amp;_r=1" rel="noopener noreferrer nofollow" target="_blank">@yuyingsecondaryofficial</a>)
+for updates on the school’s activities.</p>
 <p></p>
 <p></p>
 <table style="minWidth: 100px">
@@ -271,7 +275,7 @@ and TikTok (@yuyingsecondaryofficial) for updates on the school’s activities.<
 <p>Mrs Jaslyn Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="wong_jiexin_jaslyn@moe.edu.sg" rel="noopener nofollow" target="_blank">wong_jiexin_jaslyn@moe.edu.sg </a>
+<p><a href="wong_jiexin_jaslyn@moe.edu.sg" rel="noopener nofollow" target="_blank">wong_jiexin_jaslyn@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -301,5 +305,12 @@ and TikTok (@yuyingsecondaryofficial) for updates on the school’s activities.<
 </table>
 <p></p>
 <p></p>
-<p><a href="/files/Pdf/2026_Secondary_One_Registration_Exercise_19th_December_2025.pdf" rel="noopener nofollow" target="_blank">2026 Secondary One Registration Exercise 19th December 2025</a>
+<p><a href="/files/Pdf/2026_Secondary_One_Registration_Exercise_19th_December_2025.pdf" rel="noopener nofollow" target="_blank">2026 Secondary One Posting Admin Details</a>
 </p>
+<p></p>
+<p><a href="/files/Pdf/Sec_1_Schedule_for_purchase_of_textbook_and_uniforms___2026.pdf" rel="noopener nofollow" target="_blank">Sec 1 Schedule for purchase of textbook and uniforms 2026</a>
+</p>
+<p>Note: A separate PG message will be sent to you on Friday to make an appointment
+to purchase the school uniform and textbooks.</p>
+<p></p>
+<p></p>
