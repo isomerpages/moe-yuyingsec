@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: For Parents
 ---
+<p>Dear Parents/Guardians of Sec 1 Yuying students,</p>
+<p>Greetings from Yuying Secondary School! We would like to warmly welcome
+you and your child/ward to our school.</p>
 <p>Your child’s/ward’s Form Teachers will be making a courtesy call to you
 by Tuesday, 23 Dec 2025. If you miss the call and would like to be contacted,
 please call the General Office at 62827968 so that our teachers can return
@@ -15,7 +18,8 @@ The school will communicate with parents primarily via Parents Gateway
 (PG) going forward.</p>
 <p>Follow us on Instagram (<a href="https://www.instagram.com/yuyingsecondaryschool/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/yuyingsecondaryschool/</a>),
 Facebook (<a href="https://www.facebook.com/YuyingSecondarySchoolOfficial" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/YuyingSecondarySchoolOfficial</a>)
-and TikTok (@yuyingsecondaryofficial) for updates on the school’s activities.</p>
+and TikTok (<a href="https://www.tiktok.com/@yuyingsecondaryofficial?_t=ZS-90v6Kb8afyS&amp;_r=1" rel="noopener noreferrer nofollow" target="_blank">@yuyingsecondaryofficial</a>)
+for updates on the school’s activities.</p>
 <p></p>
 <p></p>
 <table style="minWidth: 100px">
