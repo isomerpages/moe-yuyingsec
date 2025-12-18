@@ -27,14 +27,6 @@ sections:
       image: /images/Images/YYSS_Virtual_Open_House_2025_Design.jpg
       alt: Image alt text
   - infopic:
-      title: 115th Gala Dinner
-      id: infopic
-      description: Join us for a special evening of celebration.
-      button: FIND OUT MORE
-      url: https://www.instagram.com/yuyingsecondaryschool?igsh=MWIyOG01eDl5bHowag==
-      image: /images/Images/Gala_Dinner.png
-      alt: Image alt text
-  - infopic:
       title: Yuying Shines at the Singapore Science Buskers 2025
       id: infopic
       description: Where curiosity takes flight and creativity shines — nurturing
