@@ -13,7 +13,7 @@ by Tuesday, 23 Dec 2025. If you miss the call and would like to be contacted,
 please call the General Office at 62827968 so that our teachers can return
 your call.&nbsp;</p>
 <p>If there are any further queries, please do not hesitate to contact your
-child’s form teacher, the General Office or email us at <a href="yuying_ss@moe.edu.sg" rel="noopener nofollow" target="_blank">yuying_ss@moe.edu.sg</a>.
+child’s form teacher, the General Office or email us at <a href="mailto:yuying_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yuying_ss@moe.edu.sg</a>.
 The school will communicate with parents primarily via Parents Gateway
 (PG) going forward.</p>
 <p>Follow us on Instagram (<a href="https://www.instagram.com/yuyingsecondaryschool/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/yuyingsecondaryschool/</a>),
