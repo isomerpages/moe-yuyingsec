@@ -271,7 +271,7 @@ and TikTok (@yuyingsecondaryofficial) for updates on the school’s activities.<
 <p>Mrs Jaslyn Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="wong_jiexin_jaslyn@moe.edu.sg" rel="noopener nofollow" target="_blank">wong_jiexin_jaslyn@moe.edu.sg </a>
+<p><a href="wong_jiexin_jaslyn@moe.edu.sg" rel="noopener nofollow" target="_blank">wong_jiexin_jaslyn@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -301,5 +301,6 @@ and TikTok (@yuyingsecondaryofficial) for updates on the school’s activities.<
 </table>
 <p></p>
 <p></p>
-<p><a href="/files/Pdf/2026_Secondary_One_Registration_Exercise_19th_December_2025.pdf" rel="noopener nofollow" target="_blank">2026 Secondary One Registration Exercise 19th December 2025</a>
+<p><a href="/files/Pdf/2026_Secondary_One_Registration_Exercise_19th_December_2025.pdf" rel="noopener nofollow" target="_blank">2026 Secondary One Posting Admin Details</a>
 </p>
+<p></p>
