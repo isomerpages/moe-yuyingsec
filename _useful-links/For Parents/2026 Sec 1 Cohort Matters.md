@@ -310,4 +310,7 @@ for updates on the school’s activities.</p>
 <p></p>
 <p><a href="/files/Pdf/Sec_1_Schedule_for_purchase_of_textbook_and_uniforms___2026.pdf" rel="noopener nofollow" target="_blank">Sec 1 Schedule for purchase of textbook and uniforms 2026</a>
 </p>
+<p>Note: A separate PG message will be sent to you on Friday to make an appointment
+to purchase the school uniform and textbooks.</p>
+<p></p>
 <p></p>
