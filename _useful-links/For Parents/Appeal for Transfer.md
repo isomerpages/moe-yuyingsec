@@ -11,9 +11,11 @@ third_nav_title: For Parents
 <p>For appeal to transfer to Yuying Secondary School, please click here:</p>
 </li>
 </ol>
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
 <p><a href="https://form.gov.sg/693f5b79f9dd7086a97ae1b0" rel="noopener nofollow" target="_blank">https://form.gov.sg/693f5b79f9dd7086a97ae1b0</a>&nbsp;</p>
-<p></p>
+</li>
+</ul>
 <p></p>
 <ol start="2" data-tight="true" class="tight">
 <li>
@@ -21,5 +23,10 @@ third_nav_title: For Parents
 this:</p>
 </li>
 </ol>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer</a>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer</a>
 </p>
+</li>
+</ul>
+<p></p>
