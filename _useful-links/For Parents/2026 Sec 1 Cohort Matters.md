@@ -196,7 +196,7 @@ for updates on the school’s activities.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Ms Cindy Chan</p>
+<p>Mrs Cindy Chan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="chua_ze_jun@moe.edu.sg" rel="noopener nofollow" target="_blank">chua_ze_jun@moe.edu.sg</a>
