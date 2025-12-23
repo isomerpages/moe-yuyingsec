@@ -27,10 +27,11 @@ $10 delivery charge and you will be required to create an online account
 <br>(Strictly by appointment booking online only vias: <a href="https://shanghai-uniforms.sg/appointment-booking" rel="noopener noreferrer nofollow" target="_blank">https://shanghai-uniforms.sg/appointment-booking</a> )
 <br>Tel: 6747 8037 (Retail@Ubi)&nbsp;&nbsp; /&nbsp;Tel: 6352 2741 (Office)</p>
 <p>_____________________________________________________________________________________________________</p>
-<h4><strong><u>Physical Sales in School Schedule (By Appointment only)</u></strong><br></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Images/Physical_Sales_in_School_Schedule_2026.jpg">
-</div>
+<p><strong><u>Physical Sales in School Schedule (By Appointment - Sec 1: via PG meetings / Sec 2-5 please contact School General Office - 62827968)</u></strong>
+<br>
+<br>23 Dec 2025 (Tues), 26 Dec 2025 (Fri), 29 Dec 2025 (Mon) - 9am to 3pm
+<br>30 Dec 2025 (Tues) - 9am to 12pm</p>
+<p></p>
 <h4><strong><u>School Bookshop (Purchase of Textbooks)</u></strong></h4>
 <p>Vendor: Casco Educational Supply Pte Ltd
 <br>Contact: 62859442
@@ -61,7 +62,8 @@ on the textbooks:</p>
 </p>
 <p><a href="/files/Booklist/Sec_4_NT_G1_Textbook_list_2026.pdf" rel="noopener nofollow" target="_blank">Sec 4 NT G1 Textbook list 2026</a>
 </p>
-<p>Sec 5 (T.B.C)</p>
+<p><a href="/files/Booklist/Sec_5_NA_G2_Textbook_list_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 5 NA G2 Textbook list 2026</a>
+</p>
 <h4>Recommended uniform quantity:</h4>
 <table style="minWidth: 75px">
 <colgroup>
