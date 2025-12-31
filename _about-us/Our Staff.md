@@ -84,27 +84,27 @@ Our Staff
 
 ### **Secondary 2
 
-|Class                | Form Teacher               | Email                                      |
-| --------           | --------                        | --------                                   |
-| 2 Gratitude     |  Mdm Norhayati    | norhayati_md_rashid@moe.edu.sg    |
-|                         | Mr Tan Yurn Long    | tan_yurn_long@moe.edu.sg     |
-| 2 Responsibility     |  Mr Ong Beng Keong    | ong_beng_keong@moe.edu.sg  |
-|                         | Ms Hope Sng    | sng_ee_hui_hope@moe.edu.sg     |
-| 2 Adaptability     |  Mr Iskhandar    | iskhandar_abdul_talib@moe.edu.sg   |
-|                         | Mdm Seah Mei Ping   | seah_mei_ping@moe.edu.sg     |
-| 2 Courage     | Mdm Nisha   | nisha_omar_khan@moe.edu.sg   |
-|                         | Mrs Jaslyn Lim    | wong_jiexin_jaslyn@moe.edu.sg   |
-|                         | Mr Gary Lim    | lim_jian_ming_gary@moe.edu.sg   |
-| 2 Empathy     
-|                         | Ms Xu Cuixiao    | xu_cuixiao@moe.edu.sg   |
-|                         | Mr Teo Chek Meng    | teo_chek_meng_a@moe.edu.sg   |
-| 2 Fortitude     | Miss Nur Syahirah    | nur_syahirah_mohamed_salim@moe.edu.sg   |
-|                         | Mr Seetoh Kok Leong   | seetoh_kok_leong@moe.edu.sg   |
-| 2 Unity     | Ms Lea Wong    | 	lea_wong_lay_yi@moe.edu.sg   |
-|                         | Mr Sandhu    | gulzar_gurdev_singh_sandhu@moe.edu.sg  |
-|                         | hannah_tan_si_ping@moe.edu.sg  |
-| 2 Leadership     | Mr Edmund Teo    | teo_huai_wei_edmund@moe.edu.sg |
-|                        
+|Class                   | Form Teacher               | Email                                      |
+| --------              | --------                        | --------                                   |
+| 2 Gratitude        |  Ms Sarah Jane Lee    | sarah_jane_lee@moe.edu.sg    |
+|                            | Mr Darren Kung          | kung_kai_wen@moe.edu.sg     |
+| 2 Responsibility |  Mdm Tan Sook Hoon | tan_sook_hoon@moe.edu.sg  |
+|                            | Mr Lee Mun Tat          | lee_mun_tat@moe.edu.sg     |
+|                            | Ms Hannah Tan           | hannah_tan_s_ping@moe.edu.sg |
+| 2 Adaptability    | Mdm Risliana              | risliana_mohd_idris_moey@moe.edu.sg |
+|                            | Mr Koh Chee Keong   | koh_chee_keong@moe.edu.sg     |
+| 2 Courage         | Mr Irsyaad Hasif          | irsyaad_hasif_ramle@moe.edu.sg   |
+|                           | Ms Melissa Leow Lifang    |melissa_leow_lifang@moe.edu.sg   |
+| 2 Empathy        | Ms Melanie Sim            | sim_yin_hui@moe.edu.sg |
+|                         | Ms Sophie Anastassia    | sophi_anastassia_m_j@moe.edu.sg   |
+|                         | Ms Kiw Hui Xin               | kiw_hui_xin@moe.edu.sg  |
+| 2 Fortitude     | Mr Desmond Pok            | pok_kah_hui_desmond@moe.edu.sg   |
+|                         | Mdm Wang Hsiao Yu     | wang_hsiao_yu@moe.edu.sg   |
+|                         | Mr Ong Teck Yew          | ong_teck_yew@moe.edu.sg   |
+| 2 Unity            | Mr Aaron Chan              | 	chan_jun_xian_aaron@moe.edu.sg   |
+|                         | Ms Charmain Tan          | charmain_tan_see_lai@moe.edu.sg  |
+| 2 Leadership  | Ms Wong Hiew Min       | wong_hiew_min@moe.edu.sg |
+|                         | Ms Rabi’atul Adawiyah | rabiatul_adawiyah_abd_wahid@moe.edu.sg | 
 | Year Head   | Ms Linda Marie     |   linda_marie@moe.edu.sg                                               |                                    | 
 
 
