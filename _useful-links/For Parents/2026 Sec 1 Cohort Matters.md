@@ -235,10 +235,11 @@ for updates on the school’s activities.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>Ms Ambika Nair</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="ambika_nair@moe.edu.sg" rel="noopener nofollow" target="_blank">ambika_nair@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -295,10 +296,11 @@ for updates on the school’s activities.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>Ms Serene Chua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="chua_seok_hui@moe.edu.sg" rel="noopener nofollow" target="_blank">chua_seok_hui@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
