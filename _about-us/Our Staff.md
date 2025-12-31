@@ -112,11 +112,11 @@ Our Staff
 ### **Secondary 3
 
 |Class                | Form Teacher               | Email                                      |
-| --------           | --------                        | --------                                   |
-| 3 Gratitude     |  Mdm Esther Tay   | tay_hwee_kiang_esther@moe.edu.sg    |
-|                         | Mr Lee Hock Joo    | lee_hock_joo@moe.edu.sg     |
-| 3 Responsibility     |  Mr Leong Kah Hoong    | leong_kah_hoong@moe.edu.sg |
-|                         | Mdm Gao Xia    | gao_xia@moe.edu.sg     |
+| --------           | --------                         | --------                                  |
+| 3 Gratitude     |  Mdm De Chunyan       | de_chunyan@moe.edu.sg    |
+|                         | Mdm See Soo Shin       | see_soo_shin@moe.edu.sg     |
+| 3 Responsibility  |  Mr Edmund Teo    | teo_huai_wei_edmund@moe.edu.sg |
+|                              | Ms Lea Wong                | lea_wong_lay_yi@moe.edu.sg     |
 | 3 Adaptability     |  Miss Zuraidah    | zuraidah_daud@moe.edu.sg   |
 |                         | Mr Jameson Kang   | kang_siak_chuan_jameson@moe.edu.sg    |
 | 3 Courage     | Mr Ahmadsallehin Zulkiflee   | ahmadsallehin_zulkiflee@moe.edu.sg   |
