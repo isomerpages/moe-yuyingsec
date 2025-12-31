@@ -115,22 +115,20 @@ Our Staff
 | --------           | --------                         | --------                                  |
 | 3 Gratitude     |  Mdm De Chunyan       | de_chunyan@moe.edu.sg    |
 |                         | Mdm See Soo Shin       | see_soo_shin@moe.edu.sg     |
-| 3 Responsibility  |  Mr Edmund Teo    | teo_huai_wei_edmund@moe.edu.sg |
+| 3 Responsibility  |  Mr Edmund Teo           | teo_huai_wei_edmund@moe.edu.sg |
 |                              | Ms Lea Wong                | lea_wong_lay_yi@moe.edu.sg     |
-| 3 Adaptability     |  Miss Zuraidah    | zuraidah_daud@moe.edu.sg   |
-|                         | Mr Jameson Kang   | kang_siak_chuan_jameson@moe.edu.sg    |
-| 3 Courage     | Mr Ahmadsallehin Zulkiflee   | ahmadsallehin_zulkiflee@moe.edu.sg   |
-|                         | Ms Lai Ai Fah    | lai_ai_fah@moe.edu.sg   |
-| 3 Empathy     | Ms Jasmine Koh    | koh_kai_min_jasmine@moe.edu.sg  |
-|                         |Mr Aaron Tan     | tan_shih_yan_aaron@moe.edu.sg   |
-|                         | Mdm Lathamagesh     | lathamagesh_shatiannatham@moe.edu.sg   |
-| 3 Fortitude     | Mr Ang Eng Hong    | ang_eng_hong@moe.edu.sg   |
-|                       
-|                         | Ms Candice Yong   | yong_jia_yun_candice@moe.edu.sg   |
-| 3 Unity     | Mr Rajesh William    | rajesh_william@moe.edu.sg   |
-|                         | Mr James Tang   | tang_kum_leong_b@moe.edu.sg  |
-|                     | Ms Ng Yun Xuan    | ng_yun_xuan@moe.edu.sg   |
-| Assistant Year Head   | Mr Kelvin Goh     |   goh_kelvin@moe.edu.sg                                              |                                    | 
+| 3 Adaptability     |  Mr Ong Beng Keong    | ong_beng_keong@moe.edu.sg   |
+|                             | Mdm Tan Lin                  | tan_lin@moe.edu.sgg    |
+| 3 Courage           | Mr Seetoh Kok Leong   | seetoh_kok_leong@moe.edu.sg  |
+|                             | Ms Goh Xin Fang           | goh_xin_fang@moe.edu.sg   |
+| 3 Empathy          | Mr Tai Kay Seng            | tai_kay_seng@moe.edu.sg  |
+|                             |Mdm Norhayati              | norhayati_md_rashid@moe.edu.sg   |
+| 3 Fortitude         | Mdm Nisha                    | nisha_omar_khan@moe.edu.sg   |             
+|                             | Ms June Ho                   | ho_wei_wei_june@moe.edu.sg  |
+| 3 Unity                | Mdm Jennifer Soh        | soh_chwee_ling@moe.edu.sg  |
+|                             | Ms Shi Yan Wei             | shi_yanwei@moe.edu.sg  |
+|                             | Mr Alvin Peh                 | peh_chin_chen_alvin@moe.edu.sg   |
+| Assistant Year Head   | Ms Marsha Ho     | ho_jia_yi_marsha@moe.edu.sg         |        
 
 
 
