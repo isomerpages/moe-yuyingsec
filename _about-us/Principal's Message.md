@@ -32,10 +32,10 @@ Principal's Message
 <p>	In this new year, let us continue to draw inspiration from our school’s heritage and our school’s identity. Let us invoke the pioneering spirit – the ‘can do’ spirit to enable every Yuying Eagle to become a <b>Lifelong Learner, Compassionate Leader, Enterprising Changemaker and Responsible Citizen</b>, anchored on the school values of <b>Integrity, Resilience, Respect and Responsibility</b>. </p>	
 <p>	We are keenly aware that we cannot walk this journey alone. I humbly invite all our parents and valued stakeholders to support and partner us as we continue ‘Soaring Higher Together’.</p>	
 
-<p>	With gratitude,</p>	
-<p>	Mr Chong Jack Sheng</p>	
+<p>	With gratitude,	
+<br>	Mr Chong Jack Sheng<br>	
 Principal
 
 ### ***Soaring Higher Together***
-<figure><img src="/images/Mr%20Chong%20JS.jpg" style="width:50%"><figcaption> Mr Chong Jack Sheng - 
+</p><figure><img src="/images/Mr%20Chong%20JS.jpg" style="width:50%"><figcaption> Mr Chong Jack Sheng - 
 Principal</figcaption></figure>
