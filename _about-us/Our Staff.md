@@ -12,6 +12,7 @@ Our Staff
 | ------------------------------------------------------------- | ------------------------ |
 | Principal                                                     | Mr Chong Jack Sheng      |
 | Vice-Principal                                              |   Mr Gabriel Cheong       |
+| Vice-Principal                                               |   Mr Sukhdev Singh       |
 | Vice-Principal                                               |   Mr Ivin Chan       |
 | Vice-Principal (Admin)                                              |   Mrs Catherine Tan       |
 | School Staff Developer                                        | Ms Sucillia Sukiman        |
@@ -25,20 +26,26 @@ Our Staff
 | Head of Department (Mathematics)                              | Mrs Yim Meng Choo          |
 | Head of Department (Mother Tongue Languages)                  | Mdm Yu Ya Ting           |
 | Head of Department (Physical Education & CCA)                 | Mr Lawrence Lim          |
-| Head of Department (Science)                                  | Mr Alvin Peh             |
+| Head of Department (Science)                                  | Mr Eric Chew             |
 | Head of Department (Student Management)                                 | Ms Ng Li Rong            |
 | Head of Department (Student Well-Being)                                 | Mr Jeffrey Quek           |
-| Assistant Year Head (Sec 1)                         | Ms Anu Priya            |
-| Assistant Year Head (Sec 3)                         | Mr Kelvin Goh            |
+| Assistant Year Head (Sec 1)                         | Mr Roysmond Sim            |
+| Assistant Year Head (Sec 2)                         | Ms Anu Priya            |
+| Assistant Year Head (Sec 3)                         | Ms Marsha Ho           |
+| Assistant Year Head (Sec 4 & 5)                         | Mr Kelvin Goh            |
+| Acting Subject Head (Aesthetics)                        | Ms Hannah Tan           |
 | Subject Head (Chinese Language)                               | Mr Koh Chee Keong        |
 | Subject Head (History)                                        | Ms Yee Sze Jia           |
 | Subject Head (Literature)                                     | Mrs Jaslyn Lim           |
 | Subject Head (Mathematics)                                     | Mdm Lathamagesh            |
 | Subject Head (Nutrition and Food Science)                                 | Ms Candice Yong            |
-| Subject Head (Learning Support - SEN)                                 | Mdm Absa Ummal            |
+| Subject Head (Learning Support - Special Education Needs)                                 | Mdm Absa Ummal            |
+| Subject Head (Student Leadership)                                     | Ms Goh Xin Fang            |
+| Senior Teacher (Character & Citizenship Education)          |   Ms Crystal Ling            |
 | Senior Teacher (Chinese Language)                             | Mdm Gao Xia              |
 | Senior Teacher (Design & Technology)                          | Mrs Cindy Chan           |
 | Senior Teacher (English Language)                             | Ms Hope Sng              |
+| Senior Teacher (Learning Needs – Educational Support)       | Mr Alvin Peh              |
 | Senior Teacher (Mathematics)                                  | Mdm Tan Lin              |
 | Senior Teacher (Physical Education)                           | Mr Lee Hock Joo          |
 | Senior Teacher (Physics)                                      | Mr Jameson Kang          |
