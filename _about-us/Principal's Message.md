@@ -8,18 +8,12 @@ Principal's Message
 ===================
         
 
-**Yuying Celebrates 115th Anniversary**
+****Radiating Gratitude in the Yuying Community****
 
 <p align="center">
-	“Sow a thought and you reap an action;
+	​​“Kindness is a language which the deaf can hear and the blind can see.”
 </p><p align="center">
-Sow an act and you reap a habit;
-</p><p align="center">
-Sow a habit and you reap a character;
-</p><p align="center">
-Sow a character and you reap a destiny.”
-</p><p align="center">
-―&nbsp;Ralph Waldo Emerson
+―&nbsp;Mark Twain
 </p>	
 
 Yuying Secondary School had a great year last year. While the journey in 2024 was long and sometimes arduous, we are glad that the effort and time that staff and students sowed into the journey has enabled us to reap an immense sense of collective pride. Yuying demonstrated the ‘can do’ spirit – we rose above the challenges to deliver excellence. The beautiful sight of Yuying Concert Band and student dancers performing at the pre-parade segment of NDP2024 will forever be etched in Yuying’s collective memory. Looking back, we can be proud to declare that we have lived out our school motto - _Together, Achieve Personal Excellence._
