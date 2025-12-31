@@ -8,7 +8,7 @@ Principal's Message
 ===================
         
 
-****Radiating Gratitude in the Yuying Community****
+**Radiating Gratitude in the Yuying Community**
 
 <p align="center">
 	​​“Kindness is a language which the deaf can hear and the blind can see.”
