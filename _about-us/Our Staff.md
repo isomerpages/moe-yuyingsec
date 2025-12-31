@@ -104,7 +104,8 @@ Our Staff
 | 2 Unity            | Mr Aaron Chan              | 	chan_jun_xian_aaron@moe.edu.sg   |
 |                         | Ms Charmain Tan          | charmain_tan_see_lai@moe.edu.sg  |
 | 2 Leadership  | Ms Wong Hiew Min       | wong_hiew_min@moe.edu.sg |
-|                         | Ms Rabi’atul Adawiyah | rabiatul_adawiyah_abd_wahid@moe.edu.sg | 2 Synergy       | Mr Kwok Zhen Yuan     | kwok_zhen_yuan@moe.edu.sg  | 
+|                         | Ms Rabi’atul Adawiyah | rabiatul_adawiyah_abd_wahid@moe.edu.sg  |
+| 2 Synergy       | Mr Kwok Zhen Yuan     | kwok_zhen_yuan@moe.edu.sg  | 
 |                         | Mdm Nor Jehan Raseede | nor_jehan_raseede@moe.edu.sg  |
 | Assistant Year Head | Ms Anu Priya     |   anu_priya_nair_appukuttan@moe.edu.sg |   
 
@@ -155,4 +156,4 @@ Our Staff
 |                         | Ms Ng Yun Xuan    | ng_yun_xuan@moe.edu.sg  |
 | 5 Gratitude     | Ms Yee Sze Jia    | yee_sze_jia@moe.edu.sg   |
 |                         |Mr Eric Ong   | ong_seow_choong_eric@moe.edu.sg   |
-| Assistant Year Head   | Mr Kelvin Goh     |  goh_kelvin@moe.edu.sg   |                         
+| Assistant Year Head   | Mr Kelvin Goh     |  goh_kelvin@moe.edu.sg   |
