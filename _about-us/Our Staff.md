@@ -143,17 +143,16 @@ Our Staff
 | 4 Adaptability      |  Mr Tan Yurn Long        | tan_yurn_long@moe.edu.sg   |
 |                              | Mr Jameson Kang         | kang_siak_chuan_jameson@moe.edu.sg |
 |                              | Mrs Sally Tang             | tang_guek_kee_sally@moe.edu.sg    |
-| 4 Courage     | Mr Linus Chan   | chan_lin_siong_linus@moe.edu.sg   |
-|                         | Mdm Tan Lin    | tan_lin@moe.edu.sg   |
-| 4 Empathy     | Ms Kiw Hui Xin    | kiw_hui_xin@moe.edu.sg  |
-|                        
-| 4 Fortitude     | Mdm Jennifer Soh    | soh_chwee_ling@moe.edu.sg   |
-|                         | Mr Goh Ser Meng   | goh_ser_meng@moe.edu.sg   |
+| 4 Courage     | Mr Ahmadsallehin Zulkiflee   | ahmadsallehin_zulkiflee@moe.edu.sg   |
+|                         | Ms Lai Ai Fah    | lai_ai_fah@moe.edu.sg   |
+|                         | Miss Nur Syahirah    | nur_syahirah_mohamed_salim@moe.edu.sg   |
+| 4 Empathy     | Ms Jasmine Koh    | koh_kai_min_jasmine@moe.edu.sg  |
+|                        | Mdm Lathamagesh   | lathamagesh_shatiannatham@moe.edu.sg    |
+| 4 Fortitude     | Mr Ang Eng Hong    | ang_eng_hong@moe.edu.sg   |
+|                         | Ms Candice Yong   | yong_jia_yun_candice@moe.edu.sg   |
+| 4 Unity            | Mr Rajesh William   | rajesh_william@moe.edu.sg   |
+|                         | Mr James Tang    | tang_kum_leong_b@moe.edu.sg   |
+|                         | Ms Ng Yun Xuan    | ng_yun_xuan@moe.edu.sg  |
+| 5 Gratitude     | Ms Yee Sze Jia    | yee_sze_jia@moe.edu.sg   |
 |                         |Mr Eric Ong   | ong_seow_choong_eric@moe.edu.sg   |
-| 4 Unity     | Ms June Ho    | ho_wei_wei_june@moe.edu.sg   |
-|                     | Ms Yee Sze Jia    | yee_sze_jia@moe.edu.sg   |
-| 4 Leadership    
-|                         | Mr Low Zhiyong   | low_zhiyong@moe.edu.sg |
-| 5 Gratitude     | Mr Vincent Lew    | lew_wei_sern_vincent@moe.edu.sg   |
-|                         | Mdm Tan Sook Hoon   | tan_sook_hoon@moe.edu.sg  |
-| Year Head   | Mr Eric Chew     |  chew_tse_yong@moe.edu.sg                                               |                                    |
+| Assistant Year Head   | Mr Kelvin Goh     |  goh_kelvin@moe.edu.sg   |                         
