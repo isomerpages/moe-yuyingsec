@@ -134,15 +134,15 @@ Our Staff
 
 ### **Secondary 4/5
 
-|Class                | Form Teacher               | Email                                      |
-| --------           | --------                        | --------                                   |
-| 4 Gratitude     |  Ms Ummu Rabbisyfina   | ummu_rabbisyfina_abdul_hamid@moe.edu.sg    |
-|                         | Mr Tai Kay Seng    | tai_kay_seng@moe.edu.sg    |
-|                         | Mrs Sally Tang    | tang_guek_kee_sally@moe.edu.sg    |
-| 4 Responsibility     |  Mdm De Chunyan    | de_chunyan@moe.edu.sg |
-|                         | Mdm Absa Ummal    | absa_ummal_md_ali@moe.edu.sg     |
-| 4 Adaptability     |  Mr Danny Louis    | danny_louis@moe.edu.sg   |
-|                         | Mdm Nur Fazelinda   | Nur_Fazelinda_Mohd_Noor@moe.edu.sg    |
+|Class                      | Form Teacher               | Email                                      |
+| --------                 | --------                         | --------                                   |
+| 4 Gratitude           |  Mr Gary Lim                 | lim_jian_ming_gary@moe.edu.sg    |
+|                               |  Mr Lee Hock Joo         | lee_hock_joo@moe.edu.sg   |
+| 4 Responsibility   |  Mr Leong Kah Hoong  | leong_kah_hoong@moe.edu.sg |
+|                               | Mdm Gao Xia                | gao_xia@moe.edu.sg     |
+| 4 Adaptability      |  Mr Tan Yurn Long        | tan_yurn_long@moe.edu.sg   |
+|                              | Mr Jameson Kang         | kang_siak_chuan_jameson@moe.edu.sg |
+|                              | Mrs Sally Tang             | tang_guek_kee_sally@moe.edu.sg    |
 | 4 Courage     | Mr Linus Chan   | chan_lin_siong_linus@moe.edu.sg   |
 |                         | Mdm Tan Lin    | tan_lin@moe.edu.sg   |
 | 4 Empathy     | Ms Kiw Hui Xin    | kiw_hui_xin@moe.edu.sg  |
