@@ -34,8 +34,8 @@ Principal's Message
 
 <p>	With gratitude,	
 <br>	Mr Chong Jack Sheng<br>	
-Principal
+Principal<br>	<br>
 
-### ***Soaring Higher Together***
+***Soaring Higher Together***
 </p><figure><img src="/images/Mr%20Chong%20JS.jpg" style="width:50%"><figcaption> Mr Chong Jack Sheng - 
 Principal</figcaption></figure>
