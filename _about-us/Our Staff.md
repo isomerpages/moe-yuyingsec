@@ -96,7 +96,7 @@ Our Staff
 | 2 Courage         | Mr Irsyaad Hasif          | irsyaad_hasif_ramle@moe.edu.sg   |
 |                           | Ms Melissa Leow Lifang    |melissa_leow_lifang@moe.edu.sg   |
 | 2 Empathy        | Ms Melanie Sim            | sim_yin_hui@moe.edu.sg |
-|                         | Ms Sophie Anastassia    | sophi_anastassia_m_j@moe.edu.sg   |
+|                         | Ms Sophie Anastassia    | sophie_anastassia_m_j@moe.edu.sg   |
 |                         | Ms Kiw Hui Xin               | kiw_hui_xin@moe.edu.sg  |
 | 2 Fortitude     | Mr Desmond Pok            | pok_kah_hui_desmond@moe.edu.sg   |
 |                         | Mdm Wang Hsiao Yu     | wang_hsiao_yu@moe.edu.sg   |
@@ -119,7 +119,7 @@ Our Staff
 | 3 Responsibility  |  Mr Edmund Teo           | teo_huai_wei_edmund@moe.edu.sg |
 |                              | Ms Lea Wong                | lea_wong_lay_yi@moe.edu.sg     |
 | 3 Adaptability     |  Mr Ong Beng Keong    | ong_beng_keong@moe.edu.sg   |
-|                             | Mdm Tan Lin                  | tan_lin@moe.edu.sgg    |
+|                             | Mdm Tan Lin                  | tan_lin@moe.edu.sg    |
 | 3 Courage           | Mr Seetoh Kok Leong   | seetoh_kok_leong@moe.edu.sg  |
 |                             | Ms Goh Xin Fang           | goh_xin_fang@moe.edu.sg   |
 | 3 Empathy          | Mr Tai Kay Seng            | tai_kay_seng@moe.edu.sg  |
