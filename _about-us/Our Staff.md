@@ -33,7 +33,6 @@ Our Staff
 | Assistant Year Head (Sec 2)                         | Ms Anu Priya            |
 | Assistant Year Head (Sec 3)                         | Ms Marsha Ho           |
 | Assistant Year Head (Sec 4 & 5)                         | Mr Kelvin Goh            |
-| Acting Subject Head (Aesthetics)                        | Ms Hannah Tan           |
 | Subject Head (Chinese Language)                               | Mr Koh Chee Keong        |
 | Subject Head (History)                                        | Ms Yee Sze Jia           |
 | Subject Head (Literature)                                     | Mrs Jaslyn Lim           |
@@ -78,7 +77,7 @@ Our Staff
 |                         | Mr Kevin Yap    | yap_shao_kuan_kevin@moe.edu.sg   |
 | 1 Leadership   | Ms Wong Hiew Min    | wong_hiew_min@moe.edu.sg   |
 |                         | Mr Freddy Khoo    | khoo_hong_shan_freddy@moe.edu.sg  |
-|                         | Ms Serene Chua   | chua_geok_peng@moe.edu.sg   |
+|                         | Ms Serene Chua   | chua_seok_hui@moe.edu.sg   |
 | Assistant Year Head | Mr Roysmond Sim  | roysmond_sim_zhen_wei@moe.edu.sg |  
 
 
@@ -96,7 +95,7 @@ Our Staff
 | 2 Courage         | Mr Irsyaad Hasif          | irsyaad_hasif_ramle@moe.edu.sg   |
 |                           | Ms Melissa Leow Lifang    |melissa_leow_lifang@moe.edu.sg   |
 | 2 Empathy        | Ms Melanie Sim            | sim_yin_hui@moe.edu.sg |
-|                         | Ms Sophie Anastassia    | sophi_anastassia_m_j@moe.edu.sg   |
+|                         | Ms Sophie Anastassia    | sophie_anastassia_m_j@moe.edu.sg   |
 |                         | Ms Kiw Hui Xin               | kiw_hui_xin@moe.edu.sg  |
 | 2 Fortitude     | Mr Desmond Pok            | pok_kah_hui_desmond@moe.edu.sg   |
 |                         | Mdm Wang Hsiao Yu     | wang_hsiao_yu@moe.edu.sg   |
@@ -119,7 +118,7 @@ Our Staff
 | 3 Responsibility  |  Mr Edmund Teo           | teo_huai_wei_edmund@moe.edu.sg |
 |                              | Ms Lea Wong                | lea_wong_lay_yi@moe.edu.sg     |
 | 3 Adaptability     |  Mr Ong Beng Keong    | ong_beng_keong@moe.edu.sg   |
-|                             | Mdm Tan Lin                  | tan_lin@moe.edu.sgg    |
+|                             | Mdm Tan Lin                  | tan_lin@moe.edu.sg    |
 | 3 Courage           | Mr Seetoh Kok Leong   | seetoh_kok_leong@moe.edu.sg  |
 |                             | Ms Goh Xin Fang           | goh_xin_fang@moe.edu.sg   |
 | 3 Empathy          | Mr Tai Kay Seng            | tai_kay_seng@moe.edu.sg  |
@@ -129,6 +128,8 @@ Our Staff
 | 3 Unity                | Mdm Jennifer Soh        | soh_chwee_ling@moe.edu.sg  |
 |                             | Ms Shi Yan Wei             | shi_yanwei@moe.edu.sg  |
 |                             | Mr Alvin Peh                 | peh_chin_chen_alvin@moe.edu.sg   |
+| 3 Leadership      | Mdm Seah Mei Ping     | seah_mei_ping@moe.edu.sg   |
+|                             | Mr Danny Louis            | danny_louis@moe.edu.sg  |
 | Assistant Year Head   | Ms Marsha Ho     | ho_jia_yi_marsha@moe.edu.sg         |        
 
 
