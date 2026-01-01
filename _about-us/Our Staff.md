@@ -78,7 +78,7 @@ Our Staff
 |                         | Mr Kevin Yap    | yap_shao_kuan_kevin@moe.edu.sg   |
 | 1 Leadership   | Ms Wong Hiew Min    | wong_hiew_min@moe.edu.sg   |
 |                         | Mr Freddy Khoo    | khoo_hong_shan_freddy@moe.edu.sg  |
-|                         | Ms Serene Chua   | chua_geok_peng@moe.edu.sg   |
+|                         | Ms Serene Chua   | chua_seok_hui@moe.edu.sg   |
 | Assistant Year Head | Mr Roysmond Sim  | roysmond_sim_zhen_wei@moe.edu.sg |  
 
 
