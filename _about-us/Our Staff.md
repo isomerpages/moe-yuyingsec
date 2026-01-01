@@ -33,7 +33,6 @@ Our Staff
 | Assistant Year Head (Sec 2)                         | Ms Anu Priya            |
 | Assistant Year Head (Sec 3)                         | Ms Marsha Ho           |
 | Assistant Year Head (Sec 4 & 5)                         | Mr Kelvin Goh            |
-| Acting Subject Head (Aesthetics)                        | Ms Hannah Tan           |
 | Subject Head (Chinese Language)                               | Mr Koh Chee Keong        |
 | Subject Head (History)                                        | Ms Yee Sze Jia           |
 | Subject Head (Literature)                                     | Mrs Jaslyn Lim           |
@@ -129,6 +128,8 @@ Our Staff
 | 3 Unity                | Mdm Jennifer Soh        | soh_chwee_ling@moe.edu.sg  |
 |                             | Ms Shi Yan Wei             | shi_yanwei@moe.edu.sg  |
 |                             | Mr Alvin Peh                 | peh_chin_chen_alvin@moe.edu.sg   |
+| 3 Leadership      | Mdm Seah Mei Ping     | seah_mei_ping@moe.edu.sg   |
+|                             | Mr Danny Louis            | danny_louis@moe.edu.sg  |
 | Assistant Year Head   | Ms Marsha Ho     | ho_jia_yi_marsha@moe.edu.sg         |        
 
 
