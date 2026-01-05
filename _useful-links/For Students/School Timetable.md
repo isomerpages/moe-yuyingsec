@@ -5,7 +5,7 @@ description: ""
 third_nav_title: For Students
 variant: markdown
 ---
-2025 Timetable 
+2026 Timetable 
 ===================
 
 ##### **Secondary 1**
