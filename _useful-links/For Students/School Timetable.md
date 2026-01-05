@@ -11,34 +11,85 @@ variant: markdown
 ##### **Secondary 1**
 
 
-[Sec 1 Sem 2 Timetable](/files/Timetable%202025/Sec_1_Sem_2.pdf)
+[Class 1A](/files/Timetable%202026/1A.pdf)
+
+[Class 1C](/files/Timetable%202026/1C.pdf)
+
+[Class 1E](/files/Timetable%202026/1E.pdf)
+
+[Class 1F](/files/Timetable%202026/1F.pdf)
+
+[Class 1G](/files/Timetable%202026/1G.pdf)
+
+[Class 1L](/files/Timetable%202026/1L.pdf)
+
+[Class 1R](/files/Timetable%202026/1R.pdf)
+
+[Class 1U](/files/Timetable%202026/1U.pdf)
 
 
 ##### **Secondary 2**
 
 
-[Sec 2 Sem 2 Timetable](/files/Timetable%202025/Sec_2_Sem_2.pdf)
+[Class 2A](/files/Timetable%202026/2A.pdf)
 
+[Class 2C](/files/Timetable%202026/2C.pdf)
+
+[Class 2E](/files/Timetable%202026/2E.pdf)
+
+[Class 2F](/files/Timetable%202026/2F.pdf)
+
+[Class 2G](/files/Timetable%202026/2G.pdf)
+
+[Class 2L](/files/Timetable%202026/2L.pdf)
+
+[Class 2R](/files/Timetable%202026/2R.pdf)
+
+[Class 2S](/files/Timetable%202026/2S.pdf)
 
 
 
 ##### **Secondary 3**
 
 
-[Sec 3 Sem 2 Timetable](/files/Timetable%202025/Sec_3_Sem_2.pdf)
+[Class 3A](/files/Timetable%202026/3A.pdf)
+
+[Class 3C](/files/Timetable%202026/3C.pdf)
+
+[Class 3E](/files/Timetable%202026/3E.pdf)
+
+[Class 3F](/files/Timetable%202026/3F.pdf)
+
+[Class 3G](/files/Timetable%202026/3G.pdf)
+
+[Class 3L](/files/Timetable%202026/3L.pdf)
+
+[Class 3R](/files/Timetable%202026/3R.pdf)
+
+[Class 3U](/files/Timetable%202026/3U.pdf)
 
 
 
 ##### **Secondary 4**
 
 
-[Sec 4 Sem 2 Timetable](/files/Timetable%202025/Sec_4_Sem_2.pdf)
+[Class 4A](/files/Timetable%202026/4A.pdf)
+
+[Class 4C](/files/Timetable%202026/4C.pdf)
+
+[Class 4E](/files/Timetable%202026/4E.pdf)
+
+[Class 4F](/files/Timetable%202026/4F.pdf)
+
+[Class 4G](/files/Timetable%202026/4G.pdf)
+
+[Class 4R](/files/Timetable%202026/4R.pdf)
+
+[Class 4U](/files/Timetable%202026/4U.pdf)
 
 
 
 ##### **Secondary 5**
 
 
-[Sec 5 Sem 2 Timetable](/files/Timetable%202025/Sec_5_Sem_2.pdf)
-
-
+[Class 5G](/files/Timetable%202026/5G.pdf)
