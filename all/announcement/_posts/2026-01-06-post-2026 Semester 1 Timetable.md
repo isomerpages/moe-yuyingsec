@@ -13,6 +13,6 @@ variant: tiptap
 </p>
 <p>Please click on the following links to download the timetable.</p>
 <p></p>
-<p><a href="https://www.yuyingsec.moe.edu.sg/useful-links/for-students/timetable/" rel="noopener nofollow" target="_blank">https://www.yuyingsec.moe.edu.sg/useful-links/for-students/timetable/</a>
+<p><a href="https://www.yuyingsec.moe.edu.sg/useful-links/for-students/timetable/" rel="noopener nofollow" target="_blank">https://www.yuyingsec.moe.edu.sg/useful-links/for-students/2026-semester-1-timetable/</a>
 </p>
 <p></p>
