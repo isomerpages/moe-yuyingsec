@@ -47,6 +47,8 @@ variant: markdown
 
 [Class 2S](/files/Timetable%202026/2S.pdf)
 
+[Class 2U](/files/Timetable%202026/2U.pdf)
+
 
 
 ##### **Secondary 3**
