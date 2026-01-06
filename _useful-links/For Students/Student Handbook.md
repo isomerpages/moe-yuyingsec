@@ -5,5 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: For Students
 ---
-<p><a href="/files/Pdf/FINAL_2025_Student_Handbook.pdf" rel="noopener nofollow" target="_blank">Student Handbook 2025 </a>
+<p></p>
+<p><a href="/files/Pdf/YYSS_Student_Handbook_2026_final.pdf" rel="noopener nofollow" target="_blank">YYSS Student Handbook 2026</a>
 </p>
