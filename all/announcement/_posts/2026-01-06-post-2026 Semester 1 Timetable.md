@@ -9,7 +9,7 @@ variant: tiptap
 ---
 <p><strong>2026 Semester 1 Timetable</strong>
 </p>
-<p><strong>6 Jan 2025</strong>
+<p><strong>6 Jan 2026</strong>
 </p>
 <p>Please click on the following links to download the timetable.</p>
 <p></p>
