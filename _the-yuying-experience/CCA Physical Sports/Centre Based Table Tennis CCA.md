@@ -29,10 +29,10 @@ and improving physical fitness.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Friendly_Games_with_Manjusri_Sec.png">
 </div>
-<p><strong>Centre-Based Table Tennis CCA students in a friendly match with Manjusri Secondary School, fostering camaraderie, skill development, and sportsmanship.</strong>
+<p><strong>Yuying Table Tennis CCA in action at the National School Games, displaying commitment and competitive spirit.</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_NSG_Group_1.jpg">
 </div>
-<p><strong>Yuying Table Tennis CCA in action at the National School Games, displaying commitment and competitive spirit.</strong>
+<p><strong>Centre-Based Table Tennis CCA students in a friendly match with Manjusri Secondary School, fostering camaraderie, skill development, and sportsmanship.</strong>
 </p>
