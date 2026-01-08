@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: For Students
 ---
+<h4><strong>Weighted Assessment Timetable</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -86,6 +87,7 @@ third_nav_title: For Students
 </tr>
 </tbody>
 </table>
+<p></p>
 <h4><strong>Examination Timetable</strong></h4>
 <p><a href="/files/Pdf/Weighted Assessment/N_Level_Preliminary_Examinations_Timetable_2025.pdf" rel="noopener nofollow" target="_blank">N Levels Preliminary Examinations Timetable 2025</a>
 </p>
