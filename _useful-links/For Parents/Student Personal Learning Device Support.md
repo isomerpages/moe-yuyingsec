@@ -21,7 +21,6 @@ The National Digital Literacy Programme (NDLP) for our schools and Institutes of
 
 [FAQs on the Personal Learning Device](/files/PDLP2024/FAQs_on_the_Personal_Learning_Device_YYSS_.pdf)
 
-[DUDRC2 - Instructions for DMA Uninstallation [ChromeOS]](/files/Pdf/DUDRC2___For_Students__Instructions_for_DMA_Uninstallation__ChromeOS_.pdf)
 
 Basic troubleshooting guide  
   
