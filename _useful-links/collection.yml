@@ -2,7 +2,6 @@ collections:
   useful-links:
     output: true
     order:
-      - For Students/'National Examination Results Release'.md
       - For Students/.keep
       - For Students/Student Handbook.md
       - For Students/Holiday Homework.md
@@ -13,6 +12,7 @@ collections:
       - For Students/SLS Ace Opac.md
       - For Students/President's Award for Teachers (PAT) and Outstanding Youth
         in Education (OYEA) Award.md
+      - For Students/'National Examination Results Release'.md
       - For Parents/.keep
       - For Parents/2026 Sec 1 Cohort Matters.md
       - For Parents/Insurance for Students.md
