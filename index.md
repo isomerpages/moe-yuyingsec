@@ -16,4 +16,10 @@ sections:
       title: ANNOUNCEMENTS
       id: resources
       button: View All ANNOUNCEMENTS
+  - infobar:
+      title: 2026 CCA Sec1 first reporting
+      id: infobar
+      description: Infobar description
+      button: Click HERE
+      url: /2026-yyss-cca-sec1-first-reporting/
 ---
