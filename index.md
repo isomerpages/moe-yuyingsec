@@ -17,7 +17,7 @@ sections:
       id: resources
       button: View All ANNOUNCEMENTS
   - infobar:
-      title: 2026 CCA Sec1 first reporting
+      title: 2026 CCA Sec1 First Reporting
       id: infobar
       description: Infobar description
       button: Click HERE
