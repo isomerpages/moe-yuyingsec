@@ -19,7 +19,6 @@ sections:
   - infobar:
       title: 2026 CCA Sec1 First Reporting
       id: infobar
-      description: Infobar description
       button: Click HERE
       url: /2026-yyss-cca-sec1-first-reporting/
 ---
