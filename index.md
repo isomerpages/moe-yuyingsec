@@ -20,5 +20,5 @@ sections:
       title: 2026 CCA Sec1 First Reporting
       id: infobar
       button: Click HERE
-      url: /2026-yyss-cca-sec1-first-reporting/
+      url: https://www.yuyingsec.moe.edu.sg/2026-yyss-cca-sec1-first-reporting/
 ---
