@@ -16,4 +16,9 @@ sections:
       title: ANNOUNCEMENTS
       id: resources
       button: View All ANNOUNCEMENTS
+  - infobar:
+      title: 2026 CCA Sec1 First Reporting
+      id: infobar
+      button: Click HERE
+      url: https://www.yuyingsec.moe.edu.sg/2026-yyss-cca-sec1-first-reporting/
 ---

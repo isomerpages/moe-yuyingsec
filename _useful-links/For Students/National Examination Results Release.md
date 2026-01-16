@@ -1,5 +1,5 @@
 ---
-title: "'National Examination Results Release'"
+title: National Examination Results Release
 permalink: /national-examination-results-release/
 variant: tiptap
 description: ""
