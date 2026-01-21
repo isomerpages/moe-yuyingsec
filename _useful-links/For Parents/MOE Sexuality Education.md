@@ -60,9 +60,7 @@ b.&nbsp;&nbsp;&nbsp; Character and Citizenship Education (CCE)
 9.&nbsp;&nbsp;&nbsp; Training and Education Division instead of HPB. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions to protect themselves from sexually transmitted infectious diseases. 9. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages. **At YUYING SECONDARY SCHOOL, the eTeens programme will be implemented as follows in 2026:**
 
 
-
-![eTeens Programme](/images/eTeens_Programme.jpg)
-
+![eTeens_Programme](/images/eTeens_Programme.jpg)
 
 
 
@@ -75,4 +73,3 @@ b.&nbsp;&nbsp;&nbsp; Character and Citizenship Education (CCE)
 12.&nbsp;&nbsp;&nbsp;    Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](/files/Pdf/eTeens_Opt_Out_Form.pdf). The completed form is to be submitted by 26/01/2026.
 
 13.&nbsp;&nbsp;&nbsp;    Parents can contact the school at **yuying_ss@moe.edu.sg** or call **62827968** for discussion or to seek clarification about the school’s Sexuality Education programme.
-
