@@ -52,30 +52,16 @@ third_nav_title: For Students
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 1 WA2 2026</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 2 WA2 2026</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 3 WA2 2026</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 4 &amp; 5 WA2 2026</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sec 1 WA3 2026</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 2 WA3 2026</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 3 WA3 2026</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 4 &amp; 5 WA3 2026</p>
+<p></p>
 </td>
 </tr>
 </tbody>
