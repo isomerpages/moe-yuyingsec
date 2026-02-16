@@ -328,13 +328,3 @@ school choices.</p>
 </tbody>
 </table>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/lE3qU1VAnN8"></iframe>
-</div>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/jWJJEUtyXe8"></iframe>
-</div>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1mSEFC2m48k"></iframe>
-</div>
-<p></p>
