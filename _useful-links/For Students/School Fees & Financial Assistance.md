@@ -125,7 +125,7 @@ available only on Mondays and Wednesdays (10am to 3pm)</p>
 <h3>Financial Assistance</h3>
 <p>MOE-FAS 2026 application is now open. You can apply&nbsp;<strong><a href="https://go.gov.sg/moe-efasggas" rel="noopener noreferrer nofollow" target="_blank">online</a></strong>.</p>
 <p>Please refer to this attachment for the step-by-step guide on how to redeem
-FAS Transitlink Evouchers.&nbsp; <a href="https://www.moe.gov.sg/-/media/images/news/press/meal_subsidies_redemption_guide.pdf?la=en&amp;hash=5D7DADF07A43E4DBBF2FF0AAF231B7EADBECDD94" rel="noopener noreferrer nofollow" target="_blank">TransitLink_Evoucher_Redemption_Process.pdf</a>
+FAS Transitlink Evouchers.&nbsp; <a href="/files/Booklist/TransitLink_Evoucher_Redemption_Process.pdf" rel="noopener nofollow" target="_blank">Transitlink E-Voucher Redemption Guide</a>
 </p>
 <p>You may refer here to the <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">MOE FAS website </a>for
 more information</p>
