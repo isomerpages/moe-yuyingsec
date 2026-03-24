@@ -9,7 +9,7 @@ variant: tiptap
 ---
 <h3>Dear 4NT students (Class of 2025),</h3>
 <h3>Your School Graduation Certificate (SGC) is now ready for collection at the Yuying Secondary School General Office.</h3>
-<h3>Date: Starting from 24 March 2026 </h3>
+<h3>Date: Starting from 24 March 2026</h3>
 <h3>Time: 2:00 PM to 5:00 PM</h3>
 <h3>Location: Yuying Secondary School General Office</h3>
 <h3>Please bring along your Student ID or NRIC for verification purposes.</h3>
