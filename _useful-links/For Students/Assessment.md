@@ -52,16 +52,20 @@ third_nav_title: For Students
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Pdf/Weighted Assessment/Sec_1_WA2_2026.pdf" rel="noopener nofollow" target="_blank">Sec 1 WA2 2026</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Pdf/Weighted Assessment/Sec_2_WA2_2026.pdf" rel="noopener nofollow" target="_blank">Sec 2 WA2 2026</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Pdf/Weighted Assessment/Sec_3_WA2_2026.pdf" rel="noopener nofollow" target="_blank">Sec 3 WA3 2026</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Pdf/Weighted Assessment/Sec_4_and_5_WA2_2026.pdf" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5 WA2 2026</a>
+</p>
 </td>
 </tr>
 </tbody>
