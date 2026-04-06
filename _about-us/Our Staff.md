@@ -99,6 +99,7 @@ Our Staff
 | 2 Empathy        | Ms Melanie Sim            | sim_yin_hui@moe.edu.sg |
 |                         | Ms Sophie Anastassia    | sophie_anastassia_m_j@moe.edu.sg   |
 |                         | Ms Kiw Hui Xin               | kiw_hui_xin@moe.edu.sg  |
+|                         | Mr Yeo Wei Jiang           | yeo_wei_jiang@moe.edu.sg  |
 | 2 Fortitude     | Mr Desmond Pok            | pok_kah_hui_desmond@moe.edu.sg   |
 |                         | Mdm Wang Hsiao Yu     | wang_hsiao_yu@moe.edu.sg   |
 |                         | Mr Ong Teck Yew          | ong_teck_yew@moe.edu.sg   |
@@ -117,8 +118,9 @@ Our Staff
 | --------           | --------                         | --------                                  |
 | 3 Gratitude     |  Mdm De Chunyan       | de_chunyan@moe.edu.sg    |
 |                         | Mdm See Soo Shin       | see_soo_shin@moe.edu.sg     |
-| 3 Responsibility  |  Mr Edmund Teo           | teo_huai_wei_edmund@moe.edu.sg |
+| 3 Responsibility  |  Mr Edmund Teo            | teo_huai_wei_edmund@moe.edu.sg |
 |                              | Ms Lea Wong                | lea_wong_lay_yi@moe.edu.sg     |
+|                              | Mr Alan Gey                  | gey_eng_kiat_alan@moe.edu.sg     |
 | 3 Adaptability     |  Mr Ong Beng Keong    | ong_beng_keong@moe.edu.sg   |
 |                             | Mdm Tan Lin                  | tan_lin@moe.edu.sg    |
 | 3 Courage           | Mr Seetoh Kok Leong   | seetoh_kok_leong@moe.edu.sg  |
