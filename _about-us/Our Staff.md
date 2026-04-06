@@ -63,8 +63,10 @@ Our Staff
 | 1 Responsibility | Mdm Nur Fazelinda   | Nur_Fazelinda_Mohd_Noor@moe.edu.sg|
 |                         | Ms Hope Sng           | sng_ee_hui_hope@moe.edu.sg   | 
 |                         | Mr David Ngo           | ngo_wee_heng_david_a@moe.edu.sg  |
+|                         | Ms Ainsley                | ainsley_isabelle_limurquhart@moe.edu.sg  |
 | 1 Adaptability | Mr Vincent Lew        | lew_wei_sern_vincent@moe.edu.sg   |
 |                         |Ms Crystal Ling         | crystal_ling_yuet_ping@moe.edu.sg     |
+|                         |Mr Warren Ong          | ong_kai_le_warren@moe.edu.sg    |
 | 1 Courage       | Mr Linus Chan          | chan_lin_siong_linus@moe.edu.sg   |
 |                         | Ms Xu Cuixiao          | xu_cuixiao@moe.edu.sg   |
 |                         | Ms Carolyn Hong      | hong_keyun@moe.edu.sg | 
