@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h3>Class of 2025 4E5N School Graduation Certificate (SGC) for Class of 2025 is now ready for collection.</h3>
+<h3>4E5N School Graduation Certificate (SGC) for Class of 2025 is now ready for collection.</h3>
 <p></p>
 <h3>Date: Starting from 13 April 2026</h3>
 <h3>Time: 2:00 PM to 5:00 PM</h3>
