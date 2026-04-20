@@ -6,26 +6,31 @@ variant: tiptap
 ---
 <h1>Direct School Admission Exercise for 2027</h1>
 <h4><strong>Join Yuying: Where Future Leaders Soar!</strong></h4>
-<p>At Yuying, we inspire.&nbsp;</p>
-<p>Our students, the Eagles, are nurtured to be Enterprising, Adaptable,
-Gracious, and Leaders of the Future through a transformative learning experience
-that blends deep learning, well-being, and resilience.</p>
+<p>At Yuying, we inspire.&nbsp;Our students, the Eagles, are nurtured to
+be Enterprising, Adaptable, Gracious, and Leaders of the Future through
+a transformative learning experience that blends deep learning, well-being,
+and resilience.</p>
 <h3>Why Choose Yuying?</h3>
 <ul>
 <li>
-<p><strong>Signature "Yuying Changemakers" Programme</strong>
-<br>Unlock your potential with our talent development initiatives, designed
+<p><strong>Signature "Yuying Changemakers" Programme                                                                                              </strong>
+</p>
+<p>Unlock your potential with our talent development initiatives, designed
 to cultivate self-directed leaders and skilful practitioners in your field
-of passion and strength.</p>
+of passion and strength</p>
+<p></p>
 </li>
 <li>
 <p><strong>Holistic Growth</strong>
 <br>We foster curiosity, empathy, and resilience to empower students to thrive
 in an ever-changing world.</p>
+<p></p>
 </li>
 <li>
-<p><strong>Strong Parent-School Partnership</strong>Together, we build a
-foundation for lifelong success for our Yuying Changemakers - you.</p>
+<p><strong>Strong Parent-School Partnership</strong>
+</p>
+<p>Together, we build a foundation for lifelong success for our Yuying Changemakers
+- you.</p>
 </li>
 </ul>
 <h3>Calling All Visionary Students!</h3>
