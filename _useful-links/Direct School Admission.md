@@ -4,7 +4,7 @@ permalink: /direct-school-admission-exercise-for-2026/
 description: DSA
 variant: tiptap
 ---
-<h1>Direct School Admission Exercise for 2026</h1>
+<h1>Direct School Admission Exercise for 2027</h1>
 <h4><strong>Join Yuying: Where Future Leaders Soar!</strong></h4>
 <p>At Yuying, we inspire.&nbsp;</p>
 <p>Our students, the Eagles, are nurtured to be <strong>Enterprising, Adaptable, Gracious, and Leaders of the Future</strong> through
