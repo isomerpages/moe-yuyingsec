@@ -91,7 +91,7 @@ Our Staff
 |                            | Mr Darren Kung          | kung_kai_wen@moe.edu.sg     |
 | 2 Responsibility |  Mdm Tan Sook Hoon | tan_sook_hoon@moe.edu.sg  |
 |                            | Mr Lee Mun Tat          | lee_mun_tat@moe.edu.sg     |
-|                            | Ms Hannah Tan           | hannah_tan_s_ping@moe.edu.sg |
+|                            | Ms Hannah Tan           | hannah_tan_si_ping@moe.edu.sg |
 | 2 Adaptability    | Mdm Risliana              | risliana_mohd_idris_moey@moe.edu.sg |
 |                            | Mr Koh Chee Keong   | koh_chee_keong@moe.edu.sg     |
 | 2 Courage         | Mr Irsyaad Hasif          | irsyaad_hasif_ramle@moe.edu.sg   |
