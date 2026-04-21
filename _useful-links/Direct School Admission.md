@@ -4,52 +4,60 @@ permalink: /direct-school-admission-exercise-for-2026/
 description: DSA
 variant: tiptap
 ---
-<h1>Direct School Admission Exercise for 2026</h1>
+<h1>Direct School Admission Exercise for 2027</h1>
 <h4><strong>Join Yuying: Where Future Leaders Soar!</strong></h4>
-<p>At Yuying, we inspire.&nbsp;</p>
-<p>Our students, the Eagles, are nurtured to be <strong>Enterprising, Adaptable, Gracious, and Leaders of the Future</strong> through
-a transformative learning experience that blends <strong>deep learning, well-being, and resilience.</strong>
-</p>
+<p>At Yuying, we inspire.&nbsp;Our students, the Eagles, are nurtured to
+be Enterprising, Adaptable, Gracious, and Leaders of the Future through
+a transformative learning experience that blends deep learning, well-being,
+and resilience.</p>
 <h3>Why Choose Yuying?</h3>
 <ul>
 <li>
 <p><strong>Signature "Yuying Changemakers" Programme</strong>
-<br>Unlock your potential with our talent development initiatives, designed
+</p>
+<p>Unlock your potential with our talent development initiatives, designed
 to cultivate self-directed leaders and skilful practitioners in your field
-of passion and strength.</p>
+of passion and strength</p>
+<p></p>
 </li>
 <li>
 <p><strong>Holistic Growth</strong>
-<br>We foster curiosity, empathy, and resilience to empower students to thrive
+</p>
+<p>We foster curiosity, empathy, and resilience to empower students to thrive
 in an ever-changing world.</p>
+<p></p>
 </li>
 <li>
-<p><strong>Strong Parent-School Partnership</strong>Together, we build a
-foundation for lifelong success for our Yuying Changemakers - you.</p>
+<p><strong>Strong Parent-School Partnership</strong>
+</p>
+<p>Together, we build a foundation for lifelong success for our Yuying Changemakers
+- you.</p>
 </li>
 </ul>
 <h3>Calling All Visionary Students!</h3>
-<p>Seize the opportunity to join Yuying through the <strong>Direct Schools Admission (DSA)</strong> exercise.
-Stand out as a <strong>Changemaker</strong> and embark on a journey where
+<p>Seize the opportunity to join Yuying through the Direct Schools Admission
+(DSA) exercise. Stand out as a Changemaker and embark on a journey where
 ambition meets purpose.</p>
+<p></p>
 <p><strong>Your Future Starts Here—Apply Now!</strong>
 </p>
 <p>(Successful DSA applicants will be enrolled in our prestigious "Yuying
 Changemakers" programme.)</p>
 <p>#<strong>SoarWithYuying</strong>
 </p>
-<p>Let’s shape the leaders of tomorrow — <strong>together</strong>.</p>
+<p>Let’s shape the leaders of tomorrow together.</p>
 <p>We welcome all current Primary Six students (or equivalent) to apply for
-2026 admission to our school as <strong>Yuying Changemakers</strong> through
-the DSA-Sec exercise. We offer Singaporeans and foreign students who fulfil
-the minimum criteria for secondary school admission, have specific talents,
-and meet one or more of the following criteria:</p>
+2027 admission to our school as <strong>Yuying Changemakers</strong> through
+the DSA-Sec exercise via our DSA CCAs/Programme(s):</p>
 <p>Sports and Games - Volleyball (Girls)</p>
 <p>Sports and Games - Wushu (Boys and Girls)</p>
 <p>Performing Arts - Concert Band (Boys and Girls)</p>
 <p>Community Youth Leadership -&nbsp; &nbsp; &nbsp; Passionate leaders (Boys
 and Girls)</p>
-<p>Admission Criteria for DSA Categories</p>
+<p></p>
+<p></p>
+<p><strong>Admission Criteria for DSA Categories</strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -133,7 +141,7 @@ or</p>
 or&nbsp;</p>
 </li>
 <li>
-<p>be passionate in serving</p>
+<p>be passionate in serving the school and the larger community.</p>
 </li>
 </ul>
 </td>
@@ -192,44 +200,46 @@ this timing is a system cut-off)</p>
 <p><strong>Application</strong>&nbsp;</p>
 <p>Applicants can apply for DSA-Sec through the centralised online MOE-Sec
 Portal @ <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/dsa-sec</u></a>.
-The application is free-of-charge.</p>
+Only one parent’s Singpass is required.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>25 Aug - 4 Sep</strong>
+<p><strong>17 Aug - 28 Aug</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Selection</strong>
 </p>
-<p>Applicants will receive notification from the school by 18 Aug 2025, if
-your child has been shortlisted to undergo Direct School Admission (DSA)
-selection.</p>
+<p>Applicants will receive notification from the school between 17 and 28
+Aug if your child has been shortlisted under the Direct School Admission
+(DSA) selection.</p>
+<p></p>
 <p>All applicants will be informed of the outcome via an email or letter
 from the school (stating Confirmed Offer, Wait List or Unsuccessful).</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>27 Oct, 9 am to 31 Oct, 3 pm</strong>
+<p><strong>19 Oct, 9 am to 23 Oct, 4.30 pm</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>School Preference Submission</strong>
 </p>
 <p>Students who receive at least one DSA-Sec offer (including from SOTA)
-will receive email and SMS notification via Postman.gov.sg on the School
-Preference Submission around mid-Oct. Both parents are required to log
-in to the DSA-Sec Portal using their Singpass to submit up to three school
-preferences. If parent(s) are unable to submit online, they can approach
-their child’s primary school for assistance to submit the school preferences
-on their behalf. DSA-Sec offers that are not taken up will be considered
-as lapsed at the end of the School Preference Submission period.</p>
+will receive SMS and email from <a href="http://Postman.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Postman.gov.sg</a> in mid-Oct.</p>
+<p></p>
+<p><strong>[New] From 2026</strong>, only one parent is required to log in
+to the DSA-Sec Portal to submit school preferences. If parents are unable
+to submit online, they can approach primary school for assistance.</p>
+<p></p>
 <p>Some students may receive offers from DSA-Sec schools and SSP. Students
 who wish to accept the SSP offer should not submit their DSA-Sec school
 preferences. If they do so, their earlier SSP offer will be voided. Students
 who wish to accept the SSP offer will need to take part in the S1 Posting.</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -241,15 +251,19 @@ who wish to accept the SSP offer will need to take part in the S1 Posting.</p>
 <p><strong>DSA Result Release</strong>
 </p>
 <p>Students studying in MOE mainstream primary schools will receive their
-DSA-Sec results together with their PSLE results by end-Nov. Students who
-are not studying in MOE mainstream primary schools will receive their DSA-Sec
-results via email.</p>
+DSA-Sec results together with their PSLE results by the end of November.
+Students who are not studying in MOE mainstream primary schools will receive
+their DSA-Sec results from PPSB via email. Secondary schools will be able
+to download the list of successful DSA-Sec students allocated to them using
+the Placement System for Secondary Schools (PSSS).</p>
+<p></p>
 <p><strong>Successful DSA-Sec Students</strong>. Students who took PSLE and
 are successful in the DSA-Sec are NOT allowed to participate in the S1
 Posting and NOT allowed to transfer to another school after the release
 of the PSLE results. However, if they are eligible for third language and/or
-Posting Group options8, they may enter these options during the School
-Choice Submission period via the S1 Posting Portal.</p>
+Posting Group options, they may enter these options during the School Choice
+Submission period via the S1 Posting Portal.</p>
+<p></p>
 <p><strong>Unsuccessful DSA-Sec Students</strong>. Students who are unsuccessful
 in the DSA-Sec will be notified to participate in the S1 Posting to submit
 school choices.</p>
@@ -291,10 +305,6 @@ school choices.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Direct to DSA-Sec Portal (Mainstream Students)</p>
-<p>*go live on 7 May 2025, 11am</p>
-<p>
-<br>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>https://go.gov.sg/apply-dsa-sec</p>
@@ -303,7 +313,6 @@ school choices.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Direct to DSA-Sec Portal (Non-Mainstream Students)</p>
-<p>*go live on 7 May 2025, 11am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>https://go.gov.sg/apply-dsa-sec-nms</p>
