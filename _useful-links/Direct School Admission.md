@@ -13,7 +13,7 @@ and resilience.</p>
 <h3>Why Choose Yuying?</h3>
 <ul>
 <li>
-<p><strong>Signature "Yuying Changemakers" Programme                                                                                              </strong>
+<p><strong>Signature "Yuying Changemakers" Programme</strong>
 </p>
 <p>Unlock your potential with our talent development initiatives, designed
 to cultivate self-directed leaders and skilful practitioners in your field
@@ -22,7 +22,8 @@ of passion and strength</p>
 </li>
 <li>
 <p><strong>Holistic Growth</strong>
-<br>We foster curiosity, empathy, and resilience to empower students to thrive
+</p>
+<p>We foster curiosity, empathy, and resilience to empower students to thrive
 in an ever-changing world.</p>
 <p></p>
 </li>
