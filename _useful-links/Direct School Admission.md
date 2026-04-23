@@ -229,7 +229,7 @@ from the school (stating Confirmed Offer, Wait List or Unsuccessful).</p>
 <p><strong>School Preference Submission</strong>
 </p>
 <p>Students who receive at least one DSA-Sec offer (including from SOTA)
-will receive SMS in mid-Oct.</p>
+will receive SMS and email in mid-Oct.</p>
 <p></p>
 <p><strong>[New] From 2026</strong>, only one parent is required to log in
 to the DSA-Sec Portal to submit school preferences. If parents are unable
