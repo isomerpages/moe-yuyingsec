@@ -193,7 +193,7 @@ an offer.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>7 May, 11 am to 3 Jun, 3 pm </strong>(Please be reminded that
+<p><strong>6 May to 2 Jun (by 4.30 pm) </strong>(Please be reminded that
 this timing is a system cut-off)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -253,9 +253,9 @@ who wish to accept the SSP offer will need to take part in the S1 Posting.</p>
 <p>Students studying in MOE mainstream primary schools will receive their
 DSA-Sec results together with their PSLE results by the end of November.
 Students who are not studying in MOE mainstream primary schools will receive
-their DSA-Sec results from PPSB via email. Secondary schools will be able
-to download the list of successful DSA-Sec students allocated to them using
-the Placement System for Secondary Schools (PSSS).</p>
+their DSA-Sec results via email. Secondary schools will be able to download
+the list of successful DSA-Sec students allocated to them using the Placement
+System for Secondary Schools (PSSS).</p>
 <p></p>
 <p><strong>Successful DSA-Sec Students</strong>. Students who took PSLE and
 are successful in the DSA-Sec are NOT allowed to participate in the S1
