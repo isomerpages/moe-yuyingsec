@@ -69,4 +69,4 @@ Please note that the list of documents above is not exhaustive. Other documents 
   
 
 For more details on the GPA Plan, please refer to:
-[Student GPA Insurance Fact Sheet](/files/Product_Fact_Sheet_Year_2024.pdf)
+[NTUC GPA Insurance Fact Sheet](/files/Product_Fact_Sheet__Year_2026_.pdf)
