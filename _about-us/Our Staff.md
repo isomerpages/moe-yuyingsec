@@ -23,7 +23,7 @@ Our Staff
 | Head of Department (English Language & Literature) | Ms Tay Kaixin            |
 | Head of Department (Humanities)                               | Ms Liu Ya-Ling           |
 | Head of Department (Information & Communication Technology)   | Mr Yeo Wei Ming          |
-| Head of Department (Mathematics)                              | Mrs Yim Meng Choo          |
+| Head of Department (Mathematics)                              | Mr Tan Yee Kee          |
 | Head of Department (Mother Tongue Languages)                  | Mdm Yu Ya Ting           |
 | Head of Department (Physical Education & CCA)                 | Mr Lawrence Lim          |
 | Head of Department (Science)                                  | Mr Eric Chew             |
@@ -51,6 +51,7 @@ Our Staff
 | Administration Manager 1                                       | Mr Jason Ong             |
 | Administration Manager 2                                      | Mdm Vernetta Chua             |
 | Operations Manager (Facilities)                                         | Mr Michael Sim           |
+| School Digital Lead                                        | Mr Victor Lim           |
 
 
 ### **Secondary 1
@@ -59,9 +60,7 @@ Our Staff
 | --------           | --------                        | --------                                   |
 | 1 Gratitude     |  Ms Ummu Rabbisyfina |ummu_rabbisyfina_abdul_hamid@moe.edu.sg    |
 |                         | Mr Goh Ser Meng    | goh_ser_meng@moe.edu.sg     |
-|                         | Mr Teo Chek Meng  | teo_chek_meng_a@moe.edu.sg     |
 | 1 Responsibility | Mdm Nur Fazelinda   | Nur_Fazelinda_Mohd_Noor@moe.edu.sg|
-|                         | Ms Hope Sng           | sng_ee_hui_hope@moe.edu.sg   | 
 |                         | Mr David Ngo           | ngo_wee_heng_david_a@moe.edu.sg  |
 |                         | Ms Ainsley                | ainsley_isabelle_limurquhart@moe.edu.sg  |
 | 1 Adaptability | Mr Vincent Lew        | lew_wei_sern_vincent@moe.edu.sg   |
@@ -74,7 +73,6 @@ Our Staff
 |                         | Mrs Cindy Chan        | chua_ze_jun@moe.edu.sg   |
 | 1 Fortitude     | Ms Charmaine Loh    | loh_ying_shan_charmaine@moe.edu.sg   |
 |                        | Mr Fauzi                     | mohamed_fauzi_buang@moe.edu.sg   |
-|                        | Ms Ambika Nair         | ambika_nair@moe.edu.sg   |
 | 1 Unity            | Mdm Tan Soon Lee    | tan_soon_lee@moe.edu.sg   |
 |                         | Mr Kevin Yap    | yap_shao_kuan_kevin@moe.edu.sg   |
 | 1 Leadership   | Mr Freddy Khoo    | khoo_hong_shan_freddy@moe.edu.sg  |
@@ -107,6 +105,7 @@ Our Staff
 |                         | Ms Charmain Tan          | charmain_tan_see_lai@moe.edu.sg  |
 | 2 Leadership  | Ms Wong Hiew Min       | wong_hiew_min@moe.edu.sg |
 |                         | Ms Rabi’atul Adawiyah | rabiatul_adawiyah_abd_wahid@moe.edu.sg  |
+|                         | Ms Kiw Huixin | kiw_hui_xin@moe.edu.sg  |
 | 2 Synergy       | Mr Kwok Zhen Yuan     | kwok_zhen_yuan@moe.edu.sg  | 
 |                         | Mdm Nor Jehan Raseede | nor_jehan_raseede@moe.edu.sg  |
 | Assistant Year Head | Ms Anu Priya     |   anu_priya_nair_appukuttan@moe.edu.sg |   
@@ -134,6 +133,7 @@ Our Staff
 |                             | Mr Alvin Peh                 | peh_chin_chen_alvin@moe.edu.sg   |
 | 3 Leadership      | Mdm Seah Mei Ping     | seah_mei_ping@moe.edu.sg   |
 |                             | Mr Danny Louis            | danny_louis@moe.edu.sg  |
+|                             | Ms Gena Yang Jie Ting            | gena_yang_jie_ting@moe.edu.sg  |
 | Assistant Year Head   | Ms Marsha Ho     | ho_jia_yi_marsha@moe.edu.sg         |        
 
 
@@ -144,13 +144,13 @@ Our Staff
 | --------                 | --------                         | --------                                   |
 | 4 Gratitude           |  Mr Gary Lim                 | lim_jian_ming_gary@moe.edu.sg    |
 |                               |  Mr Lee Hock Joo         | lee_hock_joo@moe.edu.sg   |
+|                               |  Mdm Absa Ummal       | absa_ummal_md_ali@moe.edu.sg   |
 | 4 Responsibility   |  Mr Leong Kah Hoong  | leong_kah_hoong@moe.edu.sg |
 |                               | Mdm Gao Xia                | gao_xia@moe.edu.sg     |
 | 4 Adaptability      |  Mr Tan Yurn Long        | tan_yurn_long@moe.edu.sg   |
 |                              | Mr Jameson Kang         | kang_siak_chuan_jameson@moe.edu.sg |
-|                              | Mrs Sally Tang             | tang_guek_kee_sally@moe.edu.sg    |
-| 4 Courage     | Mr Ahmadsallehin Zulkiflee   | ahmadsallehin_zulkiflee@moe.edu.sg   |
-|                         | Ms Lai Ai Fah    | lai_ai_fah@moe.edu.sg   |
+|                              | Mrs Sally Tang              | tang_guek_kee_sally@moe.edu.sg    |
+| 4 Courage           | Ms Lai Ai Fah                 | lai_ai_fah@moe.edu.sg   |
 |                         | Miss Nur Syahirah    | nur_syahirah_mohamed_salim@moe.edu.sg   |
 | 4 Empathy     | Ms Jasmine Koh    | koh_kai_min_jasmine@moe.edu.sg  |
 |                        | Mdm Lathamagesh   | lathamagesh_shatiannatham@moe.edu.sg    |
