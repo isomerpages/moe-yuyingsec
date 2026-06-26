@@ -10,14 +10,13 @@ variant: markdown
 
 ##### **Secondary 1**
 
-
 [Class 1A](/files/Timetable%202026/1A.pdf)
 
 [Class 1C](/files/Timetable%202026/1C.pdf)
 
 [Class 1E](/files/Timetable%202026/1E.pdf)
 
-[Class 1F](/files/Timetable%202026/1F.pdf)
+
 
 [Class 1G](/files/Timetable%202026/1G.pdf)
 
@@ -26,7 +25,6 @@ variant: markdown
 [Class 1R](/files/Timetable%202026/1R.pdf)
 
 [Class 1U](/files/Timetable%202026/1U.pdf)
-
 
 ##### **Secondary 2**
 
