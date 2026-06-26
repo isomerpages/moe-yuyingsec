@@ -71,7 +71,7 @@ third_nav_title: For Students
 </tbody>
 </table>
 <p></p>
-<h4><strong>Sec 4/5 Preliminary</strong></h4>
+<h4><strong>Sec 4/5 Preliminary Examiniation</strong></h4>
 <p></p>
 <p><a href="/files/Pdf/Weighted Assessment/N_Level_Preliminary_Examinations_Timetable_2026.pdf" rel="noopener nofollow" target="_blank">N Level Preliminary Examinations Timetable 2026</a>
 </p>
