@@ -16,7 +16,7 @@ variant: markdown
 
 [Class 1E](/files/Timetable%202026/1E.pdf)
 
-
+[Class 1F](/files/Timetable%202026/1F.pdf)
 
 [Class 1G](/files/Timetable%202026/1G.pdf)
 
