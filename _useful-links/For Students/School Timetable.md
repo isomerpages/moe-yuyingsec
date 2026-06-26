@@ -5,7 +5,7 @@ description: ""
 third_nav_title: For Students
 variant: markdown
 ---
-2026 Timetable 
+2026 Timetable  (Semester 2)
 ===================
 
 ##### **Secondary 1**
@@ -45,6 +45,8 @@ variant: markdown
 [Class 2S](/files/Timetable%202026/2S.pdf)
 
 [Class 2U](/files/Timetable%202026/2U.pdf)
+
+
 
 
 ##### **Secondary 3**
