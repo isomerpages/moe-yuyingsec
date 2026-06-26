@@ -96,16 +96,16 @@ Our Staff
 |                           | Ms Melissa Leow Lifang    |melissa_leow_lifang@moe.edu.sg   |
 | 2 Empathy        | Ms Melanie Sim            | sim_yin_hui@moe.edu.sg |
 |                         | Ms Sophie Anastassia    | sophie_anastassia_m_j@moe.edu.sg   |
-|                         | Ms Kiw Hui Xin               | kiw_hui_xin@moe.edu.sg  |
 |                         | Mr Yeo Wei Jiang           | yeo_wei_jiang@moe.edu.sg  |
 | 2 Fortitude     | Mr Desmond Pok            | pok_kah_hui_desmond@moe.edu.sg   |
 |                         | Mdm Wang Hsiao Yu     | wang_hsiao_yu@moe.edu.sg   |
 |                         | Mr Ong Teck Yew          | ong_teck_yew@moe.edu.sg   |
+|                         | Ms Lim Jia Yi          | lim_jia_yi_ac@schools.gov.sg   |
 | 2 Unity            | Mr Aaron Chan              | 	chan_jun_xian_aaron@moe.edu.sg   |
 |                         | Ms Charmain Tan          | charmain_tan_see_lai@moe.edu.sg  |
 | 2 Leadership  | Ms Wong Hiew Min       | wong_hiew_min@moe.edu.sg |
 |                         | Ms Rabi’atul Adawiyah | rabiatul_adawiyah_abd_wahid@moe.edu.sg  |
-|                         | Ms Kiw Huixin | kiw_hui_xin@moe.edu.sg  |
+|                         | Ms Kiw Hui Xin               | kiw_hui_xin@moe.edu.sg  |
 | 2 Synergy       | Mr Kwok Zhen Yuan     | kwok_zhen_yuan@moe.edu.sg  | 
 |                         | Mdm Nor Jehan Raseede | nor_jehan_raseede@moe.edu.sg  |
 | Assistant Year Head | Ms Anu Priya     |   anu_priya_nair_appukuttan@moe.edu.sg |   
@@ -122,6 +122,7 @@ Our Staff
 |                              | Mr Alan Gey                  | gey_eng_kiat_alan@moe.edu.sg     |
 | 3 Adaptability     |  Mr Ong Beng Keong    | ong_beng_keong@moe.edu.sg   |
 |                             | Mdm Tan Lin                  | tan_lin@moe.edu.sg    |
+|                             | Mr Issac Koh                 | koh_shiwei_isaac@moe.edu.sg    |
 | 3 Courage           | Mr Seetoh Kok Leong   | seetoh_kok_leong@moe.edu.sg  |
 |                             | Ms Goh Xin Fang           | goh_xin_fang@moe.edu.sg   |
 | 3 Empathy          | Mr Tai Kay Seng            | tai_kay_seng@moe.edu.sg  |
@@ -148,8 +149,8 @@ Our Staff
 | 4 Responsibility   |  Mr Leong Kah Hoong  | leong_kah_hoong@moe.edu.sg |
 |                               | Mdm Gao Xia                | gao_xia@moe.edu.sg     |
 | 4 Adaptability      |  Mr Tan Yurn Long        | tan_yurn_long@moe.edu.sg   |
-|                              | Mr Jameson Kang         | kang_siak_chuan_jameson@moe.edu.sg |
 |                              | Mrs Sally Tang              | tang_guek_kee_sally@moe.edu.sg    |
+|                              | Mr Jameson Kang         | kang_siak_chuan_jameson@moe.edu.sg |
 | 4 Courage           | Ms Lai Ai Fah                 | lai_ai_fah@moe.edu.sg   |
 |                         | Miss Nur Syahirah    | nur_syahirah_mohamed_salim@moe.edu.sg   |
 | 4 Empathy     | Ms Jasmine Koh    | koh_kai_min_jasmine@moe.edu.sg  |

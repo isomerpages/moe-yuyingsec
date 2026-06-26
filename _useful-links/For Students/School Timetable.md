@@ -10,7 +10,6 @@ variant: markdown
 
 ##### **Secondary 1**
 
-
 [Class 1A](/files/Timetable%202026/1A.pdf)
 
 [Class 1C](/files/Timetable%202026/1C.pdf)
@@ -27,9 +26,7 @@ variant: markdown
 
 [Class 1U](/files/Timetable%202026/1U.pdf)
 
-
 ##### **Secondary 2**
-
 
 [Class 2A](/files/Timetable%202026/2A.pdf)
 
@@ -48,7 +45,6 @@ variant: markdown
 [Class 2S](/files/Timetable%202026/2S.pdf)
 
 [Class 2U](/files/Timetable%202026/2U.pdf)
-
 
 
 ##### **Secondary 3**
@@ -71,7 +67,6 @@ variant: markdown
 [Class 3U](/files/Timetable%202026/3U.pdf)
 
 
-
 ##### **Secondary 4**
 
 
@@ -81,14 +76,13 @@ variant: markdown
 
 [Class 4E](/files/Timetable%202026/4E.pdf)
 
-[Class 4F](/files/Timetable%202026/4F.pdf)
+[Class 4F](/files/Timetable%202026/3F.pdf)
 
 [Class 4G](/files/Timetable%202026/4G.pdf)
 
 [Class 4R](/files/Timetable%202026/4R.pdf)
 
 [Class 4U](/files/Timetable%202026/4U.pdf)
-
 
 
 ##### **Secondary 5**
