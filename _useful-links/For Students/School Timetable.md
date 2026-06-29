@@ -78,7 +78,7 @@ variant: markdown
 
 [Class 4E](/files/Timetable%202026/4E.pdf)
 
-[Class 4F](/files/Timetable%202026/3F.pdf)
+[Class 4F](/files/Timetable%202026/4F.pdf)
 
 [Class 4G](/files/Timetable%202026/4G.pdf)
 
