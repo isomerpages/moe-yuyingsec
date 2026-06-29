@@ -82,7 +82,7 @@ variant: markdown
 
 [Class 4G](/files/Timetable%202026/4G.pdf)
 
-[Class 4R](/files/Timetable%202026/4R.pdf)
+[Class 4R](/files/Timetable%202026/4R_27_June.pdf)
 
 [Class 4U](/files/Timetable%202026/4U.pdf)
 
