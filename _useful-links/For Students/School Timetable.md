@@ -52,11 +52,11 @@ variant: markdown
 ##### **Secondary 3**
 
 
-[Class 3A](/files/Timetable%202026/3A.pdf)
+[Class 3A](/files/Timetable%202026/3A_regenerate.pdf)
 
-[Class 3C](/files/Timetable%202026/3C.pdf)
+[Class 3C](/files/Timetable%202026/3C_regenerate.pdf)
 
-[Class 3E](/files/Timetable%202026/3E.pdf)
+[Class 3E](/files/Timetable%202026/3E_regenerate.pdf)
 
 [Class 3F](/files/Timetable%202026/3F.pdf)
 
@@ -78,11 +78,11 @@ variant: markdown
 
 [Class 4E](/files/Timetable%202026/4E.pdf)
 
-[Class 4F](/files/Timetable%202026/3F.pdf)
+[Class 4F](/files/Timetable%202026/4F.pdf)
 
 [Class 4G](/files/Timetable%202026/4G.pdf)
 
-[Class 4R](/files/Timetable%202026/4R.pdf)
+[Class 4R](/files/Timetable%202026/4R_27_June.pdf)
 
 [Class 4U](/files/Timetable%202026/4U.pdf)
 
