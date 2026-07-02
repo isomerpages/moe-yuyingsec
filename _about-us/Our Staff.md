@@ -43,7 +43,6 @@ Our Staff
 | Senior Teacher (Character & Citizenship Education)          |   Ms Crystal Ling            |
 | Senior Teacher (Chinese Language)                             | Mdm Gao Xia              |
 | Senior Teacher (Design & Technology)                          | Mrs Cindy Chan           |
-| Senior Teacher (English Language)                             | Ms Hope Sng              |
 | Senior Teacher (Learning Needs – Educational Support)       | Mr Alvin Peh              |
 | Senior Teacher (Mathematics)                                  | Mdm Tan Lin              |
 | Senior Teacher (Physical Education)                           | Mr Lee Hock Joo          |
