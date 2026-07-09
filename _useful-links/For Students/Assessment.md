@@ -6,6 +6,8 @@ description: ""
 third_nav_title: For Students
 ---
 <h4><strong>Weighted Assessment Timetable</strong></h4>
+<p><strong><u>Term 1 </u></strong>
+</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -66,6 +68,20 @@ third_nav_title: For Students
 <td rowspan="1" colspan="1">
 <p><a href="/files/Pdf/Weighted Assessment/Sec_4_and_5_WA2_2026.pdf" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5 WA2 2026</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
