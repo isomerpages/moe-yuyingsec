@@ -61,7 +61,7 @@ third_nav_title: For Students
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Pdf/Weighted Assessment/Sec_3_WA2_2026.pdf" rel="noopener nofollow" target="_blank">Sec 3 WA3 2026</a>
+<p><a href="/files/Pdf/Weighted Assessment/Sec_3_WA2_2026.pdf" rel="noopener nofollow" target="_blank">Sec 3 WA2 2026</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
