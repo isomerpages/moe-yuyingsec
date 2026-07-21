@@ -16,10 +16,17 @@ The National Digital Literacy Programme (NDLP) for our schools and Institutes of
 
 [Parent Handbook I](/files/IP2___Parent_Handbook__I__2026.pdf)
 
-
 [Parent Handbook II](/files/IP3___Parent_Handbook__II__2026.pdf)
 
 [PDLP Student Device Information Kit 2026](/files/DR4a___Student_Device_Information_Kit_2026.pdf)
+
+[Information on DMA](/files/Information_on_DMA.pdf)
+
+[ChromeOS DMA_Parent Default Option](/files/ChromeOS_DMA_Parent_Default_Option.pdf)
+
+[ChromeOS DMA_Parent Option A](/files/ChromeOS_DMA_Parent_Option_A.pdf)
+
+[ChromeOS DMA_Parent Option B](/files/ChromeOS_DMA_Parent_Option_B.pdf)
 
 [FAQs on the Personal Learning Device](/files/PDLP2024/FAQs_on_the_Personal_Learning_Device_YYSS_.pdf)
 
