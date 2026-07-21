@@ -19,6 +19,8 @@ The National Digital Literacy Programme (NDLP) for our schools and Institutes of
 
 [Parent Handbook II](/files/IP3___Parent_Handbook__II__2026.pdf)
 
+[PDLP Student Device Information Kit 2026](/files/DR4a___Student_Device_Information_Kit_2026.pdf)
+
 [FAQs on the Personal Learning Device](/files/PDLP2024/FAQs_on_the_Personal_Learning_Device_YYSS_.pdf)
 
 
